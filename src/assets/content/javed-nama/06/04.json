@@ -17,11 +17,11 @@
               "lang": "Original"
             },
             {
-              "+content": "اگر تجھ پر اس طرح نظر پڑے کہ تو میرے روبرو اور میرا چہرہ تیرے چہرے کے سامنے ہم؛ تو میں تیرے عشق کا غم نقطہ بہ نقطہ اور مو بہ مو یعنی پوری وضاحت سے بیان کروں۔",
+              "_content": "اگر تجھ پر اس طرح نظر پڑے کہ تو میرے روبرو اور میرا چہرہ تیرے چہرے کے سامنے ہم؛ تو میں تیرے عشق کا غم نقطہ بہ نقطہ اور مو بہ مو یعنی پوری وضاحت سے بیان کروں۔",
               "lang": "Urdu"
             },
             {
-              "+content": "THE SONG OF TAHIRA\nIf ever confronting face to face my glance should alight on you I will describe to you my sorrow for you in minutest detail.",
+              "_content": "THE SONG OF TAHIRA\nIf ever confronting face to face my glance should alight on you I will describe to you my sorrow for you in minutest detail.",
               "lang": "English"
             }
           ]
@@ -30,15 +30,15 @@
           "id": "03",
           "Text": [
             {
-              "+content": "از پی دیدن رخت ہمچو صبا فتادہ ام\nخانہ بخانہ در بدر، کوچہ بکوچہ کوبکو",
+              "_content": "از پی دیدن رخت ہمچو صبا فتادہ ام\nخانہ بخانہ در بدر، کوچہ بکوچہ کوبکو",
               "lang": "Original"
             },
             {
-              "+content": "تیرا چہرہ دیکھنے کے لیے میں صبا کی مانند خانہ بخانہ ، در بدر، کوچہ بکوچہ اور گلی بگلی پھرا ہوں۔",
+              "_content": "تیرا چہرہ دیکھنے کے لیے میں صبا کی مانند خانہ بخانہ ، در بدر، کوچہ بکوچہ اور گلی بگلی پھرا ہوں۔",
               "lang": "Urdu"
             },
             {
-              "+content": "That I may behold your cheek, like the zephyr I have visited house by house, door by door, lane by lane, street by street.",
+              "_content": "That I may behold your cheek, like the zephyr I have visited house by house, door by door, lane by lane, street by street.",
               "lang": "English"
             }
           ]
@@ -47,15 +47,15 @@
           "id": "05",
           "Text": [
             {
-              "+content": "میرود از فراق تو خون دل از دو دیدہ ام\nدجلہ بہ دجلہ یم بہ یم، چشمہ بہ چشمہ جوبجو",
+              "_content": "میرود از فراق تو خون دل از دو دیدہ ام\nدجلہ بہ دجلہ یم بہ یم، چشمہ بہ چشمہ جوبجو",
               "lang": "Original"
             },
             {
-              "+content": "تیرے فراق میں میری دونوں آنکھوں سے خون دل دجلہ دجلہ، سمندر سمندر، چشمہ چشمہ اور ندی ندی بہہ رہا ہے۔",
+              "_content": "تیرے فراق میں میری دونوں آنکھوں سے خون دل دجلہ دجلہ، سمندر سمندر، چشمہ چشمہ اور ندی ندی بہہ رہا ہے۔",
               "lang": "Urdu"
             },
             {
-              "+content": "Through separation from you my heart’s blood is flowing from my eyes river by river, sea by sea, fountain by fountain, stream by stream.",
+              "_content": "Through separation from you my heart’s blood is flowing from my eyes river by river, sea by sea, fountain by fountain, stream by stream.",
               "lang": "English"
             }
           ]
@@ -64,15 +64,15 @@
           "id": "07",
           "Text": [
             {
-              "+content": "مہر ترا دل حزین بافتہ بر قماش جان\nرشتہ بہ رشتہ نخ بہ نخ، تار بہ تار پو بہ پو",
+              "_content": "مہر ترا دل حزین بافتہ بر قماش جان\nرشتہ بہ رشتہ نخ بہ نخ، تار بہ تار پو بہ پو",
               "lang": "Original"
             },
             {
-              "+content": "میرے دل حزیں نے تیری محبت کو اپنی جان کی ایک ایک رگ، ایک ایک نخ ، ایک ایک تار ، ایک ایک پور پر بن لیا ہے۔",
+              "_content": "میرے دل حزیں نے تیری محبت کو اپنی جان کی ایک ایک رگ، ایک ایک نخ ، ایک ایک تار ، ایک ایک پور پر بن لیا ہے۔",
               "lang": "Urdu"
             },
             {
-              "+content": "My sorrowful heart wove your love into the fabric of my soul thread by thread, thrum by thrum, warp by warp, woof by woof.",
+              "_content": "My sorrowful heart wove your love into the fabric of my soul thread by thread, thrum by thrum, warp by warp, woof by woof.",
               "lang": "English"
             }
           ]
@@ -81,15 +81,15 @@
           "id": "09",
           "Text": [
             {
-              "+content": "در دل خویش طاہرہ، گشت و ندید جز ترا\nصفحہ بہ صفحہ لا بہ لا پردہ بہ پردہ تو بتو\"",
+              "_content": "در دل خویش طاہرہ، گشت و ندید جز ترا\nصفحہ بہ صفحہ لا بہ لا پردہ بہ پردہ تو بتو\"",
               "lang": "Original"
             },
             {
-              "+content": "طاہرہ نے اپنے دل کے اندر نظر ڈالی، مگر دل کے صفحہ صفحہ ، ورق ورق، پردہ پردہ اور تہ در تہ تیرے سوا اور کوئی نظر نہیں آتا۔",
+              "_content": "طاہرہ نے اپنے دل کے اندر نظر ڈالی، مگر دل کے صفحہ صفحہ ، ورق ورق، پردہ پردہ اور تہ در تہ تیرے سوا اور کوئی نظر نہیں آتا۔",
               "lang": "Urdu"
             },
             {
-              "+content": "Tahira repaired to her own heart, and saw none but you page by page, fold by fold, veil by veil, curtain by curtain.",
+              "_content": "Tahira repaired to her own heart, and saw none but you page by page, fold by fold, veil by veil, curtain by curtain.",
               "lang": "English"
             }
           ]
@@ -98,15 +98,15 @@
           "id": "11",
           "Text": [
             {
-              "+content": "سوز و ساز عاشقان دردمند\nشورہای تازہ در جانم فکند",
+              "_content": "سوز و ساز عاشقان دردمند\nشورہای تازہ در جانم فکند",
               "lang": "Original"
             },
             {
-              "+content": "ان عاشقان دردمند کے سوز و ساز نے میری جان کے اندر نیا سوز برپا کر دیا۔",
+              "_content": "ان عاشقان دردمند کے سوز و ساز نے میری جان کے اندر نیا سوز برپا کر دیا۔",
               "lang": "Urdu"
             },
             {
-              "+content": "The ardour and passion of these anguished lovers cast fresh commotions into my soul;",
+              "_content": "The ardour and passion of these anguished lovers cast fresh commotions into my soul;",
               "lang": "English"
             }
           ]
@@ -115,15 +115,15 @@
           "id": "13",
           "Text": [
             {
-              "+content": "مشکلات کہنہ سر بیرون زدند\nباز بر اندیشہ ام شبخون زدند",
+              "_content": "مشکلات کہنہ سر بیرون زدند\nباز بر اندیشہ ام شبخون زدند",
               "lang": "Original"
             },
             {
-              "+content": "پرانی مشکلات نے اپنا سر باہر نکالا اور میری سوچ پر شبخون مارا۔",
+              "_content": "پرانی مشکلات نے اپنا سر باہر نکالا اور میری سوچ پر شبخون مارا۔",
               "lang": "Urdu"
             },
             {
-              "+content": "Ancient problems reared their heads and made assault upon my mind.",
+              "_content": "Ancient problems reared their heads and made assault upon my mind.",
               "lang": "English"
             }
           ]
@@ -132,15 +132,15 @@
           "id": "15",
           "Text": [
             {
-              "+content": "قلزم فکرم سراپا اضطراب\nساحلش از زور طوفانی خراب",
+              "_content": "قلزم فکرم سراپا اضطراب\nساحلش از زور طوفانی خراب",
               "lang": "Original"
             },
             {
-              "+content": "میرے فکر کا سمندر سراپا اضطراب بن گیا؛ اور طوفان کے زور سے اس کا ساحل ٹوٹ پھوٹ گیا۔",
+              "_content": "میرے فکر کا سمندر سراپا اضطراب بن گیا؛ اور طوفان کے زور سے اس کا ساحل ٹوٹ پھوٹ گیا۔",
               "lang": "Urdu"
             },
             {
-              "+content": "The ocean of my thought was wholly agitated; its shore was devastated by the might of the tempest.",
+              "_content": "The ocean of my thought was wholly agitated; its shore was devastated by the might of the tempest.",
               "lang": "English"
             }
           ]
@@ -149,15 +149,15 @@
           "id": "17",
           "Text": [
             {
-              "+content": "گفت رومی \"وقت را از کف مدہ\nایکہ میخواہی گشود ھر گرہ",
+              "_content": "گفت رومی \"وقت را از کف مدہ\nایکہ میخواہی گشود ھر گرہ",
               "lang": "Original"
             },
             {
-              "+content": "رومی نے کہا، تو جو اپنی ہر مشکل کی کشود چاہتا ہے، وقت نہ گنوا۔",
+              "_content": "رومی نے کہا، تو جو اپنی ہر مشکل کی کشود چاہتا ہے، وقت نہ گنوا۔",
               "lang": "Urdu"
             },
             {
-              "+content": "Rumi said, ‘Do not lose any time, you who desire the resolution of every knot;",
+              "_content": "Rumi said, ‘Do not lose any time, you who desire the resolution of every knot;",
               "lang": "English"
             }
           ]
@@ -166,15 +166,15 @@
           "id": "19",
           "Text": [
             {
-              "+content": "چند در افکار خود باشی اسیر\nاین قیامت را برون ریز از ضمیر\"",
+              "_content": "چند در افکار خود باشی اسیر\nاین قیامت را برون ریز از ضمیر\"",
               "lang": "Original"
             },
             {
-              "+content": "تو کب تک اپنے افکار میں اسیر رہے گا؛ اس قیمت کو اپنے ضمیر سے باہر نکال پھینک۔",
+              "_content": "تو کب تک اپنے افکار میں اسیر رہے گا؛ اس قیمت کو اپنے ضمیر سے باہر نکال پھینک۔",
               "lang": "Urdu"
             },
             {
-              "+content": "For long you have been a prisoner in your own thoughts, now pour this tumult out of your breast!’",
+              "_content": "For long you have been a prisoner in your own thoughts, now pour this tumult out of your breast!’",
               "lang": "English"
             }
           ]

@@ -43,3 +43,7 @@ export default async function Book({ params }: { params: Promise<{ book: string 
     </div>
   );
 }
+
+export function generateStaticParams() {
+  return indexItems.map((book) => ({ params: { book: book.id } }));
+}

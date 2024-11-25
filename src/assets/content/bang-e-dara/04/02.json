@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "+content": "The girls are learning English; the nation prosperity’s way has found.",
+              "_content": "The girls are learning English; the nation prosperity’s way has found.",
               "lang": "English"
             }
           ]
@@ -29,14 +29,14 @@
           "id": "03",
           "Text": [
             {
-              "+content": "روش مغربی ہے مدنظر \nوضع مشرق کو جانتے ہیں گناہ",
+              "_content": "روش مغربی ہے مدنظر \nوضع مشرق کو جانتے ہیں گناہ",
               "lang": "Original"
             },
             {
               "lang": "Urdu"
             },
             {
-              "+content": "The ways of the West are in view; Eastern ways sinful are found.",
+              "_content": "The ways of the West are in view; Eastern ways sinful are found.",
               "lang": "English"
             }
           ]
@@ -45,14 +45,14 @@
           "id": "05",
           "Text": [
             {
-              "+content": "یہ ڈراما دکھائے گا کیا سین \nپردہ اٹھنے کی منتظر ہے نگاہ",
+              "_content": "یہ ڈراما دکھائے گا کیا سین \nپردہ اٹھنے کی منتظر ہے نگاہ",
               "lang": "Original"
             },
             {
               "lang": "Urdu"
             },
             {
-              "+content": "What scenes will this drama produce? On curtain’s rising this will be found.\n(Translated by M.A.K. Khalil)",
+              "_content": "What scenes will this drama produce? On curtain’s rising this will be found.\n(Translated by M.A.K. Khalil)",
               "lang": "English"
             }
           ]

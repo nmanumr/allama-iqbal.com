@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "+content": "THE EAST\nBy strains I sing at early morn, the vest of tulip has been torn.\nBreeze has been roaming since the dark, but has not found a single park.",
+              "_content": "THE EAST\nBy strains I sing at early morn, the vest of tulip has been torn.\nBreeze has been roaming since the dark, but has not found a single park.",
               "lang": "English"
             }
           ]
@@ -29,14 +29,14 @@
           "id": "03",
           "Text": [
             {
-              "+content": "نہ مصطفی نہ رضا شاہ میں نمود اس کی \nکہ روح شرق بدن کی تلاش میں ہے ابھی",
+              "_content": "نہ مصطفی نہ رضا شاہ میں نمود اس کی \nکہ روح شرق بدن کی تلاش میں ہے ابھی",
               "lang": "Original"
             },
             {
               "lang": "Urdu"
             },
             {
-              "+content": "In Raza Shah or Mustafa Kamal, no trace of it is found at all. East's soul is seeking body sound, but such a body has not found.",
+              "_content": "In Raza Shah or Mustafa Kamal, no trace of it is found at all. East's soul is seeking body sound, but such a body has not found.",
               "lang": "English"
             }
           ]
@@ -45,14 +45,14 @@
           "id": "05",
           "Text": [
             {
-              "+content": "مری خودی بھی سزا کی ہے مستحق لیکن \nزمانہ دارو رسن کی تلاش میں ہے ابھی",
+              "_content": "مری خودی بھی سزا کی ہے مستحق لیکن \nزمانہ دارو رسن کی تلاش میں ہے ابھی",
               "lang": "Original"
             },
             {
               "lang": "Urdu"
             },
             {
-              "+content": "My Self deserves correction dire. To set it right and sound entire: The world harbours this evil hope; to hang me seeks a plank and rope.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "My Self deserves correction dire. To set it right and sound entire: The world harbours this evil hope; to hang me seeks a plank and rope.\n[Translated by Syed Akbar Ali Shah]",
               "lang": "English"
             }
           ]

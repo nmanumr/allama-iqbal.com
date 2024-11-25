@@ -17,11 +17,11 @@
               "lang": "Original"
             },
             {
-              "+content": "شپرک: چمگادڑ۔\nزاغ: کوّا۔ \nکور چشم: اندھا پن۔",
+              "_content": "شپرک: چمگادڑ۔\nزاغ: کوّا۔ \nکور چشم: اندھا پن۔",
               "lang": "Urdu"
             },
             {
-              "+content": "The crow says, ‘In your wings no charm I find.’ The bat says, ‘You have no craft, are blind.’",
+              "_content": "The crow says, ‘In your wings no charm I find.’ The bat says, ‘You have no craft, are blind.’",
               "lang": "English"
             }
           ]
@@ -30,14 +30,14 @@
           "id": "03",
           "Text": [
             {
-              "+content": "لیکن اے شہباز! یہ مرغان صحرا کے اچھوت \nہیں فضائے نیلگوں کے پیچ و خم سے بے خبر",
+              "_content": "لیکن اے شہباز! یہ مرغان صحرا کے اچھوت \nہیں فضائے نیلگوں کے پیچ و خم سے بے خبر",
               "lang": "Original"
             },
             {
               "lang": "Urdu"
             },
             {
-              "+content": "O hawk, these low-caste birds of vast expanse, of azure heaven's twists and turns haven't sense.",
+              "_content": "O hawk, these low-caste birds of vast expanse, of azure heaven's twists and turns haven't sense.",
               "lang": "English"
             }
           ]
@@ -46,14 +46,14 @@
           "id": "05",
           "Text": [
             {
-              "+content": "ان کو کیا معلوم اس طائر کے احوال و مقام \nروح ہے جس کی دم پرواز سر تا پا نظر!",
+              "_content": "ان کو کیا معلوم اس طائر کے احوال و مقام \nروح ہے جس کی دم پرواز سر تا پا نظر!",
               "lang": "Original"
             },
             {
               "lang": "Urdu"
             },
             {
-              "+content": "They can't know states and rank of hawk aright, whose soul grows sight entire at time of flight.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "They can't know states and rank of hawk aright, whose soul grows sight entire at time of flight.\n[Translated by Syed Akbar Ali Shah]",
               "lang": "English"
             }
           ]
