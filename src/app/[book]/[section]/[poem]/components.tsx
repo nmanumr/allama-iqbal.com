@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, PropsWithChildren, use, useEffect, useRef, useState } from "react";
+import { createContext, PropsWithChildren, use, useEffect, useState } from "react";
 import clsx from "clsx";
 import type PoemType from "@/assets/content/armaghan-e-hijaz/01/01.json";
 
