@@ -36,16 +36,15 @@ export function Stanza({
         const id = couplet.id;
 
         return (
-          <SizeProvider>
+          <SizeProvider key={id}>
             <div
               className={clsx(
                 "relative w-full max-w-6xl border-b border-black/10 px-4 py-2",
                 (urTrans || enTrans) && "grid-cols-5 lg:grid lg:gap-x-10",
               )}
               id={`cplt${id}`}
-              key={id}
             >
-              <div className="font-mehr-nastaliq relative col-span-2 flex flex-col justify-center ps-8">
+              <div className="relative col-span-2 flex flex-col justify-center ps-8 font-mehr-nastaliq">
                 {id && (
                   <a
                     href={`#cplt${id}`}
@@ -55,7 +54,7 @@ export function Stanza({
                   </a>
                 )}
                 {originalText?.map((verse) => (
-                  <div className="flex justify-center">
+                  <div key={verse} className="flex justify-center">
                     <Verse content={verse} />
                   </div>
                 ))}
@@ -64,12 +63,12 @@ export function Stanza({
               {(urTrans || enTrans) && (
                 <div className="col-span-3 mt-4 flex-col justify-center gap-y-0.5 text-center lg:mt-0 lg:flex">
                   {urTrans && (
-                    <div className="font-mehr-nastaliq text-center text-xl leading-[2] whitespace-pre-line" dir="rtl">
+                    <div className="whitespace-pre-line text-start font-mehr-nastaliq text-xl leading-[2]" dir="rtl">
                       {urduText}
                     </div>
                   )}
                   {enTrans && (
-                    <div className="font-mehr-nastaliq text-center text-sm whitespace-pre-line" dir="ltr">
+                    <div className="whitespace-pre-line text-start font-mehr-nastaliq text-sm" dir="ltr">
                       {englishText}
                     </div>
                   )}
@@ -102,14 +101,17 @@ function Verse({ content }: { content: string }) {
       {content
         .split(" ")
         .filter(Boolean)
-        .map((word) => (
-          <div className="inline-block px-0.5">{word}&nbsp;</div>
+        .map((word, index) => [word, index] as const)
+        .map(([word, i]) => (
+          <div key={i} className="inline-block px-0.5">
+            {word}&nbsp;
+          </div>
         ))}
     </div>
   );
 }
 
-export function SizeProvider({ children }: PropsWithChildren<{}>) {
+export function SizeProvider({ children }: PropsWithChildren<object>) {
   const [maxSize, setMaxSize] = useState<number>();
 
   return (

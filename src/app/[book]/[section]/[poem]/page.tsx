@@ -34,7 +34,7 @@ export default async function Poem({ params }: { params: Promise<{ book: string;
 
       <div className="flex flex-col items-center justify-center font-nastaliq text-2xl leading-[2.2] @container">
         {poem.Para.map((para) => (
-          <SizeProvider>
+          <SizeProvider key={para.id}>
             <Stanza urTrans={urTrans} enTrans={enTrans} para={para} />
           </SizeProvider>
         ))}
