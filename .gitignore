@@ -40,3 +40,4 @@ yarn-error.log*
 next-env.d.ts
 
 src/assets/content/**/*.xml
+src/assets/scripts

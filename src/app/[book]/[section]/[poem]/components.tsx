@@ -4,6 +4,7 @@ import { createContext, PropsWithChildren, use, useEffect, useState } from "reac
 import clsx from "clsx";
 import type PoemType from "@/assets/content/armaghan-e-hijaz/01/01.json";
 import Link from "next/link";
+import { TranslationContext } from "@/app/[book]/[section]/[poem]/TranslationSettinngs";
 
 const SizeContext = createContext<{
   setChildSize: (size: number) => void;
@@ -11,16 +12,9 @@ const SizeContext = createContext<{
   fontsLoaded: boolean;
 } | null>(null);
 
-export function Stanza({
-  para,
-  urTrans,
-  enTrans,
-}: {
-  para: (typeof PoemType)["Para"][0];
-  urTrans: boolean;
-  enTrans: boolean;
-}) {
+export function Stanza({ para }: { para: (typeof PoemType)["Para"][0] }) {
   const verses = Array.isArray(para.Verse) ? para.Verse : [para.Verse];
+  const { en, ur } = use(TranslationContext);
 
   return (
     <>
@@ -42,7 +36,7 @@ export function Stanza({
             <div
               className={clsx(
                 "relative w-full max-w-6xl border-b border-black/10 px-4 py-2 target:bg-yellow-50",
-                (urTrans || enTrans) && "grid-cols-5 lg:grid lg:gap-x-10",
+                (en || ur) && "grid-cols-5 lg:grid lg:gap-x-10",
               )}
               id={`cplt${id}`}
             >
@@ -62,14 +56,14 @@ export function Stanza({
                 ))}
               </div>
 
-              {(urTrans || enTrans) && (
+              {(en || ur) && (
                 <div className="col-span-3 mt-4 flex-col justify-center gap-y-0.5 text-center lg:mt-0 lg:flex">
-                  {urTrans && (
+                  {ur && (
                     <div className="whitespace-pre-line text-start font-mehr-nastaliq text-xl leading-[2]" dir="rtl">
                       {urduText}
                     </div>
                   )}
-                  {enTrans && (
+                  {en && (
                     <div className="whitespace-pre-line text-start font-mehr-nastaliq text-sm" dir="ltr">
                       {englishText}
                     </div>
@@ -94,7 +88,7 @@ function Verse({ content }: { content: string }) {
           sizeContext.setChildSize(el?.clientWidth);
         }
       }}
-      key={sizeContext?.fontsLoaded ? 'pending': 'loaded'}
+      key={sizeContext?.fontsLoaded ? "pending" : "loaded"}
       style={{ minWidth: sizeContext?.maxSize ? `${sizeContext?.maxSize}px` : undefined }}
       className={clsx("inline-block w-fit leading-[1.8]", sizeContext?.maxSize && "flex justify-between")}
     >
@@ -118,7 +112,7 @@ export function SizeProvider({ children }: PropsWithChildren<object>) {
   useEffect(() => {
     document.fonts.ready.then(() => {
       setFontsLoaded(true);
-    })
+    });
   }, []);
 
   return (
