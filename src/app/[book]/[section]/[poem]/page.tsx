@@ -4,6 +4,7 @@ import { Metadata } from "next";
 import { TranslationSettings, TranslationSettingsProvider } from "@/app/[book]/[section]/[poem]/TranslationSettinngs";
 import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/20/solid";
 import { findAdjacentPoems } from "@/utils/books";
+import Link from "next/link";
 
 type Props = {
   params: Promise<{ book: string; section: string; poem: string }>;
@@ -42,7 +43,7 @@ export default async function Poem({ params }: Props) {
 
         <div className="mx-auto mt-28 flex w-full max-w-6xl justify-between gap-x-10 pb-10 font-nastaliq leading-[1.8] sm:grid-cols-2">
           {next && (
-            <a
+            <Link
               href={`/${next.bookId}/${next.sectionId}/${next.id}`}
               className="items-center justify-start gap-x-4 pe-10 text-start text-xl font-semibold flex"
             >
@@ -51,10 +52,10 @@ export default async function Poem({ params }: Props) {
                 <div className="text-xs">{[next.bookName, next.sectionName].filter(Boolean).join(" > ")}</div>
                 <div>{next.name}</div>
               </div>
-            </a>
+            </Link>
           )}
           {prev ? (
-            <a
+            <Link
               href={`/${prev.bookId}/${prev.sectionId}/${prev.id}`}
               className="hidden md:flex items-center justify-end gap-x-4 ps-10 text-end text-xl"
             >
@@ -63,7 +64,7 @@ export default async function Poem({ params }: Props) {
                 <div>{prev.name}</div>
               </div>
               <ChevronLeftIcon className="relative -bottom-4 size-8" />
-            </a>
+            </Link>
           ) : (
             <span />
           )}
