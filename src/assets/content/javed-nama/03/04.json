@@ -1,0 +1,504 @@
+{
+  "id": "04",
+  "name": "شرق و غرب",
+  "+@BookID": "09",
+  "bookName": "جاوید نامہ",
+  "+@SectionID": "03",
+  "sectionName": "فلک عطارد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غربیان را زیرکی ساز حیات\nشرقیان را عشق راز کائنات",
+              "lang": "Original"
+            },
+            {
+              "+content": "اہل مغرب کے لیے دانش ساز حیات ہے؛ اہل مشرق عشق کو کائنات کا راز سمجھتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "“SA’ID HALIM PASHA”: EAST AND WEST\n\nFor Westerners intelligence is the stuff of life, for Easterners love is the mystery of all being;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "+content": "زیرکی از عشق گردد حق شناس\nکار عشق از زیرکی محکم اساس",
+              "lang": "Original"
+            },
+            {
+              "+content": "دانش عشق سے اللہ تعالے کی معرفت حاصل کرتی ہے اور عشق کے کام کی بنیاد دانش سے مستحکم ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Only through love intelligence gets to know God, love’s labours find firm grounding in intelligence;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "+content": "عشق چون با زیرکی ھمبر شود\nنقشبند عالم دیگر شود",
+              "lang": "Original"
+            },
+            {
+              "+content": "جب عشق دانش سے ہم پہلو ہوتا ہے تو وہ ایک اور جہان کا صورتگر بنتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "When love is companioned by intelligence it has the power to design another world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "+content": "خیز و نقش عالم دیگر بنہ\nعشق را با زیرکی آمیز دہ",
+              "lang": "Original"
+            },
+            {
+              "+content": "اٹھ نئے جہان کا نقش ثبت کر؛ عشق کو زیرکی کے ساتھ ملا۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Then rise and draw the design of a new world, mingle together love with intelligence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "+content": "شعلۂ افرنگیان نم خوردہ ایست\nچشم شان صاحب نظر دل مردہ ایست",
+              "lang": "Original"
+            },
+            {
+              "+content": "افرنگیوں کا شعلہ بجھنے والا ہے؛ ان کی آنکھ صاحب نظر ہے مگر دل مردہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "The flame of the Europeans is damped down, their eyes are perceptive, but their hearts are dead;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "+content": "زخمہا خوردند از شمشیر خویش \nبسمل افتادند چون نخچیر خویش",
+              "lang": "Original"
+            },
+            {
+              "+content": "وہ اپنی تلوار ہی سے زخم کھا کر اپنا ہی شکار ہو کر بسمل پڑے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "They have been sore smitten by their own swords, hunted down and slaughtered, themselves the hunters.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "+content": "سوز و مستی را مجو از تاک شان\nعصر دیگر نیست در افلاک شان",
+              "lang": "Original"
+            },
+            {
+              "+content": "فرنگیوں کے انگور سے سوز و مستی نہ ڈھونڈ؛ ان کے افلاک میں کوئی اور زمانہ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Look not for fire and intoxication in their vine; not into their heavens shall rise a new age.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "+content": "زندگی را سوز و ساز از نار تست\nعالم نو آفریدن کار تست",
+              "lang": "Original"
+            },
+            {
+              "+content": "اب تمہاری آگ سے زندگی سوز و ساز پائے گی؛ نیا عالم تخلیق کرنا تمہارا کام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "It is from your fire that the glow of life comes, and it is your task to create the new world.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "+content": "مصطفی کو از تجدد می سرود\nگفت نقش کہنہ را باید زدود",
+              "lang": "Original"
+            },
+            {
+              "+content": "مصطفے کمال جو تجدد کا راگ الاپتا ہے؛ اس نے کہا ہے کہ قدیم نقوش کو صاف کر دینا چاہیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Mustafa Kemal, who sang of a great renewal, said the old image must be cleansed and polished;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "+content": "نو نگردد کعبہ را رخت حیات\nگر ز افرنگ آیدش لات و منات",
+              "lang": "Original"
+            },
+            {
+              "+content": "اگر افرنگ سے لات و منات (غلط نظریات کے بت) لے آئیں تو اس سے کعبے کی متاع حیات نئی نہیں ہو جاتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Yet the vitality of the Kaaba cannot be made new if a new Lat and Manat from Europe enter its shrine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "+content": "ترک را آہنگ نو در چنگ نیست\nتازہ اش جز کہنۂ افرنگ نیست",
+              "lang": "Original"
+            },
+            {
+              "+content": "جدید ترکی کے ساز میں کوئی نیا آہنگ نہیں ؛ اس کا جدید افرنگ کی پرانی (چیزیں ) ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "No, the Turks have no new melody in their lute, what they call new is only the old tune of Europe;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "+content": "سینہ او را دمے دیگر نبود\nدر ضمیرش عالمے دیگر نبود",
+              "lang": "Original"
+            },
+            {
+              "+content": "مصطفے کمال کے سینہ میں نیا سانس نہ تھا ؛ نہ اس کے ضمیر کے اندر کوئی نیا جہان تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "No fresh breath has entered into their breast, no design of a new world is in their mind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "+content": "لا جرم با عالم موجود ساخت\nمثل موم از سوز این عالم گداخت",
+              "lang": "Original"
+            },
+            {
+              "+content": "چنانچہ اس نے موجودہ عالم کے ساتھ موافقت اختیار کر لی؛ اور اس کے سوز سے موم کی طرح پگھل گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Turkey perforce goes along with the existing world, melted like wax in the flame of the world we know.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "+content": "طرفگی ہا در نھاد کائنات\nنیست از تقلید، تقویم حیات",
+              "lang": "Original"
+            },
+            {
+              "+content": "کائنات کی بنیاد کے اندر نیا پن ہے؛ تقلید سے حیات کا استحکام نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Originality is at the roots of all creation, never by imitation shall life be reformed;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "+content": "زندہ دل خلاق اعصار و دہور\nجانش از تقلید گردد بے حضور",
+              "lang": "Original"
+            },
+            {
+              "+content": "قلب زندہ نئے زمانے پیدا کرتا ہے؛ اس کی روح تقلید سے مر جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "The living heart, creator of ages and epochs, that soul is little enamoured of imitation:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "+content": "چون مسلمانان اگر داری جگر\nدر ضمیر خویش و در قرآن نگر",
+              "lang": "Original"
+            },
+            {
+              "+content": "اگر تو مسلمانوں کا سا حوصلہ رکھتا تو اپنے ضمیر اور ‍ قرآن پاک پر نگاہ ڈال۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "If you possess the spirit of a true Mussulman examine your own conscience, and the Koran;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "+content": "صد جہان تازہ در آیات اوست\nعصرہا پیچیدہ در آنات اوست",
+              "lang": "Original"
+            },
+            {
+              "+content": "اس کی آیات میں کئی تازہ جہان موجود ہیں؛ اس کے زمان میں بہت سے ادوار مضمر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "A hundred new worlds he within its verses, whole centuries are involved in its moments;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "+content": "یک جہانش عصر حاضر را بس است\nگیر اگر در سینہ دل معنی رس است",
+              "lang": "Original"
+            },
+            {
+              "+content": "عصر حاضر کے لیے قرآن پاک سے لیا گیا ایک جہان کافی ہے ؛ اگر تیرے سینے میں معنی رس دل ہے تو وہ جہان لے لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "One world of it suffices for the present age – seize it, if the heart in your breast grasps truth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "+content": "بندۂ مومن ز آیات خداست\nہر جھان اندر بر او چون قباست",
+              "lang": "Original"
+            },
+            {
+              "+content": "بندہء مومن اللہ تعالے کی آیات میں سے ایک آیت ہے؛ اس کی قامت پر ہر جہان قبا کی طرح سج جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "A believing servant himself is a sign of God, every world to his breast is as a garment;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "+content": "چون کہن گردد جہانے در برش\nمی دہد قرآن جہانی دیگرش",
+              "lang": "Original"
+            },
+            {
+              "+content": "جب اس کے ایک جہان کی قبا پرانی ہو جاتی ہے تو قرآن پاک اسے نیا جہان عطا کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "And when one world grows old upon his bosom, The Koran gives him another world!",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "زندہ رود",
+      "Verse": {
+        "id": "41",
+        "Text": [
+          {
+            "+content": "زورق ما خاکیان بے ناخداست\nکس نداند عالم قرآن کجاست",
+            "lang": "Original"
+          },
+          {
+            "+content": "ہم خاکیوں کی کشتی بغیر ملاح کے ہے؛ کوئی نہیں جانتا کہ قرآن پاک کا جہان کہاں ہے۔",
+            "lang": "Urdu"
+          },
+          {
+            "+content": "Zinda-Rud\nThe barque of us terrestrials has no helmsman, no one knows where the Koran’s world lies.",
+            "lang": "English"
+          }
+        ]
+      }
+    },
+    {
+      "name": "افغانی",
+      "Verse": [
+        {
+          "id": "43",
+          "Text": [
+            {
+              "+content": "عالمے در سینۂ ما گم ہنوز\nعالمے در انتظار قم ہنوز",
+              "lang": "Original"
+            },
+            {
+              "+content": "وہ جہان ابھی ہمارے سینے میں گم ہے؛ اور لفظ قم کے انتظار میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Afghani\nIt is a world lost now in our breast, a world awaiting yet the command ‘Arise!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "+content": "عالمے بے امیتاز خون و رنگ\nشام او روشن تر از صبح فرنگ",
+              "lang": "Original"
+            },
+            {
+              "+content": "اس عالم میں نسل و رنگ کا امتیاز نہیں ہو گا؛ اس جہان کی شام دور فرنگ کی صبح سے زیادہ روشن ہو گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "A world without distinction of race and colour, its evening is brighter than Europe’s dawn;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "+content": "عالمے پاک از سلاطین و عبید\nچون دل مومن کرانش ناپدید",
+              "lang": "Original"
+            },
+            {
+              "+content": "وہ جہان بادشاہوں اور غلاموں کی طریق سے پاک ہوگا ؛ مومن کے قلب کی طرح وہ بھی بے کراں ہو گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "A world cleansed of monarchs and of slaves, a world unbounded, like the believer’s heart,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "+content": "عالمے رعنا کہ فیض یک نظر\nتخم او افکند در جان عمر",
+              "lang": "Original"
+            },
+            {
+              "+content": "وہ اس قسم کا عالم رعنا ہو گا جس کا بیج جناب رسول پاک (صلعم) کی ایک نظر کے فیض نے سیدنا عمر فاروق (رضی اللہ) کی جان میں ڈال دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "A world so fair, that the effluence of one glance planted the seed of it in Omar’s soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "+content": "لایزال و وارداتش نو بہ نو\nبرگ و بار محکماتش نو بہ نو",
+              "lang": "Original"
+            },
+            {
+              "+content": "وہ جہان زوال نا پذیر ہو گا اور اس کے احوال اور اس کی محکمات کے برگ و بار ہر لحظہ تازہ بتازہ ہوں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Eternal it is, the impact of it ever new, ever new the leaf and fruit of its sure foundations;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "+content": "باطن او از تغیر بے غمی\nظاھر او انقلاب ہر دمی",
+              "lang": "Original"
+            },
+            {
+              "+content": "اس کا باطن (بنیادی اصول) تغیّر ناپذیر ہو گا ؛ لیکن اس کے ظاہر میں ہر دم نئی تبدیلی ہو گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Inwardly it is anxious not of change, outwardly, every moment is revolution.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "+content": "اندرون تست آن عالم نگر\nمی دہم از محکمات او خبر",
+              "lang": "Original"
+            },
+            {
+              "+content": "وہ جہان تیرے اپنے اندر ہے اسے دیکھ؛ میں تمہیں اس کے محکمات کے متعلق بتاتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Behold, that world lies within your own heart; now I will tell you of its firm foundations.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

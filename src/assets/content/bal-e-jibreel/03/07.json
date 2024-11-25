@@ -1,0 +1,27 @@
+{
+  "id": "07",
+  "name": "",
+  "+@BookID": "02",
+  "bookName": "‫بالِ جبریل",
+  "+@SectionID": "03",
+  "sectionName": "رباعیات",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "عرب کے سوز میں ساز عجم ہے \nحرم کا راز توحید امم ہے \nتہی وحدت سے ہے اندیشہ غرب \nکہ تہذیب فرنگی بے حرم ہے",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "Arabian fervour has within it the Persian melodies; the hidden purpose of the Sanctuary is to unify all nations.\nWestern thought is bereft of the idea of Oneness, because the Western civilization has no Ka‘bah.\n(Translated by M. Munawwar Mirza)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

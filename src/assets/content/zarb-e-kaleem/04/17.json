@@ -1,0 +1,83 @@
+{
+  "id": "17",
+  "name": "نسیم و شبنم",
+  "+@BookID": "03",
+  "bookName": "ضربِ کلیم",
+  "+@SectionID": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "نسیم",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "انجم کی فضا تک نہ ہوئی میری رسائی \nکرتی رہی میں پیرہن لالہ و گل چاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "+content": "BREEZE AND DEW\nBreeze: I could not find access to tracts where stars like pendent lamps do shine tearing vest of tulips and the rose was main and foremost duty mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "+content": "مجبور ہوئی جاتی ہوں میں ترک وطن پر \nبے ذوق ہیں بلبل کی نوا ہائے طرب ناک",
+              "lang": "Original"
+            },
+            {
+              "+content": "طرب ناک: خوشی سے بھری ہوئی ۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "I feel an inner urge so great to bid farewell to home and depart for joyful songs of nightingale, no zeal or zest to me impart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "+content": "دونوں سے کیا ہے تجھے تقدیر نے محرم \nخاک چمن اچھی کہ سرا پردہ افلاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "+content": "O dew, God's will has made you know full well, both park and heavens high what i's more precious in your eyes, the dust of park or dome of sky?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "شبنم",
+      "Verse": {
+        "id": "07",
+        "Text": [
+          {
+            "+content": "کھینچیں نہ اگر تجھ کو چمن کے خس و خاشاک \nگلشن بھی ہے اک سر سرا پردہ افلاک",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "+content": "Dew: If thorns and straws of worldly mead to cause a tension in you fail, then bear in mind, this lonely parks for heaven's dome is like a veil.\n(Translated by Syed Akbar Ali Shah)",
+            "lang": "English"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "11",
+  "name": "خودی کی تربیت",
+  "+@BookID": "03",
+  "bookName": "ضربِ کلیم",
+  "+@SectionID": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "خودی کی پرورش و تربیت پہ ہے موقوف\nکہ مشت خاک میں پیدا ہو آتش ہمہ سوز\nیہی ہے سر کلیمی ہر اک زمانے میں\nہوائے دشت و شعیب و شبانی شب و روز",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "UPBRINGING OF SELFHOOD\nIf Self is bred with perfect care, such force and strength it can acquire that handful dust of man with case can set untruths and wrongs afire.\nThis is the mystery we ascribe to Moses in every age and clime; he tended the sheep in wilds and learnt from Shoaib to toil and mode sublime.\n[Translated by Syed Akbar Ali Shah]",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

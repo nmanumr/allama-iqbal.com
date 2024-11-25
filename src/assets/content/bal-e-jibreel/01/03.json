@@ -1,0 +1,125 @@
+{
+  "id": "03",
+  "name": "",
+  "+@BookID": "02",
+  "bookName": "‫بالِ جبریل",
+  "+@SectionID": "01",
+  "sectionName": "حصہ اول",
+  "Para": {
+    "name": "",
+    "Verse": [
+      {
+        "id": "01",
+        "Text": [
+          {
+            "_content": "گیسوئے تاب دار کو اور بھی تاب دار کر \nہوش و خرد شکار کر، قلب و نظر شکار کر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "Bright are Thy tresses, brighten them even more, and ravish my eyes, ravish my mind, ravish my heart and soul.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "03",
+        "Text": [
+          {
+            "_content": "عشق بھی ہو حجاب میں، حسن بھی ہو حجاب میں \nیا تو خود آشکار ہو یا مجھے آشکار کر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "That love should be concealed, and beauty should be veiled! Reveal Thyself to me, O Lord, or reveal me to myself.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "05",
+        "Text": [
+          {
+            "_content": "تو ہے محیط بے کراں، میں ہوں ذرا سی آبجو \nیا مجھے ہمکنار کر یا مجھے بے کنار کر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "Thou art the eternal ocean; I am a rivulet; make me a part of Thee, O Lord, or make me fathomless.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "07",
+        "Text": [
+          {
+            "_content": "میں ہوں صدف تو تیرے ہاتھ میرے گہر کی آبرو \nمیں ہوں خزف تو تو مجھے گوہر شاہوار کر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "If I possess a pearl within, give it a starry lustre, but if I am a piece of brick, give it a diamond’s sheen.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "09",
+        "Text": [
+          {
+            "_content": "نغمہء نو بہار اگر میرے نصیب میں نہ ہو \nاس دم نیم سوز کو طائرک بہار کر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "If of spring I cannot sing as a bird of paradise; make this half-enrapturcd soul a skylark of Thy spring.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "Text": [
+          {
+            "_content": "باغ بہشت سے مجھے حکم سفر دیا تھا کیوں \nکار جہاں دراز ہے، اب مرا انتظار کر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "Why did You order me to quit the Garden of Eden? Now there is much to be done here, so just wait for me!",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "Text": [
+          {
+            "_content": "روز حساب جب مرا پیش ہو دفتر عمل \nآپ بھی شرمسار ہو، مجھ کو بھی شرمسار کر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "When the roll of my deeds is brought up on the Day of Reckoning; be ashamed as You will shame me. \n[Translated by Naim Siddiqui]",
+            "lang": "English"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "04",
+  "name": "",
+  "+@BookID": "02",
+  "bookName": "‫بالِ جبریل",
+  "+@SectionID": "03",
+  "sectionName": "رباعیات",
+  "Para": {
+    "name": "",
+    "Verse": [{
+      "id": "01",
+      "Text": [
+        {
+          "_content": "خودی کی خلوتوں میں گم رہا میں \nخدا کے سامنے گویا نہ تھا میں \nنہ دیکھا آنکھ اٹھا کر جلوہ دوست \nقیامت میں تماشا بن گیا میں!",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "I was in the solitude of selfhood lost, and was, it seemed, unaware of the Presence. \nI lifted not my eyes to see my Friend, and, on the Day of Judgment, shamed myself.\n(Translated by Naim Siddiqui)",
+          "lang": "English"
+        }
+      ]
+    }]
+  }
+}

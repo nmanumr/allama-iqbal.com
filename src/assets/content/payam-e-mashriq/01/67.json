@@ -1,0 +1,27 @@
+{
+  "id": "67",
+  "name": "",
+  "+@BookID": "07",
+  "bookName": "پیامِ مشرق",
+  "+@SectionID": "01",
+  "sectionName": "لالۂ طور",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "مشو اے غنچۂ نورستہ دلگیر\nازین بستان سرا دیگر چہ خواہی\nلب جو، بزم گل، مرغ چمن سیر\nصبا، شبنم، نوای صبحگاہی",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "Sweet newborn bud, why art thou so forlorn? What seekest thou within this garden fair? \nFor here is dew, a river, song at morn, birds in the grass, red roses, summer air.\n(Translated by M. Hadi Husain)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

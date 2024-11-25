@@ -1,0 +1,27 @@
+{
+  "id": "103",
+  "name": "",
+  "+@BookID": "07",
+  "bookName": "پیامِ مشرق",
+  "+@SectionID": "01",
+  "sectionName": "لالۂ طور",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "چسان اے آفتاب آسمان گرد\nباین دوری بہ چشم من در آئی\nبخاکی واصل و از خاکدان دور\nتو اے مژگان گسل آخر کجائی",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "Being so distant, heaven-circling sun, what manner to my vision dost thou come? \nNigh to the earthy, from the earth so far! O vision dazzler, whither dost thou roam? \n(Translated by A.J. Arberry)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

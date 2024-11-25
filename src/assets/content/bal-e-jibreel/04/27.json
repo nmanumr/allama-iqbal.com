@@ -1,0 +1,27 @@
+{
+  "id": "27",
+  "name": "ستارے کاپیغام",
+  "+@BookID": "02",
+  "bookName": "‫بالِ جبریل",
+  "+@SectionID": "04",
+  "sectionName": "منظومات",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "مجھے ڈرا نہیں سکتی فضا کی تاریکی \nمری سرشت میں ہے پاکی و درخشانی \nتو اے مسافر شب! خود چراغ بن اپنا \nکر اپنی رات کو داغ جگر سے نورانی",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "THE STAR’S MESSAGE\nI fear not the darkness of the night; my nature is bred in purity and light; \nWayfarer of the night! Be a lamp to thyself; with thy passion’s flame, make thy darkness bright.\n(Translated by Naim Siddiqui)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

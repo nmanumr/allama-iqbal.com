@@ -1,0 +1,28 @@
+{
+  "id": "150",
+  "name": "",
+  "+@BookID": "07",
+  "bookName": "پیامِ مشرق",
+  "+@SectionID": "01",
+  "sectionName": "لالۂ طور",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "مگو کار جھان نااستوار است\nہر آن ما ابد را پردہ دار است\nبگیر امروز را محکم کہ فردا\nہنوز اندر ضمیر روزگار است",
+          "lang": "Original"
+        },
+        {
+          "_content": "یہ نہ کہہ کہ دنیا کے کام میں پائداری نہیں، ہمارے ہر لمحے کے اندر ابد پوشیدہ ہے۔\nآج پر اپنی گرفت محکم رکھ، کیونکہ کل ابھی زمانے کے ضمیر میں مستور ہے (کل آج پر منحصر ہے)۔",
+          "lang": "Urdu"
+        },
+        {
+          "_content": "Do not say life is merely transitory: Each moment of ours veils Eternity.\nHold firmly to today: tomorrow is still an idea in the mind of Time.\n[Translated by M Hadi Hussain]",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

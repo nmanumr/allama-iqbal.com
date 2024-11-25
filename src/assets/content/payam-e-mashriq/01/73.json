@@ -1,0 +1,27 @@
+{
+  "id": "73",
+  "name": "",
+  "+@BookID": "07",
+  "bookName": "پیامِ مشرق",
+  "+@SectionID": "01",
+  "sectionName": "لالۂ طور",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "خیال او درون دیدہ خوشتر\nغمش افزودہ جان کاہیدہ خوشتر\nمرا صاحبدلی این نکتہ آموخت\nز منزل جادۂ پیچیدہ خوشتر",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "Sweet is His image in my sight to stay, sweeter His love, my life to steal away: \nIt was a subtle teacher taught me this – sweeter than lodging is the winding way. \n(Translated by M. Hadi Husain)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

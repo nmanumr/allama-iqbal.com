@@ -1,0 +1,27 @@
+{
+  "id": "19",
+  "name": "جمہوریت",
+  "+@BookID": "03",
+  "bookName": "ضربِ کلیم",
+  "+@SectionID": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "اس راز کو اک مرد فرنگی نے کیا فاش \nہر چند کہ دانا اسے کھولا نہیں کرتے \nجمہوریت اک طرز حکومت ہے کہ جس میں \nبندوں کو گنا کرتے ہیں، تولا نہیں کرتے",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "DEMOCRACY\nBy some European sage this secret was revealed, though men endowed with sense, keep points like this concealed.\nDemocracy means a mode to rule the common man no doubt, they count the votes, but conduct do not scan. \n(Translated by Syed Akbar Ali Shah)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

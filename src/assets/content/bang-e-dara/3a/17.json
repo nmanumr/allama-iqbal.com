@@ -1,0 +1,223 @@
+{
+  "id": "17",
+  "name": "سیر فلک",
+  "+@BookID": "01",
+  "bookName": "بانگِ درا",
+  "+@SectionID": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": {
+    "name": "",
+    "Verse": [
+      {
+        "id": "01",
+        "Text": [
+          {
+            "_content": "تھا تخیل جو ہم سفر میرا \nآسماں پر ہوا گزر میرا",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "03",
+        "Text": [
+          {
+            "_content": "اڑتا جاتا تھا اور نہ تھا کوئی \nجاننے والا چرخ پر میرا",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "05",
+        "Text": [
+          {
+            "_content": "تارے حیرت سے دیکھتے تھے مجھے \nراز سر بستہ تھا سفر میرا",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "07",
+        "Text": [
+          {
+            "_content": "حلقہ صبح و شام سے نکلا \nاس پرانے نظام سے نکلا",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "09",
+        "Text": [
+          {
+            "_content": "کیا سناوں تمھیں ارم کیا ہے \nخاتم آرزوئے دیدہ و گوش",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "Text": [
+          {
+            "_content": "شاخ طوبی! پہ نغمہ ریز طیور \nبے حجابانہ حور جلوہ فروش",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "Text": [
+          {
+            "_content": "ساقیان جمیل جام بدست \nپینے والوں میں شور نوشانوش",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "Text": [
+          {
+            "_content": "دور جنت سے آنکھ نے دیکھا \nایک تاریک خانہ سرد و خموش",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "Text": [
+          {
+            "_content": "طالع قیس و گیسوئے لیلی \nاس کی تاریکیوں سے دوش بدوش",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "Text": [
+          {
+            "_content": "خنک ایسا کہ جس سے شرما کر \nکرہ زمہریر ہو روپوش",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "Text": [
+          {
+            "_content": "میں نے پوچھی جو کیفیت اس کی \nحیرت انگیز تھا جواب سروش",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "Text": [
+          {
+            "_content": "یہ مقام خنک جہنم ہے \nنار سے، نور سے تہی آغوش",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "25",
+        "Text": [
+          {
+            "_content": "شعلے ہوتے ہیں مستعار اس کے \nجن سے لرزاں ہیں مرد عبرت کوش",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "27",
+        "Text": [
+          {
+            "_content": "اہل دنیا یہاں جو آتے ہیں \nاپنے انگار ساتھ لاتے ہیں",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      }
+    ]
+  }
+}

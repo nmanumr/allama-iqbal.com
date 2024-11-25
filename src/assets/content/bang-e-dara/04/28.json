@@ -1,0 +1,27 @@
+{
+  "id": "28",
+  "name": "",
+  "+@BookID": "01",
+  "bookName": "بانگِ درا",
+  "+@SectionID": "04",
+  "sectionName": "ظریفانہ",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "سنا ہے میں نے، کل یہ گفتگو تھی کارخانے میں \nپرانے جھونپڑوں میں ہے ٹھکانا دست کاروں کا \nمگر سرکار نے کیا خوب کونسل ہال بنوایا \nکوئی اس شہر میں تکیہ نہ تھا سرمایہ داروں کا",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "I have heard this was the talk in the factory yesterday: ‘The artisans only in old huts have their abode. \nBut what a good council hall the government has made in this city the capitalists did not have any abode.’ \n(Translated by M.A.K. Khalil)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "id": "16",
+  "name": "سافر وارد میشود بہ شہر کابل",
+  "+@BookID": "10",
+  "bookName": "پس چہ بائد کرد",
+  "+@SectionID": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "Para": {
+    "name": "",
+    "Verse": [
+      {
+        "id": "01",
+        "Text": [
+          {
+            "_content": "شہر کابل خطۂ جنت نظیر\nآب حیوان از رگ تاکش بگیر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "03",
+        "Text": [
+          {
+            "+content": "چشم صائب از سوادش سرمہ چین\nروشن و پایندہ باد آن سر زمین",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "05",
+        "Text": [
+          {
+            "+content": "در ظلام شب سمن زارش نگر\nبر بساط سبزہ می غلطد سحر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "07",
+        "Text": [
+          {
+            "+content": "آن دیار خوش سواد، آن پاک بوم\nباد او خوشتر ز باد شام و روم",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "09",
+        "Text": [
+          {
+            "+content": "آب او براق و خاکش تابناک\nزندہ از موج نسیمش، مردہ خاک",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "Text": [
+          {
+            "+content": "ناید اندر حرف و صوت اسرار او\nآفتابان خفتہ در کہسار او",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "Text": [
+          {
+            "+content": "ساکنانش سیر چشم و خوش گہر\nمثل تیغ از جوھر خود بی خبر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "Text": [
+          {
+            "+content": "قصر سلطانی کہ نامش دلگشاست\nزائران را گرد راہش کیمیاست",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "Text": [
+          {
+            "+content": "شاہ را دیدم در آن کاخ بلند\nپیش سلطانی فقیری دردمند",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "Text": [
+          {
+            "+content": "خلق او اقلیم دلہا را گشود\nرسم و آئین ملوک آنجا نبود",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "Text": [
+          {
+            "+content": "من حضور آن شہ والا گہر\nبینوا مردی بہ دربار عمر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "Text": [
+          {
+            "+content": "جانم از سوز کلامش در گداز\nدست او بوسیدم از راہ نیاز",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "25",
+        "Text": [
+          {
+            "+content": "پادشاہی خوش کلام و سادہ پوش\nسخت کوش و نرم خوی و گرم جوش",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "27",
+        "Text": [
+          {
+            "+content": "صدق و اخلاص از نگاہش آشکار\nدین و دولت از وجودش استوار",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "29",
+        "Text": [
+          {
+            "+content": "خاکی و از نوریان پاکیزہ تر\nاز مقام فقر و شاہی باخبر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "31",
+        "Text": [
+          {
+            "+content": "در نگاہش روزگار شرق و غرب\nحکمت او راز دار شرق و غرب",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "33",
+        "Text": [
+          {
+            "+content": "شہر یاری چون حکیمان نکتہ دان\nرازدان مد و جزر امتان",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "Text": [
+          {
+            "+content": "پردہ ہا از طلعت معنی گشود\nنکتہ ہای ملک و دین را وانمود",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "37",
+        "Text": [
+          {
+            "+content": "گفت \"از آن آتش کہ داری در بدن\nمن ترا دانم عزیز خویشتن",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "39",
+        "Text": [
+          {
+            "+content": "ہر کہ او را از محبت رنگ و بوست\nدر نگاہم ہاشم و محمود اوست\"",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "41",
+        "Text": [
+          {
+            "+content": "در حضور آن مسلمان کریم\nہدیہ آوردم ز قرآن عظیم",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "43",
+        "Text": [
+          {
+            "+content": "گفتم \"این سرمایۂ اہل حق است\nدر ضمیر او حیات مطلق است",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "45",
+        "Text": [
+          {
+            "+content": "اندرو ہر ابتدا را انتہا است\nحیدر از نیروی او خیبر گشاست\"",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "47",
+        "Text": [
+          {
+            "+content": "نشۂ حرفم بخون او دوید\nدانہ دانہ اشک از چشمش چکید",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "49",
+        "Text": [
+          {
+            "+content": "گفت \"نادر در جہان بیچارہ بود\nاز غم دین و وطن آوارہ بود",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "51",
+        "Text": [
+          {
+            "+content": "کوہ و دشت از اضطرابم بیخبر\nاز غمان بی حسابم بے خبر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "53",
+        "Text": [
+          {
+            "+content": "نالہ با بانگ ہزار آمیختم\nاشک با جوی بہار آمیختم",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "55",
+        "Text": [
+          {
+            "+content": "غیر قرآن غمگسار من نبود\nقوتش ہر باب را بر من گشود\"",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "57",
+        "Text": [
+          {
+            "+content": "گفتگوے خسرو والا نژاد\nباز با من جذبۂ سرشار داد",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "59",
+        "Text": [
+          {
+            "+content": "وقت عصر آمد صدای الصلوت\nآن کہ مومن را کند پاک از جہات",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "61",
+        "Text": [
+          {
+            "+content": "انتہای عاشقان سوز و گداز\nکردم اندر اقتدای او نماز",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "63",
+        "Text": [
+          {
+            "+content": "رازہای آن قیام و آن سجود\nجز بہ بزم محرمان نتوان گشود",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "lang": "English"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "01",
+  "name": "مقصود",
+  "+@BookID": "03",
+  "bookName": "ضربِ کلیم",
+  "+@SectionID": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "سپنوزا",
+      "Verse": {
+        "id": "01",
+        "Text": [
+          {
+            "_content": "نظر حیات پہ رکھتا ہے مرد دانش مند \nحیات کیا ہے، حضور و سرور و نور و وجود",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "GOAL\nSpinoza: On life is fixed tile gaze of persons bright, what is life? Presence; being, joy and light.",
+            "lang": "English"
+          }
+        ]
+      }
+    },
+    {
+      "name": "فلاطوں",
+      "Verse": {
+        "id": "03",
+        "Text": [
+          {
+            "_content": "نگاہ موت پہ رکھتا ہے مرد دانش مند \nحیات ہے شب تاریک میں شرر کی نمود \nحیات و موت نہیں التفات کے لائق \nفقط خودی ہے خودی کی نگاہ کا مقصود",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "Plato: A wise man knows that 'fore death he must bow, in pitch dark night, life, ike spark, soon loses glow.\nBoth life and death deserve not any heed the Self of man is Ego's goal and need. \n(Written at Riaz Manzil, residence of Sir Rass Masood, Bhopal.)\n[Translated by Syed Akbar Ali Shah]",
+            "lang": "English"
+          }
+        ]
+      }
+    }
+  ]
+}

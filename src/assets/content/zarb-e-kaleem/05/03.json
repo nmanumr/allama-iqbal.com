@@ -1,0 +1,27 @@
+{
+  "id": "03",
+  "name": "انقلاب",
+  "+@BookID": "03",
+  "bookName": "ضربِ کلیم",
+  "+@SectionID": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "نہ ایشیا میں نہ یورپ میں سوز و ساز حیات \nخودی کی موت ہے یہ، اور وہ ضمیر کی موت \nدلوں میں ولولہ انقلاب ہے پیدا \nقریب آگئی شاید جہان پیر کی موت!",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "REVOLUTION\nThe hearts of both the East and West of zeal and zest are quite bereft: One means the death of Self and soul, other decease of conscience whole.\nA fervour great is in their hearts, they wait, when some convulsion starts; perhaps, this cosmos old and sear is in throes, its death quite near.\n(Translated by Syed Akbar Ali Shah)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

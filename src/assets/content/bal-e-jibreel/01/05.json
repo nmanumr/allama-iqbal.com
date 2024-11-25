@@ -1,0 +1,126 @@
+{
+  "id": "05",
+  "name": "",
+  "+@BookID": "02",
+  "bookName": "‫بالِ جبریل",
+  "+@SectionID": "01",
+  "sectionName": "حصہ اول",
+  "Para": {
+    "name": "",
+    "Verse": [
+      {
+        "id": "01",
+        "Text": [
+          {
+            "_content": "کیا عشق ایک زندگی مستعار کا \nکیا عشق پائدار سے ناپائدار کا",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "What avails love when life is so ephemeral? What avaiIs a mortal’s love for the immortal?",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "03",
+        "Text": [
+          {
+            "_content": "وہ عشق جس کی شمع بجھا دے اجل کی پھونک \nاس میں مزا نہیں تپش و انتظار کا",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "Love that is snuffed out by death’s passing blast; Love without the pain, the passion that consumes?",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "05",
+        "Text": [
+          {
+            "_content": "میری بساط کیا ہے، تب و تاب یک نفس \nشعلے سے بے محل ہے الجھنا شرار کا",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "A flickering spark I am, aglow for a fleeting glance; flow vain for a flickering spark to chase an eternal flame!",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "07",
+        "Text": [
+          {
+            "_content": "کر پہلے مجھ کو زندگی جاوداں عطا \nپھر ذوق و شوق دیکھ دل بے قرار کا",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "Grant me the bliss of eternal life, O Lord! And mine will be the ecstasy of eternal love.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "09",
+        "Text": [
+          {
+            "_content": "کانٹا وہ دے کہ جس کی کھٹک لازوال ہو \nیارب، وہ درد جس کی کسک لازوال ہو!",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "Give me the pleasure of an everlasting pain; an agony that lacerates my soul for ever.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "Text": [
+          {
+            "_content": "دلوں کو مرکز مہر و وفا کر \nحریم کبریا سے آشنا کر",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "Give to the youth my sighs of dawn; give wings to these eaglets again.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "Text": [
+          {
+            "_content": "جسے نان جویں بخشی ہے تو نے \nاسے بازوئے حیدر بھی عطا کر",
+            "lang": "Original"
+          },
+          {
+            "_content": "نان جویں: جو کی روٹی۔",
+            "lang": "Urdu"
+          },
+          {
+            "_content": "This, dear Lord, is my only wish that my insights should be shared by all!\n(Translated by Naeem Siddiqui)",
+            "lang": "English"
+          }
+        ]
+      }
+    ]
+  }
+}

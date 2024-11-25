@@ -1,0 +1,27 @@
+{
+  "id": "48",
+  "name": "لہو",
+  "+@BookID": "02",
+  "bookName": "‫بالِ جبریل",
+  "+@SectionID": "04",
+  "sectionName": "منظومات",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "اگر لہو ہے بدن میں تو خوف ہے نہ ہراس \nاگر لہو ہے بدن میں تو دل ہے بے وسواس \nجسے ملا یہ متاع گراں بہا، اس کو \nنہ سیم و زر سے محبت ہے، نے غم افلاس",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "If blood is warm in the body, there is no fear, nor anxiety, and the heart is free of tribulations.\nThe one who has received this bounty is neither greedy for wealth nor miserable in poverty. \n(Translated by Mustansir Mir)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

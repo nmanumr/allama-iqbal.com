@@ -1,0 +1,27 @@
+{
+  "id": "142",
+  "name": "",
+  "+@BookID": "07",
+  "bookName": "پیامِ مشرق",
+  "+@SectionID": "01",
+  "sectionName": "لالۂ طور",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "عجم از نغمہ ہای من جوان شد\nز سودایم متاع او گران شد\nھجومی بود رہ گم کرہ در دشت\nز آواز درایم کاروان شد",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "Ajam became young again through my songs; my frenzy raised the price of its wares.\nIt was a crowd lost in the wilderness: The sound of my bell made it a caravan. \n(Translated by Mustansir Mir)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

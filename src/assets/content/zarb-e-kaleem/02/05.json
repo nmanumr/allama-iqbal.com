@@ -1,0 +1,28 @@
+{
+  "id": "05",
+  "name": "مصلحین مشرق",
+  "+@BookID": "03",
+  "bookName": "ضربِ کلیم",
+  "+@SectionID": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "میں ہوں نومید تیرے ساقیان سامری فن سے\nکہ بزم خاوراں میں لے کے آئے ساتگیں خالی\nنئی بجلی کہاں ان بادلوں کے جیب و دامن میں\nپرانی بجلیوں سے بھی ہے جن کی آستیں خالی",
+          "lang": "Original"
+        },
+        {
+          "_content": "سامري فن: سامری کے طور طریقے والے جادوگر۔ \nساتگيں: پیالہ۔",
+          "lang": "Urdu"
+        },
+        {
+          "_content": "Your vintners have despaired me much, like Samri, they can cast a spell: With empty bowls to East have conic; what they would do is hard to tell.\nNo lighting new can ever flash in tap or clouds that float in sky: Of lightning old, their sleeves are void; how can they gain a Status high?\n[Translated by Syed Akbar Ali Shah]",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "42",
+  "name": "",
+  "+@BookID": "07",
+  "bookName": "پیامِ مشرق",
+  "+@SectionID": "01",
+  "sectionName": "لالۂ طور",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "نہ پیوستم درین بستان سرا دل \nز بند این و آن آزادہ رفتم\nچو باد صبح گردیدم دمی چند\nگلان را آب و رنگی دادہ رفتم",
+          "lang": "Original"
+        },
+        {
+          "_content": "میں نے اس چمن سے دل نہیں لگایا، یہاں کے بندھنوں سے آزاد رہا ہوں۔ \nباد صبح کی مانند چند لمحے یہاں گھوما (پھرا) ، پھولوں کو رنگ و آب دی اور چلا گیا۔",
+          "lang": "Urdu"
+        },
+        {
+          "_content": "I never got attached to this world, this fair-seeming garden, and its vanities.\nBut rather, lending colour to its flowers, I wandered round it like the morning breeze. \n[Translated by M Hadi Hussain]",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "76",
+  "name": "",
+  "+@BookID": "07",
+  "bookName": "پیامِ مشرق",
+  "+@SectionID": "01",
+  "sectionName": "لالۂ طور",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "ز انجم تا بہ انجم صد جہان بود\nخرد ہر جا کہ پر زد آسمان بود\nولیکن چون بخود نگریستم من\nکران بیکران در من نہان بود",
+          "lang": "Original"
+        },
+        {
+          "_content": "ایک ستارے سے دوسرے ستارے تک کئی جہان ہیں؛ جہاں بھی خرد پہنچی وہاں ایک آسمان موجود تھا ۔\nلیکن جب میں نے اپنے اندر دیکھا تو میرے اندر ایک لا محدود جہان تھا۔",
+          "lang": "Urdu"
+        },
+        {
+          "_content": "A hundred worlds stretched star to farthest star. Where’er the mind soared, there the heavens are. \nBut when I looked within upon my self, I saw a margin infinitely far. \n(Translated by M. Hadi Husain)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

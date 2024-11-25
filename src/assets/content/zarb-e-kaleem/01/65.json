@@ -1,0 +1,62 @@
+{
+  "id": "65",
+  "name": "احکام الہی",
+  "+@BookID": "03",
+  "bookName": "ضربِ کلیم",
+  "+@SectionID": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": {
+    "name": "",
+    "Verse": [
+      {
+        "id": "01",
+        "Text": [
+          {
+            "_content": "پابندی تقدیر کہ پابندی احکام\nیہ مسئلہ مشکل نہیں اے مرد خرد مند",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "DECREES OF GOD\nThis problem is not hard to solve O man, endowed with insight great Wh'r to obey dictates of God, or submit to decrees of Fate.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "03",
+        "Text": [
+          {
+            "_content": "اک آن میں سو بار بدل جاتی ہے تقدیر \nہے اس کا مقلد ابھی ناخوش، ابھی خورسند",
+            "lang": "Original"
+          },
+          {
+            "_content": "خورسند: خوش باش۔",
+            "lang": "Urdu"
+          },
+          {
+            "_content": "The Wheel of Fate spins hundred times within the twinkling of the eye; he, who follows freaks of Fate, anon is down and anon is high.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "05",
+        "Text": [
+          {
+            "_content": "تقدیر کے پابند نباتات و جمادات \nمومن فقط احکام الہی کا ہے پابند",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "Herbs, vegetables and minerals alike adhere to what Fate pre-ordains: But Muslim true obeys laws of God, all else abhors and much disdains.\n(Translated by Syed Akbar Ali Shah)",
+            "lang": "English"
+          }
+        ]
+      }
+    ]
+  }
+}

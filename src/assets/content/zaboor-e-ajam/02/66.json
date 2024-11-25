@@ -1,0 +1,27 @@
+{
+  "id": "66",
+  "name": "",
+  "+@BookID": "08",
+  "bookName": "زبورِعجم",
+  "+@SectionID": "02",
+  "sectionName": "حصہ دوم",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "از داغ فراق او در دل چمنی دارم\nاے لالۂ صحرائی با تو سخنی دارم\nاین آہ جگر سوزی در خلوت صحرا بہ\nلیکن چکنم کاری با انجمنی دارم",
+          "lang": "Original"
+        },
+        {
+          "lang": "Urdu"
+        },
+        {
+          "_content": "This brand of grief, His love apart, hath sown a garden in my heart; O desert-flame anemone, I have a word to say to thee!\nBest in the wilderness, alone, to breathe the soul-consuming groan; yet what can I, condemned for good to wrestle with the multitude?\n(Translated by A.J. Arberry)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

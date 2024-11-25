@@ -1,0 +1,28 @@
+{
+  "id": "37",
+  "name": "",
+  "+@BookID": "02",
+  "bookName": "‫بالِ جبریل",
+  "+@SectionID": "03",
+  "sectionName": "رباعیات",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "زمانے کی یہ گردش جاودانہ \nحقیقت ایک تو، باقی فسانہ \nکسی نے دوش دیکھا ہے نہ فردا \nفقط امروز ہے تیرا زمانہ",
+          "lang": "Original"
+        },
+        {
+          "_content": "امروز:امروز۔\nفردا:آنے والا کل۔",
+          "lang": "Urdu"
+        },
+        {
+          "_content": "The movement of days and nights is eternal, fast; no one has seen the future or the past. \nThou art the only fact, the rest is fiction; the present is the only time thou hast. \n(Translated by Naim Siddiqui)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

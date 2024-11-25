@@ -1,0 +1,28 @@
+{
+  "id": "56",
+  "name": "یورپ",
+  "+@BookID": "02",
+  "bookName": "‫بالِ جبریل",
+  "+@SectionID": "04",
+  "sectionName": "منظومات",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "تاک میں بیٹھے ہیں مدت سے یہودی سودخوار\nجن کی روباہی کے آگے ہیچ ہے زور پلنگ \nخود بخود گرنے کو ہے پکے ہوئے پھل کی طرح \nدیکھیے پڑتا ہے آخر کس کی جھولی میں فرنگ\n(ماخوذاز نطشہ)",
+          "lang": "Original"
+        },
+        {
+          "_content": "روباہي: لومڑی جیسی خصلت، یعنی چالاکی۔ \nپلنگ: چیتا۔",
+          "lang": "Urdu"
+        },
+        {
+          "_content": "EUROPE\nThe Jewish money-lenders, whose cunning beats the lion’s prowess, have been waiting hopefully for long.\nEurope is ready to drop like a ripe fruit, let’s see in whose bag it goes. – Adapted from Nietzsche.\n(Translated by Naim Siddiqui)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

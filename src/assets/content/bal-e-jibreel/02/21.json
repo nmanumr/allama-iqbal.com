@@ -1,0 +1,126 @@
+{
+  "id": "21",
+  "name": "",
+  "+@BookID": "02",
+  "bookName": "‫بالِ جبریل",
+  "+@SectionID": "02",
+  "sectionName": "حصہ دوم",
+  "Para": {
+    "name": "",
+    "Verse": [
+      {
+        "id": "01",
+        "Text": [
+          {
+            "_content": "خودی وہ بحر ہے جس کا کوئی کنارہ نہیں \nتو آبجو اسے سمجھا اگر تو چارہ نہیں",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "The self of man is ocean vast, and knows no depth or bound: If you take it for a stream, how can your mind be sound?",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "03",
+        "Text": [
+          {
+            "_content": "طلسم گنبد گردوں کو توڑ سکتے ہیں \nزجاج کی یہ عمارت ہے، سنگ خارہ نہیں",
+            "lang": "Original"
+          },
+          {
+            "_content": "زجاج: شیشہ۔",
+            "lang": "Urdu"
+          },
+          {
+            "_content": "The magic of this whirling dome we can set at naught: Not of stone but of glass its building has been wrought.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "05",
+        "Text": [
+          {
+            "_content": "خودی میں ڈوبتے ہیں پھر ابھر بھی آتے ہیں \nمگر یہ حوصلہ مرد ہیچ کارہ نہیں",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "In Holy Trance in self we drown, and up we rise again; but how a worthless man can show so much might and main?",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "07",
+        "Text": [
+          {
+            "_content": "ترے مقام کو انجم شناس کیا جانے \nکہ خاک زندہ ہے تو، تابع ستارہ نہیں",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "Your rank and state cannot be told by one who reads the stars: You are living dust, in sooth, not ruled by Moon or Mars.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "09",
+        "Text": [
+          {
+            "_content": "یہیں بہشت بھی ہے، حور و جبرئیل بھی ہے \nتری نگہ میں ابھی شوخی نظارہ نہیں",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "The maids of Ed’n and Gabriel eke in this world can be found, but, alas! You lack as yet glances bold and zeal profound.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "Text": [
+          {
+            "_content": "مرے جنوں نے زمانے کو خوب پہچانا \nوہ پیرہن مجھے بخشا کہ پارہ پارہ نہیں",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "My craze has judged aright the bent of times wherein I am born: Love be thanked for granting me the gown entire and untorn.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "Text": [
+          {
+            "_content": "غضب ہے، عین کرم میں بخیل ہے فطرت \nکہ لعل ناب میں آتش تو ہے، شرارہ نہیں",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "Spite of Nature’s bounty great, its guarding practice, mark! It grants the ruby reddish hue, but denies the heat of spark. \n(Translated by Syed Akbar Ali Shah)",
+            "lang": "English"
+          }
+        ]
+      }
+    ]
+  }
+}

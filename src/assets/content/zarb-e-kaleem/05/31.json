@@ -1,0 +1,64 @@
+{
+  "id": "31",
+  "name": "نفسیات غلامی",
+  "+@BookID": "03",
+  "bookName": "ضربِ کلیم",
+  "+@SectionID": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": {
+    "name": "",
+    "Verse": [
+      {
+        "id": "01",
+        "Text": [
+          {
+            "_content": "سخت باریک ہیں امراض امم کے اسباب \nکھول کر کہیے تو کرتا ہے بیاں کوتاہی",
+            "lang": "Original"
+          },
+          {
+            "_content": "بياں کوتاہي: بیان ساتھ نہیں دیتا۔",
+            "lang": "Urdu"
+          },
+          {
+            "_content": "PSYCHOLOGY OF BONDAGE\nThe causes that make the nations sick are quite obscure, too vague and fine; although some man may try his best, yet cause in full he can't define.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "03",
+        "Text": [
+          {
+            "_content": "دین شیری میں غلاموں کے امام اور شیوخ \nدیکھتے ہیں فقط اک فلسفہ روباہی",
+            "lang": "Original"
+          },
+          {
+            "_content": "روباہي: لومڑی کا روّیہ ۔ بزدلی، مکّاری۔",
+            "lang": "Urdu"
+          },
+          {
+            "_content": "The chiefs and guides of slaves have sunk so low that it seems so much odd!\nIf mode of lions is presented to them, they will see naught save guile and fraud.",
+            "lang": "English"
+          }
+        ]
+      },
+      {
+        "id": "05",
+        "Text": [
+          {
+            "_content": "ہو اگر قوت فرعون کی در پردہ مرید \nقوم کے حق میں ہے لعنت وہ کلیم اللہی",
+            "lang": "Original"
+          },
+          {
+            "_content": "کليم اللہي: اللہ سے کلام کرنا۔",
+            "lang": "Urdu"
+          },
+          {
+            "_content": "If a Moses forms a secret League with the Pharoah of his time; for his nation such like Moses is curse committing dreadful crime.\n[Translated by Syed Akbar Ali Shah]",
+            "lang": "English"
+          }
+        ]
+      }
+    ]
+  }
+}

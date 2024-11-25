@@ -1,0 +1,48 @@
+{
+  "id": "58",
+  "name": "شیر اور خچر",
+  "+@BookID": "02",
+  "bookName": "‫بالِ جبریل",
+  "+@SectionID": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "شیر",
+      "Verse": {
+        "id": "01",
+        "Text": [
+          {
+            "_content": "ساکنان دشت و صحرا میں ہے تو سب سے الگ \nکون ہیں تیرے اب و جد، کس قبیلے سے ہے تو؟",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "THE LION AND THE MULE \nLION: You are so different and unlike all the other dwellers of the wild and the desert! Who are your parents and ancestors? And what is your tribe?",
+            "lang": "English"
+          }
+        ]
+      }
+    },
+    {
+      "name": "خچر",
+      "Verse": {
+        "id": "03",
+        "Text": [
+          {
+            "_content": "میرے ماموں کو نہیں پہچانتے شاید حضور \nوہ صبا رفتار، شاہی اصطبل کی آبرو",
+            "lang": "Original"
+          },
+          {
+            "lang": "Urdu"
+          },
+          {
+            "_content": "MULE: Perhaps your highness does not know my uncle – my mother’s brother: He gallops like the wind, and is the pride of the royal stable! – Adapted from German. \n(Translated by Mustansir Mir)",
+            "lang": "English"
+          }
+        ]
+      }
+    }
+  ]
+}

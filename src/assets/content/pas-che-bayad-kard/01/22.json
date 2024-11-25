@@ -1,0 +1,468 @@
+{
+  "id": "22",
+  "name": "قندہار و زیارت خرقہ مبارک",
+  "+@BookID": "10",
+  "bookName": "پس چہ بائد کرد",
+  "+@SectionID": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قندہار آن کشور مینو سواد\nاہل دل را خاک او خاک مراد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "SEEING PROPHET’S GARB AT QANDHAR\nQandhar, that place of paradisiac charm, its dust the heart’s desire of men of heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "رنگ ہا، بوہا، ہواہا، آب ہا\nآب ہا تابندہ چون سیماب ہا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These hues, scents, waters! These waters glittering like mercury!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "لالہ ھا در خلوت کہسار ہا\nنارھا یخ بستہ اندر نارہا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tulips in the coign of the mountains; fires frozen within pomegranates.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کوی آن شہر است ما را کوی دوست\nساربان بر بند محمل سوی دوست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its streets the streets of the friend for us, O camel-driver, set the litter for the beautiful one.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "می سرایم دیگر از یاران نجد\nاز نوائی، ناقہ را آرم بہ وجد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I sing again of the mates of Najd and bring the dromedary into ecstasy with my chant.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "غزل",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "از دیر مغان آیم بی گردش صہباست\nدر منزل لا بودم از بادہ الا مست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Az I come from the temple of Magians intoxicated with the passing of wine. I was inebriate with the wine of Illa (Affirmation) in the state of La (Negation).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دانم کہ نگاہ او ظرف ہمہ کس بیند\nکرد است مرا ساقی از عشوہ و ایما مست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know his eyes perceives the capacity of every person, the saqi has made me ecstatic by his blandishment and beckoning.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "وقت است کہ بگشایم میخانۂ رومی باز\nپیران حرم دیدم در صحن کلیسا مست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is time I should again open the tavern of Rumi.I have seen the custodian of the Harem intoxicated in the churchyard.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "این کار حکیمی نیست دامان کلیمی گیر\nصد بندۂ ساحل مست یک بندہ دریا مست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is not the work of a philosopher, catch hold of the hem of a Moses, who conversed with God. A hundred persons enrapt with the shore and but one tipsy with the river.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "دل را بہ چمن بردم از باد چمن افسرد\nمیرد بخیابانہا این لالۂ صحرا مست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I took my heart to the garden where it became numb with the breeze it dies in a park, this tulip stimulated by the desert.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "از حرف دلاویزش اسرار حرم پیدا\nدی کافرکی دیدم در وادی بطحا مست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From his delightful words, the secrets of the Harem shine out. I saw a mini-infidel yesterday intoxicated in the valley of Bat’ha;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "سینا است کہ فاران است یارب چہ مقام است این\nہر ذرہ خاک من چشمی است تماشا مست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is this Sinai or Faran? O God, what is this place? Each particle of my dust is an eye lost in beholding.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "خرقۂ آن \"برزخ لایبغیان\"\nدیدمش در نکتۂ \"لی خرقتان\"",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The garment of that Interstise that cannot be crossed; I behold in his saying: For me two garbs: Continence and Jihad.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "دین او آئین او تفسیر کل\nدر جبین او خط تقدیر کل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both his Faith and system expositions of the whole; on his forehead inscribed the destiny of all.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "عقل را او صاحب اسرار کرد\nعشق را او تیغ جوھر دار کرد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Intellect made him knower of secrets and love a matchless sword.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "کاروان شوق را او منزل است\nما ہمہ یک مشت خاکیم او دل است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is the destination of the caravan of ardour, we are but a pinch of dust and he the heart thereof.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "آشکارا دیدنش اسرای ماست\nدر ضمیرش مسجد اقصای ماست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To see his outside is our Asra, and in his inner self is our Aqsa.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "آمد از پیراہن او بوی او\nداد ما را نعرہ اﷲ ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From his garment I sensed his perfume; he gave us the shout of Allah-hu.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "با دل من شوق بی پروا چہ کرد\nبادۂ پر زور با مینا چہ کرد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What did my reckless love do to my heart? Whatever tempestuous wine to the flask.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "رقصد اندر سینہ از زور جنون\nتا ز راہ دیدہ میآید برون",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It leapt in the breast because of wild rapture till it rushed out of the eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "گفت \"من جبریلم و نور مبین\"\nپیش ازین او را ندیدم اینچنین",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It said: I am Gabriel and radiant light; I never saw him like this before.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "شعر رومی خواند و خندید و گریست\nیا رب این دیوانۂ فرزانہ کیست؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It recited lines from Rumi, laughed and wept, O God! Who is this Sage gone wild?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "در حرم با من سخن زندانہ گفت\nاز می و مغ زادہ و پیمانہ گفت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It talked to me so volubly in the sanctuary, talking of wine, Magian pages and wine cups.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "گفتمش این حرف بیباکانہ چیست\nلب فرو بند این مقام خامشی ست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I asked it what audacious words these be; close your lips for this is a solemn occasion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "من ز خون خویش پروردم ترا\nصاحب آہ سحر کردم ترا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have nurtured you with by blood and made you fit for raising a morning sigh.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "بازیاب این نکتہ را اے نکتہ رس\nعشق مردان ضبط احوال است و بس",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Note again this point you who understand, the love of disciplined lovers is naught but restraint.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "گفت عقل و ہوش آزار دل است\nمستی و وارفتگی کار دل است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It said: Reason and restraint are a blight for the heart, ecstasy and frenzy are its nature.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "نعرہ ہا زد تا فتاد اندر سجود\nشعلۂ آواز او بود او نبود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It raised shouts upon shouts till it fell into prostration; there was only the flame of its voice but itself no more!\n(Translated by B A Dar)",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

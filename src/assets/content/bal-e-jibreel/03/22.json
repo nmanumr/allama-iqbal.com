@@ -1,0 +1,28 @@
+{
+  "id": "22",
+  "name": "",
+  "+@BookID": "02",
+  "bookName": "‫بالِ جبریل",
+  "+@SectionID": "03",
+  "sectionName": "رباعیات",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "خرد سے راہرو روشن بصر ہے \nخرد کیا ہے، چراغ رہ گزر ہے \nدرون خانہ ہنگامے ہیں کیا کیا \nچراغ رہ گزر کو کیا خبر ہے!",
+          "lang": "Original"
+        },
+        {
+          "_content": "روشن بصر: روشن آنکھوں والا۔",
+          "lang": "Urdu"
+        },
+        {
+          "_content": "Reason makes the traveller sharp-sighted. What is reason? It is a lamp that lights up our path.\nThe commotion raging inside the house: What does the traveller’s lamp know of it!\n(Translated by Mustansir Mir)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}

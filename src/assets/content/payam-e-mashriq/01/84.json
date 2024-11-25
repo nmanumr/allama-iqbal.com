@@ -1,0 +1,28 @@
+{
+  "id": "84",
+  "name": "",
+  "+@BookID": "07",
+  "bookName": "پیامِ مشرق",
+  "+@SectionID": "01",
+  "sectionName": "لالۂ طور",
+  "Para": {
+    "name": "",
+    "Verse": {
+      "id": "01",
+      "Text": [
+        {
+          "_content": "نہ افغانیم و نے ترک و تتاریم\nچمن زادیم و از یک شاخساریم\nتمیز رنگ و بو بر ما حرام است\nکہ ما پروردۂ یک نو بھاریم",
+          "lang": "Original"
+        },
+        {
+          "_content": "نہ ہم افغان ہیں، نہ ترک، نہ تاتاری؛ ہم چمن زاد ہیں اور ایک ہی شاخ سے ہیں۔\nہم پر رنگ و بو کی تمیز حرام ہے؛ کیونکہ ہماری پرورش ایک نوبہار (اسلام) سے ہوئی۔",
+          "lang": "Urdu"
+        },
+        {
+          "_content": "We are not Afghans, Turks or Tartars: Offspring of the garden, we grew from the same bough. \nDistinctions of colour and scent are forbidden to us, for we are products of a new spring. \n(Translated by M. Hadi Husain)",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}
