@@ -62,22 +62,24 @@
     },
     {
       "name": "شبنم",
-      "Verse": {
-        "id": "07",
-        "Text": [
-          {
-            "+content": "کھینچیں نہ اگر تجھ کو چمن کے خس و خاشاک \nگلشن بھی ہے اک سر سرا پردہ افلاک",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "+content": "Dew: If thorns and straws of worldly mead to cause a tension in you fail, then bear in mind, this lonely parks for heaven's dome is like a veil.\n(Translated by Syed Akbar Ali Shah)",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "+content": "کھینچیں نہ اگر تجھ کو چمن کے خس و خاشاک \nگلشن بھی ہے اک سر سرا پردہ افلاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Dew: If thorns and straws of worldly mead to cause a tension in you fail, then bear in mind, this lonely parks for heaven's dome is like a veil.\n(Translated by Syed Akbar Ali Shah)",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

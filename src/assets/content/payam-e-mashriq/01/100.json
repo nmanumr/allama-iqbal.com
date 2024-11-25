@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "چسان زاید تمنا در دل ما\nچسان سوزد چراغ منزل ما\nبچشم ما کہ می بیند چہ بیند\nچسان گنجید دل اندر گل ما",
-          "lang": "Original"
-        },
-        {
-          "_content": "ہمارے دل میں تمنا کیسے پیدا ہوتی ہے؟ ہماری منزل کا چراغ (تمنا) (ہمارے اندر) کیسے روشن ہوتا ہے؟ \nمیری آنکھ سے کون دیکھتا ہے، کیا دیکھتا ہے ؟ دل (جو لا محدود ہے) میرے بدن کے اندر کیسے سماتا ہے؟",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "Declare: how in the heart is born desire, how in the dwelling burns the lantern’s fire. \nWho sees with this our sight, and what he sees, and how the soul was lodged within our ware. \n(Translated by M. Hadi Husain)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چسان زاید تمنا در دل ما\nچسان سوزد چراغ منزل ما\nبچشم ما کہ می بیند چہ بیند\nچسان گنجید دل اندر گل ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے دل میں تمنا کیسے پیدا ہوتی ہے؟ ہماری منزل کا چراغ (تمنا) (ہمارے اندر) کیسے روشن ہوتا ہے؟ \nمیری آنکھ سے کون دیکھتا ہے، کیا دیکھتا ہے ؟ دل (جو لا محدود ہے) میرے بدن کے اندر کیسے سماتا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Declare: how in the heart is born desire, how in the dwelling burns the lantern’s fire. \nWho sees with this our sight, and what he sees, and how the soul was lodged within our ware. \n(Translated by M. Hadi Husain)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

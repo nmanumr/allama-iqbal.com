@@ -238,23 +238,25 @@
     },
     {
       "name": "دوسرا مشیر",
-      "Verse": {
-        "id": "27",
-        "Text": [
-          {
-            "_content": "خیر ہے سلطانی جمہور کا غوغا کہ شر\nتو جہاں کے تازہ فتنوں سے نہیں ہے با خبر!",
-            "lang": "Original"
-          },
-          {
-            "_content": "سلطاني جمہور: مراد ہے جمہوریت۔ \nغوغا: شور۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Second Advisor: Is this roar in goodness that masses are kings? You know not new mischiefs of underlings.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "خیر ہے سلطانی جمہور کا غوغا کہ شر\nتو جہاں کے تازہ فتنوں سے نہیں ہے با خبر!",
+              "lang": "Original"
+            },
+            {
+              "_content": "سلطاني جمہور: مراد ہے جمہوریت۔ \nغوغا: شور۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Second Advisor: Is this roar in goodness that masses are kings? You know not new mischiefs of underlings.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "پہلا مشیر",
@@ -459,23 +461,25 @@
     },
     {
       "name": "تیسرا مشیر",
-      "Verse": {
-        "id": "51",
-        "Text": [
-          {
-            "_content": "میں تو اس کی عاقبت بینی کا کچھ قائل نہیں\nجس نے افرنگی سیاست کو کیا یوں بے حجاب",
-            "lang": "Original"
-          },
-          {
-            "_content": "بے حجاب: بے پردہ۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Third Advisor: I can’t admire his prudence and care, who laid bare the Europe’s statecraft snare.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "میں تو اس کی عاقبت بینی کا کچھ قائل نہیں\nجس نے افرنگی سیاست کو کیا یوں بے حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے حجاب: بے پردہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Third Advisor: I can’t admire his prudence and care, who laid bare the Europe’s statecraft snare.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "پانچواں مشیرابلیس کو مخاطب کرکے",

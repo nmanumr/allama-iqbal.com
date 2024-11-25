@@ -217,43 +217,47 @@
     },
     {
       "name": "حکیم مریخی",
-      "Verse": {
-        "id": "25",
-        "Text": [
-          {
-            "_content": "کس در اینجا سائل و محروم نیست\nعبد و مولا حاکم و محکوم نیست",
-            "lang": "Original"
-          },
-          {
-            "_content": "اس جگہ نہ کوئی سائل ہے ، نہ کوئی محروم، نہ کوئی غلام ہے نہ آقا، نہ حکیم، نہ محکوم۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "No one here is a mendicant or destitute, slave and master, ruler and ruled, here are none.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "کس در اینجا سائل و محروم نیست\nعبد و مولا حاکم و محکوم نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جگہ نہ کوئی سائل ہے ، نہ کوئی محروم، نہ کوئی غلام ہے نہ آقا، نہ حکیم، نہ محکوم۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No one here is a mendicant or destitute, slave and master, ruler and ruled, here are none.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "زندہ رود ",
-      "Verse": {
-        "id": "27",
-        "Text": [
-          {
-            "_content": "سائل و محروم تقدیر حق است\nحاکم و محکوم تقدیر حق است\nجز خدا کس خالق تقدیر نیست\nچارۂ تقدیر از تدبیر نیست",
-            "lang": "Original"
-          },
-          {
-            "_content": "سائل اور محروم یا حاکم و محکوم ہونا اللہ تعالے کی تقدیر ہے۔\nاللہ تعالے ہی تقدیر کے خالق ہیں، تقدیر کا علاج تقدیر سے ممکن نہیں۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nMendicant and destitute are so by God’s decree, by God’s decree ruler and ruled;\nNone but God is the creator of destiny and against destiny human design is powerless.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "سائل و محروم تقدیر حق است\nحاکم و محکوم تقدیر حق است\nجز خدا کس خالق تقدیر نیست\nچارۂ تقدیر از تدبیر نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "سائل اور محروم یا حاکم و محکوم ہونا اللہ تعالے کی تقدیر ہے۔\nاللہ تعالے ہی تقدیر کے خالق ہیں، تقدیر کا علاج تقدیر سے ممکن نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nMendicant and destitute are so by God’s decree, by God’s decree ruler and ruled;\nNone but God is the creator of destiny and against destiny human design is powerless.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "حکیم مریخی",

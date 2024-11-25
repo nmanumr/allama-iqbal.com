@@ -358,23 +358,25 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "41",
-        "Text": [
-          {
-            "+content": "زورق ما خاکیان بے ناخداست\nکس نداند عالم قرآن کجاست",
-            "lang": "Original"
-          },
-          {
-            "+content": "ہم خاکیوں کی کشتی بغیر ملاح کے ہے؛ کوئی نہیں جانتا کہ قرآن پاک کا جہان کہاں ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "+content": "Zinda-Rud\nThe barque of us terrestrials has no helmsman, no one knows where the Koran’s world lies.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "41",
+          "Text": [
+            {
+              "+content": "زورق ما خاکیان بے ناخداست\nکس نداند عالم قرآن کجاست",
+              "lang": "Original"
+            },
+            {
+              "+content": "ہم خاکیوں کی کشتی بغیر ملاح کے ہے؛ کوئی نہیں جانتا کہ قرآن پاک کا جہان کہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Zinda-Rud\nThe barque of us terrestrials has no helmsman, no one knows where the Koran’s world lies.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "افغانی",

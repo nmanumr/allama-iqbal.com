@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "بساطم خالی از مرغ کباب است\nنہ در جامم می آئینہ تاب است\nغزال من خورد برگ گیاہی\nولی خون دل او مشک ناب است",
-          "lang": "Original"
-        },
-        {
-          "_content": "میرا دستر خوان مرغ کے کباب سے خالی ہے؛ میرے جام میں قیمتی شراب بھی نہیں۔ \nمیرا غزال گھاس کے پتے کھاتا ہے؛ مگر اس کے دل کا خون مشک نافہ کے خون کی مانند (خوشبودار ) ہے۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "I have no roasted fowl on which to sup; no mirror-shining wine is in my cup; \nUpon green grasses grazes my gazelle, yet fragrant musk filleth his heartblood up. \n(Translated by A.J. Arberry)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بساطم خالی از مرغ کباب است\nنہ در جامم می آئینہ تاب است\nغزال من خورد برگ گیاہی\nولی خون دل او مشک ناب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا دستر خوان مرغ کے کباب سے خالی ہے؛ میرے جام میں قیمتی شراب بھی نہیں۔ \nمیرا غزال گھاس کے پتے کھاتا ہے؛ مگر اس کے دل کا خون مشک نافہ کے خون کی مانند (خوشبودار ) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have no roasted fowl on which to sup; no mirror-shining wine is in my cup; \nUpon green grasses grazes my gazelle, yet fragrant musk filleth his heartblood up. \n(Translated by A.J. Arberry)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

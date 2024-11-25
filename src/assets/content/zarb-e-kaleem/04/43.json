@@ -5,24 +5,28 @@
   "bookName": "ضربِ کلیم",
   "+@SectionID": "04",
   "sectionName": "ادبیات فنون لطیفہ",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "چھوڑ یورپ کے لیے رقص بدن کے خم و پیچ\nروح کے رقص میں ہے ضرب کلیم اللہی\nصلہ اس رقص کا ہے تشنگی کام و دہن\nصلہ اس رقص کا درویشی و شاہنشاہی",
-          "lang": "Original"
-        },
-        {
-          "+content": "کام و دہن: مونہہ اور حلق۔",
-          "lang": "Urdu"
-        },
-        {
-          "+content": "DANCE\nThe turns and twists required for dance, leave to Franks who jump and bound when soul is in ecstatic dance, the strokes like Moses' Rod resound.\nA palate parched and mouth athirst are needs that body's dance confers, whereas soul's rapturous dance, Derveshhood and mighty realms prefers.\n(Translated by Syed Akbar Ali Shah)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چھوڑ یورپ کے لیے رقص بدن کے خم و پیچ\nروح کے رقص میں ہے ضرب کلیم اللہی\nصلہ اس رقص کا ہے تشنگی کام و دہن\nصلہ اس رقص کا درویشی و شاہنشاہی",
+              "lang": "Original"
+            },
+            {
+              "+content": "کام و دہن: مونہہ اور حلق۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "DANCE\nThe turns and twists required for dance, leave to Franks who jump and bound when soul is in ecstatic dance, the strokes like Moses' Rod resound.\nA palate parched and mouth athirst are needs that body's dance confers, whereas soul's rapturous dance, Derveshhood and mighty realms prefers.\n(Translated by Syed Akbar Ali Shah)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

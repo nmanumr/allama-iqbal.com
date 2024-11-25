@@ -5,59 +5,61 @@
   "bookName": "ضربِ کلیم",
   "+@SectionID": "05",
   "sectionName": "سیاست مشرق و مغرب",
-  "Para": {
-    "name": "",
-    "Verse": [
-      {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "رندان فرانسیس کا میخانہ سلامت \nپر ہے م ے گلرنگ سے ہر شیشہ حلب کا",
-            "lang": "Original"
-          },
-          {
-            "_content": "حلب: شام کا شہر (الپو، جہاں ان دنوں مغربی طاقتوں کی ایما پر خون ریزی ہو رہی ہے) اس زمانے میں شیشہ بنانے کے لیے مشہور تھا۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "SYRIA AND PALESTINE\nHeaven’s blessing on those brazen Frenchmen shine! Aleppo’s rare glass brims with their red wine.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "03",
-        "Text": [
-          {
-            "_content": "ہے خاک فلسطیں پہ یہودی کا اگر حق \nہسپانیہ پر حق نہیں کیوں اہل عرب کا",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "If the Jew claims the soil of Palestine; why not the Arab Spain?",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "05",
-        "Text": [
-          {
-            "_content": "مقصد ہے ملوکیت انگلیس کا کچھ اور \nقصہ نہیں نارنج کا یا شہد و رطب کا",
-            "lang": "Original"
-          },
-          {
-            "_content": "نارنج: نارنگی، سنگترہ۔ \nرطب: چھوہارا ، کھجور۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Some new design must have inflamed our English potentates; this is no story of oranges, honey or dates. \n(Translated by Syed Akbar Ali Shah)",
-            "lang": "English"
-          }
-        ]
-      }
-    ]
-  }
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رندان فرانسیس کا میخانہ سلامت \nپر ہے م ے گلرنگ سے ہر شیشہ حلب کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "حلب: شام کا شہر (الپو، جہاں ان دنوں مغربی طاقتوں کی ایما پر خون ریزی ہو رہی ہے) اس زمانے میں شیشہ بنانے کے لیے مشہور تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "SYRIA AND PALESTINE\nHeaven’s blessing on those brazen Frenchmen shine! Aleppo’s rare glass brims with their red wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہے خاک فلسطیں پہ یہودی کا اگر حق \nہسپانیہ پر حق نہیں کیوں اہل عرب کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the Jew claims the soil of Palestine; why not the Arab Spain?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مقصد ہے ملوکیت انگلیس کا کچھ اور \nقصہ نہیں نارنج کا یا شہد و رطب کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "نارنج: نارنگی، سنگترہ۔ \nرطب: چھوہارا ، کھجور۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Some new design must have inflamed our English potentates; this is no story of oranges, honey or dates. \n(Translated by Syed Akbar Ali Shah)",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

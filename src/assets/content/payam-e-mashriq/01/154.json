@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "بجان من کہ جان نقش تن انگیخت\nہوای جلوہ این گل را دو رو کرد\nہزاران شیوہ دارد جان بیتاب\nبدن گردد چو با یک شیوہ خو کرد",
-          "lang": "Original"
-        },
-        {
-          "_content": "مجھے اپنی جان کی قسم! کہ روح ہی نے تن کو پیدا کیا ہے، نظارے کے شوق میں اس نے اس پھول کو دو رو بنا دیا ہے۔ (حواس بدنی ہی کے ذریعے اس دنیا کو دیکھ جا سکتا ہے)۔\nجان بیتاب کے ہزاروں رنگ ہیں، مگر جب اس نے ایک رنگ اختیار کر لیا تو تن بن گیا۔ (ارتباط حرف و معنی، اختلاط جان و تن ؛ جس طرح اخگر قبا پوش اپنے خاکستر سے ہے)۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "The soul designed the body, love of self-display thus fashioning a double-tinted rose.\nThe soul assumes a thousand forms, all fresh. content with one, it would become mere flesh.\n[Translated by M Hadi Hussain]",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بجان من کہ جان نقش تن انگیخت\nہوای جلوہ این گل را دو رو کرد\nہزاران شیوہ دارد جان بیتاب\nبدن گردد چو با یک شیوہ خو کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے اپنی جان کی قسم! کہ روح ہی نے تن کو پیدا کیا ہے، نظارے کے شوق میں اس نے اس پھول کو دو رو بنا دیا ہے۔ (حواس بدنی ہی کے ذریعے اس دنیا کو دیکھ جا سکتا ہے)۔\nجان بیتاب کے ہزاروں رنگ ہیں، مگر جب اس نے ایک رنگ اختیار کر لیا تو تن بن گیا۔ (ارتباط حرف و معنی، اختلاط جان و تن ؛ جس طرح اخگر قبا پوش اپنے خاکستر سے ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The soul designed the body, love of self-display thus fashioning a double-tinted rose.\nThe soul assumes a thousand forms, all fresh. content with one, it would become mere flesh.\n[Translated by M Hadi Hussain]",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

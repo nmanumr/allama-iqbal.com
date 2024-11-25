@@ -5,24 +5,28 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "03",
   "sectionName": "رباعیات",
-  "Para": {
-    "name": "",
-    "Verse": [{
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "ترا جوہر ہے نوری، پاک ہے تو \nفروغ دیدئہ افلاک ہے تو \nترے صید زبوں افرشتہ و حور \nکہ شاہین شہ لولاک ہے تو!",
-          "lang": "Original"
-        },
-        {
-          "_content": "شہ لولاک: رسول پاک (صلعم)۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "Pure in nature thou art, thy nature is light; thou art the star in the firmament.\nThou not an eagle of the King of Men, thy preys are the nymphs and the angels bright. \n(Translated by Naim Siddiqui)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ترا جوہر ہے نوری، پاک ہے تو \nفروغ دیدئہ افلاک ہے تو \nترے صید زبوں افرشتہ و حور \nکہ شاہین شہ لولاک ہے تو!",
+              "lang": "Original"
+            },
+            {
+              "_content": "شہ لولاک: رسول پاک (صلعم)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pure in nature thou art, thy nature is light; thou art the star in the firmament.\nThou not an eagle of the King of Men, thy preys are the nymphs and the angels bright. \n(Translated by Naim Siddiqui)",
+              "lang": "English"
+            }
+          ]
         }
       ]
-    }]
-  }
+    }
+  ]
 }

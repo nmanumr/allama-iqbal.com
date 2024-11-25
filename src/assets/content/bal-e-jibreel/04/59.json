@@ -8,41 +8,45 @@
   "Para": [
     {
       "name": "چیونٹی",
-      "Verse": {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "میں پائمال و خوار و پریشان و دردمند \nتیرا مقام کیوں ہے ستاروں سے بھی بلند؟",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "THE ANT AND THE EAGLE \nANT: I am so miserable and forlorn: Why is your station loftier than the skies?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میں پائمال و خوار و پریشان و دردمند \nتیرا مقام کیوں ہے ستاروں سے بھی بلند؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "THE ANT AND THE EAGLE \nANT: I am so miserable and forlorn: Why is your station loftier than the skies?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "عقاب",
-      "Verse": {
-        "id": "03",
-        "Text": [
-          {
-            "_content": "تو رزق اپنا ڈھونڈتی ہے خاک راہ میں \nمیں نہ سپہر کو نہیں لاتا نگاہ میں",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "EAGLE: You forage about in dusty paths; the nine heavens are as nothing to me!\n(Translated by Mustansir Mir)",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تو رزق اپنا ڈھونڈتی ہے خاک راہ میں \nمیں نہ سپہر کو نہیں لاتا نگاہ میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "EAGLE: You forage about in dusty paths; the nine heavens are as nothing to me!\n(Translated by Mustansir Mir)",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

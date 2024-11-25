@@ -1558,23 +1558,25 @@
     },
     {
       "name": "",
-      "Verse": {
-        "id": "181",
-        "Text": [
-          {
-            "_content": "\"آدمی دید است باقی پوست است\nدید آن باشد کہ دید دوست است\nجملہ تن را در گداز اندر بصر\nدر نظر رو، در نظر رو، در نظر\"\nرومی",
-            "lang": "Original"
-          },
-          {
-            "_content": "'آدمی فقط نگاہ ہے، باقی بدن نرا چھلکا ہے؛ اور نگاہ وہ ہے جو دوست (حق تعالے) کا دیدار کرے۔\nاپنے سارے بدن کو پگھلا کر نگاہ بنا لے؛ نگاہ حاصل کر، نگاہ حاصل کر'۔رومی \n(لوں لوں وچ ہون صد صد چشماں - حضرت سلطان باہو)",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "‘Man is but sight, the rest is mere skin; true sight signifies seeing the Beloved.\nDissolve the whole body into sight – go to gazing, go to gazing, go to gaze!’",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "181",
+          "Text": [
+            {
+              "_content": "\"آدمی دید است باقی پوست است\nدید آن باشد کہ دید دوست است\nجملہ تن را در گداز اندر بصر\nدر نظر رو، در نظر رو، در نظر\"\nرومی",
+              "lang": "Original"
+            },
+            {
+              "_content": "'آدمی فقط نگاہ ہے، باقی بدن نرا چھلکا ہے؛ اور نگاہ وہ ہے جو دوست (حق تعالے) کا دیدار کرے۔\nاپنے سارے بدن کو پگھلا کر نگاہ بنا لے؛ نگاہ حاصل کر، نگاہ حاصل کر'۔رومی \n(لوں لوں وچ ہون صد صد چشماں - حضرت سلطان باہو)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Man is but sight, the rest is mere skin; true sight signifies seeing the Beloved.\nDissolve the whole body into sight – go to gazing, go to gazing, go to gaze!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "",

@@ -8,23 +8,25 @@
   "Para": [
     {
       "name": "",
-      "Verse": {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "کہ شد بر سر وحدت واقف آخر؟\nشناسای چہ آمد عارف آخر؟",
-            "lang": "Original"
-          },
-          {
-            "_content": "آخر سر وحدت سے کون واقف ہوا؟ کس کے شناسا کو عارف کہا جاتا ہے؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "QUESTION 9\nWho at last became familiar with the secret of unity? Who is the wise man that is agnostic?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہ شد بر سر وحدت واقف آخر؟\nشناسای چہ آمد عارف آخر؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "آخر سر وحدت سے کون واقف ہوا؟ کس کے شناسا کو عارف کہا جاتا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "QUESTION 9\nWho at last became familiar with the secret of unity? Who is the wise man that is agnostic?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "جواب",

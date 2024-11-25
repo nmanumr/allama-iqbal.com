@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "جہان مشت گل و دل حاصل اوست\nہمین یک قطرۂ خون مشکل اوست\nنگاہ ما دو بین افتاد ورنہ\nجہان ھر کسی اندر دل اوست",
-          "lang": "Original"
-        },
-        {
-          "_content": "یہ جہان خاک کی مٹھی ہے اور دل اس کا حاصل ہے ؛ اسی ایک قطرہ ء خون کو سنبھالنا اس کی مشکل ہے۔ \nہماری نظر (جہان اور دل) دونوں کو الگ الگ دیکھتی ہے؛ ورنہ ہر شخص کا جہان اس کے اپنے دل کے اندر ہے۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "The world is clay; our hearts its harvest be; yet is this drop of blood its mystery.\nSurely our sight is double, or the world of every man is in his heart to see. \n(Translated by A.J. Arberry)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان مشت گل و دل حاصل اوست\nہمین یک قطرۂ خون مشکل اوست\nنگاہ ما دو بین افتاد ورنہ\nجہان ھر کسی اندر دل اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جہان خاک کی مٹھی ہے اور دل اس کا حاصل ہے ؛ اسی ایک قطرہ ء خون کو سنبھالنا اس کی مشکل ہے۔ \nہماری نظر (جہان اور دل) دونوں کو الگ الگ دیکھتی ہے؛ ورنہ ہر شخص کا جہان اس کے اپنے دل کے اندر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world is clay; our hearts its harvest be; yet is this drop of blood its mystery.\nSurely our sight is double, or the world of every man is in his heart to see. \n(Translated by A.J. Arberry)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

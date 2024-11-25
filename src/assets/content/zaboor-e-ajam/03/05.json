@@ -8,23 +8,25 @@
   "Para": [
     {
       "name": "",
-      "Verse": {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "قدیم و محدث از ہم چون جدا شد\nکہ این عالم شد آن دیگر خدا شد\nاگر معروف و عارف ذات پاکست\nچہ سودا در سر این مشت خاکست",
-            "lang": "Original"
-          },
-          {
-            "_content": "قدیم اور محدث ایک دوسرے سے کیسے جدا ہوئے، کہ محدث جہان بن گیا اور قدیم خدا رہا۔ \nاگر ذات پاک (اللہ تعالے) ہی معروف و عارف ہے تو پھر اس مشت خاک (انسان) کے سو میں کیا سودا (عشق ذات پاک) سمایا ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "QUESTION 4\nHow did the eternal and temporal separate that one became the world, and the other God?\nIf the knower and known are the One pure essence, what are the aspirations of this handful of earth?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قدیم و محدث از ہم چون جدا شد\nکہ این عالم شد آن دیگر خدا شد\nاگر معروف و عارف ذات پاکست\nچہ سودا در سر این مشت خاکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "قدیم اور محدث ایک دوسرے سے کیسے جدا ہوئے، کہ محدث جہان بن گیا اور قدیم خدا رہا۔ \nاگر ذات پاک (اللہ تعالے) ہی معروف و عارف ہے تو پھر اس مشت خاک (انسان) کے سو میں کیا سودا (عشق ذات پاک) سمایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "QUESTION 4\nHow did the eternal and temporal separate that one became the world, and the other God?\nIf the knower and known are the One pure essence, what are the aspirations of this handful of earth?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "جواب",

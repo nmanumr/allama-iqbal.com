@@ -200,23 +200,25 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "23",
-        "Text": [
-          {
-            "_content": "اے کہ گفتی نکتہ ہای دلنواز\nمشرق از گفتار تو دانای راز\nشعر را سوز از کجا آید بگوی\nاز خودی یا از خدا آید بگوی",
-            "lang": "Original"
-          },
-          {
-            "_content": "آپ نے اپنے اشعار میں دلنواز نکتے بیان کیے ہیں ؛ آپ کے کلام سے مشرق زندگی کے رازوں سے باخبر ہوا۔\nمجھے بتایئے شعر میں سوز کہاں سے آتا ہے ؟ خودی سے پیدا ہوتا ہے ؛ یا اللہ تعالے کی طرف سے عنایت ہوتا ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nYou who have wttered heart-delighting subtleties, through whose discourse the East knows all mysteries,\nSay, whence comes the fire into poetry? Does it come from the Self, or from God?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اے کہ گفتی نکتہ ہای دلنواز\nمشرق از گفتار تو دانای راز\nشعر را سوز از کجا آید بگوی\nاز خودی یا از خدا آید بگوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے اپنے اشعار میں دلنواز نکتے بیان کیے ہیں ؛ آپ کے کلام سے مشرق زندگی کے رازوں سے باخبر ہوا۔\nمجھے بتایئے شعر میں سوز کہاں سے آتا ہے ؟ خودی سے پیدا ہوتا ہے ؛ یا اللہ تعالے کی طرف سے عنایت ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nYou who have wttered heart-delighting subtleties, through whose discourse the East knows all mysteries,\nSay, whence comes the fire into poetry? Does it come from the Self, or from God?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "برتری ہری",
@@ -310,23 +312,25 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "37",
-        "Text": [
-          {
-            "_content": "ہندیان را دیدہ ام در پیچ و تاب\nسر حق وقتست گوئی بے حجاب",
-            "lang": "Original"
-          },
-          {
-            "_content": "میں نے ہندیوں کو پیچ و تاب میں دیکھا ہے کہ آپ اللہ تعالے کے راز کو وا شگاف بیان کر دیں۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nI have seen the Indians twisting this way and that; it is time you told the secret of God unveiled.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ہندیان را دیدہ ام در پیچ و تاب\nسر حق وقتست گوئی بے حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے ہندیوں کو پیچ و تاب میں دیکھا ہے کہ آپ اللہ تعالے کے راز کو وا شگاف بیان کر دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nI have seen the Indians twisting this way and that; it is time you told the secret of God unveiled.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "برتری ہری",

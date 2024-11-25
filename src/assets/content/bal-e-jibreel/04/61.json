@@ -5,23 +5,27 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "04",
   "sectionName": "منظومات",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "کل اپنے مریدوں سے کہا پیر مغاں نے \nقیمت میں یہ معنی ہے درناب سے دہ چند \nزہراب ہے اس قوم کے حق میں مےء افرنگ \nجس قوم کے بچے نہیں خوددار و ہنرمند",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "STANZA\nThe mentor exhorted his disciples once: Listen to my words, in value greater than gold:\nThe Western wine is poison for the people, when the offspring knows neither pride nor skill.\n(Translated by Naim Siddiqui)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کل اپنے مریدوں سے کہا پیر مغاں نے \nقیمت میں یہ معنی ہے درناب سے دہ چند \nزہراب ہے اس قوم کے حق میں مےء افرنگ \nجس قوم کے بچے نہیں خوددار و ہنرمند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "STANZA\nThe mentor exhorted his disciples once: Listen to my words, in value greater than gold:\nThe Western wine is poison for the people, when the offspring knows neither pride nor skill.\n(Translated by Naim Siddiqui)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

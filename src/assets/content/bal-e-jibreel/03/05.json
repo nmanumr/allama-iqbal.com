@@ -5,23 +5,27 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "03",
   "sectionName": "رباعیات",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "پریشاں کاروبار آشنائی \nپریشاں تر مری رنگیں نوائی! \nکبھی میں ڈھونڈتا ہوں لذت وصل \nخوش آتا ہے کبھی سوز جدائی!",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "Confused is the nature of my love for Thee, and more confused is my song in Thy praise. \nFor I sometimes do relish fulfillment, at other times, a yearning in my heart.\n(Translated by Naim Siddiqui)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پریشاں کاروبار آشنائی \nپریشاں تر مری رنگیں نوائی! \nکبھی میں ڈھونڈتا ہوں لذت وصل \nخوش آتا ہے کبھی سوز جدائی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Confused is the nature of my love for Thee, and more confused is my song in Thy praise. \nFor I sometimes do relish fulfillment, at other times, a yearning in my heart.\n(Translated by Naim Siddiqui)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

@@ -5,108 +5,110 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "01",
   "sectionName": "حصہ اول",
-  "Para": {
-    "name": "",
-    "Verse": [
-      {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "اگر کج رو ہیں انجم، آسماں تیرا ہے یا میرا \nمجھے فکر جہاں کیوں ہو، جہاں تیرا ہے یا میرا؟",
-            "lang": "Original"
-          },
-          {
-            "_content": "کج رو: ٹیڑھا چلنا۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "If the stars are astray, the heavens are Thine, not mine. Why should I fret about the world? The world is Thine, not mine.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "03",
-        "Text": [
-          {
-            "_content": "اگر ہنگامہ ہائے شوق سے ہے لامکاں خالی \nخطا کس کی ہے یا رب! لامکاں تیرا ہے یا میرا؟",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "If Thy world is cold, devoid of the warmth of passion; whose fault is it, my Lord? That world is Thine, not mine.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "05",
-        "Text": [
-          {
-            "_content": "اسے صبح ازل انکار کی جرات ہوئی کیونکر \nمجھے معلوم کیا، وہ راز داں تیرا ہے یا میرا؟",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "How dared he defy Thee, at the dawn of life? It was he who was Thy confidant; it is Thy secret, not mine.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "07",
-        "Text": [
-          {
-            "_content": "محمد بھی ترا، جبریل بھی، قرآن بھی تیرا \nمگر یہ حرف شیریں ترجماں تیرا ہے یا میرا؟",
-            "lang": "Original"
-          },
-          {
-            "_content": "حرف شيريں: میٹھے الفاظ، اشارہ ہے اپنی شاعری کی طرف۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "The apostle is Thine, and Gabriel, and so is the Holy Word, but whose life does the Holy Word concern? Is it Thine or mine?",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "09",
-        "Text": [
-          {
-            "_content": "اسی کوکب کی تابانی سے ہے تیرا جہاں روشن \nزوال آدم خاکی زیاں تیرا ہے یا میرا؟",
-            "lang": "Original"
-          },
-          {
-            "_content": "اسي کوکب: اسی ستارے، مراد ہے انسان۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Man is the star that brightens Thy lonely, desolate world; will the eclipse of this star be a loss of Thine or mine?",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "11",
-        "Text": [
-          {
-            "_content": "ترے شیشے میں مے باقی نہیں ہے \nبتا، کیا تو مرا ساقی نہیں ہے \nسمندر سے ملے پیاسے کو شبنم \nبخیلی ہے یہ رزاقی نہیں ہے",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "All potent wine is emptied of Thy cask; art Thou, indeed, a Cup’s bearer, may I ask?\nThou gavest me a drop from an ocean; Art Thou a miser in a Nourisher’s mask?\n[Translated by Naim Siddiqui]",
-            "lang": "English"
-          }
-        ]
-      }
-    ]
-  }
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اگر کج رو ہیں انجم، آسماں تیرا ہے یا میرا \nمجھے فکر جہاں کیوں ہو، جہاں تیرا ہے یا میرا؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "کج رو: ٹیڑھا چلنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the stars are astray, the heavens are Thine, not mine. Why should I fret about the world? The world is Thine, not mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اگر ہنگامہ ہائے شوق سے ہے لامکاں خالی \nخطا کس کی ہے یا رب! لامکاں تیرا ہے یا میرا؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Thy world is cold, devoid of the warmth of passion; whose fault is it, my Lord? That world is Thine, not mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اسے صبح ازل انکار کی جرات ہوئی کیونکر \nمجھے معلوم کیا، وہ راز داں تیرا ہے یا میرا؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How dared he defy Thee, at the dawn of life? It was he who was Thy confidant; it is Thy secret, not mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "محمد بھی ترا، جبریل بھی، قرآن بھی تیرا \nمگر یہ حرف شیریں ترجماں تیرا ہے یا میرا؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "حرف شيريں: میٹھے الفاظ، اشارہ ہے اپنی شاعری کی طرف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The apostle is Thine, and Gabriel, and so is the Holy Word, but whose life does the Holy Word concern? Is it Thine or mine?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اسی کوکب کی تابانی سے ہے تیرا جہاں روشن \nزوال آدم خاکی زیاں تیرا ہے یا میرا؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسي کوکب: اسی ستارے، مراد ہے انسان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man is the star that brightens Thy lonely, desolate world; will the eclipse of this star be a loss of Thine or mine?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ترے شیشے میں مے باقی نہیں ہے \nبتا، کیا تو مرا ساقی نہیں ہے \nسمندر سے ملے پیاسے کو شبنم \nبخیلی ہے یہ رزاقی نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All potent wine is emptied of Thy cask; art Thou, indeed, a Cup’s bearer, may I ask?\nThou gavest me a drop from an ocean; Art Thou a miser in a Nourisher’s mask?\n[Translated by Naim Siddiqui]",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

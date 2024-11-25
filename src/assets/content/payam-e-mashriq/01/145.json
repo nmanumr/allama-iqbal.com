@@ -5,23 +5,27 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "مرا مثل نسیم آوارہ کردند\nدلم مانند گل صد پارہ کردند\nنگاہم را کہ پیدا ہم نبیند\nشہید لذت نظارہ کردند",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "I am a wanderer like the breeze of morn, rose-like my heart is into fragments torn.\nMy glance, which cannot see the evident, a martyr to the joy of sight is borne.\n(Translated by M. Hadi Husain)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرا مثل نسیم آوارہ کردند\nدلم مانند گل صد پارہ کردند\nنگاہم را کہ پیدا ہم نبیند\nشہید لذت نظارہ کردند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a wanderer like the breeze of morn, rose-like my heart is into fragments torn.\nMy glance, which cannot see the evident, a martyr to the joy of sight is borne.\n(Translated by M. Hadi Husain)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

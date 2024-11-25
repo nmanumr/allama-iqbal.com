@@ -5,23 +5,27 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "04",
   "sectionName": "منظومات",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "جرات ہے تو افکار کی دنیا سے گزر جا \nہیں بحر خودی میں ابھی پوشیدہ جزیرے \nکھلتے نہیں اس قلزم خاموش کے اسرار \nجب تک تو اسے ضرب کلیمی سے نہ چیرے",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "TO THE PSYCHOLOGIST\nTranscend the intellect if you have courage to do so: there are islands hidden in the ocean of the self as yet.\nThe secrets of this silent sea, however, do not yield until you cut it with the blow of the Moses’ rod.\n(Translated by Naim Siddiqui)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جرات ہے تو افکار کی دنیا سے گزر جا \nہیں بحر خودی میں ابھی پوشیدہ جزیرے \nکھلتے نہیں اس قلزم خاموش کے اسرار \nجب تک تو اسے ضرب کلیمی سے نہ چیرے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "TO THE PSYCHOLOGIST\nTranscend the intellect if you have courage to do so: there are islands hidden in the ocean of the self as yet.\nThe secrets of this silent sea, however, do not yield until you cut it with the blow of the Moses’ rod.\n(Translated by Naim Siddiqui)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

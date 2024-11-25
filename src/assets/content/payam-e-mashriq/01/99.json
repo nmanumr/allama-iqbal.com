@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "تو گوئی طایر ما زیر دام است\nپریدن بر پر و بالش حرام است\nز تن بر جستہ تر شد معنی جان\nفسان خنجر ما از نیام است",
-          "lang": "Original"
-        },
-        {
-          "_content": "تو کہتا ہے کہ ہمارا پرندہ (روح) جال کے نیچے ہے؛ اس کے پر و بال کے لیے پرواز نا ممکن ہے۔\nروح کی معنویّت تن کی وجہ سے بلند تر ہو گئی ہے ؛ ہمارا نیام (بدن ) ہمارے خنجر (روح) کے لیے سان کا کام کرتا ہے، (عمل بدن کرتا ہے اور ارتقا روح کو حاصل ہوتا ہے )۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "Thou sayest, ‘Lo, our bird is in the snare, no more shall he stretch wings and fly in air’; \nYet grows the soul more salient through the flesh our dagger’s whetted by its scabbard there. \n(Translated by M. Hadi Husain)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو گوئی طایر ما زیر دام است\nپریدن بر پر و بالش حرام است\nز تن بر جستہ تر شد معنی جان\nفسان خنجر ما از نیام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کہتا ہے کہ ہمارا پرندہ (روح) جال کے نیچے ہے؛ اس کے پر و بال کے لیے پرواز نا ممکن ہے۔\nروح کی معنویّت تن کی وجہ سے بلند تر ہو گئی ہے ؛ ہمارا نیام (بدن ) ہمارے خنجر (روح) کے لیے سان کا کام کرتا ہے، (عمل بدن کرتا ہے اور ارتقا روح کو حاصل ہوتا ہے )۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou sayest, ‘Lo, our bird is in the snare, no more shall he stretch wings and fly in air’; \nYet grows the soul more salient through the flesh our dagger’s whetted by its scabbard there. \n(Translated by M. Hadi Husain)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

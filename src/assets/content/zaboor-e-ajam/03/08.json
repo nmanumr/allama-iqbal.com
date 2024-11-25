@@ -8,23 +8,25 @@
   "Para": [
     {
       "name": "",
-      "Verse": {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "مسافر چون بود رہرو کدام است\nکرا گویم کہ او مرد تمام است",
-            "lang": "Original"
-          },
-          {
-            "_content": "مسافر کیسا ہوتا ہے، راہرو کون ہے؟ مرد کامل کسے کہتے ہیں؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "QUESTION 7 \nOf what sort is this traveler, who is the wayfarer? Of whom shall I say that he is the Perfect Man?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مسافر چون بود رہرو کدام است\nکرا گویم کہ او مرد تمام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسافر کیسا ہوتا ہے، راہرو کون ہے؟ مرد کامل کسے کہتے ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "QUESTION 7 \nOf what sort is this traveler, who is the wayfarer? Of whom shall I say that he is the Perfect Man?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "جواب",

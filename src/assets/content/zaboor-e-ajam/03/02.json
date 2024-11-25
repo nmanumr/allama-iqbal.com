@@ -8,23 +8,25 @@
   "Para": [
     {
       "name": "",
-      "Verse": {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "نخست از فکر خویشم در تحیر\nچہ چیز است آنکہ گویندش تفکر\nکدامین فکر ما را شرط راہ است\nچرا گہ طاعت و گاہی گناہ است",
-            "lang": "Original"
-          },
-          {
-            "_content": "پہلی بات تو یہ ہے کہ میں اپنے فکر کے بارے میں حیرت کدہ ہوں، وہ کیا چیز ہے جسے تفکر کہتے ہیں۔\nکون سا فکر راہ (ہدایت ) پانے کے لیے ضروری ہے، یہ کیوں ہے کہ فکر کبھی اطاعت کی طرف لے جاتا ہے اور کبھی گناہ کی طرف۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "QUESTION 1\nFirst of all I am perplexed about my thought: What is that which is called ‘thought’? \nWhat sort of thought is the condition of my path? Why is it sometimes obedience, sometimes sin?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نخست از فکر خویشم در تحیر\nچہ چیز است آنکہ گویندش تفکر\nکدامین فکر ما را شرط راہ است\nچرا گہ طاعت و گاہی گناہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہلی بات تو یہ ہے کہ میں اپنے فکر کے بارے میں حیرت کدہ ہوں، وہ کیا چیز ہے جسے تفکر کہتے ہیں۔\nکون سا فکر راہ (ہدایت ) پانے کے لیے ضروری ہے، یہ کیوں ہے کہ فکر کبھی اطاعت کی طرف لے جاتا ہے اور کبھی گناہ کی طرف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "QUESTION 1\nFirst of all I am perplexed about my thought: What is that which is called ‘thought’? \nWhat sort of thought is the condition of my path? Why is it sometimes obedience, sometimes sin?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "جواب",

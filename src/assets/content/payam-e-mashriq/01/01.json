@@ -8,22 +8,24 @@
   "Para": [
     {
       "name": "بسم اﷲ الرحمن الرحیم",
-      "Verse": {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "پیشکش بحضور اعلیحضرت امیرامان اﷲ خان\nفرمانروای دولت مستقلۂ افغانستان خلد اﷲ",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "DEDICATORY EPISTLE TO KING AMANULLAH KHAN OF AFGHANISTAN",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پیشکش بحضور اعلیحضرت امیرامان اﷲ خان\nفرمانروای دولت مستقلۂ افغانستان خلد اﷲ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "DEDICATORY EPISTLE TO KING AMANULLAH KHAN OF AFGHANISTAN",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "ملکہ وا جلالہ",

@@ -5,40 +5,42 @@
   "bookName": "بانگِ درا",
   "+@SectionID": "04",
   "sectionName": "ظریفانہ",
-  "Para": {
-    "name": "",
-    "Verse": [
-      {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "مشرق میں اصول دین بن جاتے ہیں \nمغرب میں مگر مشین بن جاتے ہیں",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "In the East principles are changed to religion, but in the West they are changed into machines.\nWe do not retain even one of them; there one is changed into three. \n(Reference to the doctrine of Trinity) \n(Translated by M.A.K. Khalil)",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "03",
-        "Text": [
-          {
-            "_content": "رہتا نہیں ایک بھی ہمارے پلے \nواں ایک کے تین تین بن جاتے ہیں",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "lang": "English"
-          }
-        ]
-      }
-    ]
-  }
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مشرق میں اصول دین بن جاتے ہیں \nمغرب میں مگر مشین بن جاتے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the East principles are changed to religion, but in the West they are changed into machines.\nWe do not retain even one of them; there one is changed into three. \n(Reference to the doctrine of Trinity) \n(Translated by M.A.K. Khalil)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "رہتا نہیں ایک بھی ہمارے پلے \nواں ایک کے تین تین بن جاتے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -5,91 +5,93 @@
   "bookName": "ضربِ کلیم",
   "+@SectionID": "01",
   "sectionName": "اسلام اور مسلمان",
-  "Para": {
-    "name": "",
-    "Verse": [
-      {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "ہو بندہ آزاد اگر صاحب الہام\nہے اس کی نگاہ فکروعمل کے لیے مہمیز",
-            "lang": "Original"
-          },
-          {
-            "_content": "مہمیز: لوہے کا کانٹا جو گھڑ سوار کی ایڑھی میں لگا ہوتا ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "REVELATION AND FREEDOM\nWith zeal and fervour man is fired by looks of man by God inspired.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "03",
-        "Text": [
-          {
-            "_content": "اس کے نفس گرم کی تاثیر ہے ایسی\nھو جاتی ہے خاک چمنستان شرر آمیز",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "The intense heat his breath imparts, a blaze in park and orchard starts.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "05",
-        "Text": [
-          {
-            "_content": "شاہیں کی ادا ھوتی ہے بلبل میں نمودار\nکس درجہ بدل جاتے ہیں مرغان سحر خیز",
-            "lang": "Original"
-          },
-          {
-            "_content": "مرغان سحر خیز: صبح کے وقت گانے والے پرندے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "The mode of hawks the thrush displays, the birds that chirp change mode and ways.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "07",
-        "Text": [
-          {
-            "_content": "اس مرد خود آگاہ خدامست کی صحبت\nدیتی ہے گداوں کو شکوہ جم و پرویز",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Such man rapt with God's Love can raise, low-born to rank of Jam and Parvez.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "09",
-        "Text": [
-          {
-            "_content": "محکوم کہ الہام سے اللہ بچاے\nغارت گراقوام ہے وہ صورت چنگیز",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "God save from revelations of a thrall, like Changez, he leads to nations' fall!\n(Translated by Syed Akbar Ali Shah)",
-            "lang": "English"
-          }
-        ]
-      }
-    ]
-  }
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہو بندہ آزاد اگر صاحب الہام\nہے اس کی نگاہ فکروعمل کے لیے مہمیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "مہمیز: لوہے کا کانٹا جو گھڑ سوار کی ایڑھی میں لگا ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "REVELATION AND FREEDOM\nWith zeal and fervour man is fired by looks of man by God inspired.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اس کے نفس گرم کی تاثیر ہے ایسی\nھو جاتی ہے خاک چمنستان شرر آمیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The intense heat his breath imparts, a blaze in park and orchard starts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "شاہیں کی ادا ھوتی ہے بلبل میں نمودار\nکس درجہ بدل جاتے ہیں مرغان سحر خیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرغان سحر خیز: صبح کے وقت گانے والے پرندے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mode of hawks the thrush displays, the birds that chirp change mode and ways.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اس مرد خود آگاہ خدامست کی صحبت\nدیتی ہے گداوں کو شکوہ جم و پرویز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such man rapt with God's Love can raise, low-born to rank of Jam and Parvez.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "محکوم کہ الہام سے اللہ بچاے\nغارت گراقوام ہے وہ صورت چنگیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God save from revelations of a thrall, like Changez, he leads to nations' fall!\n(Translated by Syed Akbar Ali Shah)",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

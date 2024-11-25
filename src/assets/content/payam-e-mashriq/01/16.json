@@ -5,23 +5,27 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "ز آب و گل خدا خوش پیکری ساخت\nجہانی از ارم زیبا تری ساخت\nولی ساقی بہ آن آتش کہ دارد\nز خاک من جہان دیگری ساخت",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "Of water and of clay a figure fine God wrought, a world than Eden more divine. \nAnd still the saki fashioned with his flame another world out of this dust of mine.\n(Translated by A.J. Arberry)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز آب و گل خدا خوش پیکری ساخت\nجہانی از ارم زیبا تری ساخت\nولی ساقی بہ آن آتش کہ دارد\nز خاک من جہان دیگری ساخت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of water and of clay a figure fine God wrought, a world than Eden more divine. \nAnd still the saki fashioned with his flame another world out of this dust of mine.\n(Translated by A.J. Arberry)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

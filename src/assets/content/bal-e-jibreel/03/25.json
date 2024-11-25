@@ -5,23 +5,27 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "03",
   "sectionName": "رباعیات",
-  "Para": {
-    "name": "",
-    "Verse": [{
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "کرم تیرا کہ بے جوہر نہیں میں \nغلام طغرل و سنجر نہیں میں \nجہاں بینی مری فطرت ہے لیکن \nکسی جمشید کا ساغر نہیں میں",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "Thank Thee, O Lord, I am not without talent born; I am not a slave of kings and potentates.\nThough born I am with a power to see the world, I belong to none, like Jamsheed's all-seeing glass.\n(Translated by Naeem Siddiqui)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کرم تیرا کہ بے جوہر نہیں میں \nغلام طغرل و سنجر نہیں میں \nجہاں بینی مری فطرت ہے لیکن \nکسی جمشید کا ساغر نہیں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thank Thee, O Lord, I am not without talent born; I am not a slave of kings and potentates.\nThough born I am with a power to see the world, I belong to none, like Jamsheed's all-seeing glass.\n(Translated by Naeem Siddiqui)",
+              "lang": "English"
+            }
+          ]
         }
       ]
-    }]
-  }
+    }
+  ]
 }

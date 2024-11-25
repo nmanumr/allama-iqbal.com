@@ -98,23 +98,25 @@
     },
     {
       "name": "ابدالی",
-      "Verse": {
-        "id": "11",
-        "Text": [
-          {
-            "_content": "آن جوان کو سلطنت ہا آفرید\nباز در کوہ و قفار خود رمید\nآتشے در کوہسارش بر فروخت\nخوش عیار آمد برون یا پاک سوخت",
-            "lang": "Original"
-          },
-          {
-            "_content": "وہ افغان جوان جس نے کئی سلطنتوں کی بنیاد ڈالی اور پھر وہ اپنے پہاڑوں اور بیابانوں کی طرف واپس چلا گیا۔\nاس نے اپنے کہسار میں آ گ بھڑکائی پھر کیا وہ اس آگ کے اندر سے پختہ تر ہو کر نکلا یا اسی میں جل گیا؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Abdali\nThat youth who created dominions, then fled back to his mountains and deserts,\nKindled a fire on his mountain-peaks – did he emerge of fine assay, or was he utterly consumed?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آن جوان کو سلطنت ہا آفرید\nباز در کوہ و قفار خود رمید\nآتشے در کوہسارش بر فروخت\nخوش عیار آمد برون یا پاک سوخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ افغان جوان جس نے کئی سلطنتوں کی بنیاد ڈالی اور پھر وہ اپنے پہاڑوں اور بیابانوں کی طرف واپس چلا گیا۔\nاس نے اپنے کہسار میں آ گ بھڑکائی پھر کیا وہ اس آگ کے اندر سے پختہ تر ہو کر نکلا یا اسی میں جل گیا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Abdali\nThat youth who created dominions, then fled back to his mountains and deserts,\nKindled a fire on his mountain-peaks – did he emerge of fine assay, or was he utterly consumed?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "زندہ رود",
@@ -1010,23 +1012,25 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "117",
-        "Text": [
-          {
-            "_content": "ہندیان منکر ز قانون فرنگ\nدر نگیرد سحر و افسون فرنگ\nروح را بار گران آئین غیر\nگرچہ آید ز آسمان آئین غیر",
-            "lang": "Original"
-          },
-          {
-            "_content": "آج کل ہندی قانون فرنگ سے انکاری ہیں؛ وہ فرنگیوں کے سحر و افسوں کو قبول نہیں کرتے۔\nغیر کا آئین روح پر بار گراں ثابت ہوتا ہے؛ خواہ وہ آسمان ہی سے کیوں نہ اترا ہو۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nThe Indians reject the statutes of Europe; they are immune to Europe’s magic charms;\nAlien laws are a heavy burden on the soul even though they descend from heaven itself.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "117",
+          "Text": [
+            {
+              "_content": "ہندیان منکر ز قانون فرنگ\nدر نگیرد سحر و افسون فرنگ\nروح را بار گران آئین غیر\nگرچہ آید ز آسمان آئین غیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "آج کل ہندی قانون فرنگ سے انکاری ہیں؛ وہ فرنگیوں کے سحر و افسوں کو قبول نہیں کرتے۔\nغیر کا آئین روح پر بار گراں ثابت ہوتا ہے؛ خواہ وہ آسمان ہی سے کیوں نہ اترا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nThe Indians reject the statutes of Europe; they are immune to Europe’s magic charms;\nAlien laws are a heavy burden on the soul even though they descend from heaven itself.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "سلطان شہید",
@@ -1120,23 +1124,25 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "131",
-        "Text": [
-          {
-            "_content": "تخم اشکی ریختم اندر دکن\nلالہ ہا روید ز خاک آن چمن\nرود کاویری مدام اندر سفر\nدیدہ ام در جان او شوری دگر",
-            "lang": "Original"
-          },
-          {
-            "_content": "میں نے دکن میں اپنے آنسوؤں کے دانے بوئے ہیں اور اس چمن کی خاک سے گلہائے لالہ پیدا ہوئے ہیں۔\nدریائے کاویری جو ہر وقت سفر میں ہے اس کی جان میں ایک نیا شور دیکھا ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nI scattered the seeds of my tears in Deccan; tulips are growing from the soil of that garden;\nThe river Cauvery unceasing on its journey – in its soul I have beheld a new commotion.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "131",
+          "Text": [
+            {
+              "_content": "تخم اشکی ریختم اندر دکن\nلالہ ہا روید ز خاک آن چمن\nرود کاویری مدام اندر سفر\nدیدہ ام در جان او شوری دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے دکن میں اپنے آنسوؤں کے دانے بوئے ہیں اور اس چمن کی خاک سے گلہائے لالہ پیدا ہوئے ہیں۔\nدریائے کاویری جو ہر وقت سفر میں ہے اس کی جان میں ایک نیا شور دیکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nI scattered the seeds of my tears in Deccan; tulips are growing from the soil of that garden;\nThe river Cauvery unceasing on its journey – in its soul I have beheld a new commotion.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "سلطان شہید",

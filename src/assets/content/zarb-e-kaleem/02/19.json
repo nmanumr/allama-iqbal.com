@@ -5,23 +5,27 @@
   "bookName": "ضربِ کلیم",
   "+@SectionID": "02",
   "sectionName": "تعلیم و تربیت",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "پر ہے افکار سے ان مدرسے والوں کا ضمیر \nخوب و ناخوب کی اس دور میں ہے کس کو تمیز! \nچاہیے خانہ دل کی کوئی منزل خالی \nشاید آجائے کہیں سے کوئی مہمان عزیز",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "HONOURED GUEST\nThe minds of, those who go to school, in thoughts quite fresh and new are clad Alas! There are such people few who draw a line 'twixt good and bad.\nPerhaps some luminous thought may flash across the inmost part of heart for such inspiring thoughts one must set some recess in heart apart.\n[Translated by Syed Akbar Ali Shah]",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پر ہے افکار سے ان مدرسے والوں کا ضمیر \nخوب و ناخوب کی اس دور میں ہے کس کو تمیز! \nچاہیے خانہ دل کی کوئی منزل خالی \nشاید آجائے کہیں سے کوئی مہمان عزیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "HONOURED GUEST\nThe minds of, those who go to school, in thoughts quite fresh and new are clad Alas! There are such people few who draw a line 'twixt good and bad.\nPerhaps some luminous thought may flash across the inmost part of heart for such inspiring thoughts one must set some recess in heart apart.\n[Translated by Syed Akbar Ali Shah]",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

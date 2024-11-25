@@ -5,23 +5,27 @@
   "bookName": "بانگِ درا",
   "+@SectionID": "04",
   "sectionName": "ظریفانہ",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "دیکھے چلتی ہے مشرق کی تجارت کب تک\nشیشہ دیں کے عوض جام و سبو لیتا ہے \nہے مداوائے جنون نشتر تعلیم جدید \nمیرا سرجن رگ ملت سے لہو لیتا ہے",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "Let us see how long this business of the East lasts; people are buying cups and jars instead of din’s goblets.\nThe cure of Love is the new education’s lancet; my surgeon is drawing blood from the Millat’svein. \n(Translated by M.A.K. Khalil)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دیکھے چلتی ہے مشرق کی تجارت کب تک\nشیشہ دیں کے عوض جام و سبو لیتا ہے \nہے مداوائے جنون نشتر تعلیم جدید \nمیرا سرجن رگ ملت سے لہو لیتا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let us see how long this business of the East lasts; people are buying cups and jars instead of din’s goblets.\nThe cure of Love is the new education’s lancet; my surgeon is drawing blood from the Millat’svein. \n(Translated by M.A.K. Khalil)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

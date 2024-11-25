@@ -455,23 +455,25 @@
     },
     {
       "name": "نادر",
-      "Verse": {
-        "id": "53",
-        "Text": [
-          {
-            "_content": "خوش بیا اے نکتہ سنج خاوری\nاے کہ می زیبد ترا حرف دری\nمحرم رازیم با ما راز گوے\nآنچہ میدانی ز ایران باز گوی",
-            "lang": "Original"
-          },
-          {
-            "_content": "اے نکتہ دان مشرق خوش آمدید ؛ تجھے فارسی زبان میں شعر گوئی زیب دیتی ہے۔\nہم محرم راز ہیں ہم سے راز کی بات کر جو کچھ تجھے ایران کے متعلق معلوم ہے وہ بتا۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Nadir\nWelcome to you, eastern weaver of subtleties whose lips the Persian speech so well beseems!\nWe are your intimate friends; tell us your secret, reveal what you know of Iran.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "خوش بیا اے نکتہ سنج خاوری\nاے کہ می زیبد ترا حرف دری\nمحرم رازیم با ما راز گوے\nآنچہ میدانی ز ایران باز گوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے نکتہ دان مشرق خوش آمدید ؛ تجھے فارسی زبان میں شعر گوئی زیب دیتی ہے۔\nہم محرم راز ہیں ہم سے راز کی بات کر جو کچھ تجھے ایران کے متعلق معلوم ہے وہ بتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nadir\nWelcome to you, eastern weaver of subtleties whose lips the Persian speech so well beseems!\nWe are your intimate friends; tell us your secret, reveal what you know of Iran.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "زندہ رود",

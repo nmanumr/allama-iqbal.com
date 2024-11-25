@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "ز خاک نرگسستان غنچہ ئی رست\nکہ خواب از چشم او شبنم فرو شست\nخودی از بیخودے آمد پدیدار\nجہان دریافت آخر آنچہ می جست",
-          "lang": "Original"
-        },
-        {
-          "_content": "دنیا کی خاک سے نرگس کی کلی پیدا ہوئی؛ پھر اس کی آنکھ سے شبنم کا اثر دھویا۔\nبے خودی سے خودی ظاہر ہوئی؛ جہان نے آخر وہ چیز پا لی جس کی وہ تلاش میں تھا۔ (میلاد آدم کی طرف اشار ہ ہے)",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "In the narcissus bed a bud did rise, the dew of dawn washed slumber from its eyes. \nSelf out of selflessness appeared, and so what it had sought, the world did realize. \n(Translated by M. Hadi Husain)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز خاک نرگسستان غنچہ ئی رست\nکہ خواب از چشم او شبنم فرو شست\nخودی از بیخودے آمد پدیدار\nجہان دریافت آخر آنچہ می جست",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا کی خاک سے نرگس کی کلی پیدا ہوئی؛ پھر اس کی آنکھ سے شبنم کا اثر دھویا۔\nبے خودی سے خودی ظاہر ہوئی؛ جہان نے آخر وہ چیز پا لی جس کی وہ تلاش میں تھا۔ (میلاد آدم کی طرف اشار ہ ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the narcissus bed a bud did rise, the dew of dawn washed slumber from its eyes. \nSelf out of selflessness appeared, and so what it had sought, the world did realize. \n(Translated by M. Hadi Husain)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

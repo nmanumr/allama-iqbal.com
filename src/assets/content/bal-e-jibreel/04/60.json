@@ -5,23 +5,27 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "04",
   "sectionName": "منظومات",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "فطرت مری مانند نسیم سحری ہے \nرفتار ہے میری کبھی آہستہ، کبھی تیز \nپہناتا ہوں اطلس کی قبا لالہ و گل کو \nکرتا ہوں سر خار کو سوزن کی طرح تیز",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "STANZA\nMy nature is like the fresh breeze of morn: Gentle sometimes, at other times strong;\nI give a velvet mantle to flower petals, and to prickly thorns, the sharpness of the needle.\n(Translated by Naeem Siddiqui)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فطرت مری مانند نسیم سحری ہے \nرفتار ہے میری کبھی آہستہ، کبھی تیز \nپہناتا ہوں اطلس کی قبا لالہ و گل کو \nکرتا ہوں سر خار کو سوزن کی طرح تیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "STANZA\nMy nature is like the fresh breeze of morn: Gentle sometimes, at other times strong;\nI give a velvet mantle to flower petals, and to prickly thorns, the sharpness of the needle.\n(Translated by Naeem Siddiqui)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

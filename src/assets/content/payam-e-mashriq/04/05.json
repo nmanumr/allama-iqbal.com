@@ -8,103 +8,113 @@
   "Para": [
     {
       "name": "تولستوی",
-      "Verse": {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "بارکش اہرمن لشکری شھریار\nاز پی نان جوین تیغ ستم بر کشید\nزشت بہ چشمش نکوست مغز نداند ز پوست\nمردک بیگانہ دوست سینۂ خویشان درید\nداروی بیہوشی است تاج، کلیسا، وطن\nجان خدا داد را خواجہ بجامی خرید",
-            "lang": "Original"
-          },
-          {
-            "_content": "عالم بالا میں گزرے ہوؤں کی محفل ۔\nبادشاہ کی فوج کا سپاہی شیطان کا باربردار ہے، معمولی روٹی کے لیے ظلم کی تلوار چلاتا ہے۔\nبد اس کی نظروں میں نیک ہے، وہ مغز ا ور چھلکے میں فرق نہیں کرتا ، یہ احمق غیروں کا ہمدرد ہے اور اپنوں کا سینہ چیرتا ہے۔ \nاج ، کلیسا، اور وطن انسان کو بیہوش کر دینے والی ادویات (تصورات) ہیں۔آقا عوام کو یہ جام پلا کر ان سے اللہ تعالے کی عطا کردہ جان خرید لیتا ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "AN ASSEMBLAGE IN THE OTHER WORLD\nTolstoy: Ahriman’s hirelings, warriors of kings, draw oppression’s sword for a loaf of bread.\nEvil is their good, and the husk their food. Friends of others, these are their own kin’s foes.\nCountry, church and crown are narcotics grown by the masters to buy their slaves’ souls with.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بارکش اہرمن لشکری شھریار\nاز پی نان جوین تیغ ستم بر کشید\nزشت بہ چشمش نکوست مغز نداند ز پوست\nمردک بیگانہ دوست سینۂ خویشان درید\nداروی بیہوشی است تاج، کلیسا، وطن\nجان خدا داد را خواجہ بجامی خرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "عالم بالا میں گزرے ہوؤں کی محفل ۔\nبادشاہ کی فوج کا سپاہی شیطان کا باربردار ہے، معمولی روٹی کے لیے ظلم کی تلوار چلاتا ہے۔\nبد اس کی نظروں میں نیک ہے، وہ مغز ا ور چھلکے میں فرق نہیں کرتا ، یہ احمق غیروں کا ہمدرد ہے اور اپنوں کا سینہ چیرتا ہے۔ \nاج ، کلیسا، اور وطن انسان کو بیہوش کر دینے والی ادویات (تصورات) ہیں۔آقا عوام کو یہ جام پلا کر ان سے اللہ تعالے کی عطا کردہ جان خرید لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "AN ASSEMBLAGE IN THE OTHER WORLD\nTolstoy: Ahriman’s hirelings, warriors of kings, draw oppression’s sword for a loaf of bread.\nEvil is their good, and the husk their food. Friends of others, these are their own kin’s foes.\nCountry, church and crown are narcotics grown by the masters to buy their slaves’ souls with.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "کارل مارکس",
-      "Verse": {
-        "id": "07",
-        "Text": [
-          {
-            "_content": "رازدان جزو و کل از خویش نامحرم شد است\nآدم از سرمایہ داری قاتل آدم شد است",
-            "lang": "Original"
-          },
-          {
-            "_content": "انسان جو جزو و کل کا رازدان تھا، اپنے آپ سے نا محرم ہو چکا ہے، سرمایہ داری کی وجہ سے انسان، انسان کا قاتل بن گیا ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Karl Marx: For all his wisdom, man is not yet self-aware, and capitalism has rendered man man’s murderer.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "رازدان جزو و کل از خویش نامحرم شد است\nآدم از سرمایہ داری قاتل آدم شد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "انسان جو جزو و کل کا رازدان تھا، اپنے آپ سے نا محرم ہو چکا ہے، سرمایہ داری کی وجہ سے انسان، انسان کا قاتل بن گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Karl Marx: For all his wisdom, man is not yet self-aware, and capitalism has rendered man man’s murderer.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "ھگل",
-      "Verse": {
-        "id": "09",
-        "Text": [
-          {
-            "_content": "جلوہ دہد باغ و راغ معنی مستور را\nعین حقیقت نگر حنطل و انگور را\nفطرت اضداد خیز لذت پیکار داد\nخواجہ و مزدور را، آمر و مأمور را",
-            "lang": "Original"
-          },
-          {
-            "_content": "باغ و راغ نے چھپے ہوئے معنی ظاہر کر دیے ، حنظل اور انگور کو عین حقیقت دیکھ۔\nاضداد پیدا کرنے والی فطرت نے خواجہ و مزدور اور آمر و مامور کو تصادم کی لذت دی (فلسفہ ء جدلیات کی طرف اشارہ ہے)",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Hegel: Reality is double-faced. The orchard and the desert are two aspects of it that one sees. To know the whole truth one must taste both grapes and bitter gourds.\nSo fond is Nature of antitheses that it has set at war employees and employers, slaves and lords.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جلوہ دہد باغ و راغ معنی مستور را\nعین حقیقت نگر حنطل و انگور را\nفطرت اضداد خیز لذت پیکار داد\nخواجہ و مزدور را، آمر و مأمور را",
+              "lang": "Original"
+            },
+            {
+              "_content": "باغ و راغ نے چھپے ہوئے معنی ظاہر کر دیے ، حنظل اور انگور کو عین حقیقت دیکھ۔\nاضداد پیدا کرنے والی فطرت نے خواجہ و مزدور اور آمر و مامور کو تصادم کی لذت دی (فلسفہ ء جدلیات کی طرف اشارہ ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hegel: Reality is double-faced. The orchard and the desert are two aspects of it that one sees. To know the whole truth one must taste both grapes and bitter gourds.\nSo fond is Nature of antitheses that it has set at war employees and employers, slaves and lords.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "تولستوی",
-      "Verse": {
-        "id": "11",
-        "Text": [
-          {
-            "_content": "عقل دو رو آفرید فلسفہ خود پرست\nدرس رضا میدہی بندۂ مزدور را",
-            "lang": "Original"
-          },
-          {
-            "_content": "عقل جس کے دو رخ ہیں ، اس نے خود پرستی کا فلسفہ ایجاد کیا ، کیا تو بندہ ء مزدور کو تقدیر پر راضی رہنے کا درس دیتا ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Tolstoy: The two-faced intellect with its philosophy of egotism bids the worker suffer patiently.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عقل دو رو آفرید فلسفہ خود پرست\nدرس رضا میدہی بندۂ مزدور را",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل جس کے دو رخ ہیں ، اس نے خود پرستی کا فلسفہ ایجاد کیا ، کیا تو بندہ ء مزدور کو تقدیر پر راضی رہنے کا درس دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tolstoy: The two-faced intellect with its philosophy of egotism bids the worker suffer patiently.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "مزدک",
-      "Verse": {
-        "id": "13",
-        "Text": [
-          {
-            "_content": "دانۂ ایران ز کشت زار و قیصر بر دمید\nمرگ نو می رقصد اندر قصر سلطان و امیر\nمدتی در آتش نمرود می سوزد خلیل\nتا تہی گردد حریمش از خداوندان پیر\nدور پرویزی گذشت اے کشتۂ پرویز خیز\nنعمت گم گشتۂ خود را ز خسرو باز گیر",
-            "lang": "Original"
-          },
-          {
-            "_content": "ایران کا دانہ زار اور قیصر کی کھیتی سے اگا، اب سلطان اور امیر کے محلات میں نئی موت رقص کر رہی ہے۔ \nخلیل (علیہ) ایک مدت تک آتش نمرود میں جلتا ہے ، تب کہیں اس کا حرم پرانے خداوندوں سے خالی ہوتا ہے۔ \nپرویز کا دور گزر گیا ، اے قتیل پرویز اٹھ، اپنی گم شدہ نعمت اس سے واپس لے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Mazdak: Iran’s seed sprouts forth from the soil of the empires of the Kaisers and the Czars. Death dances a new dance in kings’ and rich men’s palaces.\nFor ages does an Abraham burn in a Nimrod’s fire before he can cast out old idols from the sanctuary of his Lord.\nGone is the age of Parvez, wake up now, O victims of his tyranny. Wrest back from him the good things he deprived you of.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دانۂ ایران ز کشت زار و قیصر بر دمید\nمرگ نو می رقصد اندر قصر سلطان و امیر\nمدتی در آتش نمرود می سوزد خلیل\nتا تہی گردد حریمش از خداوندان پیر\nدور پرویزی گذشت اے کشتۂ پرویز خیز\nنعمت گم گشتۂ خود را ز خسرو باز گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایران کا دانہ زار اور قیصر کی کھیتی سے اگا، اب سلطان اور امیر کے محلات میں نئی موت رقص کر رہی ہے۔ \nخلیل (علیہ) ایک مدت تک آتش نمرود میں جلتا ہے ، تب کہیں اس کا حرم پرانے خداوندوں سے خالی ہوتا ہے۔ \nپرویز کا دور گزر گیا ، اے قتیل پرویز اٹھ، اپنی گم شدہ نعمت اس سے واپس لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mazdak: Iran’s seed sprouts forth from the soil of the empires of the Kaisers and the Czars. Death dances a new dance in kings’ and rich men’s palaces.\nFor ages does an Abraham burn in a Nimrod’s fire before he can cast out old idols from the sanctuary of his Lord.\nGone is the age of Parvez, wake up now, O victims of his tyranny. Wrest back from him the good things he deprived you of.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "کوہکن",

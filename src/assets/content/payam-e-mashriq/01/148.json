@@ -5,23 +5,27 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "خیالم کو گل از فردوس چیند\nچو مضمون غریبی آفریند\nدلم در سینہ می لرزد چو برگی\nکہ بر وی قطرۂ شبنم نشیند",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "My thought plucks flowers that in Eden grew to shape and fashion fancies rare and new.\nThen shakes my heart a leaf within my breast, a petal trembling ’neath the Summer dew. \n(Translated by M. Hadi Husain)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خیالم کو گل از فردوس چیند\nچو مضمون غریبی آفریند\nدلم در سینہ می لرزد چو برگی\nکہ بر وی قطرۂ شبنم نشیند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My thought plucks flowers that in Eden grew to shape and fashion fancies rare and new.\nThen shakes my heart a leaf within my breast, a petal trembling ’neath the Summer dew. \n(Translated by M. Hadi Husain)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

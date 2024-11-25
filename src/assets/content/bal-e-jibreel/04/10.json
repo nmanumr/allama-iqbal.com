@@ -8,41 +8,45 @@
   "Para": [
     {
       "name": "پروانہ",
-      "Verse": [{
-        "id": "01",
-        "Text": [
-          {
-            "_content": "پروانے کی منزل سے بہت دور ہے جگنو \nکیوں آتش بے سوز پہ مغرور ہے جگنو",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "THE MOTH AND THE FIREFLY\nMOTH: The firefly is so far removed from the status of the moth! Why is it so proud of a fire that cannot burn?",
-            "lang": "English"
-          }
-        ]
-      }]
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پروانے کی منزل سے بہت دور ہے جگنو \nکیوں آتش بے سوز پہ مغرور ہے جگنو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "THE MOTH AND THE FIREFLY\nMOTH: The firefly is so far removed from the status of the moth! Why is it so proud of a fire that cannot burn?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "جگنو",
-      "Verse": [{
-        "id": "03",
-        "Text": [
-          {
-            "_content": "اللہ کا سو شکر کہ پروانہ نہیں میں \nدریوزہ گر آتش بیگانہ نہیں میں",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "FIRE FLY: God be thanked a hundred times that I am not a moth: That I am no beggar of alien fire!\n(Translated by Mustansir Mir)",
-            "lang": "English"
-          }
-        ]
-      }]
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اللہ کا سو شکر کہ پروانہ نہیں میں \nدریوزہ گر آتش بیگانہ نہیں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "FIRE FLY: God be thanked a hundred times that I am not a moth: That I am no beggar of alien fire!\n(Translated by Mustansir Mir)",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

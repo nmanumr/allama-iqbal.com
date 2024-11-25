@@ -409,23 +409,25 @@
     },
     {
       "name": "جہان دوست",
-      "Verse": {
-        "id": "47",
-        "Text": [
-          {
-            "+content": "عالم از رنگست و بے رنگی است حق\nچیست عالم، چیست آدم، چیست حق؟\nرومی",
-            "lang": "Original"
-          },
-          {
-            "+content": "عالم رنگ سے ہے، اور حق تعالے بے رنگ ہیں؛ عالم کیا ہے؟ حق تعالے کیا (شان رکھتے ) ہیں؟",
-            "lang": "Urdu"
-          },
-          {
-            "+content": "The world is a thing of colour, and God is without colour. What is the world? What is man? What is God?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "47",
+          "Text": [
+            {
+              "+content": "عالم از رنگست و بے رنگی است حق\nچیست عالم، چیست آدم، چیست حق؟\nرومی",
+              "lang": "Original"
+            },
+            {
+              "+content": "عالم رنگ سے ہے، اور حق تعالے بے رنگ ہیں؛ عالم کیا ہے؟ حق تعالے کیا (شان رکھتے ) ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "The world is a thing of colour, and God is without colour. What is the world? What is man? What is God?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "رومی",

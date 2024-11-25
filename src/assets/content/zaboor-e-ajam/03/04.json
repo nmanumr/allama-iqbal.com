@@ -8,23 +8,25 @@
   "Para": [
     {
       "name": "",
-      "Verse": {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "وصال ممکن و واجب بہم چیست؟\nحدیث قرب و بعد و بیش و کم چیست؟",
-            "lang": "Original"
-          },
-          {
-            "_content": "ممکن (کائنات) اور واجب (ذات باری تعالے) کا ہم وصال کیسے ہے؟ قرب و بعد اور بیش و کم کی حقیقت کیا ہے؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "QUESTION 3\nWhat is the union of the contingent and the necessary? What are ‘near-and-far’, ‘more-and-less’?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وصال ممکن و واجب بہم چیست؟\nحدیث قرب و بعد و بیش و کم چیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "ممکن (کائنات) اور واجب (ذات باری تعالے) کا ہم وصال کیسے ہے؟ قرب و بعد اور بیش و کم کی حقیقت کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "QUESTION 3\nWhat is the union of the contingent and the necessary? What are ‘near-and-far’, ‘more-and-less’?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "جواب",

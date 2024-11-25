@@ -5,24 +5,28 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "04",
   "sectionName": "منظومات",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "اک مفلس خود دار یہ کہتا تھا خدا سے\nمیں کر نہیں سکتا گلہء درد فقیری\nلیکن یہ بتا، تیری اجازت سے فرشتے\nکرتے ہیں عطا مرد فرومایہ کو میری؟",
-          "lang": "Original"
-        },
-        {
-          "_content": "فرومايہ: بے حقیقت۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "QUESTION\nA self-respecting tramp was saying to the Almighty: I dare not complain for my woes of poverty;\nBut pray tell me if it is by Your permission that the angels bestow riches upon the worthless ones?\n(Translated by Naim Siddiqui)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک مفلس خود دار یہ کہتا تھا خدا سے\nمیں کر نہیں سکتا گلہء درد فقیری\nلیکن یہ بتا، تیری اجازت سے فرشتے\nکرتے ہیں عطا مرد فرومایہ کو میری؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرومايہ: بے حقیقت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "QUESTION\nA self-respecting tramp was saying to the Almighty: I dare not complain for my woes of poverty;\nBut pray tell me if it is by Your permission that the angels bestow riches upon the worthless ones?\n(Translated by Naim Siddiqui)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

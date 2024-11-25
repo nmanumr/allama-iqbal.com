@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "من از بود و نبود خود خموشم\nاگر گویم کہ ہستم خود پرستم\nولیکن این نوای سادہ کیست\nکسی در سینہ می گوید کہ ہستم",
-          "lang": "Original"
-        },
-        {
-          "_content": "میں اپنے ہونے یا نہ ہونے کے بارے میں خاموش ہوں ، اگر کہوں تو خود پرست سمجھا جاؤں گا۔\nلیکن یہ مدھم سی آواز کس کی ہے، کون میرے سینے کے اندر کہتا ہے کہ 'میں ہوں'۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "I do not say if I exist or not. To say I do were self-idolatry.\nBut what is this still, small voice saying, ‘I exist’? O who is this one inside me?\n[Translated by M Hadi Hussain]",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "من از بود و نبود خود خموشم\nاگر گویم کہ ہستم خود پرستم\nولیکن این نوای سادہ کیست\nکسی در سینہ می گوید کہ ہستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنے ہونے یا نہ ہونے کے بارے میں خاموش ہوں ، اگر کہوں تو خود پرست سمجھا جاؤں گا۔\nلیکن یہ مدھم سی آواز کس کی ہے، کون میرے سینے کے اندر کہتا ہے کہ 'میں ہوں'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not say if I exist or not. To say I do were self-idolatry.\nBut what is this still, small voice saying, ‘I exist’? O who is this one inside me?\n[Translated by M Hadi Hussain]",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

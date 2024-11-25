@@ -5,91 +5,93 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "01",
   "sectionName": "حصہ اول",
-  "Para": {
-    "name": "",
-    "Verse": [
-      {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "میری نوائے شوق سے شور حریم ذات میں \nغلغلہ ہائے الاماں بت کدئہ صفات میں",
-            "lang": "Original"
-          },
-          {
-            "_content": "ذات: باری تعالے کی ہستی ، وجود مطلق۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "A blaze is raging near His Throne by my strains that burn like flames; the cries of ‘Mercy!’ rise aloft from the Temple of His Names.\n\nBlaze: Conflagration. His Throne: The precincts of the Absolute Being or Harim-i-Zat, the original word in the text. Strains: Songs. Aloft: On high. Temple of His Names: The Temple of His attributes.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "03",
-        "Text": [
-          {
-            "_content": "حور و فرشتہ ہیں اسیر میرے تخیلات میں \nمیری نگاہ سے خلل تیری تجلیات میں",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Houris and angels, all alike, my soaring thought can keep in hold: The moulds in which Thou dost reveal get ruffled by my glances bold.\n\nMoulds: Shapes i.e., the different aspects in which God displays Himself. \nRuffled: Disturbed",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "05",
-        "Text": [
-          {
-            "_content": "گرچہ ہے میری جستجو دیر و حرم کی نقش بند \nمیری فغاں سے رستخیز کعبہ و سومنات میں",
-            "lang": "Original"
-          },
-          {
-            "_content": "نقش بند: نقش باندھنے والا، نقّاش۔ \nرستخیز: قیامت۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "In my search and quest for Thee Cloisters and Kirks I did design, but my groans and woeful wails can shake the founds of Fane and Shrine.\n\nCloister: a place of religious retirement, a sanctuary. Kirk: Scotch equivalent for church. Founds: Foundations. Pane: Temple. Shrine: Sanctuary.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "07",
-        "Text": [
-          {
-            "_content": "گاہ مری نگاہ تیز چیر گئی دل وجود \nگاہ الجھ کے رہ گئی میرے توہمات میں",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "There were times when my vision sharp pierced the heart and core of Life: Time again, fell short of mark by mine inner doubts and strife. \nMark: Target.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "09",
-        "Text": [
-          {
-            "_content": "تو نے یہ کیا غضب کیا، مجھ کو بھی فاش کر دیا \nمیں ہی تو اک راز تھا سینہء کائنات میں!",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "I was the only secret veil’d in Nature’s Womb in Latent form: When I was brought to light for show, what wondrous act Thou didst perform!\n\nWomb: Uterus, the organ in which the young of mammals are developed and kept till birth, the word in the poem is Sina-i-Kainat. Latent: Hidden.\n(Translated by Syed Akbar Ali Shah)",
-            "lang": "English"
-          }
-        ]
-      }
-    ]
-  }
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میری نوائے شوق سے شور حریم ذات میں \nغلغلہ ہائے الاماں بت کدئہ صفات میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذات: باری تعالے کی ہستی ، وجود مطلق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A blaze is raging near His Throne by my strains that burn like flames; the cries of ‘Mercy!’ rise aloft from the Temple of His Names.\n\nBlaze: Conflagration. His Throne: The precincts of the Absolute Being or Harim-i-Zat, the original word in the text. Strains: Songs. Aloft: On high. Temple of His Names: The Temple of His attributes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حور و فرشتہ ہیں اسیر میرے تخیلات میں \nمیری نگاہ سے خلل تیری تجلیات میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Houris and angels, all alike, my soaring thought can keep in hold: The moulds in which Thou dost reveal get ruffled by my glances bold.\n\nMoulds: Shapes i.e., the different aspects in which God displays Himself. \nRuffled: Disturbed",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گرچہ ہے میری جستجو دیر و حرم کی نقش بند \nمیری فغاں سے رستخیز کعبہ و سومنات میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "نقش بند: نقش باندھنے والا، نقّاش۔ \nرستخیز: قیامت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In my search and quest for Thee Cloisters and Kirks I did design, but my groans and woeful wails can shake the founds of Fane and Shrine.\n\nCloister: a place of religious retirement, a sanctuary. Kirk: Scotch equivalent for church. Founds: Foundations. Pane: Temple. Shrine: Sanctuary.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گاہ مری نگاہ تیز چیر گئی دل وجود \nگاہ الجھ کے رہ گئی میرے توہمات میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There were times when my vision sharp pierced the heart and core of Life: Time again, fell short of mark by mine inner doubts and strife. \nMark: Target.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تو نے یہ کیا غضب کیا، مجھ کو بھی فاش کر دیا \nمیں ہی تو اک راز تھا سینہء کائنات میں!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I was the only secret veil’d in Nature’s Womb in Latent form: When I was brought to light for show, what wondrous act Thou didst perform!\n\nWomb: Uterus, the organ in which the young of mammals are developed and kept till birth, the word in the poem is Sina-i-Kainat. Latent: Hidden.\n(Translated by Syed Akbar Ali Shah)",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

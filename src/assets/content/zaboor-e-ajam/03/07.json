@@ -8,23 +8,25 @@
   "Para": [
     {
       "name": "",
-      "Verse": [{
-        "id": "01",
-        "Text": [
-          {
-            "_content": "چہ جزو است آنکہ او از کل فزون است\nطریق جستن آن جزو چون است",
-            "lang": "Original"
-          },
-          {
-            "_content": "وہ 'جزو' کیا ہے جو کل (کائنات) سے بڑھ کر ہے؟ اور اس جزو کے پانے کا طریقہ کیا ہے؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "QUESTION 6\nWhat is that part which is greater than its whole? What is the way to find that part?",
-            "lang": "English"
-          }
-        ]
-      }]
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چہ جزو است آنکہ او از کل فزون است\nطریق جستن آن جزو چون است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ 'جزو' کیا ہے جو کل (کائنات) سے بڑھ کر ہے؟ اور اس جزو کے پانے کا طریقہ کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "QUESTION 6\nWhat is that part which is greater than its whole? What is the way to find that part?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "جواب",

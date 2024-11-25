@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "بہ شبنم غنچۂ نورستہ می گفت\nنگاہ ما چمن زادان رسا نیست\nدر آن پہنا کہ صد خورشید دارد\nتمیز پست و بالا ہست یا نیست",
-          "lang": "Original"
-        },
-        {
-          "_content": "نئی پیدا ہونے والی کلی نے شبنم سے کہا ؛ ہم چمن میں پیدا ہونے والوں کی نگاہ حقیقت تک نہیں ( تو جو آسمان سے ٹپکتی ہے تو ہمیں بتا)۔\nکہ اس وسعت میں جہاں سینکڑوں سورج ہیں؛ پست و بالا کا فرق ہے یا نہیں ہے۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "Thus spake the new-sprung blossom to the dew: ‘We meadow children have no piercing eye: \nIn this broad plain that holds a hundred suns; what difference exists ’twixt low and high?’\n(Translated by M. Hadi Husain)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ شبنم غنچۂ نورستہ می گفت\nنگاہ ما چمن زادان رسا نیست\nدر آن پہنا کہ صد خورشید دارد\nتمیز پست و بالا ہست یا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "نئی پیدا ہونے والی کلی نے شبنم سے کہا ؛ ہم چمن میں پیدا ہونے والوں کی نگاہ حقیقت تک نہیں ( تو جو آسمان سے ٹپکتی ہے تو ہمیں بتا)۔\nکہ اس وسعت میں جہاں سینکڑوں سورج ہیں؛ پست و بالا کا فرق ہے یا نہیں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thus spake the new-sprung blossom to the dew: ‘We meadow children have no piercing eye: \nIn this broad plain that holds a hundred suns; what difference exists ’twixt low and high?’\n(Translated by M. Hadi Husain)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

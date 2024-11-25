@@ -8,23 +8,25 @@
   "Para": [
     {
       "name": "",
-      "Verse": {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "چہ بحر است این کہ علمش ساحل آمد\nز قعر او چہ گوھر حاصل آمد",
-            "lang": "Original"
-          },
-          {
-            "_content": "یہ کیا سمندر ہے علم جس کا ساحل ہے؟ اور اس کی تہ میں کون سا موتی حاصل ہوتا ہے؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "QUESTION 2\nWhat is this ocean whose shore is knowledge? What is that pearl which is found in its depth?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چہ بحر است این کہ علمش ساحل آمد\nز قعر او چہ گوھر حاصل آمد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کیا سمندر ہے علم جس کا ساحل ہے؟ اور اس کی تہ میں کون سا موتی حاصل ہوتا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "QUESTION 2\nWhat is this ocean whose shore is knowledge? What is that pearl which is found in its depth?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "جواب",

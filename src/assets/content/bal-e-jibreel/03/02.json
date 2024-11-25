@@ -5,23 +5,27 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "03",
   "sectionName": "رباعیات",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "ظلام بحر میں کھو کر سنبھل جا \nتڑپ جا، پیچ کھا کھا کر بدل جا \nنہیں ساحل تری قسمت میں اے موج \nابھر کر جس طرف چاہے نکل جا!",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "O wave! Plunge headlong into the dark seas, and change thyself with many a twist and turn.\nThou was not born for the solace of the shore; arise, untamed, and find a path for thyself. \n(Translated by Naim Siddiqui)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ظلام بحر میں کھو کر سنبھل جا \nتڑپ جا، پیچ کھا کھا کر بدل جا \nنہیں ساحل تری قسمت میں اے موج \nابھر کر جس طرف چاہے نکل جا!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O wave! Plunge headlong into the dark seas, and change thyself with many a twist and turn.\nThou was not born for the solace of the shore; arise, untamed, and find a path for thyself. \n(Translated by Naim Siddiqui)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

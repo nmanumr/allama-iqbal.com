@@ -5,23 +5,27 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "03",
   "sectionName": "رباعیات",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "جمال عشق و مستی نے نوازی \nجلال عشق و مستی بے نیازی \nکمال عشق و مستی ظرف حیدر \nزوال عشق و مستی حرف رازی",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "The beauty of mystic love is shaped in song; the majesty of mystic love is abandon. \nThe peak of mystic love is Hyder’s power; the decline of mystic love is Razi’s word.\n(Translated by Naim Siddiqui)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جمال عشق و مستی نے نوازی \nجلال عشق و مستی بے نیازی \nکمال عشق و مستی ظرف حیدر \nزوال عشق و مستی حرف رازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The beauty of mystic love is shaped in song; the majesty of mystic love is abandon. \nThe peak of mystic love is Hyder’s power; the decline of mystic love is Razi’s word.\n(Translated by Naim Siddiqui)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

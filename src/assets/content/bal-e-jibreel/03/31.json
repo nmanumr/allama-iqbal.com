@@ -5,23 +5,27 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "03",
   "sectionName": "رباعیات",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "خرد واقف نہیں ہے نیک و بد سے \nبڑھی جاتی ہے ظالم اپنی حد سے \nخدا جانے مجھے کیا ہو گیا ہے \nخرد بیزار دل سے، دل خرد سے!",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "This reason of mine knows not good from evil; and tries to exceed the bounds that nature fixed.\nI know not what has happened to me of late, my reason and my heart are ever at war.\n(Translated by Naim Siddiqui)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خرد واقف نہیں ہے نیک و بد سے \nبڑھی جاتی ہے ظالم اپنی حد سے \nخدا جانے مجھے کیا ہو گیا ہے \nخرد بیزار دل سے، دل خرد سے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This reason of mine knows not good from evil; and tries to exceed the bounds that nature fixed.\nI know not what has happened to me of late, my reason and my heart are ever at war.\n(Translated by Naim Siddiqui)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

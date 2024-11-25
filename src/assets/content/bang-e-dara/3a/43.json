@@ -5,174 +5,176 @@
   "bookName": "بانگِ درا",
   "+@SectionID": "3a",
   "sectionName": "حصہ سوم",
-  "Para": {
-    "name": "",
-    "Verse": [
-      {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "مسلم سے ایک روز یہ اقبال نے کہا \nدیوان جزو و کل میں ہے تیرا وجود فرد",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "+content": "SHIBLI AND HALI\nOne day Iqbal said to the Muslim: ‘Your existence is unique in the universe.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "03",
-        "Text": [
-          {
-            "+content": "تیرے سرود رفتہ کے نغمے علوم نو \nتہذیب تیرے قافلہ ہائے کہن کی گرد",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "+content": "The tunes of your old songs are the basis of new knowledge; civilization is the dust of your old caravans.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "05",
-        "Text": [
-          {
-            "+content": "پتھر ہے اس کے واسطے موج نسیم بھی \nنازک بہت ہے آئنہ آبروئے مرد",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "+content": "Even the zephyr’s current is like stone to it; very delicate is the mirror of Man’s honour.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "07",
-        "Text": [
-          {
-            "+content": "مردان کار، ڈھونڈ کے اسباب حادثات \nکرتے ہیں چارئہ ستم چرخ لاجورد",
-            "lang": "Original"
-          },
-          {
-            "+content": "چرخ لاجورد: گہرا نیلا آسمان۔",
-            "lang": "Urdu"
-          },
-          {
-            "+content": "The men of action by discovering the causes of phenomena find the cure for the azure-colored sky’s cruelties.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "09",
-        "Text": [
-          {
-            "+content": "پوچھ ان سے جو چمن کے ہیں دیرنیہ رازدار \nکیونکر ہوئی خزاں ترے گلشن سے ہم نبرد",
-            "lang": "Original"
-          },
-          {
-            "+content": "ہم نبرد: لڑنے والا۔",
-            "lang": "Urdu"
-          },
-          {
-            "+content": "Ask them who are the old secret keepers of the garden: How the autumn became engaged in fight with your garden.’",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "11",
-        "Text": [
-          {
-            "+content": "مسلم مرے کلام سے بے تاب ہوگیا \nغماز ہوگئی غم پنہاں کی آہ سرد",
-            "lang": "Original"
-          },
-          {
-            "+content": "غماز: ظاہر کر دینا یعنی چغلی کھانا۔",
-            "lang": "Urdu"
-          },
-          {
-            "+content": "The Muslim became restless with my conversation; the sad sigh became betrayer of the inner sorrow.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "13",
-        "Text": [
-          {
-            "+content": "کہنے لگا کہ دیکھ تو کیفیت خزاں \nاوراق ہو گئے شجر زندگی کے زرد",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "+content": "He said ‘Just look at the autumn’s condition; the leaves of the tree of life have become pale.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "15",
-        "Text": [
-          {
-            "+content": "خاموش ہو گئے چمنستاں کے رازدار \nسرمایہ گداز تھی جن کی نوائے درد",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "+content": "Those garden’s secret keepers became silent; whose tune of pathos was the means of mellowness.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "17",
-        "Text": [
-          {
-            "+content": "شبلی کو رو رہے تھے ابھی اہل گلستاں \nحالی بھی ہوگیا سوئے فردوس رہ نورد",
-            "lang": "Original"
-          },
-          {
-            "+content": "سوئے فردوس رہ نورد: جنت کی طرف روانہ۔",
-            "lang": "Urdu"
-          },
-          {
-            "+content": "The garden’s inhabitants were still mourning Shibli when Hali also became a traveler towards Paradise.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "19",
-        "Text": [
-          {
-            "+content": "اکنوں کرا دماغ کہ پرسد زباغباں \nبلبل چہ گفت و گل چہ شنید و صبا چہ کرد",
-            "lang": "Original"
-          },
-          {
-            "+content": "اب یہ جرات کس میں ہے کہ باغباں سے استفسار کرے کہ بلبل نے کیا کہا، گل نے کیا سنا اور صبا نے کیا عمل کیا۔",
-            "lang": "Urdu"
-          },
-          {
-            "+content": "‘Still he is a fool who is asking the gardener: What did nightingale say, what did rose hear, what did zephyr do?’\n[Translated by Dr M A K Khalil]",
-            "lang": "English"
-          }
-        ]
-      }
-    ]
-  }
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مسلم سے ایک روز یہ اقبال نے کہا \nدیوان جزو و کل میں ہے تیرا وجود فرد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "+content": "SHIBLI AND HALI\nOne day Iqbal said to the Muslim: ‘Your existence is unique in the universe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "+content": "تیرے سرود رفتہ کے نغمے علوم نو \nتہذیب تیرے قافلہ ہائے کہن کی گرد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "+content": "The tunes of your old songs are the basis of new knowledge; civilization is the dust of your old caravans.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "+content": "پتھر ہے اس کے واسطے موج نسیم بھی \nنازک بہت ہے آئنہ آبروئے مرد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Even the zephyr’s current is like stone to it; very delicate is the mirror of Man’s honour.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "+content": "مردان کار، ڈھونڈ کے اسباب حادثات \nکرتے ہیں چارئہ ستم چرخ لاجورد",
+              "lang": "Original"
+            },
+            {
+              "+content": "چرخ لاجورد: گہرا نیلا آسمان۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "The men of action by discovering the causes of phenomena find the cure for the azure-colored sky’s cruelties.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "+content": "پوچھ ان سے جو چمن کے ہیں دیرنیہ رازدار \nکیونکر ہوئی خزاں ترے گلشن سے ہم نبرد",
+              "lang": "Original"
+            },
+            {
+              "+content": "ہم نبرد: لڑنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Ask them who are the old secret keepers of the garden: How the autumn became engaged in fight with your garden.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "+content": "مسلم مرے کلام سے بے تاب ہوگیا \nغماز ہوگئی غم پنہاں کی آہ سرد",
+              "lang": "Original"
+            },
+            {
+              "+content": "غماز: ظاہر کر دینا یعنی چغلی کھانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "The Muslim became restless with my conversation; the sad sigh became betrayer of the inner sorrow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "+content": "کہنے لگا کہ دیکھ تو کیفیت خزاں \nاوراق ہو گئے شجر زندگی کے زرد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "+content": "He said ‘Just look at the autumn’s condition; the leaves of the tree of life have become pale.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "+content": "خاموش ہو گئے چمنستاں کے رازدار \nسرمایہ گداز تھی جن کی نوائے درد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Those garden’s secret keepers became silent; whose tune of pathos was the means of mellowness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "+content": "شبلی کو رو رہے تھے ابھی اہل گلستاں \nحالی بھی ہوگیا سوئے فردوس رہ نورد",
+              "lang": "Original"
+            },
+            {
+              "+content": "سوئے فردوس رہ نورد: جنت کی طرف روانہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "The garden’s inhabitants were still mourning Shibli when Hali also became a traveler towards Paradise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "+content": "اکنوں کرا دماغ کہ پرسد زباغباں \nبلبل چہ گفت و گل چہ شنید و صبا چہ کرد",
+              "lang": "Original"
+            },
+            {
+              "+content": "اب یہ جرات کس میں ہے کہ باغباں سے استفسار کرے کہ بلبل نے کیا کہا، گل نے کیا سنا اور صبا نے کیا عمل کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "‘Still he is a fool who is asking the gardener: What did nightingale say, what did rose hear, what did zephyr do?’\n[Translated by Dr M A K Khalil]",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

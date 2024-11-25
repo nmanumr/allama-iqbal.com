@@ -5,24 +5,28 @@
   "bookName": "ارمغانِ حجاز",
   "+@SectionID": "04",
   "sectionName": "حضور عالم انسانیت",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "بباد صبحدم شبنم بنالید\nکہ دارم از تو امید نگاہی\nدلم افسردہ شد از صحبت گل\nچنان بگذر کہ ریزم بر گیاہی",
-          "lang": "Original"
-        },
-        {
-          "_content": "شبنم نے صبح کی ہوا سے رو کر کہا ، میں تجھ سے ایک مہربانی کی توقع رکھتی ہوں۔ \nپھول کی صحبت سے میرا دل افسردہ ہو چکا ہے، اب اس طرح گزر کہ میں گھاس پر گروں (خواص سے نا امید ہوں)۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "To the morning breeze’ weep’d the dew’ in trance, I cherish from thee a favour of glance.\nI have fostered gloom from the Rose,’ alas! Thus pass in a way that I fall on grass. \n[Translated by Q A Kabir]",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بباد صبحدم شبنم بنالید\nکہ دارم از تو امید نگاہی\nدلم افسردہ شد از صحبت گل\nچنان بگذر کہ ریزم بر گیاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "شبنم نے صبح کی ہوا سے رو کر کہا ، میں تجھ سے ایک مہربانی کی توقع رکھتی ہوں۔ \nپھول کی صحبت سے میرا دل افسردہ ہو چکا ہے، اب اس طرح گزر کہ میں گھاس پر گروں (خواص سے نا امید ہوں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the morning breeze’ weep’d the dew’ in trance, I cherish from thee a favour of glance.\nI have fostered gloom from the Rose,’ alas! Thus pass in a way that I fall on grass. \n[Translated by Q A Kabir]",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

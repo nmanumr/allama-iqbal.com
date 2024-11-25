@@ -5,23 +5,27 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "03",
   "sectionName": "رباعیات",
-  "Para": {
-    "name": "",
-    "Verse": [{
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "ترا تن روح سے ناآشنا ہے \nعجب کیا ! آہ تیری نارسا ہے \nتن بے روح سے بیزار ہے حق \nخدائے زندہ، زندوں کا خدا ہے",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "Thy body knows not the secrets of thy heart and so thy sighs reach not the heights of heaven.\nGod is disgusted with bodies without souls; the living God is the God of living souls. [Translated by Naim Siddiqui]",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ترا تن روح سے ناآشنا ہے \nعجب کیا ! آہ تیری نارسا ہے \nتن بے روح سے بیزار ہے حق \nخدائے زندہ، زندوں کا خدا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy body knows not the secrets of thy heart and so thy sighs reach not the heights of heaven.\nGod is disgusted with bodies without souls; the living God is the God of living souls. [Translated by Naim Siddiqui]",
+              "lang": "English"
+            }
+          ]
         }
       ]
-    }]
-  }
+    }
+  ]
 }

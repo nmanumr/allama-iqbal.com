@@ -188,23 +188,25 @@
     },
     {
       "name": "حوران بہشت",
-      "Verse": {
-        "id": "21",
-        "Text": [
-          {
-            "_content": "شیوہ ہا داری مثال روزگار\nیک نوای خوش دریغ از ما مدار",
-            "lang": "Original"
-          },
-          {
-            "_content": "تیرے انداز زمانے کی مانند ہیں؛ کم از کم ایک اچھی غزل ہی سنا جا۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "The Houris of Paradise\nYour blandishments are like those of Time; grudge us not now one sweet song.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "شیوہ ہا داری مثال روزگار\nیک نوای خوش دریغ از ما مدار",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے انداز زمانے کی مانند ہیں؛ کم از کم ایک اچھی غزل ہی سنا جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Houris of Paradise\nYour blandishments are like those of Time; grudge us not now one sweet song.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

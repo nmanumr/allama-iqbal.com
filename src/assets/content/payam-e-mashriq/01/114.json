@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "گل رعنا چو من در مشکلی ہست\nگرفتار طلسم محفلی ہست\nزبان برگ او گویا نکردند\nولی در سینۂ چاکش دلی ہست",
-          "lang": "Original"
-        },
-        {
-          "_content": "گل رعنا بھی میری طرح مشکل میں ہے؛ وہ بھی محفل کے جادو کا اسیر ہے۔ \nاس کے پتوں کی زبان کو گویائی عطا نہیں ہوئی؛ مگر اس کے سینہ ء چاک کے اندر دل موجود ہے۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "The Rose and I one problem have to tell; we both are seized by the assembly’s spell; \nThe petal’s tongue was not made eloquent, but in his wounded breast a heart doth dwell.\n(Translated by M. Hadi Husain)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گل رعنا چو من در مشکلی ہست\nگرفتار طلسم محفلی ہست\nزبان برگ او گویا نکردند\nولی در سینۂ چاکش دلی ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "گل رعنا بھی میری طرح مشکل میں ہے؛ وہ بھی محفل کے جادو کا اسیر ہے۔ \nاس کے پتوں کی زبان کو گویائی عطا نہیں ہوئی؛ مگر اس کے سینہ ء چاک کے اندر دل موجود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Rose and I one problem have to tell; we both are seized by the assembly’s spell; \nThe petal’s tongue was not made eloquent, but in his wounded breast a heart doth dwell.\n(Translated by M. Hadi Husain)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

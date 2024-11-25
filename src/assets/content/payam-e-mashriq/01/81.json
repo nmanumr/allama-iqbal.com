@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "ترا درد یکے در سینہ پیچید\nجہان رنگ و بو را آفریدی\nدگر از عشق بیباکم چہ رنجی\nکہ خود این ہای و ہو را آفریدی",
-          "lang": "Original"
-        },
-        {
-          "_content": "آپ کے سینے میں تنہائی کا درد پیچ و تاب کھا رہا تھا؛ چونکہ آپ نے یہ جہان رنگ و بو تخلیق فرمایا۔ \nاب ہمارے عشق بیباک سے ناگواری (ءخاطر) کیوں؛ آپ نے خود یہ ہنگامہ پیدا کیا ہے۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "There is one pain that tortureth Thy breast: Thou madest this world of colours and of scents.\nWhy does it pain Thee else my fearless love, who didst create this mighty turbulence? \n(Translated by M. Hadi Husain)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ترا درد یکے در سینہ پیچید\nجہان رنگ و بو را آفریدی\nدگر از عشق بیباکم چہ رنجی\nکہ خود این ہای و ہو را آفریدی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کے سینے میں تنہائی کا درد پیچ و تاب کھا رہا تھا؛ چونکہ آپ نے یہ جہان رنگ و بو تخلیق فرمایا۔ \nاب ہمارے عشق بیباک سے ناگواری (ءخاطر) کیوں؛ آپ نے خود یہ ہنگامہ پیدا کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is one pain that tortureth Thy breast: Thou madest this world of colours and of scents.\nWhy does it pain Thee else my fearless love, who didst create this mighty turbulence? \n(Translated by M. Hadi Husain)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

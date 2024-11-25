@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "نہ من بر مرکب ختلی سوارم\nنہ از وابستگان شہریارم\nمرا اے ہمنشین دولت ہمین بس\nچوکاوم سینہ را لعلی بر آرم",
-          "lang": "Original"
-        },
-        {
-          "_content": "نہ میں اعلی نسل کے گھوڑے پر سوار ہوں ؛ نہ پادشاہ کا مصاحب ہوں۔\nاے ہمنشین! مجھے یہ دولت کافی ہے؛ کہ جب اپنا سینہ کھودتا ہوں تو لعل نکال لیتا ہوں۔ \n\nسخن کیا کہہ نہیں سکتے کہ جویا ہوں جواہر کے ؛ جگر کیا ہم نہیں رکھتے کہ کھودیں جا کے معدن کو – غالب",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "I have no swift-paced steed to ride upon; I am no courtier of a monarch’s son;\nThis, friend, for me is happiness enough that, when I dug my heart – a ruby shone! \n(Translated by M. Hadi Husain)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ من بر مرکب ختلی سوارم\nنہ از وابستگان شہریارم\nمرا اے ہمنشین دولت ہمین بس\nچوکاوم سینہ را لعلی بر آرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ میں اعلی نسل کے گھوڑے پر سوار ہوں ؛ نہ پادشاہ کا مصاحب ہوں۔\nاے ہمنشین! مجھے یہ دولت کافی ہے؛ کہ جب اپنا سینہ کھودتا ہوں تو لعل نکال لیتا ہوں۔ \n\nسخن کیا کہہ نہیں سکتے کہ جویا ہوں جواہر کے ؛ جگر کیا ہم نہیں رکھتے کہ کھودیں جا کے معدن کو – غالب",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have no swift-paced steed to ride upon; I am no courtier of a monarch’s son;\nThis, friend, for me is happiness enough that, when I dug my heart – a ruby shone! \n(Translated by M. Hadi Husain)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

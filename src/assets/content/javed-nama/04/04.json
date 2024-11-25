@@ -426,23 +426,25 @@
     },
     {
       "name": "رومی",
-      "Verse": {
-        "id": "49",
-        "Text": [
-          {
-            "_content": "ہر چہ پنہان است ازو پیداستی\nاصل این نور از یدبیضاستی",
-            "lang": "Original"
-          },
-          {
-            "_content": "جو بھی پنہاں ہے وہ اس نور سے ظاہر ہو جاتا ہے ؛ اور اس نور کی اصل ید بیضا سے ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "All that is hidden through Him is manifest; the origin of this Light is from the White Hand.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "ہر چہ پنہان است ازو پیداستی\nاصل این نور از یدبیضاستی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو بھی پنہاں ہے وہ اس نور سے ظاہر ہو جاتا ہے ؛ اور اس نور کی اصل ید بیضا سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All that is hidden through Him is manifest; the origin of this Light is from the White Hand.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "فرعون",
@@ -716,22 +718,24 @@
     },
     {
       "name": "فرعون",
-      "Verse": {
-        "id": "81",
-        "Text": [
-          {
-            "_content": "قبر ما را علم و حکمت بر گشود\nلیکن اندر تربت مہدی چہ بود",
-            "lang": "Original"
-          },
-          {
-            "_content": "ہماری قبر کو تو علم و حکمت نے کھولا لیکن مہدی کی قبر کے اندر کیا تھا۔",
-            "lang": "Urdu"
-          },
-          {
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "قبر ما را علم و حکمت بر گشود\nلیکن اندر تربت مہدی چہ بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری قبر کو تو علم و حکمت نے کھولا لیکن مہدی کی قبر کے اندر کیا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

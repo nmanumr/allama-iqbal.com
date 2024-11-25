@@ -5,23 +5,27 @@
   "bookName": "ضربِ کلیم",
   "+@SectionID": "02",
   "sectionName": "تعلیم و تربیت",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "آزادی افکار سے ہے ان کی تباہی\nرکھتے نہیں جو فکر و تدبر کا سلیقہ\nہو فکر اگر خام تو آزادی افکار\nانسان کو حیوان بنانے کا طریقہ",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "FREEDOM OF THOUGHT\nFree thinking can bring 'bout the ruin of those whose thoughts are low and mean: They don't possess the mode and style of though (that may be chaste and clean.\nIf thoughts are raw and immature no good accrues to man in least: The utmost. that such thoughts can do is change of wan to state of beast.\n[Translated by Syed Akbar Ali Shah]",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آزادی افکار سے ہے ان کی تباہی\nرکھتے نہیں جو فکر و تدبر کا سلیقہ\nہو فکر اگر خام تو آزادی افکار\nانسان کو حیوان بنانے کا طریقہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "FREEDOM OF THOUGHT\nFree thinking can bring 'bout the ruin of those whose thoughts are low and mean: They don't possess the mode and style of though (that may be chaste and clean.\nIf thoughts are raw and immature no good accrues to man in least: The utmost. that such thoughts can do is change of wan to state of beast.\n[Translated by Syed Akbar Ali Shah]",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

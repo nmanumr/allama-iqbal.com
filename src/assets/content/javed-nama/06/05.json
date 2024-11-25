@@ -8,23 +8,25 @@
   "Para": [
     {
       "name": "",
-      "Verse": {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "ز مقام مومنان دوری چرا\nیعنی از فردوس مہجوری چرا",
-            "lang": "Original"
-          },
-          {
-            "_content": "زندہ رود ارواح بزرگ کے سامنے اپنی مشکلات پیش کرتا ہے\nآپ لوگ مومنوں کے مقام (جنت) سے کیوں دور اور مہجور رہتے ہیں؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "ZINDA-RUD PROPOUNDS HIS PROBLEMS TO THE GREAT SPIRITS\nWhy do you keep far from the station of believers? That is, why are you exiled from Paradise?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز مقام مومنان دوری چرا\nیعنی از فردوس مہجوری چرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندہ رود ارواح بزرگ کے سامنے اپنی مشکلات پیش کرتا ہے\nآپ لوگ مومنوں کے مقام (جنت) سے کیوں دور اور مہجور رہتے ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "ZINDA-RUD PROPOUNDS HIS PROBLEMS TO THE GREAT SPIRITS\nWhy do you keep far from the station of believers? That is, why are you exiled from Paradise?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "حلاج",
@@ -304,23 +306,25 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "35",
-        "Text": [
-          {
-            "_content": "گردش تقدیر مرگ و زندگیست\nکس نداند گردش تقدیر چیست",
-            "lang": "Original"
-          },
-          {
-            "_content": "گردش تقدیر موت اور زندگی ہے؛ کوئی نہیں جانتا کہ گردش تقدیر کیا ہے؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nThe wheeling of destiny is death and life; no man knows what the wheeling of destiny is.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "گردش تقدیر مرگ و زندگیست\nکس نداند گردش تقدیر چیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "گردش تقدیر موت اور زندگی ہے؛ کوئی نہیں جانتا کہ گردش تقدیر کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nThe wheeling of destiny is death and life; no man knows what the wheeling of destiny is.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "حلاج",
@@ -589,23 +593,25 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "67",
-        "Text": [
-          {
-            "_content": "کم نگاہان فتنہ ہا انگیختند\nبندۂ حق را بہ دار آویختند\nآشکارا بر تو پنھان وجود\nباز گو آخر گناہ تو چہ بود؟",
-            "lang": "Original"
-          },
-          {
-            "_content": "کم نگاہوں نے فتنے برپا کر دئے (تجھ جیسے) بندہ حق کو سولی پر لٹکا دیا۔\nتجھ پر وجود کے اسرار آشکار ہیں ؛ بتا تو سہی آخر تیر ا گناہ کیا تھا؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nZindah Men of short vision have stirred up commotions and hung God’s true servant on the gibbet.\nThe hidden things of Being are manifest to you; declare then, what was your crime?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "کم نگاہان فتنہ ہا انگیختند\nبندۂ حق را بہ دار آویختند\nآشکارا بر تو پنھان وجود\nباز گو آخر گناہ تو چہ بود؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "کم نگاہوں نے فتنے برپا کر دئے (تجھ جیسے) بندہ حق کو سولی پر لٹکا دیا۔\nتجھ پر وجود کے اسرار آشکار ہیں ؛ بتا تو سہی آخر تیر ا گناہ کیا تھا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nZindah Men of short vision have stirred up commotions and hung God’s true servant on the gibbet.\nThe hidden things of Being are manifest to you; declare then, what was your crime?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "حلاج",
@@ -908,23 +914,25 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "105",
-        "Text": [
-          {
-            "_content": "اے ترا دادند درد جستجوی\nمعنی یک شعر خود با من بگوی\n\"قمری، کف خاکستر و بلبل قفس رنگ\nاے نالہ نشان جگر سوختہ ئی چیست\"",
-            "lang": "Original"
-          },
-          {
-            "_content": "آپ کو درد جستجو عطا ہوا ہے؛ مجھے اپنے ایک شعر کے معنی تو بتائیے۔\n'قمری کف خاکستر و بلبل قفس رنگ؛ اے نالہ نشان جگر سوختہ کیا ہے؟'",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nYou who have been given the agony of the eternal quest, explain to me the meaning of a verse of yours:\nThe dove is a handful of ashes, the nightingale a network of colour – O lamentation, what is the true sign of a broken heart?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "اے ترا دادند درد جستجوی\nمعنی یک شعر خود با من بگوی\n\"قمری، کف خاکستر و بلبل قفس رنگ\nاے نالہ نشان جگر سوختہ ئی چیست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کو درد جستجو عطا ہوا ہے؛ مجھے اپنے ایک شعر کے معنی تو بتائیے۔\n'قمری کف خاکستر و بلبل قفس رنگ؛ اے نالہ نشان جگر سوختہ کیا ہے؟'",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nYou who have been given the agony of the eternal quest, explain to me the meaning of a verse of yours:\nThe dove is a handful of ashes, the nightingale a network of colour – O lamentation, what is the true sign of a broken heart?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "غالب",
@@ -1035,183 +1043,201 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "121",
-        "Text": [
-          {
-            "_content": "صد جہان پیدا درین نیلی فضاست\nہر جہان را اولیا و انبیاست",
-            "lang": "Original"
-          },
-          {
-            "_content": "اس نیلی فضا میں سینکڑوں جہان موجود ہیں؛ کیا ہر جہان کے (اپنے ) اولیا و انبیا ہیں۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "A hundred worlds are manifest in this azure expanse; are there saints and prophets in every world?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "121",
+          "Text": [
+            {
+              "_content": "صد جہان پیدا درین نیلی فضاست\nہر جہان را اولیا و انبیاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نیلی فضا میں سینکڑوں جہان موجود ہیں؛ کیا ہر جہان کے (اپنے ) اولیا و انبیا ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hundred worlds are manifest in this azure expanse; are there saints and prophets in every world?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "غالب",
-      "Verse": {
-        "id": "123",
-        "Text": [
-          {
-            "_content": "نیک بنگر اندرین بود و نبود\nپی بہ پی آید جہانھا در وجود\n\"ہر کجا ہنگامۂ عالم بود\nرحمة للعالمینی ہم بود\"",
-            "lang": "Original"
-          },
-          {
-            "_content": "اس ہستی و عدم کو غور سے دیکھ یہاں پے بہ پے نئے جہان وجود میں آ رہے ہیں۔\nجہاں کہیں ہنگامہء عالم ہے وہاں رحمتہ العالمین ( حضور اکرم صلعم) بھی ہیں۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Ghalib\nConsider well this being and not-being; continuously worlds are coming into existence.\nWherever the tumultuous clamour of a world arises, there too is a Marcy unto all beings.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "123",
+          "Text": [
+            {
+              "_content": "نیک بنگر اندرین بود و نبود\nپی بہ پی آید جہانھا در وجود\n\"ہر کجا ہنگامۂ عالم بود\nرحمة للعالمینی ہم بود\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس ہستی و عدم کو غور سے دیکھ یہاں پے بہ پے نئے جہان وجود میں آ رہے ہیں۔\nجہاں کہیں ہنگامہء عالم ہے وہاں رحمتہ العالمین ( حضور اکرم صلعم) بھی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ghalib\nConsider well this being and not-being; continuously worlds are coming into existence.\nWherever the tumultuous clamour of a world arises, there too is a Marcy unto all beings.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "127",
-        "Text": [
-          {
-            "_content": "فاش تر گو زانکہ فہمم نارساست",
-            "lang": "Original"
-          },
-          {
-            "_content": "وضاحت سے کہئے کیونکہ میرا فہم نا رسا ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nSpeak more plainly; my understanding flags.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "127",
+          "Text": [
+            {
+              "_content": "فاش تر گو زانکہ فہمم نارساست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وضاحت سے کہئے کیونکہ میرا فہم نا رسا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nSpeak more plainly; my understanding flags.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "غالب",
-      "Verse": {
-        "id": "128",
-        "Text": [
-          {
-            "_content": "این سخن را فاش تر گفتن خطاست",
-            "lang": "Original"
-          },
-          {
-            "_content": "یہ بات بھول کر کہنا خطا ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Ghalib\nIt were a sin to speak of these things more plainly.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "128",
+          "Text": [
+            {
+              "_content": "این سخن را فاش تر گفتن خطاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ بات بھول کر کہنا خطا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ghalib\nIt were a sin to speak of these things more plainly.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "129",
-        "Text": [
-          {
-            "_content": "گفتگوی اہل دل بیحاصل است",
-            "lang": "Original"
-          },
-          {
-            "_content": "کیا اہل دل کی گفتگو بے حاصل ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nThen is the conversation of adepts unprofitable?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "129",
+          "Text": [
+            {
+              "_content": "گفتگوی اہل دل بیحاصل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا اہل دل کی گفتگو بے حاصل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nThen is the conversation of adepts unprofitable?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "غالب",
-      "Verse": {
-        "id": "130",
-        "Text": [
-          {
-            "_content": "نکتہ را بر لب رسیدن مشکل است",
-            "lang": "Original"
-          },
-          {
-            "_content": "(اس) نکتے کو الفاظ میں بیان کرنا مشکل ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Ghalib\nIt is difficult to give tongue to this subtlety.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "130",
+          "Text": [
+            {
+              "_content": "نکتہ را بر لب رسیدن مشکل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اس) نکتے کو الفاظ میں بیان کرنا مشکل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ghalib\nIt is difficult to give tongue to this subtlety.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "131",
-        "Text": [
-          {
-            "_content": "تو سراپا آتش از سوز طلب\nبر سخن غالب نیائی اے عجب",
-            "lang": "Original"
-          },
-          {
-            "_content": "آپ تو سوز طلب سے سر تا پا آتش ہیں ؛ تعجب کی بات ہے کہ آپ بھی سخن پر غالب (نہیں)۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nYou are wholly afire with the glow of the quest, yet how strange, you cannot master mere words!",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "131",
+          "Text": [
+            {
+              "_content": "تو سراپا آتش از سوز طلب\nبر سخن غالب نیائی اے عجب",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ تو سوز طلب سے سر تا پا آتش ہیں ؛ تعجب کی بات ہے کہ آپ بھی سخن پر غالب (نہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nYou are wholly afire with the glow of the quest, yet how strange, you cannot master mere words!",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "غالب",
-      "Verse": {
-        "id": "133",
-        "Text": [
-          {
-            "_content": "خلق و تقدیر و ہدایت ابتداست\nرحمة للعالمینی انتہاست",
-            "lang": "Original"
-          },
-          {
-            "_content": "تخلیق کرنا ، ہر وجود کی استعداد مقرر کرنا اور اس کے اندر آگے بڑھنے کا جذبہ رکھنا – یہ ابتدا ہے اور مقام رحمتہ العالمین انتہا ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Ghalib\n‘Creation’, ‘Predestination’, ‘Guidance’ are the beginning; a Mercy unto all beings is the end.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "133",
+          "Text": [
+            {
+              "_content": "خلق و تقدیر و ہدایت ابتداست\nرحمة للعالمینی انتہاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تخلیق کرنا ، ہر وجود کی استعداد مقرر کرنا اور اس کے اندر آگے بڑھنے کا جذبہ رکھنا – یہ ابتدا ہے اور مقام رحمتہ العالمین انتہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ghalib\n‘Creation’, ‘Predestination’, ‘Guidance’ are the beginning; a Mercy unto all beings is the end.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "135",
-        "Text": [
-          {
-            "_content": "من ندیدم چھرۂ معنی ہنوز\nآتشے دارے اگر ما را بسوز",
-            "lang": "Original"
-          },
-          {
-            "_content": "میں ابھی تک معنی کا چہرہ نہیں دیکھ سکا ؛ اگر تو آتش رکھتا ہے تو میرے (افکار پریشان کو) جلا دے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nI have not yet glimpsed the face of the meaning; if you possess a fire, then burn me!",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "135",
+          "Text": [
+            {
+              "_content": "من ندیدم چھرۂ معنی ہنوز\nآتشے دارے اگر ما را بسوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ابھی تک معنی کا چہرہ نہیں دیکھ سکا ؛ اگر تو آتش رکھتا ہے تو میرے (افکار پریشان کو) جلا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nI have not yet glimpsed the face of the meaning; if you possess a fire, then burn me!",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "غالب",
@@ -1271,43 +1297,47 @@
     },
     {
       "name": "حلاج",
-      "Verse": {
-        "id": "143",
-        "Text": [
-          {
-            "_content": "ہر کجا بینی جھان رنگ و بو\nآن کہ از خاکش بروید آرزو\nیا ز نور مصطفی او را بہاست\nیا ہنوز اندر تلاش مصطفی است",
-            "lang": "Original"
-          },
-          {
-            "_content": "جہاں کہیں تو جہان رنگ و بو دیکھتا ہے؛ ایسا جہان جس کی خاک سے آرزو پھوٹتی ہو۔\nیا تو اس کی قدر و قیمت نور مصطفے (صلعم) سے ہے یا وہ ابھی تک مصطفے (صلعم) کی تلاش میں ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Hallaj\nWherever you see a world of colour and scent out of whose soil springs the plant of desire\nIs either already illumined by the light of the Chosen One or is still seeking for the Chosen One.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "143",
+          "Text": [
+            {
+              "_content": "ہر کجا بینی جھان رنگ و بو\nآن کہ از خاکش بروید آرزو\nیا ز نور مصطفی او را بہاست\nیا ہنوز اندر تلاش مصطفی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہاں کہیں تو جہان رنگ و بو دیکھتا ہے؛ ایسا جہان جس کی خاک سے آرزو پھوٹتی ہو۔\nیا تو اس کی قدر و قیمت نور مصطفے (صلعم) سے ہے یا وہ ابھی تک مصطفے (صلعم) کی تلاش میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hallaj\nWherever you see a world of colour and scent out of whose soil springs the plant of desire\nIs either already illumined by the light of the Chosen One or is still seeking for the Chosen One.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "147",
-        "Text": [
-          {
-            "_content": "از تو پرسم گرچہ پرسیدن خطاست\nسر آن جوہر کہ نامش مصطفی است\nآدمی یا جوھری اندر وجود\nآنکہ آید گاہگاہی در وجود",
-            "lang": "Original"
-          },
-          {
-            "_content": "گرچہ یہ بات پوچھنی خطا ہے مگر میں آپ سے پوچھتا ہوں کہ وہ جوہر جس کا نام مصطفے (صلعم) ہے اس کا راز کیا ہے؟ \nوہ آدم ہے یا جوہر جو گاہے گاہے وجود میں آتا ہے؛ (انبیا کی ارواح کا درجہ باقی ارواح سے افضل ہے اور حضور اکرم (صلعم) کی روح خاص الخواص ہے؛ جو سب سے پہلے تخلیق کی گئی۔یہاں انبیا کی بعثت کی طرف اشارہ ہے)۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nI ask of you-though to ask is a sin – the secret of that essence whose name is the Chosen One;\nIs it a man or an essence in being such as but rarely comes into existence?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "147",
+          "Text": [
+            {
+              "_content": "از تو پرسم گرچہ پرسیدن خطاست\nسر آن جوہر کہ نامش مصطفی است\nآدمی یا جوھری اندر وجود\nآنکہ آید گاہگاہی در وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "گرچہ یہ بات پوچھنی خطا ہے مگر میں آپ سے پوچھتا ہوں کہ وہ جوہر جس کا نام مصطفے (صلعم) ہے اس کا راز کیا ہے؟ \nوہ آدم ہے یا جوہر جو گاہے گاہے وجود میں آتا ہے؛ (انبیا کی ارواح کا درجہ باقی ارواح سے افضل ہے اور حضور اکرم (صلعم) کی روح خاص الخواص ہے؛ جو سب سے پہلے تخلیق کی گئی۔یہاں انبیا کی بعثت کی طرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nI ask of you-though to ask is a sin – the secret of that essence whose name is the Chosen One;\nIs it a man or an essence in being such as but rarely comes into existence?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "حلاج",
@@ -1537,23 +1567,25 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "177",
-        "Text": [
-          {
-            "_content": "کم شناسم عشق را این کار چیست\nذوق دیدار است پس دیدار چیست",
-            "lang": "Original"
-          },
-          {
-            "_content": "میں نہیں سمجھ سکا کہ عشق کا کیا کام ہے؟ اگر ذوق دیدار ہے تو دیدار کیا ہے؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nI know so little-what is this business of Love? Is it the joy of beholding? Then what is beholding?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "177",
+          "Text": [
+            {
+              "_content": "کم شناسم عشق را این کار چیست\nذوق دیدار است پس دیدار چیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نہیں سمجھ سکا کہ عشق کا کیا کام ہے؟ اگر ذوق دیدار ہے تو دیدار کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nI know so little-what is this business of Love? Is it the joy of beholding? Then what is beholding?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "حلاج",
@@ -1613,23 +1645,25 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "185",
-        "Text": [
-          {
-            "_content": "چیست دیدار خدای نہ سپہر\nآنکہ بے حکمش نگردد ماہ و مہر",
-            "lang": "Original"
-          },
-          {
-            "_content": "کائنات کے مالک (اللہ تعالے) جن کے حکم کے بغیر سورج چاند گردش نہیں کرتے ؛ ان کا دیدار کیا چیز ہے؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nWhat is the beholding of the God of the nine spheres, of Him without whose command moon and sun do not revolve?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "185",
+          "Text": [
+            {
+              "_content": "چیست دیدار خدای نہ سپہر\nآنکہ بے حکمش نگردد ماہ و مہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کائنات کے مالک (اللہ تعالے) جن کے حکم کے بغیر سورج چاند گردش نہیں کرتے ؛ ان کا دیدار کیا چیز ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nWhat is the beholding of the God of the nine spheres, of Him without whose command moon and sun do not revolve?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "حلاج",
@@ -1774,143 +1808,157 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "203",
-        "Text": [
-          {
-            "_content": "نقش حق را در جھان انداختند\nمن نمی دانم چسان انداختند",
-            "lang": "Original"
-          },
-          {
-            "_content": "اللہ تعالے کے نقش کو دنیا میں ثبت کیا گیا ہے ؛ مگر میں نہیں جانتا کہ اسے کیسے ثبت کیا گیا ہے؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nGod’s image has been implanted on the world; I do not know how it has been implanted.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "203",
+          "Text": [
+            {
+              "_content": "نقش حق را در جھان انداختند\nمن نمی دانم چسان انداختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کے نقش کو دنیا میں ثبت کیا گیا ہے ؛ مگر میں نہیں جانتا کہ اسے کیسے ثبت کیا گیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nGod’s image has been implanted on the world; I do not know how it has been implanted.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "حلاج",
-      "Verse": {
-        "id": "205",
-        "Text": [
-          {
-            "_content": "یا بزور دلبری انداختند\nیا بزور قاھری انداختند\nزانکہ حق در دلبری پیدا تر است\nدلبری از قاہری اولی تر است",
-            "lang": "Original"
-          },
-          {
-            "_content": "یا اسے دلبری کے زور سے ثبت کیا گیا ہے، یا قاہری کے زور سے۔\nچونکہ اللہ تعالے کی شان دلبری (رحمت) میں زیادہ واضح ہوتی ہے اس لیے دلبری قاہری سے اونچا درجہ رکھتی ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Hallaj\nIt has been implanted by force of love or it has been implanted by force of violence;\nBecause God is more manifest in love, love is a better way than violence.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "205",
+          "Text": [
+            {
+              "_content": "یا بزور دلبری انداختند\nیا بزور قاھری انداختند\nزانکہ حق در دلبری پیدا تر است\nدلبری از قاہری اولی تر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا اسے دلبری کے زور سے ثبت کیا گیا ہے، یا قاہری کے زور سے۔\nچونکہ اللہ تعالے کی شان دلبری (رحمت) میں زیادہ واضح ہوتی ہے اس لیے دلبری قاہری سے اونچا درجہ رکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hallaj\nIt has been implanted by force of love or it has been implanted by force of violence;\nBecause God is more manifest in love, love is a better way than violence.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "209",
-        "Text": [
-          {
-            "_content": "باز گو اے صاحب اسرار شرق\nدر میان زاہد و عاشق چہ فرق",
-            "lang": "Original"
-          },
-          {
-            "_content": "اے اسرار شرق کے راز دان! ایک بار پھر بیان کر کہ زاہد و عاشق کے درمیان کیا فرق ہے؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nDeclare, master of the secrets of the East, what difference is there between the ascetic and the lover?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "209",
+          "Text": [
+            {
+              "_content": "باز گو اے صاحب اسرار شرق\nدر میان زاہد و عاشق چہ فرق",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے اسرار شرق کے راز دان! ایک بار پھر بیان کر کہ زاہد و عاشق کے درمیان کیا فرق ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nDeclare, master of the secrets of the East, what difference is there between the ascetic and the lover?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "حلاج",
-      "Verse": {
-        "id": "211",
-        "Text": [
-          {
-            "_content": "زاہد اندر عالم دنیا غریب\nعاشق اندر عالم عقبی غریب",
-            "lang": "Original"
-          },
-          {
-            "_content": "زاہد دنیا میں اجنبی ہے اور عاشق جنت میں اجنبی ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "The ascetic is a stranger in this present world; the lover is a stranger in the world to come.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "211",
+          "Text": [
+            {
+              "_content": "زاہد اندر عالم دنیا غریب\nعاشق اندر عالم عقبی غریب",
+              "lang": "Original"
+            },
+            {
+              "_content": "زاہد دنیا میں اجنبی ہے اور عاشق جنت میں اجنبی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ascetic is a stranger in this present world; the lover is a stranger in the world to come.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "213",
-        "Text": [
-          {
-            "_content": "معرفت را انتہا نابودن است\nزندگی اندر فنا آسودن است",
-            "lang": "Original"
-          },
-          {
-            "_content": "کیا معرفت کی انتہا اپنی ہستی مٹا دینا اور فنا کے اندر آسودگی حاصل کرنا ہے؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nThe end of gnosis is not-being what is life to repose in annihilation?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "213",
+          "Text": [
+            {
+              "_content": "معرفت را انتہا نابودن است\nزندگی اندر فنا آسودن است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا معرفت کی انتہا اپنی ہستی مٹا دینا اور فنا کے اندر آسودگی حاصل کرنا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nThe end of gnosis is not-being what is life to repose in annihilation?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "حلاج",
-      "Verse": {
-        "id": "215",
-        "Text": [
-          {
-            "_content": "سکر یاران از تہی پیمانگی است\nنیستی از معرفت بیگانگی است\nاے کہ جوئی در فنا مقصود را\nدر نمے یابد عدم موجود را",
-            "lang": "Original"
-          },
-          {
-            "_content": "یاروں کی مستی کا باعث ان کا جام خالی ہونا ہے؛ اپنے آپ کو مٹا دینا معرفت سے نا آشنا ہونا ہے۔\nتو جو فنا میں اپنا مقصود ڈھونڈتا ہے عدم کو نہیں پا سکتا (عدم موجود کی ضد ہے)۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Hallaj\nThe intoxication of lovers comes from emptied cups; not-being is to be ignorant of gnosis\nYou who seek your goal in annihilation, non-existence can never discover existence.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "215",
+          "Text": [
+            {
+              "_content": "سکر یاران از تہی پیمانگی است\nنیستی از معرفت بیگانگی است\nاے کہ جوئی در فنا مقصود را\nدر نمے یابد عدم موجود را",
+              "lang": "Original"
+            },
+            {
+              "_content": "یاروں کی مستی کا باعث ان کا جام خالی ہونا ہے؛ اپنے آپ کو مٹا دینا معرفت سے نا آشنا ہونا ہے۔\nتو جو فنا میں اپنا مقصود ڈھونڈتا ہے عدم کو نہیں پا سکتا (عدم موجود کی ضد ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hallaj\nThe intoxication of lovers comes from emptied cups; not-being is to be ignorant of gnosis\nYou who seek your goal in annihilation, non-existence can never discover existence.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "219",
-        "Text": [
-          {
-            "_content": "آنکہ خود را بہتر از آدم شمرد\nدر خم و جامش نہ می باقی نہ درد\nمشت خاک ما بگردون آشناست\nآتش آن بے سر و سامان کجاست",
-            "lang": "Original"
-          },
-          {
-            "_content": "ابلیس جس نے اپنے آپ کو آدم سے بہتر شمار کیا اب اس کے خم و جام میں نہ شراب باقی ہے نہ تلچھٹ۔\nہماری مشت خاک آسمان کی بلندیوں کو چھو رہی ہے؛ اس بے سر و سامان کی آگ (آج) کہاں ہے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nHe who counted himself better than Adam; in his jar and cup remains neither wine nor lees;\nOur handful of dust is acquainted with the skies where is the fire of that destitute one?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "219",
+          "Text": [
+            {
+              "_content": "آنکہ خود را بہتر از آدم شمرد\nدر خم و جامش نہ می باقی نہ درد\nمشت خاک ما بگردون آشناست\nآتش آن بے سر و سامان کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابلیس جس نے اپنے آپ کو آدم سے بہتر شمار کیا اب اس کے خم و جام میں نہ شراب باقی ہے نہ تلچھٹ۔\nہماری مشت خاک آسمان کی بلندیوں کو چھو رہی ہے؛ اس بے سر و سامان کی آگ (آج) کہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nHe who counted himself better than Adam; in his jar and cup remains neither wine nor lees;\nOur handful of dust is acquainted with the skies where is the fire of that destitute one?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "حلاج",
@@ -2021,43 +2069,47 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "235",
-        "Text": [
-          {
-            "_content": "اے ترا اقلیم جان زیر نگین\nیک نفس با ما دگر صحبت گزین",
-            "lang": "Original"
-          },
-          {
-            "_content": "روح کی سلطنت آپ کے زیر نگیں ہے؛ تھوڑی دیر اور ہمیں اپنی صحبت سے نوازیئے۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nYou who hold the clime of the soul under your royal signet, keep company with me a moment more.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "235",
+          "Text": [
+            {
+              "_content": "اے ترا اقلیم جان زیر نگین\nیک نفس با ما دگر صحبت گزین",
+              "lang": "Original"
+            },
+            {
+              "_content": "روح کی سلطنت آپ کے زیر نگیں ہے؛ تھوڑی دیر اور ہمیں اپنی صحبت سے نوازیئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nYou who hold the clime of the soul under your royal signet, keep company with me a moment more.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "حلاج",
-      "Verse": {
-        "id": "237",
-        "Text": [
-          {
-            "_content": "با مقامے در نمی سازیم و بس\nما سراپا ذوق پروازیم و بس\nہر زمان دیدن تپیدن کار ماست\nبے پر و بالے پریدن کار ماست",
-            "lang": "Original"
-          },
-          {
-            "_content": "ہم کسی ایک مقام کے ساتھ موافقت نہیں کر سکے؛ ہم سرا پا ذوق پرواز ہیں اور بس۔\nہر لمحہ دیکھنا اور تڑپتے رہنا ہمارا کام ہے؛ ہم بغیر پر و بال کے اڑتے رہتے ہیں۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Hallaj\nWe do not tolerate confinement to one station, we are wholly and singly a yearning to soa\nEvery instant our occupation is to see and to quiver, our labour is to fly without feathers and wings.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "237",
+          "Text": [
+            {
+              "_content": "با مقامے در نمی سازیم و بس\nما سراپا ذوق پروازیم و بس\nہر زمان دیدن تپیدن کار ماست\nبے پر و بالے پریدن کار ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم کسی ایک مقام کے ساتھ موافقت نہیں کر سکے؛ ہم سرا پا ذوق پرواز ہیں اور بس۔\nہر لمحہ دیکھنا اور تڑپتے رہنا ہمارا کام ہے؛ ہم بغیر پر و بال کے اڑتے رہتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hallaj\nWe do not tolerate confinement to one station, we are wholly and singly a yearning to soa\nEvery instant our occupation is to see and to quiver, our labour is to fly without feathers and wings.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

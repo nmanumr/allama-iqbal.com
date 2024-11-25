@@ -62,22 +62,24 @@
     },
     {
       "name": "جنت میں",
-      "Verse": {
-        "id": "07",
-        "Text": [
-          {
-            "_content": "کہتے ہیں فرشتے کہ دل آویز ہے مومن \nحوروں کو شکایت ہے کم آمیز ہے مومن",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "In Paradise: The, angels of this thing are sure that a Muslim can allure, but Maids of Eden do complain, from society he does oft refrain.\n(Translated by Syed Akbar Ali Shah)",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کہتے ہیں فرشتے کہ دل آویز ہے مومن \nحوروں کو شکایت ہے کم آمیز ہے مومن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Paradise: The, angels of this thing are sure that a Muslim can allure, but Maids of Eden do complain, from society he does oft refrain.\n(Translated by Syed Akbar Ali Shah)",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

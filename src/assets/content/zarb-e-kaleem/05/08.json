@@ -5,59 +5,61 @@
   "bookName": "ضربِ کلیم",
   "+@SectionID": "05",
   "sectionName": "سیاست مشرق و مغرب",
-  "Para": {
-    "name": "",
-    "Verse": [
-      {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "روش قضائے الہی کی ہے عجیب و غریب \nخبر نہیں کہ ضمیر جہاں میں ہے کیا بات",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "BOLSHEVIK RUSSIA \nUnsearchably God’s edicts move; who knows what thoughts are stirring up deep in the world-mind!",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "03",
-        "Text": [
-          {
-            "_content": "ہوئے ہیں کسر چلیپا کے واسطے مامور \nوہی کہ حفظ چلیپا کو جانتے تھے نجات",
-            "lang": "Original"
-          },
-          {
-            "_content": "چليپا: صلیب۔\nکسر: توڑنا۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Those are appointed to pull down, who lately held it salvation to protect, the priests;",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "05",
-        "Text": [
-          {
-            "_content": "یہ وحی دہریت روس پر ہوئی نازل \nکہ توڑ ڈال کلیسائیوں کے لات و منات!",
-            "lang": "Original"
-          },
-          {
-            "_content": "دہريت: خدا کا انکار۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "On godless Russia the command descends: Smite all the Baals and Dagons of the Church!\n(Translated by Syed Akbar Ali Shah)",
-            "lang": "English"
-          }
-        ]
-      }
-    ]
-  }
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "روش قضائے الہی کی ہے عجیب و غریب \nخبر نہیں کہ ضمیر جہاں میں ہے کیا بات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "BOLSHEVIK RUSSIA \nUnsearchably God’s edicts move; who knows what thoughts are stirring up deep in the world-mind!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہوئے ہیں کسر چلیپا کے واسطے مامور \nوہی کہ حفظ چلیپا کو جانتے تھے نجات",
+              "lang": "Original"
+            },
+            {
+              "_content": "چليپا: صلیب۔\nکسر: توڑنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those are appointed to pull down, who lately held it salvation to protect, the priests;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہ وحی دہریت روس پر ہوئی نازل \nکہ توڑ ڈال کلیسائیوں کے لات و منات!",
+              "lang": "Original"
+            },
+            {
+              "_content": "دہريت: خدا کا انکار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On godless Russia the command descends: Smite all the Baals and Dagons of the Church!\n(Translated by Syed Akbar Ali Shah)",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

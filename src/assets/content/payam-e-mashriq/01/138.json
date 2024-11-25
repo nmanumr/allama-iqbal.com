@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "ربودی دل ز چاک سینۂ من\nبہ غارت بردہ ئی گنجینۂ من\nمتاع آرزویم با کہ دادے\nچہ کردی با غم دیرینۂ من",
-          "lang": "Original"
-        },
-        {
-          "_content": "آپ نے میرا سینہ چاک کر کے اندر سے دل لوٹ لیا؛ میرا (قیمتی) خزانہ لے گئے۔ \nمیری آرزو کا سامان کسے دے دیا؟ میرے غم دیرینہ کے ساتھ کیا کیا؟",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "My breast was torn, and thou hast seized my heart, Yea, with my dearest prize thou didst depart;\nWhom gavest thou my passion’s precious store? What hast thou done with my most cherished smart? \n(Translated by M. Hadi Husain)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ربودی دل ز چاک سینۂ من\nبہ غارت بردہ ئی گنجینۂ من\nمتاع آرزویم با کہ دادے\nچہ کردی با غم دیرینۂ من",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے میرا سینہ چاک کر کے اندر سے دل لوٹ لیا؛ میرا (قیمتی) خزانہ لے گئے۔ \nمیری آرزو کا سامان کسے دے دیا؟ میرے غم دیرینہ کے ساتھ کیا کیا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My breast was torn, and thou hast seized my heart, Yea, with my dearest prize thou didst depart;\nWhom gavest thou my passion’s precious store? What hast thou done with my most cherished smart? \n(Translated by M. Hadi Husain)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

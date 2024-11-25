@@ -5,24 +5,28 @@
   "bookName": "ضربِ کلیم",
   "+@SectionID": "01",
   "sectionName": "اسلام اور مسلمان",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "زندگانی ہے صدف، قرہ نیساں ہے خودی \nوہ صدف کیا کہ جو قطرے کو گہر کر نہ سکے \nہو اگر خودنگر و خودگر و خودگیر خودی \nیہ بھی ممکن ہے کہ تو موت سے بھی مر نہ سکے",
-          "lang": "Original"
-        },
-        {
-          "+content": "قطرہ نیساں: موسم بہار کی بارش کا قطرہ ۔ فارسی ادب میں یہ مانا جاتا ہے کہ اگر یہ قطرہ سیپ میں گر جائے تو اس میں موتی بن جاتا ہے۔",
-          "lang": "Urdu"
-        },
-        {
-          "+content": "THE ETERNAL LIFE\nLife acts just like the mother shell, it takes in lap the drop of vernal rain unless it change the drop to pearl the Shell is worthless quite and vain.\nIf Self can pick its faults, perfection seek, and for its perfection mount a guard: Such man is likely to have lasting life, perhaps, death may not claim him as reward.\n(Translated by Syed Akbar Ali Shah)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زندگانی ہے صدف، قرہ نیساں ہے خودی \nوہ صدف کیا کہ جو قطرے کو گہر کر نہ سکے \nہو اگر خودنگر و خودگر و خودگیر خودی \nیہ بھی ممکن ہے کہ تو موت سے بھی مر نہ سکے",
+              "lang": "Original"
+            },
+            {
+              "+content": "قطرہ نیساں: موسم بہار کی بارش کا قطرہ ۔ فارسی ادب میں یہ مانا جاتا ہے کہ اگر یہ قطرہ سیپ میں گر جائے تو اس میں موتی بن جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "THE ETERNAL LIFE\nLife acts just like the mother shell, it takes in lap the drop of vernal rain unless it change the drop to pearl the Shell is worthless quite and vain.\nIf Self can pick its faults, perfection seek, and for its perfection mount a guard: Such man is likely to have lasting life, perhaps, death may not claim him as reward.\n(Translated by Syed Akbar Ali Shah)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

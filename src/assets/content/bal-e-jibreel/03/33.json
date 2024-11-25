@@ -5,23 +5,27 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "03",
   "sectionName": "رباعیات",
-  "Para": {
-    "name": "",
-    "Verse": [{
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "یہی آدم ہے سلطاں بحر و بر کا \nکہوں کیا ماجرا اس بے بصر کا \nنہ خود بیں، نے خدا بیں نے جہاں بیں \nیہی شہکار ہے تیرے ہنر کا!",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "So man is the powerful lord of land and seas! A lord of the world with an eye that hardly sees!\nHe knows neither himself, nor God, nor the world. Is this, O Lord, Thy greatest masterpiece? \n(Translated by Naim Siddiqui)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہی آدم ہے سلطاں بحر و بر کا \nکہوں کیا ماجرا اس بے بصر کا \nنہ خود بیں، نے خدا بیں نے جہاں بیں \nیہی شہکار ہے تیرے ہنر کا!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So man is the powerful lord of land and seas! A lord of the world with an eye that hardly sees!\nHe knows neither himself, nor God, nor the world. Is this, O Lord, Thy greatest masterpiece? \n(Translated by Naim Siddiqui)",
+              "lang": "English"
+            }
+          ]
         }
       ]
-    }]
-  }
+    }
+  ]
 }

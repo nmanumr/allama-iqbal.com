@@ -5,23 +5,27 @@
   "bookName": "بانگِ درا",
   "+@SectionID": "04",
   "sectionName": "ظریفانہ",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "ممبری امپیریل کونسل کی کچھ مشکل نہیں \nووٹ تو مل جائیں گے، پیسے بھی دلوائیں گے کیا؟ \nمیرزا غالب خدا بخشے، بجا فرما گئے \n\"ہم نے یہ ماناکہ دلی میں رہیں، کھائیں گے کیا؟\"",
-          "lang": "Original"
-        },
-        {
-          "lang": "Urdu"
-        },
-        {
-          "_content": "Membership of the Imperial council is not at all difficult; votes will be available. Will we be paid money also?\nMay God bless Mirza Ghalib, who has rightly said ‘We are prepared to live in Delhi, how shall we subsist?’\n(Translated by M.A.K. Khalil)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ممبری امپیریل کونسل کی کچھ مشکل نہیں \nووٹ تو مل جائیں گے، پیسے بھی دلوائیں گے کیا؟ \nمیرزا غالب خدا بخشے، بجا فرما گئے \n\"ہم نے یہ ماناکہ دلی میں رہیں، کھائیں گے کیا؟\"",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Membership of the Imperial council is not at all difficult; votes will be available. Will we be paid money also?\nMay God bless Mirza Ghalib, who has rightly said ‘We are prepared to live in Delhi, how shall we subsist?’\n(Translated by M.A.K. Khalil)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

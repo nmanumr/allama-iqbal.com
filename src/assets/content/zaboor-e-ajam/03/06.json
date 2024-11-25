@@ -8,23 +8,25 @@
   "Para": [
     {
       "name": "",
-      "Verse": {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "کہ من باشم مرا از من خبر کن\nچہ معنی دارد اندر خود سفر کن",
-            "lang": "Original"
-          },
-          {
-            "_content": "میں کون ہوں ، مجھے 'میں' کی خبر دیں۔ 'اپنے اندر سفر کر' کے کیا معنی ہیں؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "QUESTION 5\nWhat am I? Tell me what ‘I’ means. What is the meaning of ‘travel into yourself’?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہ من باشم مرا از من خبر کن\nچہ معنی دارد اندر خود سفر کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کون ہوں ، مجھے 'میں' کی خبر دیں۔ 'اپنے اندر سفر کر' کے کیا معنی ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "QUESTION 5\nWhat am I? Tell me what ‘I’ means. What is the meaning of ‘travel into yourself’?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "جواب",

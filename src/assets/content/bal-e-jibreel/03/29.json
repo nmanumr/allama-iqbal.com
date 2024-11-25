@@ -5,24 +5,28 @@
   "bookName": "‫بالِ جبریل",
   "+@SectionID": "03",
   "sectionName": "رباعیات",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "عطا اسلاف کا جذب دروں کر \nشریک زمرئہ لا یحزنوں، کر \nخرد کی گتھیاں سلجھا چکا میں \nمرے مولا مجھے صاحب جنوں کر!",
-          "lang": "Original"
-        },
-        {
-          "_content": "زمرئہ لا یحزنوں: ایسے لوگ جن کے دلوں میں رنج و ملال نہ آئے ۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "Grant me the absorption of the souls of the past, and let me be of those who never grieve. The riddles of reason I have solved, but now, O Lord! Give me a life of ecstasy.\n(Translated by Naim Siddiqui)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عطا اسلاف کا جذب دروں کر \nشریک زمرئہ لا یحزنوں، کر \nخرد کی گتھیاں سلجھا چکا میں \nمرے مولا مجھے صاحب جنوں کر!",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمرئہ لا یحزنوں: ایسے لوگ جن کے دلوں میں رنج و ملال نہ آئے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Grant me the absorption of the souls of the past, and let me be of those who never grieve. The riddles of reason I have solved, but now, O Lord! Give me a life of ecstasy.\n(Translated by Naim Siddiqui)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

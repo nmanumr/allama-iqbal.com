@@ -5,59 +5,61 @@
   "bookName": "ضربِ کلیم",
   "+@SectionID": "04",
   "sectionName": "ادبیات فنون لطیفہ",
-  "Para": {
-    "name": "",
-    "Verse": [
-      {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "غلط نگر ہے تری چشم نیم باز اب تک \nترا وجود ترے واسطے ہے راز اب تک",
-            "lang": "Original"
-          },
-          {
-            "+content": "چشم نيم باز: آدھی کھلی آنکھ۔",
-            "lang": "Urdu"
-          },
-          {
-            "+content": "Your half-shut eyes still fail to see what subtle fact this life may be.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "03",
-        "Text": [
-          {
-            "+content": "ترا نیاز نہیں آشنائے ناز اب تک \nکہ ہے قیام سے خالی تری نماز اب تک",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "+content": "Too meek to have a fondling will, devoid of Qiam your worship still.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "05",
-        "Text": [
-          {
-            "+content": "گسستہ تار ہے تیری خودی کا ساز اب تک \nکہ تو ہے نغمہ رومی سے بے نیاز اب تک!",
-            "lang": "Original"
-          },
-          {
-            "+content": "گسستہ تار: ٹوٹا ہوا تار۔",
-            "lang": "Urdu"
-          },
-          {
-            "+content": "For songs of Rumi you haven't ears sharp, shaped the strings of your Self's harp.\n(Translated by Syed Akbar Ali Shah)",
-            "lang": "English"
-          }
-        ]
-      }
-    ]
-  }
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غلط نگر ہے تری چشم نیم باز اب تک \nترا وجود ترے واسطے ہے راز اب تک",
+              "lang": "Original"
+            },
+            {
+              "+content": "چشم نيم باز: آدھی کھلی آنکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Your half-shut eyes still fail to see what subtle fact this life may be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "+content": "ترا نیاز نہیں آشنائے ناز اب تک \nکہ ہے قیام سے خالی تری نماز اب تک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "+content": "Too meek to have a fondling will, devoid of Qiam your worship still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "+content": "گسستہ تار ہے تیری خودی کا ساز اب تک \nکہ تو ہے نغمہ رومی سے بے نیاز اب تک!",
+              "lang": "Original"
+            },
+            {
+              "+content": "گسستہ تار: ٹوٹا ہوا تار۔",
+              "lang": "Urdu"
+            },
+            {
+              "+content": "For songs of Rumi you haven't ears sharp, shaped the strings of your Self's harp.\n(Translated by Syed Akbar Ali Shah)",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -8,23 +8,25 @@
   "Para": [
     {
       "name": "",
-      "Verse": {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "کدامی نکتہ را نطق است اناالحق\nچہ گوئی ھرزہ بود آن ٓرمز مطلق",
-            "lang": "Original"
-          },
-          {
-            "_content": "'اناالحق' کس نکتے کو بیان کرتا ہے؟ کیا تو کہتا ہے کہ یہ رمز مطلق محمل ہے؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "QUESTION 8\nWhat point does the aphorism ‘I am the Truth’ imply? Do you think that this mystery was mere nonsense?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کدامی نکتہ را نطق است اناالحق\nچہ گوئی ھرزہ بود آن ٓرمز مطلق",
+              "lang": "Original"
+            },
+            {
+              "_content": "'اناالحق' کس نکتے کو بیان کرتا ہے؟ کیا تو کہتا ہے کہ یہ رمز مطلق محمل ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "QUESTION 8\nWhat point does the aphorism ‘I am the Truth’ imply? Do you think that this mystery was mere nonsense?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "جواب",

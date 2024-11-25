@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "بہ یزدان روز محشر برہمن گفت\nفروغ زندگی تاب شرر بود\nولیکن گر نرنجی با تو گویم\nصنم از آدمی پایندہ تر بود",
-          "lang": "Original"
-        },
-        {
-          "_content": "قیامت کے دن برہمن نے اللہ تعالے کی جناب میں عرض کی؛ انسانی زندگی کی چمک شرارے کی مانندتھی۔\nاگر آپ ناراض نہ ہوں تو کہوں، کہ میرا (بنایا ہوا) بت آپ کے انسان سے زیادہ پائیندہ نکلا۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "On the Day of Resurrection the Brahmin said to God: ‘The light of life was like a brilliant spark; \nBut, if you don’t mind, I will say this to you: The idol lasted longer than man’. \n(Translated by Mustansir Mir)",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ یزدان روز محشر برہمن گفت\nفروغ زندگی تاب شرر بود\nولیکن گر نرنجی با تو گویم\nصنم از آدمی پایندہ تر بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "قیامت کے دن برہمن نے اللہ تعالے کی جناب میں عرض کی؛ انسانی زندگی کی چمک شرارے کی مانندتھی۔\nاگر آپ ناراض نہ ہوں تو کہوں، کہ میرا (بنایا ہوا) بت آپ کے انسان سے زیادہ پائیندہ نکلا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the Day of Resurrection the Brahmin said to God: ‘The light of life was like a brilliant spark; \nBut, if you don’t mind, I will say this to you: The idol lasted longer than man’. \n(Translated by Mustansir Mir)",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

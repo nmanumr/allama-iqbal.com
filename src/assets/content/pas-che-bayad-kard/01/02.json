@@ -426,23 +426,25 @@
     },
     {
       "name": "",
-      "Verse": {
-        "id": "49",
-        "Text": [
-          {
-            "_content": "\"نالۂ عاشق بگوش مردم دنیا\nبانگ مسلمانی و دیار فرنگ است\"",
-            "lang": "Original"
-          },
-          {
-            "_content": "'دنیا دار کے کانوں میں عاشق کا نالہ (و فریاد یوں ہے جیسے) فرنگیوں کے ملک میں بانگ آذاں'۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "‘To the ears of the people of the world, the wailing of the lover is like the cry of the azan in the land of the Franks’.",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "\"نالۂ عاشق بگوش مردم دنیا\nبانگ مسلمانی و دیار فرنگ است\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "'دنیا دار کے کانوں میں عاشق کا نالہ (و فریاد یوں ہے جیسے) فرنگیوں کے ملک میں بانگ آذاں'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘To the ears of the people of the world, the wailing of the lover is like the cry of the azan in the land of the Franks’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "",

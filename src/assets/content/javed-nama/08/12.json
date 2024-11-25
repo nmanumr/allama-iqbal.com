@@ -1104,23 +1104,25 @@
     },
     {
       "name": "زندہ رود",
-      "Verse": {
-        "id": "127",
-        "Text": [
-          {
-            "_content": "من کیم تو کیستی عالم کجاست\nدر میان ما و تو دوری چراست\nمن چرا در بند تقدیرم بگوی\nتو نمیری من چرا میرم بگوی",
-            "lang": "Original"
-          },
-          {
-            "_content": "میں کون ہوں؟ آپ کی شان کیا ہے؟ کائنات کہاں (واقع ) ہے؟ میرے اور آپ کے درمیان یہ دوری کیوں ہے؟ \nفرمائیے ؟ میں کیوں تقدیر کے بندھن میں گرفتار ہوں؟ میں کیوں مرتا ہوں؟ آپ کیسے حیّ و قیوم ہیں؟",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Zinda-Rud\nWho am I? Who art Thou? Where is the world? Why is there a distance between me and Thee?\nSay, why am I in the bonds of destiny? Why dost Thou die not, whilst I die?",
-            "lang": "English"
-          }
-        ]
-      }
+      "Verse": [
+        {
+          "id": "127",
+          "Text": [
+            {
+              "_content": "من کیم تو کیستی عالم کجاست\nدر میان ما و تو دوری چراست\nمن چرا در بند تقدیرم بگوی\nتو نمیری من چرا میرم بگوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کون ہوں؟ آپ کی شان کیا ہے؟ کائنات کہاں (واقع ) ہے؟ میرے اور آپ کے درمیان یہ دوری کیوں ہے؟ \nفرمائیے ؟ میں کیوں تقدیر کے بندھن میں گرفتار ہوں؟ میں کیوں مرتا ہوں؟ آپ کیسے حیّ و قیوم ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nWho am I? Who art Thou? Where is the world? Why is there a distance between me and Thee?\nSay, why am I in the bonds of destiny? Why dost Thou die not, whilst I die?",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "ندای جمال",

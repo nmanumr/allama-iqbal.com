@@ -5,58 +5,60 @@
   "bookName": "ضربِ کلیم",
   "+@SectionID": "04",
   "sectionName": "ادبیات فنون لطیفہ",
-  "Para": {
-    "name": "",
-    "Verse": [
-      {
-        "id": "01",
-        "Text": [
-          {
-            "_content": "اس دشت جگر تاب کی خاموش فضا میں \nفطرت نے فقط ریت کے ٹیلے کیے تعمیر",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "THE PYRAMIDS OF EGYPT\nThe quiet environs of this waste whose intense heat scalds the heart: In forming only dunes of sand Nature has displayed its Art.",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "03",
-        "Text": [
-          {
-            "_content": "اہرام کی عظمت سے نگوں سار ہیں افلاک \nکس ہاتھ نے کھینچی ابدےت کی یہ تصویر!",
-            "lang": "Original"
-          },
-          {
-            "lang": "Urdu"
-          },
-          {
-            "_content": "The grandeur of these pyramids puts lofty heavens to disgrace, what hand did build, design and frame, they seem attired in lasting grace?",
-            "lang": "English"
-          }
-        ]
-      },
-      {
-        "id": "05",
-        "Text": [
-          {
-            "_content": "فطرت کی غلامی سے کر آزاد ہنر کو \nصیاد ہیں مردان ہنر مند کہ نخچیر",
-            "lang": "Original"
-          },
-          {
-            "_content": "نخچير: شکار۔",
-            "lang": "Urdu"
-          },
-          {
-            "_content": "Set your craftsmanship quite free from Nature's chains that bind it tight for men endowed with gift of craft aren't prey, of hunters need no fright.\n(Translated by Syed Akbar Ali Shah)",
-            "lang": "English"
-          }
-        ]
-      }
-    ]
-  }
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اس دشت جگر تاب کی خاموش فضا میں \nفطرت نے فقط ریت کے ٹیلے کیے تعمیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "THE PYRAMIDS OF EGYPT\nThe quiet environs of this waste whose intense heat scalds the heart: In forming only dunes of sand Nature has displayed its Art.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اہرام کی عظمت سے نگوں سار ہیں افلاک \nکس ہاتھ نے کھینچی ابدےت کی یہ تصویر!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The grandeur of these pyramids puts lofty heavens to disgrace, what hand did build, design and frame, they seem attired in lasting grace?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فطرت کی غلامی سے کر آزاد ہنر کو \nصیاد ہیں مردان ہنر مند کہ نخچیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "نخچير: شکار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Set your craftsmanship quite free from Nature's chains that bind it tight for men endowed with gift of craft aren't prey, of hunters need no fright.\n(Translated by Syed Akbar Ali Shah)",
+              "lang": "English"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

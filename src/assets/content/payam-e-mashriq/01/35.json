@@ -5,24 +5,28 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "01",
   "sectionName": "لالۂ طور",
-  "Para": {
-    "name": "",
-    "Verse": {
-      "id": "01",
-      "Text": [
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
         {
-          "_content": "سریر کیقباد، اکلیل جم خاک\nکلیسا و بتستان و حرم خاک\nولیکن من ندانم گوہرم چیست\nنگاھم برتر از گردون تنم خاک",
-          "lang": "Original"
-        },
-        {
-          "_content": "کیقباد کا تخت ہو یا جمشید کا تاج سب خاک ہیں؛ کلیسا ، بتخانہ اور حرم سب خاک سے بنے ہوئے ہیں۔\nمعلوم نہیں میری نہاد کس سے ہے، میری نگاہ آسمان سے بلند تر ہے مگر تن خاک ہے۔",
-          "lang": "Urdu"
-        },
-        {
-          "_content": "The throne of Kaikobad and Jamshid’s crown, Church, temple, Kaaba – all dust to be thrown on the dust-heap. \nMy substance too is dust, but dust which my uplifted eyes disown.\n[Translated by M Hadi Hussain]",
-          "lang": "English"
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سریر کیقباد، اکلیل جم خاک\nکلیسا و بتستان و حرم خاک\nولیکن من ندانم گوہرم چیست\nنگاھم برتر از گردون تنم خاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیقباد کا تخت ہو یا جمشید کا تاج سب خاک ہیں؛ کلیسا ، بتخانہ اور حرم سب خاک سے بنے ہوئے ہیں۔\nمعلوم نہیں میری نہاد کس سے ہے، میری نگاہ آسمان سے بلند تر ہے مگر تن خاک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The throne of Kaikobad and Jamshid’s crown, Church, temple, Kaaba – all dust to be thrown on the dust-heap. \nMy substance too is dust, but dust which my uplifted eyes disown.\n[Translated by M Hadi Hussain]",
+              "lang": "English"
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }
