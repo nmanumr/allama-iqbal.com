@@ -1,5 +1,6 @@
 import Link from "next/link";
 import indexItems from '../assets/index.json';
+import { numberFormat } from "@/utils/intl";
 
 export default async function Home() {
   return (
@@ -58,9 +59,9 @@ export default async function Home() {
       {/*  )}*/}
       {/*</div>*/}
 
-      {indexItems.map((book) => (
-        <Link className="block py-4 text-center text-xl leading-[2]" key={book.id} href={`/${book.id}`}>
-          {book.name}
+      {indexItems.map((book, index) => (
+        <Link className="block py-4 text-start text-lg leading-[2]" key={book.id} href={`/${book.id}`}>
+          <span className="pe-4">({numberFormat.format(index + 1)})</span> {book.name}
         </Link>
       ))}
     </div>

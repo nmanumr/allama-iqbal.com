@@ -64,7 +64,7 @@
       },
       {
         "id": "1b",
-        "name": "غزلیات 1",
+        "name": "غزلیات ۱",
         "name-en": "Ghazaliyat 1",
         "poems": [
           { "id": "01", "name": "01", "name-en": "01" },
@@ -115,7 +115,7 @@
       },
       {
         "id": "2b",
-        "name": "غزلیات 2",
+        "name": "غزلیات ۲",
         "name-en": "Ghazaliyat 2",
         "poems": [
           { "id": "01", "name": "01", "name-en": "01" },
@@ -206,7 +206,7 @@
       },
       {
         "id": "3b",
-        "name": "غزلیات 3",
+        "name": "غزلیات ۳",
         "name-en": "Ghazaliyat 3",
         "poems": [
           { "id": "01", "name": "01", "name-en": "01" },

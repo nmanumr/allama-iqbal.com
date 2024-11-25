@@ -11,7 +11,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        nastaliq: ['"Mehr_Nastaliq_Web"'],
+        'mehr-nastaliq': ['"Mehr_Nastaliq_Web"'],
+        nastaliq: ['var(--font-nastaliq)'],
       }
     },
   },

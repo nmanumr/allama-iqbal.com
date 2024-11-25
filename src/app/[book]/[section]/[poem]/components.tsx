@@ -45,7 +45,7 @@ export function Stanza({
               id={`cplt${id}`}
               key={id}
             >
-              <div className="relative col-span-2 flex flex-col justify-center ps-8">
+              <div className="font-mehr-nastaliq relative col-span-2 flex flex-col justify-center ps-8">
                 {id && (
                   <a
                     href={`#cplt${id}`}
@@ -64,12 +64,12 @@ export function Stanza({
               {(urTrans || enTrans) && (
                 <div className="col-span-3 mt-4 flex-col justify-center gap-y-0.5 text-center lg:mt-0 lg:flex">
                   {urTrans && (
-                    <div className="text-center font-nastaliq text-xl leading-[2]" dir="rtl">
+                    <div className="font-mehr-nastaliq text-center text-xl leading-[2] whitespace-pre-line" dir="rtl">
                       {urduText}
                     </div>
                   )}
                   {enTrans && (
-                    <div className="text-center font-nastaliq text-sm" dir="ltr">
+                    <div className="font-mehr-nastaliq text-center text-sm whitespace-pre-line" dir="ltr">
                       {englishText}
                     </div>
                   )}
