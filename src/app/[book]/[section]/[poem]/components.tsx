@@ -7,6 +7,7 @@ import type PoemType from "@/assets/content/armaghan-e-hijaz/01/01.json";
 const SizeContext = createContext<{
   setChildSize: (size: number) => void;
   maxSize: number | undefined;
+  fontsLoaded: boolean;
 } | null>(null);
 
 export function Stanza({
@@ -83,18 +84,16 @@ export function Stanza({
 }
 
 function Verse({ content }: { content: string }) {
-  const verseRef = useRef<HTMLDivElement>(null);
   const sizeContext = use(SizeContext);
-
-  useEffect(() => {
-    if (verseRef.current?.clientWidth && sizeContext?.setChildSize) {
-      sizeContext.setChildSize(verseRef.current?.clientWidth);
-    }
-  }, []);
 
   return (
     <div
-      ref={verseRef}
+      ref={(el) => {
+        if (el?.clientWidth && sizeContext?.setChildSize && sizeContext?.fontsLoaded) {
+          sizeContext.setChildSize(el?.clientWidth);
+        }
+      }}
+      key={sizeContext?.fontsLoaded ? 'pending': 'loaded'}
       style={{ minWidth: sizeContext?.maxSize ? `${sizeContext?.maxSize}px` : undefined }}
       className={clsx("inline-block w-fit leading-[1.8]", sizeContext?.maxSize && "flex justify-between")}
     >
@@ -113,6 +112,13 @@ function Verse({ content }: { content: string }) {
 
 export function SizeProvider({ children }: PropsWithChildren<object>) {
   const [maxSize, setMaxSize] = useState<number>();
+  const [fontsLoaded, setFontsLoaded] = useState(false);
+
+  useEffect(() => {
+    document.fonts.ready.then(() => {
+      setFontsLoaded(true);
+    })
+  }, []);
 
   return (
     <SizeContext.Provider
@@ -121,6 +127,7 @@ export function SizeProvider({ children }: PropsWithChildren<object>) {
         setChildSize: (size) => {
           setMaxSize((s) => Math.max(s ?? 0, size));
         },
+        fontsLoaded,
       }}
     >
       {children}
