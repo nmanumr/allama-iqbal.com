@@ -3,6 +3,7 @@
 import { createContext, PropsWithChildren, use, useEffect, useState } from "react";
 import clsx from "clsx";
 import type PoemType from "@/assets/content/armaghan-e-hijaz/01/01.json";
+import Link from "next/link";
 
 const SizeContext = createContext<{
   setChildSize: (size: number) => void;
@@ -40,19 +41,19 @@ export function Stanza({
           <SizeProvider key={id}>
             <div
               className={clsx(
-                "relative w-full max-w-6xl border-b border-black/10 px-4 py-2",
+                "relative w-full max-w-6xl border-b border-black/10 px-4 py-2 target:bg-yellow-50",
                 (urTrans || enTrans) && "grid-cols-5 lg:grid lg:gap-x-10",
               )}
               id={`cplt${id}`}
             >
               <div className="relative col-span-2 flex flex-col justify-center ps-8 font-mehr-nastaliq">
                 {id && (
-                  <a
+                  <Link
                     href={`#cplt${id}`}
                     className="absolute inset-y-0 -start-2 flex items-center font-sans text-xl font-black text-gray-200 transition hover:text-gray-400"
                   >
                     {id}
-                  </a>
+                  </Link>
                 )}
                 {originalText?.map((verse) => (
                   <div key={verse} className="flex justify-center">

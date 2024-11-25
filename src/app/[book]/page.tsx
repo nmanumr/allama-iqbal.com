@@ -21,11 +21,11 @@ export default async function Book({ params }: { params: Promise<{ book: string 
         <span className="pe-4">({numberFormat.format(bookIndex + 1)})</span> {book.name}
       </div>
       {book.sections.map((section, sectionIndex) => (
-        <section key={section.id} className="mt-10">
+        <section key={section.id} id={section.id} className="mt-10">
           {section.name && (
-            <div className="sticky top-0 border-b border-gray-200 bg-white py-4 text-xl">
+            <Link href={`#${section.id}`} className="sticky top-0 block border-b border-gray-200 bg-white py-4 text-xl">
               <span className="pe-4">({numberFormat.format(sectionIndex + 1)})</span> {section.name}
-            </div>
+            </Link>
           )}
 
           {section.poems.map((poem, poemIndex) => (
