@@ -5,6 +5,7 @@
   "bookName": "رموزِ بیخودی",
   "+@SectionID": "02",
   "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "اسلامی حریت اور حادثہء کربلا کے راز کی وضاحت میں۔",
   "Para": [
     {
       "Verse": [
@@ -16,11 +17,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اسلامی حریت اور حادثہء کربلا کے راز کی وضاحت میں۔\n\nجس کسی نے ہوالموجود سے پیمان باندھا اس کی گردن ہر معبود کی قید سے آزاد ہو گئی۔",
+              "_content": "جس کسی نے ہوالموجود سے پیمان باندھا اس کی گردن ہر معبود کی قید سے آزاد ہو گئی۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nWhoever maketh compact with the One That is, hath been delivered from the yoke of every idol.",
+              "_content": "Whoever maketh compact with the One That is, hath been delivered from the yoke of every idol.",
               "lang": "English"
             }
           ]

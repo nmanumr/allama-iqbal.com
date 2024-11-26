@@ -1,13 +1,14 @@
 {
   "id": "17",
-  "name": "در معنی اینکہ حیات ملیہ مرکز محسوس میخواہد",
+  "name": "در معنی اینکہ حیات ملیہ مرکز محسوس میخواہد و مرکز ملت اسلامیہ بیت الحرام است",
   "+@BookID": "06",
   "bookName": "رموزِ بیخودی",
   "+@SectionID": "02",
   "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "اس مضمون کی وضاحت میں کہ ملت کی زندگی مرکز محسوس چاہتی ہے",
   "Para": [
     {
-      "name": "در معنی اینکہ حیات ملیہ مرکز محسوس میخواہد و مرکز ملت اسلامیہ بیت الحرام است",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اس مضمون کی وضاحت میں کہ ملت کی زندگی مرکز محسوس چاہتی ہے \nاور ملت اسلامیہ کا مرکز بیت اللہ ہے۔",
+              "_content": "اور ملت اسلامیہ کا مرکز بیت اللہ ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nNow I will loose for thee the knotted cord that is Life’s riddle, and reveal to thee Life’s mysteries;",
+              "_content": "Now I will loose for thee the knotted cord that is Life’s riddle, and reveal to thee Life’s mysteries;",
               "lang": "English"
             }
           ]
@@ -778,5 +779,5 @@
       "id": 1
     }
   ],
-  "name-en": "That The Life Of The Community Requires A Visible Focus, And That The Focus Of The Islamic Community Is Makkah’S Sacred Home"
+  "name-en": "That The Life Of The Community Requires A Visible Focus, And That The Focus Of The Islamic Community Is Makkah’s Sacred Home"
 }

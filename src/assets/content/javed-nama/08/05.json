@@ -5,9 +5,11 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "08",
   "sectionName": "آن سوی افلاک",
+  "name-ur": "شاہ ہمدان کے حضور",
   "Para": [
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "شاہ ہمدان کے حضور\nزندہ رود\nمیں آپ سے ذات باری تعالے کے اس راز کی کلید چاہتا ہوں کہ خود شیطان پیدا کیا اور ہم سے اطاعت چاہی۔",
+              "_content": "میں آپ سے ذات باری تعالے کے اس راز کی کلید چاہتا ہوں کہ خود شیطان پیدا کیا اور ہم سے اطاعت چاہی۔",
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nI seek from you the key to the secret of God: He sought from us obedience, and created Satan.",
+              "_content": "I seek from you the key to the secret of God: He sought from us obedience, and created Satan.",
               "lang": "English"
             }
           ]
@@ -99,6 +101,7 @@
     },
     {
       "name": "شاہ ہمدان",
+      "name-en": "Shah-i Hamadan",
       "Verse": [
         {
           "id": "11",
@@ -112,7 +115,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Shah-i Hamadan\nThe man who is fully aware of himself creates advantage out of loss.",
+              "_content": "The man who is fully aware of himself creates advantage out of loss.",
               "lang": "English"
             }
           ]
@@ -173,6 +176,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "19",
@@ -186,7 +190,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nUnder the heavens man devours man, nation grazes upon another nation.",
+              "_content": "Under the heavens man devours man, nation grazes upon another nation.",
               "lang": "English"
             }
           ]
@@ -621,6 +625,7 @@
     },
     {
       "name": "شاہ ہمدان",
+      "name-en": "Shah-i Hamadan",
       "Verse": [
         {
           "id": "71",
@@ -634,7 +639,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Shah-i Hamadan\nI will tell you a subtle mystery, my son: the body is all clay, the soul a precious pearl.",
+              "_content": "I will tell you a subtle mystery, my son: the body is all clay, the soul a precious pearl.",
               "lang": "English"
             }
           ]
@@ -882,6 +887,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "101",
@@ -895,7 +901,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nYou have spoken of the wisdom of foul and fair; learned sage, expound a further subtlety.",
+              "_content": "You have spoken of the wisdom of foul and fair; learned sage, expound a further subtlety.",
               "lang": "English"
             }
           ]
@@ -939,6 +945,7 @@
     },
     {
       "name": "شاہ ہمدان",
+      "name-en": "Shah-i Hamadan",
       "Verse": [
         {
           "id": "107",
@@ -952,7 +959,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Shah-i Hamadan\nWhat is the origin of Kingship in East and West? Either the consent of the peoples, or war and violence.",
+              "_content": "What is the origin of Kingship in East and West? Either the consent of the peoples, or war and violence.",
               "lang": "English"
             }
           ]
@@ -1081,6 +1088,7 @@
     },
     {
       "name": "غنی",
+      "name-en": "Ghani",
       "Verse": [
         {
           "id": "123",
@@ -1094,7 +1102,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ghani\nWho gave to India this yearning for freedom? Who gave the quarry this passion to be the hunter?",
+              "_content": "Who gave to India this yearning for freedom? Who gave the quarry this passion to be the hunter?",
               "lang": "English"
             }
           ]
@@ -1597,6 +1605,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "183",
@@ -1610,7 +1619,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nHabituate yourself to the dervish wine and quaff it continuously; when you become riper, hurl yourself at the dominion of Jamshid.",
+              "_content": "Habituate yourself to the dervish wine and quaff it continuously; when you become riper, hurl yourself at the dominion of Jamshid.",
               "lang": "English"
             }
           ]

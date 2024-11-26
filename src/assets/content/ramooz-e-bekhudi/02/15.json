@@ -1,13 +1,14 @@
 {
   "id": "15",
-  "name": "پختگی سیرت ملیہ از اتباع آئین الہیہ است",
+  "name": "در معنی اینکہ پختگی سیرت ملیہ از اتباع آئین الہیہ است",
   "+@BookID": "06",
   "bookName": "رموزِ بیخودی",
   "+@SectionID": "02",
   "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "اس مضمون کی وضاحت میں کہ کردار کی پختگی شریعت کے اتباع سے ہے۔",
   "Para": [
     {
-      "name": "در معنی اینکہ پختگی سیرت ملیہ از اتباع آئین الہیہ است",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اس مضمون کی وضاحت میں کہ کردار کی پختگی شریعت کے اتباع سے ہے۔\n\nشریعت میں کوئی اور معنی نہ ڈھونڈ؛ گوہر کے باطن میں بھی چمک کے سوا اور کچھ نہیں۔",
+              "_content": "شریعت میں کوئی اور معنی نہ ڈھونڈ؛ گوہر کے باطن میں بھی چمک کے سوا اور کچھ نہیں۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nSeek thou no other meaning in the Law, nor look save light to find within the gem;",
+              "_content": "Seek thou no other meaning in the Law, nor look save light to find within the gem;",
               "lang": "English"
             }
           ]

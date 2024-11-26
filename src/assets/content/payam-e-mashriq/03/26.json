@@ -8,6 +8,8 @@
   "Para": [
     {
       "name": "بہ یکی از صوفیہ نوشتہ شد ",
+      "name-en": "Lines Addressed To a Sufi",
+      "name-ur": "صوفیوں میں سے ایک کے نام۔",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "صوفیوں میں سے ایک کے نام۔\nلیلی (محبوب) کی منزل کی خواہش نہ تو رکھتا ہے نہ میں، گرمی صحرا برداشت کرنے کی ہمت نہ تو رکھتا ہے نہ میں۔",
+              "_content": "لیلی (محبوب) کی منزل کی خواہش نہ تو رکھتا ہے نہ میں، گرمی صحرا برداشت کرنے کی ہمت نہ تو رکھتا ہے نہ میں۔",
               "lang": "Urdu"
             },
             {
-              "_content": "Lines Addressed To a Sufi:\nNeither have I nor you the wish to go to Layla’s house. Neither have I nor you the heart to bear the desert heat.",
+              "_content": "Neither have I nor you the wish to go to Layla’s house. Neither have I nor you the heart to bear the desert heat.",
               "lang": "English"
             }
           ]

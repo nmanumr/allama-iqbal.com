@@ -8,6 +8,7 @@
   "Para": [
     {
       "name": "افغانی",
+      "name-en": "Afghani",
       "Verse": [
         {
           "id": "01",
@@ -21,7 +22,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "AFGHANI\nThe Lord of the West, cunning from head to toe, taught the people of religion the concept of Country.",
+              "_content": "The Lord of the West, cunning from head to toe, taught the people of religion the concept of Country.",
               "lang": "English"
             }
           ]

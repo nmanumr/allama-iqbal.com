@@ -8,16 +8,17 @@
   "Para": [
     {
       "name": "نمودار می شود روح ناصر خسرو علوی و غزلی مستانہ سراییدہ غایب می شود",
+      "name-ur": "ناصر خسرو علوی کی روح ظاہر ہوتی ہے اور مستانہ وار غزل گا کر غائب ہو جاتی ہے۔",
       "Verse": [
         {
           "id": "01",
           "Text": [
             {
-              "_content": "\"دست را چون مرکب تیغ و قلم کردی مدار\nہیچ غم گر مرکب تن لنگ باشد یا عرن",
+              "_content": "دست را چون مرکب تیغ و قلم کردی مدار\nہیچ غم گر مرکب تن لنگ باشد یا عرن",
               "lang": "Original"
             },
             {
-              "_content": "ناصر خسرو علوی کی روح ظاہر ہوتی ہے اور مستانہ وار غزل گا کر غائب ہو جاتی ہے۔\n'جب تو نے اپنے ہاتھ کو تیغ و قلم کا مرکّب بنا لیا تو پھر اگر تیرا بدن لنگڑا یا لولا ہو تو کوئی فکر کی بات نہیں۔",
+              "_content": "جب تو نے اپنے ہاتھ کو تیغ و قلم کا مرکّب بنا لیا تو پھر اگر تیرا بدن لنگڑا یا لولا ہو تو کوئی فکر کی بات نہیں۔",
               "lang": "Urdu"
             },
             {
@@ -99,6 +100,7 @@
     },
     {
       "name": "ابدالی",
+      "name-en": "Abdali",
       "Verse": [
         {
           "id": "11",
@@ -112,7 +114,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Abdali\nThat youth who created dominions, then fled back to his mountains and deserts,\nKindled a fire on his mountain-peaks – did he emerge of fine assay, or was he utterly consumed?",
+              "_content": "That youth who created dominions, then fled back to his mountains and deserts,\nKindled a fire on his mountain-peaks – did he emerge of fine assay, or was he utterly consumed?",
               "lang": "English"
             }
           ]
@@ -122,6 +124,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "15",
@@ -135,7 +138,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nWhilst other nations are eager in brotherhood, with him brother is at war against brother.",
+              "_content": "Whilst other nations are eager in brotherhood, with him brother is at war against brother.",
               "lang": "English"
             }
           ]
@@ -298,6 +301,7 @@
     },
     {
       "name": "ابدالی",
+      "name-en": "Abdali",
       "Verse": [
         {
           "id": "35",
@@ -311,7 +315,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Abdali\nIn our nature, fever and ardour spring from the heart; waking and slumber possess the body from the heart.",
+              "_content": "In our nature, fever and ardour spring from the heart; waking and slumber possess the body from the heart.",
               "lang": "English"
             }
           ]
@@ -729,6 +733,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "85",
@@ -742,7 +747,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nDo you know what European culture is? In its world are two hundred paradises of colour;",
+              "_content": "Do you know what European culture is? In its world are two hundred paradises of colour;",
               "lang": "English"
             }
           ]
@@ -820,6 +825,7 @@
     },
     {
       "name": "ابدالی",
+      "name-en": "Abdali",
       "Verse": [
         {
           "id": "95",
@@ -833,7 +839,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Abdali\nWhat is able to control the East’s destiny is the unbending resolve of Pahlavi and Nadir:",
+              "_content": "What is able to control the East’s destiny is the unbending resolve of Pahlavi and Nadir:",
               "lang": "English"
             }
           ]
@@ -945,6 +951,7 @@
     },
     {
       "name": "سلطان شہید",
+      "name-en": "The Martyr – King",
       "Verse": [
         {
           "id": "109",
@@ -958,7 +965,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Martyr – King\nSpeak again of the Indians and of India – one blade of her grass no garden can outmatch;",
+              "_content": "Speak again of the Indians and of India – one blade of her grass no garden can outmatch;",
               "lang": "English"
             }
           ]
@@ -1019,6 +1026,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "117",
@@ -1032,7 +1040,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nThe Indians reject the statutes of Europe; they are immune to Europe’s magic charms;\nAlien laws are a heavy burden on the soul even though they descend from heaven itself.",
+              "_content": "The Indians reject the statutes of Europe; they are immune to Europe’s magic charms;\nAlien laws are a heavy burden on the soul even though they descend from heaven itself.",
               "lang": "English"
             }
           ]
@@ -1042,6 +1050,7 @@
     },
     {
       "name": "سلطان شہید",
+      "name-en": "The Martyr – King",
       "Verse": [
         {
           "id": "121",
@@ -1055,7 +1064,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Martyr – King\nHow man grows from a handful of dust with a heart, and with desire in that heart!",
+              "_content": "How man grows from a handful of dust with a heart, and with desire in that heart!",
               "lang": "English"
             }
           ]
@@ -1133,6 +1142,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "131",
@@ -1146,7 +1156,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nI scattered the seeds of my tears in Deccan; tulips are growing from the soil of that garden;\nThe river Cauvery unceasing on its journey – in its soul I have beheld a new commotion.",
+              "_content": "I scattered the seeds of my tears in Deccan; tulips are growing from the soil of that garden;\nThe river Cauvery unceasing on its journey – in its soul I have beheld a new commotion.",
               "lang": "English"
             }
           ]
@@ -1156,6 +1166,7 @@
     },
     {
       "name": "سلطان شہید",
+      "name-en": "The Martyr – King",
       "Verse": [
         {
           "id": "135",
@@ -1169,7 +1180,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Martyr – King\nYou who have been endowed with heart-illumining words, I burn still with the fever of your tears.",
+              "_content": "You who have been endowed with heart-illumining words, I burn still with the fever of your tears.",
               "lang": "English"
             }
           ]

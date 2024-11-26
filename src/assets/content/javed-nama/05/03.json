@@ -5,6 +5,7 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "05",
   "sectionName": "فلک مریخ",
+  "name-ur": "شہر مرغدین کی سیر",
   "Para": [
     {
       "name": "",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "شہر مرغدین کی سیر\n\nشہر مرغدین اور اس کی بلند عمارتیں ؛ میں اس ذیشان مقام کی کیا بات کروں۔",
+              "_content": "شہر مرغدین اور اس کی بلند عمارتیں ؛ میں اس ذیشان مقام کی کیا بات کروں۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nMarghadin and those lofty edifices – what can I say of that noble city?",
+              "_content": "Marghadin and those lofty edifices – what can I say of that noble city?",
               "lang": "English"
             }
           ]

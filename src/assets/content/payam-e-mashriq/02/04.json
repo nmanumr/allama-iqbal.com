@@ -8,6 +8,7 @@
   "Para": [
     {
       "name": "میلاد آدم",
+      "name-en": "The Birth of Man",
       "Verse": [
         {
           "id": "01",
@@ -21,7 +22,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Birth of Man:\n‘Here’s one with a bleeding heart’, rang abroad Love’s joyous cry. Beauty trembled and said, ‘Look! Here’s one with a seeing eye.’",
+              "_content": "‘Here’s one with a bleeding heart’, rang abroad Love’s joyous cry. Beauty trembled and said, ‘Look! Here’s one with a seeing eye.’",
               "lang": "English"
             }
           ]
@@ -99,6 +100,7 @@
     },
     {
       "name": "انکار ابلیس",
+      "name-en": "Satan’s Refusal",
       "Verse": [
         {
           "id": "11",
@@ -112,7 +114,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Satan’s Refusal:\nI am no creature of mere light that I should bow to man. He is a base-born thing of dust, and I am of fire born.",
+              "_content": "I am no creature of mere light that I should bow to man. He is a base-born thing of dust, and I am of fire born.",
               "lang": "English"
             }
           ]
@@ -258,6 +260,7 @@
     },
     {
       "name": "اغوای آدم",
+      "name-en": "The Temptation of Adam",
       "Verse": [
         {
           "id": "29",
@@ -271,7 +274,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Temptation of Adam:\nA life of struggle, strain and stress is better than eternal rest. When a dove strains hard at its net, an eagle’s heart beats in its breast.",
+              "_content": "A life of struggle, strain and stress is better than eternal rest. When a dove strains hard at its net, an eagle’s heart beats in its breast.",
               "lang": "English"
             }
           ]
@@ -417,6 +420,8 @@
     },
     {
       "name": "آدم از بہشت بیرون آمدہ میگوید",
+      "name-en": "Adam Sings on His Exit from Paradise",
+      "name-ur": "آدم بہشت سے باہر نکل کر کہتا ہے۔",
       "Verse": [
         {
           "id": "47",
@@ -426,11 +431,11 @@
               "lang": "Original"
             },
             {
-              "_content": "آدم بہشت سے باہر نکل کر کہتا ہے۔\nساری زند گی کو سوز و ساز بنا لینا کیا خوب ہے، کوہ و دشت و صحرا کے دل کو ایک لحظہ میں نرم کر دینا ، کیا بات ہے۔",
+              "_content": "ساری زند گی کو سوز و ساز بنا لینا کیا خوب ہے، کوہ و دشت و صحرا کے دل کو ایک لحظہ میں نرم کر دینا ، کیا بات ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "Adam Sings on His Exit from Paradise:\nO what a joy it is to make one’s life a constant, ardent glow! And with one’s breath make desert, hill and plain like molten metal flow!",
+              "_content": "O what a joy it is to make one’s life a constant, ardent glow! And with one’s breath make desert, hill and plain like molten metal flow!",
               "lang": "English"
             }
           ]
@@ -508,6 +513,7 @@
     },
     {
       "name": "صبح قیامت",
+      "name-en": "The Day of Judgement",
       "Verse": [
         {
           "id": "57",
@@ -521,7 +527,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Adam Sings on His Exit from Paradise: \nO You, who are the sun from whom the satellite of soul draws light, you have made of my heart a lamp that keeps Your whole Creation bright.",
+              "_content": "Adam in God’s Presence.\nO You, who are the sun from whom the satellite of soul draws light, you have made of my heart a lamp that keeps Your whole Creation bright.",
               "lang": "English"
             }
           ]

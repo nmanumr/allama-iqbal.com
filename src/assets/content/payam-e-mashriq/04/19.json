@@ -8,6 +8,7 @@
   "Para": [
     {
       "name": "برونینگ",
+      "name-en": "Browning",
       "Verse": [
         {
           "id": "01",
@@ -21,7 +22,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Browning: There was nothing to fortify life’s effervescent wine: I took some aqua vitae from Khizr and added it.",
+              "_content": "There was nothing to fortify life’s effervescent wine: I took some aqua vitae from Khizr and added it.",
               "lang": "English"
             }
           ]
@@ -31,6 +32,7 @@
     },
     {
       "name": "بایرن",
+      "name-en": "Byron",
       "Verse": [
         {
           "id": "03",
@@ -44,7 +46,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Byron: Why should one be obliged to Khizr for his aqua’s loan? I poured a little of my heart’s blood into the wine-cup.",
+              "_content": "Why should one be obliged to Khizr for his aqua’s loan? I poured a little of my heart’s blood into the wine-cup.",
               "lang": "English"
             }
           ]
@@ -54,6 +56,7 @@
     },
     {
       "name": "غالب",
+      "name-en": "Ghalib",
       "Verse": [
         {
           "id": "05",
@@ -67,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ghalib: To make the wine still bitterer and my chest still more sore, I melted the glass itself and added it to my wine.",
+              "_content": "To make the wine still bitterer and my chest still more sore, I melted the glass itself and added it to my wine.",
               "lang": "English"
             }
           ]
@@ -77,6 +80,7 @@
     },
     {
       "name": "رومی",
+      "name-en": "Rumi",
       "Verse": [
         {
           "id": "07",
@@ -90,7 +94,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Rumi: How can dilutions be as good as the real stuff itself? I pressed wine out of grapes direct and filled my cup with it.",
+              "_content": "How can dilutions be as good as the real stuff itself? I pressed wine out of grapes direct and filled my cup with it.",
               "lang": "English"
             }
           ]

@@ -541,6 +541,7 @@
     },
     {
       "name": "ندای جمال",
+      "name-en": "The Voice of Beauty",
       "Verse": [
         {
           "id": "63",
@@ -554,7 +555,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Voice of Beauty\nThe Pen of God such images fair and foul wrote exactly as became each one of us.",
+              "_content": "The Pen of God such images fair and foul wrote exactly as became each one of us.",
               "lang": "English"
             }
           ]
@@ -740,6 +741,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "85",
@@ -753,7 +755,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nWhat law governs the world of colour and scent, but that water once flowed returns not to the stream?",
+              "_content": "What law governs the world of colour and scent, but that water once flowed returns not to the stream?",
               "lang": "English"
             }
           ]
@@ -814,6 +816,7 @@
     },
     {
       "name": "ندای جمال",
+      "name-en": "The Voice of Beauty",
       "Verse": [
         {
           "id": "93",
@@ -827,7 +830,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Voice of Beauty\nLife is not a mere repetition of the breath; its origin is from the Living, Eternal God.",
+              "_content": "Life is not a mere repetition of the breath; its origin is from the Living, Eternal God.",
               "lang": "English"
             }
           ]
@@ -1109,6 +1112,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "127",
@@ -1122,7 +1126,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nWho am I? Who art Thou? Where is the world? Why is there a distance between me and Thee?\nSay, why am I in the bonds of destiny? Why dost Thou die not, whilst I die?",
+              "_content": "Who am I? Who art Thou? Where is the world? Why is there a distance between me and Thee?\nSay, why am I in the bonds of destiny? Why dost Thou die not, whilst I die?",
               "lang": "English"
             }
           ]
@@ -1132,6 +1136,7 @@
     },
     {
       "name": "ندای جمال",
+      "name-en": "The Voice of Beauty",
       "Verse": [
         {
           "id": "131",
@@ -1145,7 +1150,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Voice of Beauty\nYou have been in the world dimensionate, and any contained therein, therein dies.",
+              "_content": "You have been in the world dimensionate, and any contained therein, therein dies.",
               "lang": "English"
             }
           ]
@@ -1189,6 +1194,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "137",
@@ -1246,6 +1252,7 @@
     },
     {
       "name": "افتادن تجلی جلال",
+      "name-en": "Epiphany of the Divine Majesty",
       "Verse": [
         {
           "id": "143",
@@ -1259,7 +1266,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Epiphany of the Divine Majesty\nSuddenly I beheld my world, that earth and heaven of mine,",
+              "_content": "Suddenly I beheld my world, that earth and heaven of mine,",
               "lang": "English"
             }
           ]

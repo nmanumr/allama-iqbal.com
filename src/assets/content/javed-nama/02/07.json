@@ -5,9 +5,11 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "02",
   "sectionName": "فلک قمر",
+  "name-ur": "ایک رقاصہ عشوہ فروش کا توبہ کرنا۔",
   "Para": [
     {
       "name": "گوتم",
+      "name-en": "GAUTAM",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "ایک رقاصہ عشوہ فروش کا توبہ کرنا۔\n\nگوتم\nپرانی شراب اور جوان معشوق کی کوئی اہمیت نہیں ؛ صاحب نظر حضرت کے سامنے جنت کی حور بھی کوئی چیز نہیں۔",
+              "_content": "پرانی شراب اور جوان معشوق کی کوئی اہمیت نہیں ؛ صاحب نظر حضرت کے سامنے جنت کی حور بھی کوئی چیز نہیں۔",
               "lang": "Urdu"
             },
             {
-              "_content": "GAUTAM\nAncient wine and youthful beloved are-nothing; for men of true vision the houris of Paradise are-nothing.",
+              "_content": "Ancient wine and youthful beloved are-nothing; for men of true vision the houris of Paradise are-nothing.",
               "lang": "English"
             }
           ]
@@ -190,6 +192,7 @@
     },
     {
       "name": "رقاصہ",
+      "name-en": "The Dancing Girl",
       "Verse": [
         {
           "id": "21",
@@ -203,7 +206,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "HE DANCING GIRL\nGive not occasion for conturbation to this restless heart; add one or two curls more to my twisted tress.",
+              "_content": "Give not occasion for conturbation to this restless heart; add one or two curls more to my twisted tress.",
               "lang": "English"
             }
           ]

@@ -59,7 +59,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const book = indexItems[bookIndex];
   if (!book)
     return {
-      title: "Allama Iqbal's Literary Works - Comprehensive Collection",
+      title: "Allama Iqbal's Literary Works - Complete Collection",
       description:
         "Explore the complete collection of Allama Iqbal's literary masterpieces, including poetry, prose, and philosophical works. Access his books, translated versions, and more.",
     };

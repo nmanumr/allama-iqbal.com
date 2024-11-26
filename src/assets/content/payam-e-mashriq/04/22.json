@@ -5,9 +5,11 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "04",
   "sectionName": "نقش فرنگ",
+  "name-ur": "سرمایہ دار اور مزدور میں تقسیم جائداد",
   "Para": [
     {
-      "name": "سرمایہ",
+      "name": "سرمایہ دار",
+      "name-en": "Capitalist",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "سرمایہ دار اور مزدور میں تقسیم جائداد - سرمایہ دار کہتا ہے۔\nفولاد سازی کے کارخانے کا شور میرے لیے ہے، اور کلیسا کے پیانو کی خوبصورت آواز تیرے لیے ۔",
+              "_content": "فولاد سازی کے کارخانے کا شور میرے لیے ہے، اور کلیسا کے پیانو کی خوبصورت آواز تیرے لیے ۔",
               "lang": "Urdu"
             },
             {
-              "_content": "Capitalist: Mine is the din of the steel factory, and yours is the church organ’s melody.",
+              "_content": "Mine is the din of the steel factory, and yours is the church organ’s melody.",
               "lang": "English"
             }
           ]

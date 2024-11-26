@@ -5,6 +5,7 @@
   "bookName": "پس چہ بائد کرد",
   "+@SectionID": "01",
   "sectionName": "پس چہ بائد کرد",
+  "name-ur": "ملت افغانیہ کے بانی حضرت احمد شاہ ابدالی رحمتہ اللہ علیہ کے مزار پر۔",
   "Para": [
     {
       "name": "",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "ملت افغانیہ کے بانی حضرت احمد شاہ ابدالی رحمتہ اللہ علیہ کے مزار پر۔\n\nیہ اس روشن ضمیر پادشاہ کی قبر ہے جس کے ضمیر کے اندر سے ایک نئی ملت نے تشکیل پائی۔",
+              "_content": "یہ اس روشن ضمیر پادشاہ کی قبر ہے جس کے ضمیر کے اندر سے ایک نئی ملت نے تشکیل پائی۔",
               "lang": "Urdu"
             },
             {
-              "_content": "FOUNDER OF THE AFGHAN NATION\n\nThe grave of that enlightened king from whose self a nation arose;",
+              "_content": "The grave of that enlightened king from whose self a nation arose;",
               "lang": "English"
             }
           ]
@@ -268,6 +269,6 @@
       "id": 1
     }
   ],
-  "name-en": "At The Mausoleum Of Hadrat Ahmad Shah Baba",
+  "name-en": "At The Mausoleum Of Hadrat Ahmad Shah Baba, Founder of the Afghan Nation",
   "credits": "English Translation by: Jamil Naqvi"
 }

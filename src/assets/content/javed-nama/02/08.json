@@ -5,9 +5,12 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "02",
   "sectionName": "فلک قمر",
+  "name-ur": "اہریمن (شیطان) کا زرتشت کی آزمائش کرنا۔",
+  "name-en": "TASIN OF ZOROASTER: Ahriman Tempts Zoroaster",
   "Para": [
     {
       "name": "اہریمن",
+      "name-en": "Ahriman",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +20,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اہریمن (شیطان) کا زرتشت کی آزمائش کرنا۔\n\nاہریمن\nتیری وجہ سے میری مخلوقات بانسری کی طرح نالاں ہے؛ تیری وجہ سے باہر خزاں کی صورت اختیار کر چکی ہے۔",
+              "_content": "تیری وجہ سے میری مخلوقات بانسری کی طرح نالاں ہے؛ تیری وجہ سے باہر خزاں کی صورت اختیار کر چکی ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "TASIN OF ZOROASTER: Ahriman Tempts Zoroaster\n\nAHRIMAN\nBecause of you my creatures complain like a reed-pipe, because of you our April has become like December;",
+              "_content": "Because of you my creatures complain like a reed-pipe, because of you our April has become like December;",
               "lang": "English"
             }
           ]

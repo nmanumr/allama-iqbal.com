@@ -5,6 +5,7 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "02",
   "sectionName": "فلک قمر",
+  "name-en": "TASIN OF CHRIST: Vision of the sage Tolstoy",
   "Para": [
     {
       "name": "",
@@ -21,7 +22,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "TASIN OF CHRIST: Vision of the sage Tolstoy\n\nIn the midst of the mountain-range of Seven Deaths is a valley where no bird stirs, no branches, no leaf;",
+              "_content": "In the midst of the mountain-range of Seven Deaths is a valley where no bird stirs, no branches, no leaf;",
               "lang": "English"
             }
           ]

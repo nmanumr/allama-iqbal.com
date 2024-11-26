@@ -5,6 +5,8 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "08",
   "sectionName": "آن سوی افلاک",
+  "name-ur": "افلاک کے اس طرف : جرمن فلسفی نطشے کا مقام۔",
+  "name-en": "Beyond The Spheres: The Station Of The German Philosopher Nitezshe",
   "Para": [
     {
       "name": "",
@@ -17,7 +19,7 @@
               "lang": "Original"
             },
             {
-              "_content": "افلاک کے اس طرف : جرمن فلسفی نطشے کا مقام۔\nکوئی شخص اس نیلے آسمان کا بھید نہیں سمجھتا ؛ ہر جگہ ہستی اور نیستی کی کشمکش موجود ہے۔",
+              "_content": "کوئی شخص اس نیلے آسمان کا بھید نہیں سمجھتا ؛ ہر جگہ ہستی اور نیستی کی کشمکش موجود ہے۔",
               "lang": "Urdu"
             },
             {
@@ -653,6 +655,5 @@
       ],
       "id": 3
     }
-  ],
-  "name-en": "Beyond The Spheres: The Station Of The German Philosopher Nitezshe"
+  ]
 }

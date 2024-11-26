@@ -5,6 +5,7 @@
   "bookName": "پس چہ بائد کرد",
   "+@SectionID": "01",
   "sectionName": "پس چہ بائد کرد",
+  "name-ur": "حکیم سنائی کی روح بہشت بریں سے جواب دیتی ہے۔",
   "Para": [
     {
       "name": "",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "حکیم سنائی کی روح بہشت بریں سے جواب دیتی ہے۔\n\nفقر نے مجھے خیر و شر کے راز سے آگاہ اور زندہ و صاحب نظر کر دیا۔",
+              "_content": "فقر نے مجھے خیر و شر کے راز سے آگاہ اور زندہ و صاحب نظر کر دیا۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nI came to know the knower of good and bad by continence, I became alive and deep of sight by sublimation.",
+              "_content": "I came to know the knower of good and bad by continence, I became alive and deep of sight by sublimation.",
               "lang": "English"
             }
           ]
@@ -523,6 +524,6 @@
       "id": 1
     }
   ],
-  "name-en": "Sanai’S Spirit Speaks From Heaven",
+  "name-en": "Sanai’s Spirit Speaks From Heaven",
   "credits": "English Translation by: Jamil Naqvi"
 }

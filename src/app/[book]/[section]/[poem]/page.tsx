@@ -31,8 +31,8 @@ export default async function Poem({ params }: Props) {
             {poem.bookName} &gt; {poem.sectionName}
           </div>
           {poem.name && <div className="mt-4 text-4xl leading-[2]">{poem.name}</div>}
-          {(poem as any)["name-ur"] && <div dir="rtl" className="leading-[2.2]">({(poem as any)["name-ur"]})</div>}
-          {poem["name-en"] && <div dir="ltr" className="capitalize">({poem["name-en"]})</div>}
+          {(poem as any)["name-ur"] && <div dir="rtl" className="leading-[2.2]">{(poem as any)["name-ur"]}</div>}
+          {poem["name-en"] && <div dir="ltr">{poem["name-en"]}</div>}
         </div>
 
         <div className="mx-auto flex w-full max-w-6xl flex-col items-center justify-center font-nastaliq leading-[2.2] @container">

@@ -31,6 +31,7 @@
     },
     {
       "name": "جواب",
+      "name-en": "Answer",
       "Verse": [
         {
           "id": "03",
@@ -44,7 +45,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ANSWER\nEgo is greater than what we imagine it to be; ego is greater than the whole which you see.",
+              "_content": "Ego is greater than what we imagine it to be; ego is greater than the whole which you see.",
               "lang": "English"
             }
           ]

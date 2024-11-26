@@ -5,6 +5,7 @@
   "bookName": "زبورِعجم",
   "+@SectionID": "03",
   "sectionName": "گلشن راز جدید",
+  "name-en": "Question 2",
   "Para": [
     {
       "name": "",
@@ -31,6 +32,7 @@
     },
     {
       "name": "جواب",
+      "name-en": "Answer",
       "Verse": [
         {
           "id": "03",
@@ -44,7 +46,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Answer:\nEver-moving Life is a flowing ocean, consciousness is its shore.",
+              "_content": "Ever-moving Life is a flowing ocean, consciousness is its shore.",
               "lang": "English"
             }
           ]
@@ -518,6 +520,5 @@
       "id": 3
     }
   ],
-  "name-en": "Question 2",
   "credits": "English Translation by: Bashir Ahmad Dar"
 }

@@ -1,13 +1,14 @@
 {
   "id": "19",
-  "name": "تو سیع حیات ملیہ از تسخیر قوای نظام عالم است",
+  "name": "در معنی اینکہ تو سیع حیات ملیہ از تسخیر قوای نظام عالم است",
   "+@BookID": "06",
   "bookName": "رموزِ بیخودی",
   "+@SectionID": "02",
   "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "اس مضمون کی وضاحت میں کہ ملّی زندگی کی توسیع عناصر فطرت کی تسخیر سے ہے۔",
   "Para": [
     {
-      "name": "در معنی اینکہ تو سیع حیات ملیہ از تسخیر قوای نظام عالم است",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اس مضمون کی وضاحت میں کہ ملّی زندگی کی توسیع عناصر فطرت کی تسخیر سے ہے۔\n\nاے امت مسلمہ جس نے لا محدود سے جو نظر نہیں آتے پیمان وفا باندھا ہوا ہے اس طرح تو قید ساحل سے سیلاب کی مانند آزاد ہو چکی ہے۔",
+              "_content": "اے امت مسلمہ جس نے لا محدود سے جو نظر نہیں آتے پیمان وفا باندھا ہوا ہے اس طرح تو قید ساحل سے سیلاب کی مانند آزاد ہو چکی ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nThou, who hast made with the Invisible thy covenant, and burst forth like a flood from the shore’s bondage,",
+              "_content": "Thou, who hast made with the Invisible thy covenant, and burst forth like a flood from the shore’s bondage,",
               "lang": "English"
             }
           ]

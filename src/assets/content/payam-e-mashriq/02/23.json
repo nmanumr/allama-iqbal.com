@@ -8,6 +8,7 @@
   "Para": [
     {
       "name": "خدا",
+      "name-en": "God",
       "Verse": [
         {
           "id": "01",
@@ -20,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "God: I made the whole world with the same water and clay, but you created Iran, Tartary, and Ethiopia.",
+              "_content": "I made the whole world with the same water and clay, but you created Iran, Tartary, and Ethiopia.",
               "lang": "English"
             }
           ]
@@ -62,6 +63,7 @@
     },
     {
       "name": "انسان",
+      "name-en": "Man",
       "Verse": [
         {
           "id": "07",
@@ -74,7 +76,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Man: You made the night, I made the lamp; you made the earthen bowl, I made the goblet.",
+              "_content": "You made the night, I made the lamp; you made the earthen bowl, I made the goblet.",
               "lang": "English"
             }
           ]

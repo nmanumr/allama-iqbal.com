@@ -1,13 +1,15 @@
 {
   "id": "03",
-  "name": "تمہید آسمانی نخستین روز آفرینش ٓنکوہش",
+  "name": "تمہید آسمانی نخستین روز آفرینش ٓنکوہش می کند آسمان زمین را",
   "+@BookID": "09",
   "bookName": "جاوید نامہ",
   "+@SectionID": "01",
   "sectionName": "جاوید نامہ",
+  "name-ur": "آفرینش (کائنات) کے اوّلین روز آسمان کا زمین کو ملامت کرنا",
+  "name-en": "On the first day of creation Heaven rebukes Earth",
   "Para": [
     {
-      "name": "تمہید آسمانی نخستین روز آفرینش ٓنکوہش می کند آسمان زمین را",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "آفرینش (کائنات) کے اوّلین روز آسمان کا زمین کو ملامت کرنا \n\nزندگی نے غیب و حضور کی لذّت کی خاطر، اس جہان نزد و دور (متعلّق بہ مکان ) کو منقّش کیا۔",
+              "_content": "زندگی نے غیب و حضور کی لذّت کی خاطر، اس جہان نزد و دور (متعلّق بہ مکان ) کو منقّش کیا۔",
               "lang": "Urdu"
             },
             {
-              "_content": "On the first day of creation Heaven rebukes Earth\n\nLife out of the delight of absence and presence fashioned forth this world of near and far;",
+              "_content": "Life out of the delight of absence and presence fashioned forth this world of near and far;",
               "lang": "English"
             }
           ]

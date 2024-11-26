@@ -1,13 +1,15 @@
 {
   "id": "01",
-  "name": "ارواح جلیلۂ حلاج و غالب و قرةالعین طاہرہ",
+  "name": "ارواح جلیلۂ حلاج و غالب و قرةالعین طاہرہ کہ بہ نشیمن بہشتی نگردیدند و بگردش جاودان گراییدند",
   "+@BookID": "09",
   "bookName": "جاوید نامہ",
   "+@SectionID": "06",
   "sectionName": "فلک مشتری",
+  "name-en": "The Sphere Of Jupiter: The noble spirits of Hallaj, Ghalib, and Qurrat al-Ain Tahira who disdained to dwell in Paradise",
+  "name-ur": "حلاج ، غالب اور قرتہ العین طاہرہ کی ارواح جلیلہ جنہوں نے بہشت میں رہنے کی بجائے گردش جاودان کو پسند کیا",
   "Para": [
     {
-      "name": "ارواح جلیلۂ حلاج و غالب و قرةالعین طاہرہ کہ بہ نشیمن بہشتی نگردیدند و بگردش جاودان گراییدند",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "حلاج ، غالب اور قرتہ العین طاہرہ کی ارواح جلیلہ جنہوں نے بہشت میں رہنے کی بجائے گردش جاودان کو پسند کیا\nمیں اپنے اس دل دیوانہ کے قربان جاؤں جو مجھے ہر لمحے ایک نیا ویرانہ عطا کرتا ہے۔",
+              "_content": "میں اپنے اس دل دیوانہ کے قربان جاؤں جو مجھے ہر لمحے ایک نیا ویرانہ عطا کرتا ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "The noble spirits of Hallaj, Ghalib, and Qurrat al-Ain Tahira who disdained to dwell in Paradise,\nLet me be a ransom for this demented heart which every instant bestows on me another desert;",
+              "_content": "Let me be a ransom for this demented heart which every instant bestows on me another desert;",
               "lang": "English"
             }
           ]
@@ -385,6 +387,5 @@
       ],
       "id": 1
     }
-  ],
-  "name-en": "The Sphere Of Jupiter"
+  ]
 }

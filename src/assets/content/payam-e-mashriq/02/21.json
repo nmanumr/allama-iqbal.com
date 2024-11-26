@@ -8,6 +8,7 @@
   "Para": [
     {
       "name": "نغمۂ ساربان حجاز",
+      "name-en": "Song Of The Hijazi Camel-Driver",
       "Verse": [
         {
           "id": "01",
@@ -141,6 +142,5 @@
       "id": 1
     }
   ],
-  "name-en": "Song Of The Hijazi Camel-Driver",
   "credits": "English Translation by: M. Hadi Husain"
 }

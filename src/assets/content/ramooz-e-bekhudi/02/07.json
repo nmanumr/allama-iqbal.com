@@ -5,6 +5,7 @@
   "bookName": "رموزِ بیخودی",
   "+@SectionID": "02",
   "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "بو عبید (رحمتہ) اور جابان کی حکایت اخوت اسلامیہ کے بارے میں۔",
   "Para": [
     {
       "Verse": [
@@ -16,11 +17,11 @@
               "lang": "Original"
             },
             {
-              "_content": "بو عبید (رحمتہ) اور جابان کی حکایت اخوت اسلامیہ کے بارے میں۔\n\nجنگ کے دوران یزد جرد کے سپہ سالاروں میں سے ایک سپہ سالار مسلمان کے ہاتھوں قیدی بن گیا۔",
+              "_content": "جنگ کے دوران یزد جرد کے سپہ سالاروں میں سے ایک سپہ سالار مسلمان کے ہاتھوں قیدی بن گیا۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nA certain general of kind Yazdajerd Became a Muslim’s captive in the wars;",
+              "_content": "A certain general of kind Yazdajerd Became a Muslim’s captive in the wars;",
               "lang": "English"
             }
           ]

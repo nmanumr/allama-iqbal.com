@@ -5,6 +5,7 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "06",
   "sectionName": "فلک مشتری",
+  "name-ur": "زندہ رود ارواح بزرگ کے سامنے اپنی مشکلات پیش کرتا ہے",
   "Para": [
     {
       "name": "",
@@ -17,7 +18,7 @@
               "lang": "Original"
             },
             {
-              "_content": "زندہ رود ارواح بزرگ کے سامنے اپنی مشکلات پیش کرتا ہے\nآپ لوگ مومنوں کے مقام (جنت) سے کیوں دور اور مہجور رہتے ہیں؟",
+              "_content": "آپ لوگ مومنوں کے مقام (جنت) سے کیوں دور اور مہجور رہتے ہیں؟",
               "lang": "Urdu"
             },
             {
@@ -31,6 +32,7 @@
     },
     {
       "name": "حلاج",
+      "name-en": "Hallaj",
       "Verse": [
         {
           "id": "03",
@@ -44,7 +46,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hallaj\nThe free man who knows good and evil, his spirit cannot be contained in Paradise.",
+              "_content": "The free man who knows good and evil, his spirit cannot be contained in Paradise.",
               "lang": "English"
             }
           ]
@@ -141,7 +143,7 @@
               "lang": "Original"
             },
             {
-              "_content": "[Ilm ki nazar maazi-o-haal per hai; ishq jo deikhhta hai wohi kehta hai.]",
+              "_content": "علم کی نظر ماضی و حال پر ہے؛ عشق جو دیکھتا ہے وہی کہتا ہے۔",
               "lang": "Urdu"
             },
             {
@@ -308,6 +310,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "35",
@@ -321,7 +324,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nThe wheeling of destiny is death and life; no man knows what the wheeling of destiny is.",
+              "_content": "The wheeling of destiny is death and life; no man knows what the wheeling of destiny is.",
               "lang": "English"
             }
           ]
@@ -331,6 +334,7 @@
     },
     {
       "name": "حلاج",
+      "name-en": "Hallaj",
       "Verse": [
         {
           "id": "37",
@@ -344,7 +348,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hallaj\nWhoever possesses the apparatus of destiny, IbIis and death tremble before his might.",
+              "_content": "Whoever possesses the apparatus of destiny, IbIis and death tremble before his might.",
               "lang": "English"
             }
           ]
@@ -507,6 +511,7 @@
     },
     {
       "name": "رومی",
+      "name-en": "Rumi",
       "Verse": [
         {
           "id": "57",
@@ -598,6 +603,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "67",
@@ -611,7 +617,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nZindah Men of short vision have stirred up commotions and hung God’s true servant on the gibbet.\nThe hidden things of Being are manifest to you; declare then, what was your crime?",
+              "_content": "Zindah Men of short vision have stirred up commotions and hung God’s true servant on the gibbet.\nThe hidden things of Being are manifest to you; declare then, what was your crime?",
               "lang": "English"
             }
           ]
@@ -621,6 +627,7 @@
     },
     {
       "name": "حلاج",
+      "name-en": "Hallaj",
       "Verse": [
         {
           "id": "71",
@@ -634,7 +641,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hallaj\nThe sound of the Last Trump was in my breast; I saw a people hastening to the tomb,",
+              "_content": "The sound of the Last Trump was in my breast; I saw a people hastening to the tomb,",
               "lang": "English"
             }
           ]
@@ -831,6 +838,7 @@
     },
     {
       "name": "طاہرہ",
+      "name-en": "Tahira",
       "Verse": [
         {
           "id": "95",
@@ -844,7 +852,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Tahira\nFrom the sin of a frenzied servant of God new creatures come into being;",
+              "_content": "From the sin of a frenzied servant of God new creatures come into being;",
               "lang": "English"
             }
           ]
@@ -922,6 +930,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "105",
@@ -935,7 +944,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nYou who have been given the agony of the eternal quest, explain to me the meaning of a verse of yours:\nThe dove is a handful of ashes, the nightingale a network of colour – O lamentation, what is the true sign of a broken heart?",
+              "_content": "You who have been given the agony of the eternal quest, explain to me the meaning of a verse of yours:\nThe dove is a handful of ashes, the nightingale a network of colour – O lamentation, what is the true sign of a broken heart?",
               "lang": "English"
             }
           ]
@@ -945,6 +954,7 @@
     },
     {
       "name": "غالب",
+      "name-en": "Ghalib",
       "Verse": [
         {
           "id": "109",
@@ -958,7 +968,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ghalib\nThe lament that rises out of a broken heart – I have seen its effect different in every place;",
+              "_content": "The lament that rises out of a broken heart – I have seen its effect different in every place;",
               "lang": "English"
             }
           ]
@@ -1053,6 +1063,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "121",
@@ -1076,6 +1087,7 @@
     },
     {
       "name": "غالب",
+      "name-en": "Ghalib",
       "Verse": [
         {
           "id": "123",
@@ -1089,7 +1101,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ghalib\nConsider well this being and not-being; continuously worlds are coming into existence.\nWherever the tumultuous clamour of a world arises, there too is a Marcy unto all beings.",
+              "_content": "Consider well this being and not-being; continuously worlds are coming into existence.\nWherever the tumultuous clamour of a world arises, there too is a Marcy unto all beings.",
               "lang": "English"
             }
           ]
@@ -1099,6 +1111,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "127",
@@ -1112,7 +1125,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nSpeak more plainly; my understanding flags.",
+              "_content": "Speak more plainly; my understanding flags.",
               "lang": "English"
             }
           ]
@@ -1122,6 +1135,7 @@
     },
     {
       "name": "غالب",
+      "name-en": "Ghalib",
       "Verse": [
         {
           "id": "128",
@@ -1135,7 +1149,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ghalib\nIt were a sin to speak of these things more plainly.",
+              "_content": "It were a sin to speak of these things more plainly.",
               "lang": "English"
             }
           ]
@@ -1145,6 +1159,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "129",
@@ -1158,7 +1173,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nThen is the conversation of adepts unprofitable?",
+              "_content": "Then is the conversation of adepts unprofitable?",
               "lang": "English"
             }
           ]
@@ -1168,6 +1183,7 @@
     },
     {
       "name": "غالب",
+      "name-en": "Ghalib",
       "Verse": [
         {
           "id": "130",
@@ -1181,7 +1197,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ghalib\nIt is difficult to give tongue to this subtlety.",
+              "_content": "It is difficult to give tongue to this subtlety.",
               "lang": "English"
             }
           ]
@@ -1191,6 +1207,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "131",
@@ -1204,7 +1221,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nYou are wholly afire with the glow of the quest, yet how strange, you cannot master mere words!",
+              "_content": "You are wholly afire with the glow of the quest, yet how strange, you cannot master mere words!",
               "lang": "English"
             }
           ]
@@ -1214,6 +1231,7 @@
     },
     {
       "name": "غالب",
+      "name-en": "Ghalib",
       "Verse": [
         {
           "id": "133",
@@ -1227,7 +1245,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ghalib\n‘Creation’, ‘Predestination’, ‘Guidance’ are the beginning; a Mercy unto all beings is the end.",
+              "_content": "‘Creation’, ‘Predestination’, ‘Guidance’ are the beginning; a Mercy unto all beings is the end.",
               "lang": "English"
             }
           ]
@@ -1237,6 +1255,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "135",
@@ -1250,7 +1269,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nI have not yet glimpsed the face of the meaning; if you possess a fire, then burn me!",
+              "_content": "I have not yet glimpsed the face of the meaning; if you possess a fire, then burn me!",
               "lang": "English"
             }
           ]
@@ -1260,6 +1279,7 @@
     },
     {
       "name": "غالب",
+      "name-en": "Ghalib",
       "Verse": [
         {
           "id": "137",
@@ -1273,7 +1293,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ghalib\nYou who like me descry the secrets of poetry, these words overstretch the string of poetry;",
+              "_content": "You who like me descry the secrets of poetry, these words overstretch the string of poetry;",
               "lang": "English"
             }
           ]
@@ -1317,6 +1337,7 @@
     },
     {
       "name": "حلاج",
+      "name-en": "Hallaj",
       "Verse": [
         {
           "id": "143",
@@ -1330,7 +1351,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hallaj\nWherever you see a world of colour and scent out of whose soil springs the plant of desire\nIs either already illumined by the light of the Chosen One or is still seeking for the Chosen One.",
+              "_content": "Wherever you see a world of colour and scent out of whose soil springs the plant of desire\nIs either already illumined by the light of the Chosen One or is still seeking for the Chosen One.",
               "lang": "English"
             }
           ]
@@ -1340,6 +1361,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "147",
@@ -1353,7 +1375,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nI ask of you-though to ask is a sin – the secret of that essence whose name is the Chosen One;\nIs it a man or an essence in being such as but rarely comes into existence?",
+              "_content": "I ask of you-though to ask is a sin – the secret of that essence whose name is the Chosen One;\nIs it a man or an essence in being such as but rarely comes into existence?",
               "lang": "English"
             }
           ]
@@ -1363,6 +1385,7 @@
     },
     {
       "name": "حلاج",
+      "name-en": "Hallaj",
       "Verse": [
         {
           "id": "151",
@@ -1376,7 +1399,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hallaj\nBefore him the whole world bows prostrate, before him who called himself His servant.",
+              "_content": "Before him the whole world bows prostrate, before him who called himself His servant.",
               "lang": "English"
             }
           ]
@@ -1590,6 +1613,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "177",
@@ -1603,7 +1627,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nI know so little-what is this business of Love? Is it the joy of beholding? Then what is beholding?",
+              "_content": "I know so little-what is this business of Love? Is it the joy of beholding? Then what is beholding?",
               "lang": "English"
             }
           ]
@@ -1613,6 +1637,7 @@
     },
     {
       "name": "حلاج",
+      "name-en": "Hallaj",
       "Verse": [
         {
           "id": "179",
@@ -1626,7 +1651,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hallaj\nThe meaning of beholding that Last of Time is to make his rule binding on oneself.",
+              "_content": "The meaning of beholding that Last of Time is to make his rule binding on oneself.",
               "lang": "English"
             }
           ]
@@ -1670,6 +1695,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "185",
@@ -1683,7 +1709,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nWhat is the beholding of the God of the nine spheres, of Him without whose command moon and sun do not revolve?",
+              "_content": "What is the beholding of the God of the nine spheres, of Him without whose command moon and sun do not revolve?",
               "lang": "English"
             }
           ]
@@ -1693,6 +1719,7 @@
     },
     {
       "name": "حلاج",
+      "name-en": "Hallaj",
       "Verse": [
         {
           "id": "187",
@@ -1706,7 +1733,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hallaj\nFirst, to implant on one’s soul the image of God, then next to implant it on the world;",
+              "_content": "First, to implant on one’s soul the image of God, then next to implant it on the world;",
               "lang": "English"
             }
           ]
@@ -1835,6 +1862,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "203",
@@ -1848,7 +1876,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nGod’s image has been implanted on the world; I do not know how it has been implanted.",
+              "_content": "God’s image has been implanted on the world; I do not know how it has been implanted.",
               "lang": "English"
             }
           ]
@@ -1858,6 +1886,7 @@
     },
     {
       "name": "حلاج",
+      "name-en": "Hallaj",
       "Verse": [
         {
           "id": "205",
@@ -1871,7 +1900,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hallaj\nIt has been implanted by force of love or it has been implanted by force of violence;\nBecause God is more manifest in love, love is a better way than violence.",
+              "_content": "It has been implanted by force of love or it has been implanted by force of violence;\nBecause God is more manifest in love, love is a better way than violence.",
               "lang": "English"
             }
           ]
@@ -1881,6 +1910,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "209",
@@ -1894,7 +1924,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nDeclare, master of the secrets of the East, what difference is there between the ascetic and the lover?",
+              "_content": "Declare, master of the secrets of the East, what difference is there between the ascetic and the lover?",
               "lang": "English"
             }
           ]
@@ -1904,6 +1934,7 @@
     },
     {
       "name": "حلاج",
+      "name-en": "Hallaj",
       "Verse": [
         {
           "id": "211",
@@ -1927,6 +1958,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "213",
@@ -1940,7 +1972,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nThe end of gnosis is not-being what is life to repose in annihilation?",
+              "_content": "The end of gnosis is not-being what is life to repose in annihilation?",
               "lang": "English"
             }
           ]
@@ -1950,6 +1982,7 @@
     },
     {
       "name": "حلاج",
+      "name-en": "Hallaj",
       "Verse": [
         {
           "id": "215",
@@ -1963,7 +1996,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hallaj\nThe intoxication of lovers comes from emptied cups; not-being is to be ignorant of gnosis\nYou who seek your goal in annihilation, non-existence can never discover existence.",
+              "_content": "The intoxication of lovers comes from emptied cups; not-being is to be ignorant of gnosis\nYou who seek your goal in annihilation, non-existence can never discover existence.",
               "lang": "English"
             }
           ]
@@ -1973,6 +2006,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "219",
@@ -1986,7 +2020,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nHe who counted himself better than Adam; in his jar and cup remains neither wine nor lees;\nOur handful of dust is acquainted with the skies where is the fire of that destitute one?",
+              "_content": "He who counted himself better than Adam; in his jar and cup remains neither wine nor lees;\nOur handful of dust is acquainted with the skies where is the fire of that destitute one?",
               "lang": "English"
             }
           ]
@@ -1996,6 +2030,7 @@
     },
     {
       "name": "حلاج",
+      "name-en": "Hallaj",
       "Verse": [
         {
           "id": "223",
@@ -2009,7 +2044,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hallaj\nSpeak little of that Leader of those in separation, throat athirst, and eternally a blood-filled cup.",
+              "_content": "Speak little of that Leader of those in separation, throat athirst, and eternally a blood-filled cup.",
               "lang": "English"
             }
           ]
@@ -2104,6 +2139,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "235",
@@ -2117,7 +2153,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nYou who hold the clime of the soul under your royal signet, keep company with me a moment more.",
+              "_content": "You who hold the clime of the soul under your royal signet, keep company with me a moment more.",
               "lang": "English"
             }
           ]
@@ -2127,6 +2163,7 @@
     },
     {
       "name": "حلاج",
+      "name-en": "Hallaj",
       "Verse": [
         {
           "id": "237",
@@ -2140,7 +2177,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hallaj\nWe do not tolerate confinement to one station, we are wholly and singly a yearning to soa\nEvery instant our occupation is to see and to quiver, our labour is to fly without feathers and wings.",
+              "_content": "We do not tolerate confinement to one station, we are wholly and singly a yearning to soa\nEvery instant our occupation is to see and to quiver, our labour is to fly without feathers and wings.",
               "lang": "English"
             }
           ]

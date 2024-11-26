@@ -1,13 +1,15 @@
 {
   "id": "02",
-  "name": "عارف ہندی کہ بہ یکی از غار ہای قمر خلوت گرفتہ",
+  "name": "عارف ہندی کہ بہ یکی از غار ہای قمر خلوت گرفتہ و اہل ہند او را جہان دوست میگویند",
   "+@BookID": "09",
   "bookName": "جاوید نامہ",
   "+@SectionID": "02",
   "sectionName": "فلک قمر",
+  "name-en": "An Indian Ascetic, Known To The People Of India As Jahandost, Who Lives As A Hermit In One Of The Caverns Of The Moon",
+  "name-ur": "ہندی رشی جو چاند کی ایک غار میں خلوت گزین ہے اور اہل ہند اسے وشوامتر کہتے ہیں۔",
   "Para": [
     {
-      "name": "عارف ہندی کہ بہ یکی از غار ہای قمر خلوت گرفتہ و اہل ہند او را جہان دوست میگویند",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,7 +19,7 @@
               "lang": "Original"
             },
             {
-              "_content": "ہندی رشی جو چاند کی ایک غار میں خلوت گزین ہے اور اہل ہند اسے وشوامتر کہتے ہیں۔\n\nمیں اندھوں کی طرح اپنے ساتھی کے کندھے پر ہاتھ رکھے ؛ اس گہری غار کے اندر داخل ہوا۔",
+              "_content": "میں اندھوں کی طرح اپنے ساتھی کے کندھے پر ہاتھ رکھے ؛ اس گہری غار کے اندر داخل ہوا۔",
               "lang": "Urdu"
             },
             {
@@ -858,6 +860,5 @@
       ],
       "id": 6
     }
-  ],
-  "name-en": "An Indian Ascetic, Known To The People Of India As Jahandost, Who Lives As A Hermit In One Of The Caverns Of The Moon"
+  ]
 }

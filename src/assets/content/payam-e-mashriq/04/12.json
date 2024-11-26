@@ -8,6 +8,7 @@
   "Para": [
     {
       "name": "حکیم",
+      "name-en": "Comte",
       "Verse": [
         {
           "id": "01",
@@ -21,7 +22,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Comte: All men are one another’s limbs, the leaves and stems of one big tree.",
+              "_content": "All men are one another’s limbs, the leaves and stems of one big tree.",
               "lang": "English"
             }
           ]
@@ -82,6 +83,7 @@
     },
     {
       "name": "مرد مزدور",
+      "name-en": "The Labourer",
       "Verse": [
         {
           "id": "09",
@@ -95,7 +97,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Labourer: Philosopher, you cheat me when you say that I can never break my way out of this magic circle that you weave.",
+              "_content": "Philosopher, you cheat me when you say that I can never break my way out of this magic circle that you weave.",
               "lang": "English"
             }
           ]

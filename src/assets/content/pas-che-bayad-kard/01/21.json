@@ -5,6 +5,7 @@
   "bookName": "پس چہ بائد کرد",
   "+@SectionID": "01",
   "sectionName": "پس چہ بائد کرد",
+  "name-ur": "ویرانہء غزنی میں مرد شوریدہ کی مناجات۔",
   "Para": [
     {
       "name": "",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "ویرانہء غزنی میں مرد شوریدہ کی مناجات۔\n\nگل لالہ ایک شعاع آفتاب کے لیے شاخ کے اندر کتنے پیچ و تاب کھاتا ہے۔",
+              "_content": "گل لالہ ایک شعاع آفتاب کے لیے شاخ کے اندر کتنے پیچ و تاب کھاتا ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nThe tulip for getting just ray of the sun has such curvetings within a branch.",
+              "_content": "The tulip for getting just ray of the sun has such curvetings within a branch.",
               "lang": "English"
             }
           ]

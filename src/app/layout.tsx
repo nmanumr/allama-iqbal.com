@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import { Noto_Nastaliq_Urdu } from "next/font/google";
-import "./globals.css";
 import clsx from "clsx";
+import NextTopLoader from "nextjs-toploader";
+
+import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -20,7 +22,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={clsx(font.variable, "antialiased")}>{children}</body>
+      <body className={clsx(font.variable, "antialiased")}>
+        <NextTopLoader />
+        {children}
+      </body>
     </html>
   );
 }

@@ -5,6 +5,7 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "08",
   "sectionName": "آن سوی افلاک",
+  "name-ur": "سلاطین مشرق کے محلات کی طرف روانگی : نادر ، ابدالی ، سلطان ٹیپو شہید۔",
   "Para": [
     {
       "name": "",
@@ -17,7 +18,7 @@
               "lang": "Original"
             },
             {
-              "_content": "سلاطین مشرق کے محلات کی طرف روانگی : نادر ، ابدالی ، سلطان ٹیپو شہید۔\nبرتری کی بات میرے دل میں اتر گئی؛ اس کی نوا نے مجھے مست کر دیا۔",
+              "_content": "برتری کی بات میرے دل میں اتر گئی؛ اس کی نوا نے مجھے مست کر دیا۔",
               "lang": "Urdu"
             },
             {
@@ -456,6 +457,7 @@
     },
     {
       "name": "نادر",
+      "name-en": "Nadir",
       "Verse": [
         {
           "id": "53",
@@ -469,7 +471,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Nadir\nWelcome to you, eastern weaver of subtleties whose lips the Persian speech so well beseems!\nWe are your intimate friends; tell us your secret, reveal what you know of Iran.",
+              "_content": "Welcome to you, eastern weaver of subtleties whose lips the Persian speech so well beseems!\nWe are your intimate friends; tell us your secret, reveal what you know of Iran.",
               "lang": "English"
             }
           ]
@@ -479,6 +481,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "57",
@@ -492,7 +495,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nAfter long ages she opened her eyes on herself, but then she fell into the snare of a trap,",
+              "_content": "After long ages she opened her eyes on herself, but then she fell into the snare of a trap,",
               "lang": "English"
             }
           ]

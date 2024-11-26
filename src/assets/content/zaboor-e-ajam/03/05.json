@@ -31,6 +31,7 @@
     },
     {
       "name": "جواب",
+      "name-en": "Answer",
       "Verse": [
         {
           "id": "05",
@@ -44,7 +45,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Answer\nThe life of the ego is to bring non-ego into existence, the separation of the knower and known is good.",
+              "_content": "The life of the ego is to bring non-ego into existence, the separation of the knower and known is good.",
               "lang": "English"
             }
           ]
@@ -305,7 +306,7 @@
           ]
         },
         {
-          "id": "57",
+          "id": "37",
           "Text": [
             {
               "_content": "گہی ہر پردۂ فطرت دریدیم\nجمال یار بیباکانہ دیدیم",

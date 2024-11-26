@@ -1,13 +1,15 @@
 {
   "id": "02",
-  "name": "در معنی اینکہ یأس و حزن و خوف ام الحبا ئث است",
+  "name": "در معنی اینکہ یأس و حزن و خوف ام الحبا ئث است و قاطع حیات، و توحید ازالۂ این امراض خبیثہ می کند",
   "+@BookID": "06",
   "bookName": "رموزِ بیخودی",
   "+@SectionID": "02",
   "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "اس مضمون کی وضاحت کہ نا امیدی غم اور ڈر سب برائیوں کی جڑ ہیں اور رشتہء حیات منقطع کرنے والی ہیں ، اور توحید ان امراض خبیثہ کا ازالہ کرتی ہے۔",
+  "name-en": "That Despair, Grief and Fear are the Mother of Abominations, destroying Life; end that Belief in Unity of  God puts an end to those Foul Diseases",
   "Para": [
     {
-      "name": "در معنی اینکہ یأس و حزن و خوف ام الحبا ئث است و قاطع حیات، و توحید ازالۂ این امراض خبیثہ می کند ",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اس مضمون کی وضاحت کہ نا امیدی غم اور ڈر سب برائیوں کی جڑ ہیں اور رشتہء حیات منقطع کرنے والی ہیں ، اور توحید ان امراض خبیثہ کا ازالہ کرتی ہے۔\n\nامید چھوڑ دینا گویا موت کا سامان کرنا ہے؛ زندگی کا استحکام اسی سے ہے کہ انسان اللہ تعالے کی رحمت سے نا امید نہ ہو۔",
+              "_content": "امید چھوڑ دینا گویا موت کا سامان کرنا ہے؛ زندگی کا استحکام اسی سے ہے کہ انسان اللہ تعالے کی رحمت سے نا امید نہ ہو۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nThe amputation of desire condemnsto Death; Life rests secure on the behest do not despair.",
+              "_content": "The amputation of desire condemnsto Death; Life rests secure on the behest do not despair.",
               "lang": "English"
             }
           ]
@@ -538,6 +540,5 @@
       ],
       "id": 1
     }
-  ],
-  "name-en": "That Despair, Grief And Fear Are The Mother Of Abominations, Destyroying Life; And That Belief In The Unity Of God Puts An End To Those Foul Diseases"
+  ]
 }

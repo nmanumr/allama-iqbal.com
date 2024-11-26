@@ -5,6 +5,8 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "03",
   "sectionName": "فلک عطارد",
+  "name-en": "The Sphere Of Mercury: Visitation to the spirits of Jamal al-Din Afghani and Sa‘id Halim Pasha",
+  "name-ur": "اروح جمال الدین افغانی و سعید حلیم پاشا کی زیارت۔",
   "Para": [
     {
       "name": "",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اروح جمال الدین افغانی و سعید حلیم پاشا کی زیارت۔\n\nاس مشت خاک (اقبال) نے اپنی تجلّیات کا نظارہ کرنے میں اپنے کام کو آگے بڑھایا۔",
+              "_content": "اس مشت خاک (اقبال) نے اپنی تجلّیات کا نظارہ کرنے میں اپنے کام کو آگے بڑھایا۔",
               "lang": "Urdu"
             },
             {
-              "_content": "Visitation to the spirits of Jamal al-Din Afghani and Sa‘id Halim Pasha\n\nA handful of dust so carried forward its task to the contemplation of its own manifestations:",
+              "_content": "A handful of dust so carried forward its task to the contemplation of its own manifestations:",
               "lang": "English"
             }
           ]
@@ -688,6 +690,5 @@
       ],
       "id": 6
     }
-  ],
-  "name-en": "The Sphere Of Mercury"
+  ]
 }

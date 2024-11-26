@@ -5,6 +5,7 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "08",
   "sectionName": "آن سوی افلاک",
+  "name-ur": "شاعر ہند برتری ہری سے ملاقات۔",
   "Para": [
     {
       "name": "",
@@ -17,7 +18,7 @@
               "lang": "Original"
             },
             {
-              "_content": "شاعر ہند برتری ہری سے ملاقات۔\nحوریں جو محلوں اور خیموں میں قیام پذیر تھیں ؛ انہیں میری نوا نے سوز تمام عطا کیا۔",
+              "_content": "حوریں جو محلوں اور خیموں میں قیام پذیر تھیں ؛ انہیں میری نوا نے سوز تمام عطا کیا۔",
               "lang": "Urdu"
             },
             {
@@ -201,6 +202,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "23",
@@ -224,6 +226,7 @@
     },
     {
       "name": "برتری ہری",
+      "name-en": "Bartari-Hari",
       "Verse": [
         {
           "id": "27",
@@ -237,7 +240,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Bartari-Hari\nNone knows where the poet is in this world; his melody springs from the high notes and the low.",
+              "_content": "None knows where the poet is in this world; his melody springs from the high notes and the low.",
               "lang": "English"
             }
           ]
@@ -315,6 +318,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "37",
@@ -338,6 +342,7 @@
     },
     {
       "name": "برتری ہری",
+      "name-en": "Bartari-Hari",
       "Verse": [
         {
           "id": "39",
@@ -351,7 +356,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Bartari-Hari\nThese frail gods are but of stone and brick; there is One more lofty, far from temple and church",
+              "_content": "These frail gods are but of stone and brick; there is One more lofty, far from temple and church",
               "lang": "English"
             }
           ]
@@ -426,11 +431,6 @@
         }
       ],
       "id": 5
-    },
-    {
-      "name": "برتری ہری",
-      "Verse": [],
-      "id": 6
     }
   ],
   "name-en": "Meeting With The Indian Poet Bartari-Hari"

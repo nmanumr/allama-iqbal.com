@@ -31,6 +31,7 @@
     },
     {
       "name": "جواب",
+      "name-en": "Answer",
       "Verse": [
         {
           "id": "03",
@@ -44,7 +45,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ANSWER\nThe world beneath the sky is a charming place, but its sun and moon are prone to decay.",
+              "_content": "The world beneath the sky is a charming place, but its sun and moon are prone to decay.",
               "lang": "English"
             }
           ]

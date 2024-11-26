@@ -5,6 +5,7 @@
   "bookName": "رموزِ بیخودی",
   "+@SectionID": "03",
   "sectionName": "مثنوی مطالب خلاصۂ در تفسیر اخلاص",
+  "name-ur": "عرض حال مصنّف بحضور رحمتہ ا لعالمین (صلعم)۔",
   "Para": [
     {
       "Verse": [
@@ -16,11 +17,11 @@
               "lang": "Original"
             },
             {
-              "_content": "عرض حال مصنّف بحضور رحمتہ ا لعالمین (صلعم)۔\n\nآپ (صلعم) کی تشریف آوری سے زندگی اپنے شباب کو پہنچی ؛ آپ (صلعم) کا ظہور خواب زندگی کی تعبیر ہے ( آپ صلعم) مقصود کائنات ہیں۔",
+              "_content": "آپ (صلعم) کی تشریف آوری سے زندگی اپنے شباب کو پہنچی ؛ آپ (صلعم) کا ظہور خواب زندگی کی تعبیر ہے ( آپ صلعم) مقصود کائنات ہیں۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nO thou, whose manifesting was the youth of strenuous life,\nwhose bright epiphany told the interpretation of life’s dreams;",
+              "_content": "O thou, whose manifesting was the youth of strenuous life,\nwhose bright epiphany told the interpretation of life’s dreams;",
               "lang": "English"
             }
           ]
@@ -1117,5 +1118,5 @@
       "id": 1
     }
   ],
-  "name-en": "The Author’S Memorial To Him Who Is A Mercy To All Living Beings"
+  "name-en": "The Author’s Memorial To Him Who Is A Mercy To All Living Beings"
 }

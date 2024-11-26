@@ -8,6 +8,8 @@
   "Para": [
     {
       "name": "بہ یکی از فرزندانش کہ دعای مرگ پدر میکرد ",
+      "name-ur": "اپنے بیٹوں میں سے ایک کے نام جو باپ کے مرنے کی دعا کیا کرتا ہے۔",
+      "name-en": "To one of his sons who used to pray for the father’s death.",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اپنے بیٹوں میں سے ایک کے نام جو باپ کے مرنے کی دعا کیا کرتا ہے۔\n\nکیا تو نہیں جانتا کہ اللہ تعالے بہت قدیم ہیں؛ انہوں نے بہت کچھ دیکھا جانچا اور کئی معاملات کو ختم کیا یا سلجھایا ۔",
+              "_content": "کیا تو نہیں جانتا کہ اللہ تعالے بہت قدیم ہیں؛ انہوں نے بہت کچھ دیکھا جانچا اور کئی معاملات کو ختم کیا یا سلجھایا۔",
               "lang": "Urdu"
             },
             {
-              "_content": "To one of his sons who used to pray for the father’s death.\n\nDo you know that to punish and reward has been from old the business of the Lord?",
+              "_content": "Do you know that to punish and reward has been from old the business of the Lord?",
               "lang": "English"
             }
           ]
@@ -98,6 +100,6 @@
       "id": 1
     }
   ],
-  "name-en": "Alamgir’S Letter",
+  "name-en": "Alamgir’s Letter",
   "credits": "English Translation by: M. Hadi Husain"
 }

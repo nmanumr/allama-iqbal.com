@@ -18,19 +18,19 @@ export function Stanza({ para }: { para: (typeof PoemType)["Para"][0] }) {
 
   return (
     <>
-      <div className="my-4 text-center space-y-4">
+      <div className="my-4 space-y-4 text-center">
         {para.name && (
           <div dir="rtl" className="mt-8 text-2xl leading-[1.8]">
             {para.name}
           </div>
         )}
         {(para as any)["name-ur"] && (
-          <div dir="rtl" className="text-base leading-[2.2] whitespace-pre-wrap">
+          <div dir="rtl" className="whitespace-pre-wrap text-base leading-[2.2]">
             {(para as any)["name-ur"]}
           </div>
         )}
         {(para as any)["name-en"] && (
-          <div dir="ltr" className="max-w-screen-lg mx-auto text-base whitespace-pre-wrap">
+          <div dir="ltr" className="mx-auto max-w-screen-lg whitespace-pre-wrap text-base">
             {(para as any)["name-en"]}
           </div>
         )}
@@ -51,7 +51,7 @@ export function Stanza({ para }: { para: (typeof PoemType)["Para"][0] }) {
           <SizeProvider key={id}>
             <div
               className={clsx(
-                "relative w-full text-2xl border-b border-black/10 px-4 py-2 target:bg-yellow-50",
+                "relative w-full border-b border-black/10 px-4 py-2 text-2xl target:bg-yellow-50",
                 (en || ur) && "grid-cols-5 lg:grid lg:gap-x-10",
               )}
               id={`cplt${id}`}
@@ -65,11 +65,13 @@ export function Stanza({ para }: { para: (typeof PoemType)["Para"][0] }) {
                     {id}
                   </Link>
                 )}
-                {originalText?.map((verse) => (
-                  <div key={verse} className="flex justify-center">
-                    <Verse content={verse} />
-                  </div>
-                ))}
+                {originalText
+                  ?.map((v, i) => [v, i] as const)
+                  .map(([verse, index]) => (
+                    <div key={index} className="flex justify-center">
+                      <Verse content={verse} />
+                    </div>
+                  ))}
               </div>
 
               {(en || ur) && (

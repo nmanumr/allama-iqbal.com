@@ -1,13 +1,15 @@
 {
   "id": "01",
-  "name": "ارواح رذیلہ کہ با ملک و ملت غداری کردہ",
+  "name": "رواح رذیلہ کہ با ملک و ملت غداری کردہ و دوزح ایشان را قبول نکردہ",
   "+@BookID": "09",
   "bookName": "جاوید نامہ",
   "+@SectionID": "07",
   "sectionName": "فلک زحل",
+  "name-en": "The Sphere Of Saturn: The vile spirits which have betrayed the nation and have been rejected by Hell",
+  "name-ur": "ارواح رذیلہ جنہوں نے ملک و ملت سے غداری کی اور انہیں دوزح نے بھی قبول نہ کیا۔",
   "Para": [
     {
-      "name": "رواح رذیلہ کہ با ملک و ملت غداری کردہ و دوزح ایشان را قبول نکردہ",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "فلک زحل\nارواح رذیلہ جنہوں نے ملک و ملت سے غداری کی اور انہیں دوزح نے بھی قبول نہ کیا۔\nپیر رومی راس شعار لوگوں کے امام اور ان کے ہر مقام سے آگاہ ہیں۔",
+              "_content": "پیر رومی راس شعار لوگوں کے امام اور ان کے ہر مقام سے آگاہ ہیں۔",
               "lang": "Urdu"
             },
             {
-              "_content": "The vile spirits which have betrayed the nation and have been rejected by Hell\nThe Sage of Rum, leader of the righteous, familiar with all the stages of the righteous;",
+              "_content": "The Sage of Rum, leader of the righteous, familiar with all the stages of the righteous;",
               "lang": "English"
             }
           ]
@@ -301,6 +303,5 @@
       ],
       "id": 1
     }
-  ],
-  "name-en": "The Sphere Of Saturn"
+  ]
 }

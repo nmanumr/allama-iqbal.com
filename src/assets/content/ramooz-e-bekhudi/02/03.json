@@ -5,6 +5,7 @@
   "bookName": "رموزِ بیخودی",
   "+@SectionID": "02",
   "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "تیر و شمشیر کی گفتگو",
   "Para": [
     {
       "Verse": [
@@ -16,11 +17,11 @@
               "lang": "Original"
             },
             {
-              "_content": "تیر و شمشیر کی گفتگو\n\nتیر نے اپنی سوفار (تیر کا پچھلا حصّہ) کی زبان سے سچی بات کہی؛ اس نے گھمسان کی جنگ میں تلوار سے کہا۔",
+              "_content": "تیر نے اپنی سوفار (تیر کا پچھلا حصّہ) کی زبان سے سچی بات کہی؛ اس نے گھمسان کی جنگ میں تلوار سے کہا۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nHow truthfully the well-notched arrow, \nspoke unto the sword in heat of battletide:",
+              "_content": "How truthfully the well-notched arrow, \nspoke unto the sword in heat of battletide:",
               "lang": "English"
             }
           ]

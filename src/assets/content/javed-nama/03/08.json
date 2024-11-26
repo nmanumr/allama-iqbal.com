@@ -5,6 +5,7 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "03",
   "sectionName": "فلک عطارد",
+  "name-ur": "حکمت خیر کثیر ہے۔",
   "Para": [
     {
       "name": "",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "حکمت خیر کثیر ہے۔\n\nاللہ تعالے نے حکمت کو خیر کثیر فرمایا ہے؛ جہاں کہیں تو اس خیر کو دیکھے اپنا لے۔",
+              "_content": "اللہ تعالے نے حکمت کو خیر کثیر فرمایا ہے؛ جہاں کہیں تو اس خیر کو دیکھے اپنا لے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nGod has declared, Wisdom is a great good; wherever you may see this good, seize it.",
+              "_content": "God has declared, Wisdom is a great good; wherever you may see this good, seize it.",
               "lang": "English"
             }
           ]

@@ -1,13 +1,15 @@
 {
   "id": "05",
-  "name": "تمہید زمینی آشکارا می شود روح حضرت رومی",
+  "name": "تمہید زمینی: آشکارا می شود روح حضرت رومی و شرح میدہد اسرار معراج را",
   "+@BookID": "09",
   "bookName": "جاوید نامہ",
   "+@SectionID": "01",
   "sectionName": "جاوید نامہ",
+  "name-en": "Prelude On Earth: The Spirit of Rumi appears and explains the mystery of the Ascension",
+  "name-ur": "تمہید زمینی\nمولانا رومی (رحمتہ ) کی روح ظاہر ہوتی ہے اور معراج کے اسرار کی شرح بیان کرتی ہے",
   "Para": [
     {
-      "name": "تمہید زمینی آشکارا می شود روح حضرت رومی و شرح میدہد اسرار معراج را",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "تمہید زمینی\nمولانا رومی (رحمتہ ) کی روح ظاہر ہوتی ہے اور معراج کے اسرار کی شرح بیان کرتی ہے\n(جناب رسول پّاک (صلعم) کے بوجود مبارک کی صورت میں یہ مضمون موزوں ہے)\n\nشور برپا کرنے والا عشق شہر سے بے پرواہ ہے؛ شہر کے شور و غل میں اس کا شعلہ بجھ جاتا ہے۔",
+              "_content": "(جناب رسول پّاک (صلعم) کے بوجود مبارک کی صورت میں یہ مضمون موزوں ہے)\n\nشور برپا کرنے والا عشق شہر سے بے پرواہ ہے؛ شہر کے شور و غل میں اس کا شعلہ بجھ جاتا ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "The Spirit of Rumi appears and explains the mystery of the Ascension\n\nTumulutous love, indifferent to the city; for in the city’s clangour its flame dies.",
+              "_content": "Tumulutous love, indifferent to the city; for in the city’s clangour its flame dies.",
               "lang": "English"
             }
           ]
@@ -1816,6 +1818,5 @@
       ],
       "id": 7
     }
-  ],
-  "name-en": "Prelude On Earth"
+  ]
 }

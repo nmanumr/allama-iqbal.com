@@ -1,13 +1,14 @@
 {
   "id": "10",
-  "name": "زندہ رود رخصت می شود از فردوس برین",
+  "name": "زندہ رود رخصت می شود از فردوس برین و تقاضای حوران بہشتی",
   "+@BookID": "09",
   "bookName": "جاوید نامہ",
   "+@SectionID": "08",
   "sectionName": "آن سوی افلاک",
+  "name-ur": "زندہ رود فردوس بريں سے رخصت ہوتا ہے اور حوران بہشتی اس سے منزل کا تقاضا کرتی ہیں۔",
   "Para": [
     {
-      "name": "زندہ رود رخصت می شود از فردوس برین و تقاضای حوران بہشتی",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,7 +18,7 @@
               "lang": "Original"
             },
             {
-              "_content": "زندہ رود فردوس بريں سے رخصت ہوتا ہے اور حوران بہشتی اس سے منزل کا تقاضا کرتی ہیں۔\nسلطان شہید کی باتیں سن کر میرے صبر و سکون کا شیشہ پاش پاش ہو گیا؛ مگر پیر رومی نے کہا ، اٹھ (اب یہاں سے چلیں)۔",
+              "_content": "سلطان شہید کی باتیں سن کر میرے صبر و سکون کا شیشہ پاش پاش ہو گیا؛ مگر پیر رومی نے کہا ، اٹھ (اب یہاں سے چلیں)۔",
               "lang": "Urdu"
             },
             {
@@ -99,6 +100,7 @@
     },
     {
       "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
       "Verse": [
         {
           "id": "11",
@@ -112,7 +114,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zinda-Rud\nThe traveller who knows the secrets of the journey fears the lodging-place more than the highwayman.",
+              "_content": "The traveller who knows the secrets of the journey fears the lodging-place more than the highwayman.",
               "lang": "English"
             }
           ]
@@ -190,6 +192,7 @@
     },
     {
       "name": "حوران بہشت",
+      "name-en": "The Houris of Paradise",
       "Verse": [
         {
           "id": "21",
@@ -203,7 +206,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Houris of Paradise\nYour blandishments are like those of Time; grudge us not now one sweet song.",
+              "_content": "Your blandishments are like those of Time; grudge us not now one sweet song.",
               "lang": "English"
             }
           ]

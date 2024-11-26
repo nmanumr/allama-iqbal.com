@@ -1,13 +1,14 @@
 {
   "id": "06",
-  "name": "در معنی اینکہ مقصود رسالت محمدیہ",
+  "name": "در معنی اینکہ مقصود رسالت محمدیہ تشکیل و تاسیس حریت و مساوات و اخوت بنی نوع دم است",
   "+@BookID": "06",
   "bookName": "رموزِ بیخودی",
   "+@SectionID": "02",
   "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "اس مضمون کی وضاحت میں کہ رسالت محمدیہ کا مقصود بنی آدم کی آزادی اور اخوّت کی تشکیل و تاسیس ہے۔",
   "Para": [
     {
-      "name": "در معنی اینکہ مقصود رسالت محمدیہ تشکیل و تاسیس حریت و مساوات و اخوت بنی نوع دم است",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اس مضمون کی وضاحت میں کہ رسالت محمدیہ کا مقصود بنی آدم کی آزادی اور اخوّت کی تشکیل و تاسیس ہے۔\n\nدنیا میں انسان انسان کی پرستش کرتا ہے؛ لوگ انسانیت سے گر چکے تھے؛ ان کی کوئی ہستی نہیں تھی اور وہ دبے ہوئے تھے۔",
+              "_content": "دنیا میں انسان انسان کی پرستش کرتا ہے؛ لوگ انسانیت سے گر چکے تھے؛ ان کی کوئی ہستی نہیں تھی اور وہ دبے ہوئے تھے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nThroughout the world man worshipped tyrant man, \ndespised, neglected, insignificant;",
+              "_content": "Throughout the world man worshipped tyrant man, \ndespised, neglected, insignificant;",
               "lang": "English"
             }
           ]
@@ -421,5 +422,5 @@
       "id": 1
     }
   ],
-  "name-en": "That The Purpose Of Muhammad’S (S.A.W.) Mission Was To Found Freedom, Equality And Brotherhood Among All Mankind"
+  "name-en": "That The Purpose Of Muhammad’s (S.A.W.) Mission Was To Found Freedom, Equality And Brotherhood Among All Mankind"
 }

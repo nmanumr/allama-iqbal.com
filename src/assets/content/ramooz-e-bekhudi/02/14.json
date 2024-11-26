@@ -1,13 +1,14 @@
 {
   "id": "14",
-  "name": "در زمانۂ انحطاط تقلید از اجتہاد اولی تراست",
+  "name": "در معنی اینکہ در زمانۂ انحطاط تقلید از اجتہاد اولی تراست",
   "+@BookID": "06",
   "bookName": "رموزِ بیخودی",
   "+@SectionID": "02",
   "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "اس مضمون کی وضاحت میں کہ انحطاط کے دور میں تقلید اجتحاد سے بہتر ہے۔",
   "Para": [
     {
-      "name": "در معنی اینکہ در زمانۂ انحطاط تقلید از اجتہاد اولی تراست",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اس مضمون کی وضاحت میں کہ انحطاط کے دور میں تقلید اجتحاد سے بہتر ہے۔\n\nموجودہ دور اپنے اندر بہت سے فتنے رکھتا ہے؛ اس کی بے باک طبیعت سراپا آفت ہے۔",
+              "_content": "موجودہ دور اپنے اندر بہت سے فتنے رکھتا ہے؛ اس کی بے باک طبیعت سراپا آفت ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nThe present age has many tumults hid beneath its head; its restless temperament swarms with disorders.",
+              "_content": "The present age has many tumults hid beneath its head; its restless temperament swarms with disorders.",
               "lang": "English"
             }
           ]

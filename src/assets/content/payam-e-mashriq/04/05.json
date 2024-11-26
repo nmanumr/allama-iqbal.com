@@ -5,9 +5,11 @@
   "bookName": "پیامِ مشرق",
   "+@SectionID": "04",
   "sectionName": "نقش فرنگ",
+  "name-ur": "عالم بالا میں گزرے ہوؤں کی محفل۔",
   "Para": [
     {
       "name": "تولستوی",
+      "name-en": "Tolstoy",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "عالم بالا میں گزرے ہوؤں کی محفل ۔\nبادشاہ کی فوج کا سپاہی شیطان کا باربردار ہے، معمولی روٹی کے لیے ظلم کی تلوار چلاتا ہے۔\nبد اس کی نظروں میں نیک ہے، وہ مغز ا ور چھلکے میں فرق نہیں کرتا ، یہ احمق غیروں کا ہمدرد ہے اور اپنوں کا سینہ چیرتا ہے۔ \nاج ، کلیسا، اور وطن انسان کو بیہوش کر دینے والی ادویات (تصورات) ہیں۔آقا عوام کو یہ جام پلا کر ان سے اللہ تعالے کی عطا کردہ جان خرید لیتا ہے۔",
+              "_content": "بادشاہ کی فوج کا سپاہی شیطان کا باربردار ہے، معمولی روٹی کے لیے ظلم کی تلوار چلاتا ہے۔\nبد اس کی نظروں میں نیک ہے، وہ مغز ا ور چھلکے میں فرق نہیں کرتا ، یہ احمق غیروں کا ہمدرد ہے اور اپنوں کا سینہ چیرتا ہے۔ \nاج ، کلیسا، اور وطن انسان کو بیہوش کر دینے والی ادویات (تصورات) ہیں۔آقا عوام کو یہ جام پلا کر ان سے اللہ تعالے کی عطا کردہ جان خرید لیتا ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "Tolstoy: Ahriman’s hirelings, warriors of kings, draw oppression’s sword for a loaf of bread.\nEvil is their good, and the husk their food. Friends of others, these are their own kin’s foes.\nCountry, church and crown are narcotics grown by the masters to buy their slaves’ souls with.",
+              "_content": "Ahriman’s hirelings, warriors of kings, draw oppression’s sword for a loaf of bread.\nEvil is their good, and the husk their food. Friends of others, these are their own kin’s foes.\nCountry, church and crown are narcotics grown by the masters to buy their slaves’ souls with.",
               "lang": "English"
             }
           ]
@@ -31,6 +33,7 @@
     },
     {
       "name": "کارل مارکس",
+      "name-en": "Karl Marx",
       "Verse": [
         {
           "id": "07",
@@ -44,7 +47,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Karl Marx: For all his wisdom, man is not yet self-aware, and capitalism has rendered man man’s murderer.",
+              "_content": "For all his wisdom, man is not yet self-aware, and capitalism has rendered man man’s murderer.",
               "lang": "English"
             }
           ]
@@ -54,6 +57,7 @@
     },
     {
       "name": "ھگل",
+      "name-en": "Hegel",
       "Verse": [
         {
           "id": "09",
@@ -67,7 +71,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hegel: Reality is double-faced. The orchard and the desert are two aspects of it that one sees. To know the whole truth one must taste both grapes and bitter gourds.\nSo fond is Nature of antitheses that it has set at war employees and employers, slaves and lords.",
+              "_content": "Reality is double-faced. The orchard and the desert are two aspects of it that one sees. To know the whole truth one must taste both grapes and bitter gourds.\nSo fond is Nature of antitheses that it has set at war employees and employers, slaves and lords.",
               "lang": "English"
             }
           ]
@@ -77,6 +81,7 @@
     },
     {
       "name": "تولستوی",
+      "name-en": "Tolstoy",
       "Verse": [
         {
           "id": "11",
@@ -90,7 +95,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Tolstoy: The two-faced intellect with its philosophy of egotism bids the worker suffer patiently.",
+              "_content": "The two-faced intellect with its philosophy of egotism bids the worker suffer patiently.",
               "lang": "English"
             }
           ]
@@ -100,6 +105,7 @@
     },
     {
       "name": "مزدک",
+      "name-en": "Mazdak",
       "Verse": [
         {
           "id": "13",
@@ -113,7 +119,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Mazdak: Iran’s seed sprouts forth from the soil of the empires of the Kaisers and the Czars. Death dances a new dance in kings’ and rich men’s palaces.\nFor ages does an Abraham burn in a Nimrod’s fire before he can cast out old idols from the sanctuary of his Lord.\nGone is the age of Parvez, wake up now, O victims of his tyranny. Wrest back from him the good things he deprived you of.",
+              "_content": "Iran’s seed sprouts forth from the soil of the empires of the Kaisers and the Czars. Death dances a new dance in kings’ and rich men’s palaces.\nFor ages does an Abraham burn in a Nimrod’s fire before he can cast out old idols from the sanctuary of his Lord.\nGone is the age of Parvez, wake up now, O victims of his tyranny. Wrest back from him the good things he deprived you of.",
               "lang": "English"
             }
           ]
@@ -123,6 +129,7 @@
     },
     {
       "name": "کوہکن",
+      "name-en": "Kohkan",
       "Verse": [
         {
           "id": "19",
@@ -136,7 +143,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Kohkan: Though outwardly so simple and so shy, my loved one is a tyrant, sly and full of mischief and deceit.",
+              "_content": "Though outwardly so simple and so shy, my loved one is a tyrant, sly and full of mischief and deceit.",
               "lang": "English"
             }
           ]

@@ -13,6 +13,7 @@
     },
     {
       "name": "حور",
+      "name-en": "The Houri",
       "Verse": [
         {
           "id": "01",
@@ -25,7 +26,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Houri: You are not attracted to wine, and you do not look at me: How surprising that you do not know the art of mixing!",
+              "_content": "You are not attracted to wine, and you do not look at me: How surprising that you do not know the art of mixing!",
               "lang": "English"
             }
           ]
@@ -67,6 +68,7 @@
     },
     {
       "name": "شاعر",
+      "name-en": "The Poet",
       "Verse": [
         {
           "id": "07",
@@ -79,7 +81,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Poet: You charm travelers’ hearts with pointed talk except that, in the pleasure it gives, one cannot compare it with the sharp thorn.",
+              "_content": "You charm travelers’ hearts with pointed talk except that, in the pleasure it gives, one cannot compare it with the sharp thorn.",
               "lang": "English"
             }
           ]

@@ -5,6 +5,7 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "05",
   "sectionName": "فلک مریخ",
+  "name-ur": "رسدگاہ سے ایک مریخی عالم فلکیات کا باہر آنا۔",
   "Para": [
     {
       "name": "",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "رسدگاہ سے ایک مریخی عالم فلکیات کا باہر آنا۔\n\nایک بوڑھا آدمی جس کی ریش برف کی مانند سفید تھی؛ اور جس کے برسوں علم و حکمت میں کٹے تھے۔",
+              "_content": "ایک بوڑھا آدمی جس کی ریش برف کی مانند سفید تھی؛ اور جس کے برسوں علم و حکمت میں کٹے تھے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nAn aged man, his beard white as snow, having expended many years upon science and wisdom;",
+              "_content": "An aged man, his beard white as snow, having expended many years upon science and wisdom;",
               "lang": "English"
             }
           ]

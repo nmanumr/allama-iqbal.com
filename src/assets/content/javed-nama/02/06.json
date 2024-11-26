@@ -1,13 +1,15 @@
 {
   "id": "06",
-  "name": "حرکت بہ وادی یرغمید کہ ملائکہ",
+  "name": "حرکت بہ وادی یرغمید کہ ملائکہ او را وادی طواسین می نامند",
   "+@BookID": "09",
   "bookName": "جاوید نامہ",
   "+@SectionID": "02",
   "sectionName": "فلک قمر",
+  "name-en": "Departure For The Valley Of Yarghamid, Called By The Angels The Valley Of Tawasin",
+  "name-ur": "وادی یرغمید کی طرف جانا جسے ملائکہ وادی طواسین کہتے ہیں۔",
   "Para": [
     {
-      "name": "حرکت بہ وادی یرغمید کہ ملائکہ او را وادی طواسین می نامند",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,7 +19,7 @@
               "lang": "Original"
             },
             {
-              "_content": "وادی یرغمید کی طرف جانا جسے ملائکہ وادی طواسین کہتے ہیں۔\n\nرومی جو عشق و محبت کا رہنما ہے؛ جس کا کلام پیاسوں کے لیے سلسبیل (جنت کا چشمہ) ہے۔",
+              "_content": "رومی جو عشق و محبت کا رہنما ہے؛ جس کا کلام پیاسوں کے لیے سلسبیل (جنت کا چشمہ) ہے۔",
               "lang": "Urdu"
             },
             {
@@ -545,6 +547,5 @@
       ],
       "id": 2
     }
-  ],
-  "name-en": "Departure For The Valley Of Yarghamid, Called By The Angels The Valley Of Tawasin"
+  ]
 }

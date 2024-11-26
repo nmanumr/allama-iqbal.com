@@ -5,6 +5,7 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "03",
   "sectionName": "فلک عطارد",
+  "name-ur": "زمین اللہ کی ملکیت ہے۔",
   "Para": [
     {
       "name": "",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "زمین اللہ کی ملکیت ہے۔\n\nمشرق و مغرب میں آدم کی تاریخ یہ بتاتی ہے کہ لڑائی جھگڑے کے سارے فتنے زمین کے لیے پیدا ہوئے۔",
+              "_content": "مشرق و مغرب میں آدم کی تاریخ یہ بتاتی ہے کہ لڑائی جھگڑے کے سارے فتنے زمین کے لیے پیدا ہوئے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nThe history of the East and West tells that all wars and bloodshed has been for the land.",
+              "_content": "The history of the East and West tells that all wars and bloodshed has been for the land.",
               "lang": "English"
             }
           ]
@@ -325,5 +326,5 @@
       "id": 2
     }
   ],
-  "name-en": "The Earth Is The Lord’S"
+  "name-en": "The Earth Is The Lord’s"
 }

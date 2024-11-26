@@ -8,6 +8,7 @@
   "Para": [
     {
       "name": "موسیولینن",
+      "name-en": "Lenin",
       "Verse": [
         {
           "id": "01",
@@ -21,7 +22,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Lenin: It is long since in this old world poor man is being ground like grain between millstones.",
+              "_content": "It is long since in this old world poor man is being ground like grain between millstones.",
               "lang": "English"
             }
           ]
@@ -82,6 +83,7 @@
     },
     {
       "name": "قیصر ولیم",
+      "name-en": "The Kaiser Wilhelm",
       "Verse": [
         {
           "id": "09",
@@ -95,7 +97,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Kaiser: Why blame idols for their winsome ways? It is in the Brahmin’s nature to adore.",
+              "_content": "Why blame idols for their winsome ways? It is in the Brahmin’s nature to adore.",
               "lang": "English"
             }
           ]

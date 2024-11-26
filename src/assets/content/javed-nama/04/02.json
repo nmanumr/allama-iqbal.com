@@ -5,6 +5,7 @@
   "bookName": "جاوید نامہ",
   "+@SectionID": "04",
   "sectionName": "فلک زہرہ",
+  "name-ur": "گذشتہ اقوام کے بتوں کی مجلس۔",
   "Para": [
     {
       "name": "",
@@ -17,11 +18,11 @@
               "lang": "Original"
             },
             {
-              "_content": "گذشتہ اقوام کے بتوں کی مجلس۔\n\nوہ تند و تیز ہوا اور سیاہ تاریک بادل؛ جس کی سیاہی میں برق بھی اپنی چمک گم کر چکی تھی۔",
+              "_content": "وہ تند و تیز ہوا اور سیاہ تاریک بادل؛ جس کی سیاہی میں برق بھی اپنی چمک گم کر چکی تھی۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nThat tempestuous wind, those night black clouds – in their darkness the lightning itself had lost its lustre;",
+              "_content": "That tempestuous wind, those night black clouds – in their darkness the lightning itself had lost its lustre;",
               "lang": "English"
             }
           ]

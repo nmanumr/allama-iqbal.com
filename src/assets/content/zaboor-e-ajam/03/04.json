@@ -31,6 +31,7 @@
     },
     {
       "name": "جواب",
+      "name-en": "Answer",
       "Verse": [
         {
           "id": "03",
@@ -44,7 +45,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Answer:\nThe world of how and why has three dimension intellect controls its quantitative aspect.",
+              "_content": "The world of how and why has three dimension intellect controls its quantitative aspect.",
               "lang": "English"
             }
           ]
