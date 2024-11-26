@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Change the whole world’s evenings and dawns, change the whole world’s dry and wet lawns. Make thy Godship free from every plaint, look not my kowtow’s tasteless taint.\n(Translated by Q A Kabir)",
+              "_content": "Change the whole world’s evenings and dawns, change the whole world’s dry and wet lawns. Make thy Godship free from every plaint, look not my kowtow’s tasteless taint.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

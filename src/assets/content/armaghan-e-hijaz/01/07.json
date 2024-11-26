@@ -363,7 +363,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The self conscious hearts who crossed this dust, they broke the magic of Sun and Moon just. \n(Translated by Q A Kabir)",
+              "_content": "The self conscious hearts who crossed this dust, they broke the magic of Sun and Moon just.",
               "lang": "English"
             }
           ]
@@ -372,5 +372,6 @@
       "id": 2
     }
   ],
-  "name-en": "The Late Masood"
+  "name-en": "The Late Masood",
+  "credits": "English Translation by: Q A Kabir"
 }

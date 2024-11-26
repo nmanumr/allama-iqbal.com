@@ -87,7 +87,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "How long the world hides the gifts of his make, I mean the precious pearls of Wooler’s Lake.\n[Translated by Q A Kabir]",
+              "_content": "How long the world hides the gifts of his make, I mean the precious pearls of Wooler’s Lake.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

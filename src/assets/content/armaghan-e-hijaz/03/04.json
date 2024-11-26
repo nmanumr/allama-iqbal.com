@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It breaks into pieces from constant blows, a stone heart goddess whom the kingship bows.\n[Translated by Q A Kabir]",
+              "_content": "It breaks into pieces from constant blows, a stone heart goddess whom the kingship bows.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

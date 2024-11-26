@@ -103,7 +103,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I thank thee O God! That this radiant tract; of bondage of West has no signs in fact.\n[Translated by Q A Kabir]",
+              "_content": "I thank thee O God! That this radiant tract; of bondage of West has no signs in fact.",
               "lang": "English"
             }
           ]
@@ -112,5 +112,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Hymns Of Hell Dweller"
+  "name-en": "The Hymns Of Hell Dweller",
+  "credits": "English Translation by: Q A Kabir"
 }

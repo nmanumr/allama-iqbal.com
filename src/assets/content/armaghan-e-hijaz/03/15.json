@@ -104,7 +104,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The rose put the hunter in weeping trance, from such flamed poet I felt no load hence.\n[Translated by Q A Kabir]",
+              "_content": "The rose put the hunter in weeping trance, from such flamed poet I felt no load hence.",
               "lang": "English"
             }
           ]
@@ -112,5 +112,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

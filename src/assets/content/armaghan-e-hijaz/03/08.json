@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The heart in whose conscience burns the oak’s fire, you can not cool down that noble heart’s fire.\n[Translated by Q A Kabir]",
+              "_content": "The heart in whose conscience burns the oak’s fire, you can not cool down that noble heart’s fire.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

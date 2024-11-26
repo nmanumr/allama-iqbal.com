@@ -30,7 +30,7 @@ export default async function Poem({ params }: Props) {
           <div dir="rtl">
             {poem.bookName} &gt; {poem.sectionName}
           </div>
-          <div className="mt-4 text-4xl leading-[2]">{poem.name}</div>
+          {poem.name && <div className="mt-4 text-4xl leading-[2]">{poem.name}</div>}
           {poem["name-en"] && <div className="capitalize">({poem["name-en"]})</div>}
         </div>
 
@@ -42,14 +42,13 @@ export default async function Poem({ params }: Props) {
           ))}
         </div>
 
-        {(poem as {credits?: string}).credits && (
+        {(poem as { credits?: string }).credits && (
           <div dir="ltr" className="mx-auto my-2 w-full max-w-6xl px-4 py-2 text-start text-sm text-gray-600">
-            {(poem as {credits?: string}).credits}
+            {(poem as { credits?: string }).credits}
           </div>
         )}
 
-        <div
-          className="mx-auto mt-24 flex w-full max-w-6xl justify-between gap-x-10 px-4 pb-10 font-nastaliq leading-[1.8] sm:grid-cols-2">
+        <div className="mx-auto mt-24 flex w-full max-w-6xl justify-between gap-x-10 px-4 pb-10 font-nastaliq leading-[1.8] sm:grid-cols-2">
           {next && (
             <Link
               href={`/${next.bookId}/${next.sectionId}/${next.id}`}

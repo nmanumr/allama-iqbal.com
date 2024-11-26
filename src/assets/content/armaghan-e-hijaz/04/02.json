@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "To Mustafa reach, to him belongs deed, if you didn’t reach him, you are Bu Lahb clean.\n(Translated by Q A Kabir)",
+              "_content": "To Mustafa reach, to him belongs deed, if you didn’t reach him, you are Bu Lahb clean.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "Hussain Ahmad"
+  "name-en": "Hussain Ahmad",
+  "credits": "English Translation by: Q A Kabir"
 }

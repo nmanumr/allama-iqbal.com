@@ -121,7 +121,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "From his ‘heart’s fire’ if he takes a spark, he can change the whole world’s gloom and dark.\n[Translated by Q A Kabir]",
+              "_content": "From his ‘heart’s fire’ if he takes a spark, he can change the whole world’s gloom and dark.",
               "lang": "English"
             }
           ]
@@ -129,5 +129,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

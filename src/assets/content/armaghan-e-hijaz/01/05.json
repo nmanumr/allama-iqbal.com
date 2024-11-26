@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "They keep a musky poppy for slaves like us; O English charmer carve a new king for us.\n[Translated by Q A Kabir]",
+              "_content": "They keep a musky poppy for slaves like us; O English charmer carve a new king for us.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "A Dethroned King"
+  "name-en": "A Dethroned King",
+  "credits": "English Translation by: Q A Kabir"
 }

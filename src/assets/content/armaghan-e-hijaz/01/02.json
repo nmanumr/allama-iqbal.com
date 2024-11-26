@@ -182,7 +182,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A selfless life learn from foremost in deen, the kings may favour a man of poor means. \n(Translated by Q A Kabir)",
+              "_content": "A selfless life learn from foremost in deen, the kings may favour a man of poor means.",
               "lang": "English"
             }
           ]
@@ -191,5 +191,6 @@
       "id": 1
     }
   ],
-  "name-en": "An Advice Of Old Baluch To His Son"
+  "name-en": "An Advice Of Old Baluch To His Son",
+  "credits": "English Translation by: Q A Kabir"
 }

@@ -103,7 +103,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A sage may not know my wails hidden sign; thus yonder to wits are the mad men’s lines.\n[Translated by Q A Kabir]",
+              "_content": "A sage may not know my wails hidden sign; thus yonder to wits are the mad men’s lines.",
               "lang": "English"
             }
           ]
@@ -111,5 +111,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

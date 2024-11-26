@@ -119,7 +119,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "No longer looks now thy crystal conscience; O prey of king’s an mullah, and Pir’s guidance.\n[Translated by Q A Kabir]",
+              "_content": "No longer looks now thy crystal conscience; O prey of king’s an mullah, and Pir’s guidance.",
               "lang": "English"
             }
           ]
@@ -128,5 +128,6 @@
       "id": 1
     }
   ],
-  "name-en": "Mysterious Voice"
+  "name-en": "Mysterious Voice",
+  "credits": "English Translation by: Q A Kabir"
 }

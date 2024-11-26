@@ -71,7 +71,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "They paid no heed to my midnight sigh; he took all the booze from Kashmir’s eye.\n[Translated by Q A Kabir]",
+              "_content": "They paid no heed to my midnight sigh; he took all the booze from Kashmir’s eye.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

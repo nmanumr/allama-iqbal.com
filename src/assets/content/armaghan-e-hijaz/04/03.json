@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "What lies beyond me? If I’m the whole aim! What is the new pale of my uproars game?\n(Translated by Q A Kabir)",
+              "_content": "What lies beyond me? If I’m the whole aim! What is the new pale of my uproars game?",
               "lang": "English"
             }
           ]
@@ -108,5 +108,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

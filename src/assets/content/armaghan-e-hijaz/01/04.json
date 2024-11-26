@@ -293,7 +293,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Earth: Oh! This lasting death! Oh battle! For life would the world ever, end its strife.\nA riddance from her idols, world cant get, a savant or layman are Lot’s’ slaves yet.\nHow much man lowered who had Godly part's such world’s stay a load on eyes and hearts. Why is there no morn of such a man’s night?\n[Translated by Q A Kabir]",
+              "_content": "Earth: Oh! This lasting death! Oh battle! For life would the world ever, end its strife.\nA riddance from her idols, world cant get, a savant or layman are Lot’s’ slaves yet.\nHow much man lowered who had Godly part's such world’s stay a load on eyes and hearts. Why is there no morn of such a man’s night?",
               "lang": "English"
             }
           ]
@@ -302,5 +302,6 @@
       "id": 7
     }
   ],
-  "name-en": "The Purgatory"
+  "name-en": "The Purgatory",
+  "credits": "English Translation by: Q A Kabir"
 }

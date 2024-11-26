@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The bondage has made thy soul so weak, in a flameless heart, the place of self seek.\n[Translated by Q A Kabir]",
+              "_content": "The bondage has made thy soul so weak, in a flameless heart, the place of self seek.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

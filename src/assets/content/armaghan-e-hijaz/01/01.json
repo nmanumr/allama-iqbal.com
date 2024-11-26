@@ -1143,7 +1143,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In prays at dawn keep him rapt and grave. Make him zealot fan of tombs and graves.\n(Rapt: Raised to raptures. Grave: serious. Zealot: fanatic.)\n(Translated by Q A Kabir)",
+              "_content": "In prays at dawn keep him rapt and grave. Make him zealot fan of tombs and graves.\n(Rapt: Raised to raptures. Grave: serious. Zealot: fanatic.)",
               "lang": "English"
             }
           ]
@@ -1152,5 +1152,6 @@
       "id": 11
     }
   ],
-  "name-en": "The Satan’S Advisory Council"
+  "name-en": "The Satan’S Advisory Council",
+  "credits": "English Translation by: Q A Kabir"
 }

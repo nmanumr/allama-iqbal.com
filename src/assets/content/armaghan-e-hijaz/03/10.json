@@ -87,7 +87,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A ruled can not make with free man a tie, this is slave of sky, he’s master of sky.\n[Translated by Q A Kabir]",
+              "_content": "A ruled can not make with free man a tie, this is slave of sky, he’s master of sky.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }
