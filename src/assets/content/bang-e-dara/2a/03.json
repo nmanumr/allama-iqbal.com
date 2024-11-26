@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Do you not know? The old congregation has changed; for God’s sake do not give them materialism’s wine.\n[Translated by Dr M A K Khalil]",
+              "_content": "Do you not know? The old congregation has changed; for God’s sake do not give them materialism’s wine.",
               "lang": "English"
             }
           ]
@@ -132,5 +132,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Message"
+  "name-en": "The Message",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

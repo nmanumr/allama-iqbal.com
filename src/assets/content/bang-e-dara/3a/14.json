@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In forest, in mountains in everything only He exists; In the heart of Man, in your cheek only He exists.\n(Translated by Dr M A K Khalil)",
+              "_content": "In forest, in mountains in everything only He exists; In the heart of Man, in your cheek only He exists.",
               "lang": "English"
             }
           ]
@@ -141,5 +141,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Moon"
+  "name-en": "The Moon",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

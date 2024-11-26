@@ -163,7 +163,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Iqbal! This general blessing is due to whose love? The Roman has perished, the Negro is immortal!\n(Translated by Dr M A K Khalil)",
+              "_content": "Iqbal! This general blessing is due to whose love? The Roman has perished, the Negro is immortal!",
               "lang": "English"
             }
           ]
@@ -172,5 +172,6 @@
       "id": 1
     }
   ],
-  "name-en": "Bilal R.A."
+  "name-en": "Bilal R.A.",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

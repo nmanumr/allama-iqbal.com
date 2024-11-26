@@ -204,7 +204,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘The end of our life is the cemetery; presently raise tumult in the sky’s vault.’ \n(Translated by M.A.K. Khalil)",
+              "_content": "‘The end of our life is the cemetery; presently raise tumult in the sky’s vault.’ ",
               "lang": "English"
             }
           ]
@@ -212,5 +212,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

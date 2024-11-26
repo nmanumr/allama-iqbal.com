@@ -224,7 +224,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Happy was the age when Yathrib was his abode! How happy was the time when common was his Sight!\n(Translated by Dr M A K Khalil)",
+              "_content": "Happy was the age when Yathrib was his abode! How happy was the time when common was his Sight!",
               "lang": "English"
             }
           ]
@@ -232,5 +232,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

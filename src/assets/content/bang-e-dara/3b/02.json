@@ -20,6 +20,7 @@
               "lang": "Urdu"
             },
             {
+              "_content": "These songs of turtle doves and nightingales are merely ear’s illusion\nBehind this uproar the world of the garden is silent",
               "lang": "English"
             }
           ]
@@ -35,7 +36,8 @@
               "lang": "Urdu"
             },
             {
-              "lang": "English"
+              "lang": "English",
+              "_content": "O Western wine the effect of your goblets is only this\nThat cup‐bearer is laughing and the entire assembly is unconscious"
             }
           ]
         },
@@ -50,7 +52,8 @@
               "lang": "Urdu"
             },
             {
-              "lang": "English"
+              "lang": "English",
+              "_content": "In the world’s sorrowful house you are not traceable\nWas creation also a crime so Your nature is concealed?"
             }
           ]
         },
@@ -65,7 +68,8 @@
               "lang": "Urdu"
             },
             {
-              "lang": "English"
+              "lang": "English",
+              "_content": "Ah! What the world considers heart is notheart\nIn the human breast this is a silent tumult"
             }
           ]
         },
@@ -80,7 +84,8 @@
               "lang": "Urdu"
             },
             {
-              "lang": "English"
+              "lang": "English",
+              "_content": "Walk on the path of life but walk carefully\nUnderstand that some glass work is on your shoulders"
             }
           ]
         },
@@ -95,12 +100,14 @@
               "lang": "Urdu"
             },
             {
-              "lang": "English"
+              "lang": "English",
+              "_content": "Through whom Delhi and Lahore were drawn together\nAh! Iqbal that nightingale is silent now."
             }
           ]
         }
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

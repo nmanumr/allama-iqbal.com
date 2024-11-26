@@ -292,7 +292,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It is not possible for me to deem my critics bad, because Iqbal, I am myself among my critics.\n(Translated by Dr M A K Khalil)",
+              "_content": "It is not possible for me to deem my critics bad, because Iqbal, I am myself among my critics.",
               "lang": "English"
             }
           ]
@@ -300,5 +300,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Her glance is the message of ‘Eid to the Muharram’s people; turns the continuous tears of afflicted people into pearls.\n(Translated by Dr M A K Khalil)",
+              "_content": "Her glance is the message of ‘Eid to the Muharram’s people; turns the continuous tears of afflicted people into pearls.",
               "lang": "English"
             }
           ]
@@ -141,5 +141,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Princess Of Flowers"
+  "name-en": "The Princess Of Flowers",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

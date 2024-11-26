@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘The tavern-keepers making wine from the grape; break the stars and construct the sun.’\n(Translated by Dr M A K Khalil)",
+              "_content": "‘The tavern-keepers making wine from the grape; break the stars and construct the sun.’",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       "id": 1
     }
   ],
-  "name-en": "Evolution"
+  "name-en": "Evolution",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

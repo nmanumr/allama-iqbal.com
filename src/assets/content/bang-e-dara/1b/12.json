@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O Iqbal! I am in constant search for myself; I am the traveler as well as the destination.\n(Translated by Dr M A K Khalil)",
+              "_content": "O Iqbal! I am in constant search for myself; I am the traveler as well as the destination.",
               "lang": "English"
             }
           ]
@@ -108,5 +108,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

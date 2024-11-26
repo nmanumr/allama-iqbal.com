@@ -180,7 +180,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "By a glance you taught me the rules of annihilation; how cool the day that has burnt away the motes from me.\n(Translated by Dr M A K Khalil)",
+              "_content": "By a glance you taught me the rules of annihilation; how cool the day that has burnt away the motes from me.",
               "lang": "English"
             }
           ]
@@ -189,5 +189,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Union (Meeting The Beloved)"
+  "name-en": "The Union (Meeting The Beloved)",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

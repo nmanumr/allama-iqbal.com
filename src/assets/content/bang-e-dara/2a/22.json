@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In this way I give message of patience to my heart; in other words I beguile the night of separation\n(Translated by Dr M A K Khalil)",
+              "_content": "In this way I give message of patience to my heart; in other words I beguile the night of separation",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       "id": 1
     }
   ],
-  "name-en": "Separation"
+  "name-en": "Separation",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -154,7 +154,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘You learnt fidelity from us but used it on others. You snatched a pearl from us but sacrificed it on others.’ \n[Translated by Dr M A K Khalil]",
+              "_content": "‘You learnt fidelity from us but used it on others. You snatched a pearl from us but sacrificed it on others.’ ",
               "lang": "English"
             }
           ]
@@ -163,5 +163,6 @@
       "id": 1
     }
   ],
-  "name-en": "Tazmin On A Verse Of Anisi Shamlu"
+  "name-en": "Tazmin On A Verse Of Anisi Shamlu",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

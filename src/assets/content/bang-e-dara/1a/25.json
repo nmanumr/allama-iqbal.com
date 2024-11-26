@@ -339,7 +339,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If aware of your reality you would be; neither unlucky nor sinning you would be. \n(Translated by Dr M A K Khalil)",
+              "_content": "If aware of your reality you would be; neither unlucky nor sinning you would be. ",
               "lang": "English"
             }
           ]
@@ -348,5 +348,6 @@
       "id": 2
     }
   ],
-  "name-en": "Man And Nature'S Assemblage"
+  "name-en": "Man And Nature's Assemblage",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

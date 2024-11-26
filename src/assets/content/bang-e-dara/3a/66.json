@@ -68,7 +68,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Strength of crow’s and kite’s wing is not in cage and prey; this grace is reserved for the falcon and the eagle.’\n(Translated by Dr M A K Khalil)",
+              "_content": "‘Strength of crow’s and kite’s wing is not in cage and prey; this grace is reserved for the falcon and the eagle.’",
               "lang": "English"
             }
           ]
@@ -77,5 +77,6 @@
       "id": 1
     }
   ],
-  "name-en": "Imprisonment"
+  "name-en": "Imprisonment",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

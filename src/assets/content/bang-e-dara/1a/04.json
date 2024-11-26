@@ -268,7 +268,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Does another world-famous person like him also lie buried in you? Does another gem like him also lie concealed in you?\n(Translated by Dr M A K Khalil)",
+              "_content": "Does another world-famous person like him also lie buried in you? Does another gem like him also lie concealed in you?",
               "lang": "English"
             }
           ]
@@ -276,5 +276,6 @@
       ],
       "id": 5
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -1458,7 +1458,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "May the sky be spraying dew on your grave! May the freshly grown grass be guarding this house!\n(Translated by Dr M A K Khalil)",
+              "_content": "May the sky be spraying dew on your grave! May the freshly grown grass be guarding this house!",
               "lang": "English"
             }
           ]
@@ -1467,5 +1467,6 @@
       "id": 14
     }
   ],
-  "name-en": "In Memory Of Late Mother"
+  "name-en": "In Memory Of Late Mother",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

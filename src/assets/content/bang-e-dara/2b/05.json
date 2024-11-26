@@ -86,7 +86,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O Iqbal! I have searched for it in Europe in vain; the characteristic which was in the beauties of India.\n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "O Iqbal! I have searched for it in Europe in vain; the characteristic which was in the beauties of India.",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

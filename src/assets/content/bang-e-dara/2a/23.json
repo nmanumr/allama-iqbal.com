@@ -186,7 +186,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘The candle reveals whatever passes through the heart; burning is not the thought which the candle conceals’. \n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "‘The candle reveals whatever passes through the heart; burning is not the thought which the candle conceals’.",
               "lang": "English"
             }
           ]
@@ -194,5 +194,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "To the poet’s thoughts the wings for flight are silence; the wealth of the voice’s warmth lies in silence’!\n(Translated by Dr M A K Khalil)",
+              "_content": "To the poet’s thoughts the wings for flight are silence; the wealth of the voice’s warmth lies in silence’!",
               "lang": "English"
             }
           ]
@@ -109,5 +109,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Motor Car"
+  "name-en": "The Motor Car",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

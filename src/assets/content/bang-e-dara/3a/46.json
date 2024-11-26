@@ -137,7 +137,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘O moth! You have derived this warmth from the assembly’s candle: Burn in your own fire like me if you have the warmth of the heart. \n[Translated by M.A.K.Khalil]",
+              "_content": "‘O moth! You have derived this warmth from the assembly’s candle: Burn in your own fire like me if you have the warmth of the heart. ",
               "lang": "English"
             }
           ]
@@ -146,5 +146,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Present Civilization"
+  "name-en": "The Present Civilization",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -301,7 +301,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When my materialistic eye opened I found Him lodged in my own heart.\n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "When my materialistic eye opened I found Him lodged in my own heart.",
               "lang": "English"
             }
           ]
@@ -310,5 +310,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Story Of Man"
+  "name-en": "The Story Of Man",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

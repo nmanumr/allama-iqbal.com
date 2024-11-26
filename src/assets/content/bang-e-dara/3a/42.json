@@ -119,7 +119,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘You must be subservient to whom you had become rebellious: From wherever you departed like flame, turn back to it.’\n[Translated by Dr M A K Khalil]",
+              "_content": "‘You must be subservient to whom you had become rebellious: From wherever you departed like flame, turn back to it.’",
               "lang": "English"
             }
           ]
@@ -128,5 +128,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Poem Based On A Verse Of Abu Talib Kalim"
+  "name-en": "The Poem Based On A Verse Of Abu Talib Kalim",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -336,7 +336,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "After mixing with dust I may get eternal life and departing, I may show warmth of Love to the world.\n(Translated by Dr M A K Khalil)",
+              "_content": "After mixing with dust I may get eternal life and departing, I may show warmth of Love to the world.",
               "lang": "English"
             }
           ]
@@ -345,5 +345,6 @@
       "id": 3
     }
   ],
-  "name-en": "The Morning Star –Venus"
+  "name-en": "The Morning Star –Venus",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

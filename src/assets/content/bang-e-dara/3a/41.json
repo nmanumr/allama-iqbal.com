@@ -118,7 +118,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Tranquillity does not exist to any extent in this rose-garden! If you became spring, and I became autumn, so what?\n(Translated by Dr M A K Khalil)",
+              "_content": "Tranquillity does not exist to any extent in this rose-garden! If you became spring, and I became autumn, so what?",
               "lang": "English"
             }
           ]
@@ -126,5 +126,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -304,7 +304,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Why should this difference be occasion for dissensions? When the Primeval Day’s silence be concealed in everything.\n(Translated by Dr M A K Khalil)",
+              "_content": "Why should this difference be occasion for dissensions? When the Primeval Day’s silence be concealed in everything.",
               "lang": "English"
             }
           ]
@@ -313,5 +313,6 @@
       "id": 3
     }
   ],
-  "name-en": "The Fire-Fly"
+  "name-en": "The Fire-Fly",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

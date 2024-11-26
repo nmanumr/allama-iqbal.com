@@ -152,7 +152,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ah! How clever this timid Intellect is! And the brave man’s feeling how fearless is!\n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "Ah! How clever this timid Intellect is! And the brave man’s feeling how fearless is!",
               "lang": "English"
             }
           ]
@@ -161,5 +161,6 @@
       "id": 1
     }
   ],
-  "name-en": "A Pilgrim On His Way To Madinah"
+  "name-en": "A Pilgrim On His Way To Madinah",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -299,7 +299,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Look at everything, and remain quiet like a mirror; in today tumult remain occupied in evening’s music!\n[Translated by Dr M A K Khalil]",
+              "_content": "Look at everything, and remain quiet like a mirror; in today tumult remain occupied in evening’s music!",
               "lang": "English"
             }
           ]
@@ -307,5 +307,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

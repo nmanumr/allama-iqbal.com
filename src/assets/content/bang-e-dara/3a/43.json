@@ -169,7 +169,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Still he is a fool who is asking the gardener: What did nightingale say, what did rose hear, what did zephyr do?’\n[Translated by Dr M A K Khalil]",
+              "_content": "‘Still he is a fool who is asking the gardener: What did nightingale say, what did rose hear, what did zephyr do?’",
               "lang": "English"
             }
           ]
@@ -178,5 +178,6 @@
       "id": 1
     }
   ],
-  "name-en": "Shibli And Hali"
+  "name-en": "Shibli And Hali",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

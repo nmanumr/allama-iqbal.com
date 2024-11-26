@@ -182,7 +182,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "This anthem of Iqbal is the clarion’s* call so to say; again prepares for the journey the caravan of ours.\n* This is also a subtle reference to his book Bang-i-Dara which contains material for the rejuvenation and renaissance of world Muslims.)\n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "This anthem of Iqbal is the clarion’s* call so to say; again prepares for the journey the caravan of ours.\n* This is also a subtle reference to his book Bang-i-Dara which contains material for the rejuvenation and renaissance of world Muslims.)",
               "lang": "English"
             }
           ]
@@ -191,5 +191,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Muslim National Anthem"
+  "name-en": "The Muslim National Anthem",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

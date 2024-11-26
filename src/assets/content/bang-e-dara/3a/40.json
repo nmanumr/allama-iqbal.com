@@ -118,7 +118,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You are a household bird; you seek food in the dust. We strike the star with our beak in search of the grain.’\n[Translated by Dr M A K Khalil]",
+              "_content": "You are a household bird; you seek food in the dust. We strike the star with our beak in search of the grain.’",
               "lang": "English"
             }
           ]
@@ -127,5 +127,6 @@
       "id": 1
     }
   ],
-  "name-en": "A Dialogue"
+  "name-en": "A Dialogue",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

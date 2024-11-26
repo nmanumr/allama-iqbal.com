@@ -5,6 +5,7 @@
   "bookName": "اسرارِ خودی",
   "+@SectionID": "01",
   "sectionName": "اسرار خودی",
+  "credits": "English translation by: Naziri Nishapuri",
   "Para": [
     {
       "Verse": [
@@ -20,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "There is nothing in my jungle, fresh or dry, which is not useful;\ndry wood which cannot be used for making a member, I make gallows of that.\nby Naziri Nishapuri",
+              "_content": "There is nothing in my jungle, fresh or dry, which is not useful;\ndry wood which cannot be used for making a member, I make gallows of that.",
               "lang": "English"
             }
           ]

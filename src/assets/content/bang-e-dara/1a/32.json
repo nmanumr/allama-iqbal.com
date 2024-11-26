@@ -344,7 +344,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Where in the strange house of learning can this be seen! The secret of universe can only in the rose petal be seen.\n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "Where in the strange house of learning can this be seen! The secret of universe can only in the rose petal be seen.",
               "lang": "English"
             }
           ]
@@ -353,5 +353,6 @@
       "id": 1
     }
   ],
-  "name-en": "Farewell O World'S Congregation!"
+  "name-en": "Farewell O World's Congregation!",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

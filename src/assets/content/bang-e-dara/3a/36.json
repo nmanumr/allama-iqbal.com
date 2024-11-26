@@ -196,7 +196,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In whose brightness the old as well as the new ways are and also the shadows of stars of your destiny are.\n(Translated by Dr M A K Khalil)",
+              "_content": "In whose brightness the old as well as the new ways are and also the shadows of stars of your destiny are.",
               "lang": "English"
             }
           ]
@@ -205,5 +205,6 @@
       "id": 1
     }
   ],
-  "name-en": "Fatimah Daughter Of Abd Allah"
+  "name-en": "Fatimah Daughter Of Abd Allah",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

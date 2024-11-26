@@ -196,7 +196,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It never gets acquainted with defeat; it is concealed from sight but is not effaced!\n(Translated by Dr M A K Khalil)",
+              "_content": "It never gets acquainted with defeat; it is concealed from sight but is not effaced!",
               "lang": "English"
             }
           ]
@@ -205,5 +205,6 @@
       "id": 1
     }
   ],
-  "name-en": "On The Banks Of The Ravi"
+  "name-en": "On The Banks Of The Ravi",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

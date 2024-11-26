@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Your fame continues somewhere, O Iqbal! Some magic, not your speech it was.\n(Translated by Dr M A K Khalil)",
+              "_content": "Your fame continues somewhere, O Iqbal! Some magic, not your speech it was.",
               "lang": "English"
             }
           ]
@@ -108,5 +108,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The army would not touch the Jews’ and Christians’ wealth; the Muslim became compelled by the Command of God! \n(Translated by Dr M A K Khalil)",
+              "_content": "The army would not touch the Jews’ and Christians’ wealth; the Muslim became compelled by the Command of God! ",
               "lang": "English"
             }
           ]
@@ -141,5 +141,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Siege Of Adrianople"
+  "name-en": "The Siege Of Adrianople",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

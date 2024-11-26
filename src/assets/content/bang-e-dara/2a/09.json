@@ -154,7 +154,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "May I highlight the reality of the restless life! May I also open the secret of heart's thoughts!\n(Translated by Dr M A K Khalil)",
+              "_content": "May I highlight the reality of the restless life! May I also open the secret of heart's thoughts!",
               "lang": "English"
             }
           ]
@@ -163,5 +163,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Flower Bud"
+  "name-en": "The Flower Bud",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

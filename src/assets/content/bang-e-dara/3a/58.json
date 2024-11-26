@@ -105,7 +105,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘With every perfection a little distress is welcome; however, perfect the Intellect, it is not good without Love.’ \n(Translated by M.A.K. Khalil)",
+              "_content": "‘With every perfection a little distress is welcome; however, perfect the Intellect, it is not good without Love.’ ",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       "id": 1
     }
   ],
-  "name-en": "Religion"
+  "name-en": "Religion",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Look, in this alone is concealed your life’s perfection! If you should be the decoration of some beauty’s robe!\n(Translated by Dr M A K Khalil)",
+              "_content": "Look, in this alone is concealed your life’s perfection! If you should be the decoration of some beauty’s robe!",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

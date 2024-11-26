@@ -173,7 +173,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I am the wailing nightingale of a ruined rose garden; I am the supplicant for acceptance, O Benevolent one alms to the beggar grant.\n(Translated by Dr M A K Khalil)",
+              "_content": "I am the wailing nightingale of a ruined rose garden; I am the supplicant for acceptance, O Benevolent one alms to the beggar grant.",
               "lang": "English"
             }
           ]
@@ -182,5 +182,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Supplication"
+  "name-en": "The Supplication",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

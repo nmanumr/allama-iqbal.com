@@ -474,7 +474,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Small though is the body of the goat; convincing is the advice of the goat!’\n[Translated by M.A.K.Khalil]",
+              "_content": "‘Small though is the body of the goat; convincing is the advice of the goat!’",
               "lang": "English"
             }
           ]
@@ -483,5 +483,6 @@
       "id": 2
     }
   ],
-  "name-en": "A Cow And A Goat"
+  "name-en": "A Cow And A Goat",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

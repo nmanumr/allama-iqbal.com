@@ -152,7 +152,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Mercy! O Arab and Ajam’s Lord (S.A.W.), as waiting for benevolence are those beggars who bestowed by you with the mind of Sikandar are.\n[Translated by Dr M A K Khalil]",
+              "_content": "Mercy! O Arab and Ajam’s Lord (S.A.W.), as waiting for benevolence are those beggars who bestowed by you with the mind of Sikandar are.",
               "lang": "English"
             }
           ]
@@ -161,5 +161,6 @@
       "id": 1
     }
   ],
-  "name-en": "Me And You"
+  "name-en": "Me And You",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

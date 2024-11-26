@@ -202,7 +202,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Nothing is useless in this world. Nothing is bad in God's creation.\n[Translated by M.A.K.Khalil]",
+              "_content": "Nothing is useless in this world. Nothing is bad in God's creation.",
               "lang": "English"
             }
           ]
@@ -211,5 +211,6 @@
       "id": 2
     }
   ],
-  "name-en": "A Mountain And A Squirrel"
+  "name-en": "A Mountain And A Squirrel",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

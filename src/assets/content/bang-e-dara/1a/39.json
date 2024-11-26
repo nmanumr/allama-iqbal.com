@@ -154,7 +154,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Iqbal! In the world there is no confidante of ours: How would anyone know the hidden pathos of ours.* \n* Allusion to the callousness of the world community to the calamity of the people of the Indian sub continent resulting from their political subjugation by the British.) \n(Translated by M.A.K. Khalil)",
+              "_content": "Iqbal! In the world there is no confidante of ours: How would anyone know the hidden pathos of ours.* \n* Allusion to the callousness of the world community to the calamity of the people of the Indian sub continent resulting from their political subjugation by the British.) ",
               "lang": "English"
             }
           ]
@@ -163,5 +163,6 @@
       "id": 1
     }
   ],
-  "name-en": "An Ode To India"
+  "name-en": "An Ode To India",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

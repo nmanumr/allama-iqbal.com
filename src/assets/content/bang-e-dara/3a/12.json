@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O Iqbal who would listen to you, the congregation has changed. You are telling us these tales of the old in the new age.\n[Translated by Dr M A K Khalil]",
+              "_content": "O Iqbal who would listen to you, the congregation has changed. You are telling us these tales of the old in the new age.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

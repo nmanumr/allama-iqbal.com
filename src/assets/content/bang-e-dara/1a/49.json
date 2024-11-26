@@ -346,7 +346,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Blooming, my heart’s bud may become a flower! May this traveler’s request be accepted!\n(Translated by Dr M A K Khalil)",
+              "_content": "Blooming, my heart’s bud may become a flower! May this traveler’s request be accepted!",
               "lang": "English"
             }
           ]
@@ -355,5 +355,6 @@
       "id": 2
     }
   ],
-  "name-en": "The Traveler'S Request"
+  "name-en": "The Traveler's Request",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

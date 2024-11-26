@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Your whole night has passed in tumult and clamour; the dawn is close remember God, O cup-bearer! \n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "Your whole night has passed in tumult and clamour; the dawn is close remember God, O cup-bearer!",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Bartender (Butler)"
+  "name-en": "The Bartender (Butler)",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

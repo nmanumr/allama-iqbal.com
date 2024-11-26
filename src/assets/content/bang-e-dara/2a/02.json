@@ -117,7 +117,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The spring weeping from the garden departed: Youth had come for amusement, sad it departed.\n[Translated by Dr M A K Khalil]",
+              "_content": "The spring weeping from the garden departed: Youth had come for amusement, sad it departed.",
               "lang": "English"
             }
           ]
@@ -126,5 +126,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Reality Of Beauty"
+  "name-en": "The Reality Of Beauty",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

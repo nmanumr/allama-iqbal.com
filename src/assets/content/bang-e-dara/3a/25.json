@@ -292,7 +292,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I keep that pleasurable period before me; I see the tomorrow in the mirror of today.\n(Translated by Dr M A K Khalil)",
+              "_content": "I keep that pleasurable period before me; I see the tomorrow in the mirror of today.",
               "lang": "English"
             }
           ]
@@ -301,5 +301,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Muslim"
+  "name-en": "The Muslim",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

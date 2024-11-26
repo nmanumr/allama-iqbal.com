@@ -150,7 +150,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Such wind should blow from India, O Iqbal which would blow me as dust to Hijaz.\n(Translated by Dr M A K Khalil)",
+              "_content": "Such wind should blow from India, O Iqbal which would blow me as dust to Hijaz.",
               "lang": "English"
             }
           ]
@@ -158,5 +158,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

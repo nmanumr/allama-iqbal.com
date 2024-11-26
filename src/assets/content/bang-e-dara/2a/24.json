@@ -282,7 +282,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I will take your gift towards India; I myself weep here, and will make others weep there.\n[Translated by Dr M A K Khalil]",
+              "_content": "I will take your gift towards India; I myself weep here, and will make others weep there.",
               "lang": "English"
             }
           ]
@@ -291,5 +291,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Island Of Sicily"
+  "name-en": "The Island Of Sicily",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

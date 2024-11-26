@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Sing the Hudi faster if the camel’s litter has become heavy.’ \n(Hudi: The marching song that camel drivers used to sing while marching in the days of caravans.)\n(Translated by Dr M A K Khalil)",
+              "_content": "Sing the Hudi faster if the camel’s litter has become heavy.’ \n(Hudi: The marching song that camel drivers used to sing while marching in the days of caravans.)",
               "lang": "English"
             }
           ]
@@ -141,5 +141,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Poet Saiyyid Muhammad Jamal Al-Din Urfi Shirazi"
+  "name-en": "The Poet Saiyyid Muhammad Jamal Al-Din Urfi Shirazi",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

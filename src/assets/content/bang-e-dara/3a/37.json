@@ -228,7 +228,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The foundation of the world’s abode is in the air; it is the picture of lament on the sheet of space!’\n(Translated by Dr M A K Khalil)",
+              "_content": "The foundation of the world’s abode is in the air; it is the picture of lament on the sheet of space!’",
               "lang": "English"
             }
           ]
@@ -237,5 +237,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Dew And The Stars"
+  "name-en": "The Dew And The Stars",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -167,7 +167,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Light of effulgence is the king’s brilliant opinion; if you want his closeness try to have clean intention’.\n[Translated by Dr M A K Khalil]",
+              "_content": "‘Light of effulgence is the king’s brilliant opinion; if you want his closeness try to have clean intention’.",
               "lang": "English"
             }
           ]
@@ -176,5 +176,6 @@
       "id": 1
     }
   ],
-  "name-en": "Closeness To Kings"
+  "name-en": "Closeness To Kings",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

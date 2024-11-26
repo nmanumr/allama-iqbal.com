@@ -240,7 +240,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "With the miracle of your verse awaken those sleeping; burn down falsehood's produce with the flame of your call.\n(Translated by Dr M A K Khalil)",
+              "_content": "With the miracle of your verse awaken those sleeping; burn down falsehood's produce with the flame of your call.",
               "lang": "English"
             }
           ]
@@ -249,5 +249,6 @@
       "id": 3
     }
   ],
-  "name-en": "The Tomb-Stone Of Saiyyid"
+  "name-en": "The Tomb-Stone Of Saiyyid",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

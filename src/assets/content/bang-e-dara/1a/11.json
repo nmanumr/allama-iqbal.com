@@ -243,7 +243,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Do you understand what happened to this? Your tears have extinguished this’!\n[Translated by M.A.K.Khalil]",
+              "_content": "‘Do you understand what happened to this? Your tears have extinguished this’!",
               "lang": "English"
             }
           ]
@@ -252,5 +252,6 @@
       "id": 1
     }
   ],
-  "name-en": "A Mother'S Dream"
+  "name-en": "A Mother's Dream",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

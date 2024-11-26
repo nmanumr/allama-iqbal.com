@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It gives the message of pleasure and happiness to us! The crescent of Eid is making fun of us! \n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "It gives the message of pleasure and happiness to us! The crescent of Eid is making fun of us!",
               "lang": "English"
             }
           ]
@@ -109,5 +109,6 @@
       "id": 1
     }
   ],
-  "name-en": "In Response To The Request For Writing A Poem On Eid"
+  "name-en": "In Response To The Request For Writing A Poem On Eid",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

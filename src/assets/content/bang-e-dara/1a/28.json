@@ -451,7 +451,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Iqbal also is not acquainted with Iqbal; there is no joke in it, by God he is not.\n(Translated by Dr M A K Khalil)",
+              "_content": "Iqbal also is not acquainted with Iqbal; there is no joke in it, by God he is not.",
               "lang": "English"
             }
           ]
@@ -460,5 +460,6 @@
       "id": 2
     }
   ],
-  "name-en": "Piety And Ecstasy"
+  "name-en": "Piety And Ecstasy",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

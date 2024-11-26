@@ -388,7 +388,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "On seeing eternity to death it fell: Death it was, to death it fell.\n[Translated by Dr M A K Khalil]",
+              "_content": "On seeing eternity to death it fell: Death it was, to death it fell.",
               "lang": "English"
             }
           ]
@@ -397,5 +397,6 @@
       "id": 2
     }
   ],
-  "name-en": "Love And Death"
+  "name-en": "Love And Death",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

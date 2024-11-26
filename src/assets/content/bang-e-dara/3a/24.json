@@ -1488,7 +1488,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The night will eventually disappear by sun’s appearance! This garden will be filled with the Light of Tawhid!\n[Translated by Dr M A K Khalil]",
+              "_content": "The night will eventually disappear by sun’s appearance! This garden will be filled with the Light of Tawhid!",
               "lang": "English"
             }
           ]
@@ -1497,5 +1497,6 @@
       "id": 11
     }
   ],
-  "name-en": "The Candle And The Poet"
+  "name-en": "The Candle And The Poet",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

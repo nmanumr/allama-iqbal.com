@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Very subtle are the ways of the preacher; he trembles on hearing the sound of adhan!\n(Translated by Dr M A K Khalil)",
+              "_content": "Very subtle are the ways of the preacher; he trembles on hearing the sound of adhan!",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

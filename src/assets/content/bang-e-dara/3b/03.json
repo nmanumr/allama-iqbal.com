@@ -170,7 +170,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Zepheyr has brought news about Iqbal from the garden: The newly seized is writhing under the net still.\n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "Zepheyr has brought news about Iqbal from the garden: The newly seized is writhing under the net still.",
               "lang": "English"
             }
           ]
@@ -178,5 +178,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -217,7 +217,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Dates cannot be obtained from the weeds we have sown. Brocade cannot be obtained from the wool we have spun.’\n[Translated by Dr M A K Khalil]",
+              "_content": "‘Dates cannot be obtained from the weeds we have sown. Brocade cannot be obtained from the wool we have spun.’",
               "lang": "English"
             }
           ]
@@ -225,5 +225,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

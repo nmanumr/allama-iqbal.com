@@ -111,7 +111,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I tell my stories as the reed plucked from its native wild murmurs: Oh Rose, listen! I tell the grief of hearts exiled.\n[Translated by Dr M A K Khalil]",
+              "_content": "I tell my stories as the reed plucked from its native wild murmurs: Oh Rose, listen! I tell the grief of hearts exiled.",
               "lang": "English"
             }
           ]
@@ -120,5 +120,6 @@
       "id": 2
     }
   ],
-  "name-en": "A Withered Rose"
+  "name-en": "A Withered Rose",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

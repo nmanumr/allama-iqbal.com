@@ -87,7 +87,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Though His Beauty is manifest in everything; in your eye is Its climax, O Sulaima!\n[Translated by Dr M A K Khalil]",
+              "_content": "Though His Beauty is manifest in everything; in your eye is Its climax, O Sulaima!",
               "lang": "English"
             }
           ]
@@ -96,5 +96,6 @@
       "id": 1
     }
   ],
-  "name-en": "Sulaima"
+  "name-en": "Sulaima",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

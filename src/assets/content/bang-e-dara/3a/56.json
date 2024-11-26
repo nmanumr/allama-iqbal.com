@@ -121,7 +121,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Manifestation of Lailah is much better in wilderness; city’s strait is unable to contain wilderness’ beauty.’\n[Translated by Dr M A K Khalil]",
+              "_content": "‘Manifestation of Lailah is much better in wilderness; city’s strait is unable to contain wilderness’ beauty.’",
               "lang": "English"
             }
           ]
@@ -130,5 +130,6 @@
       "id": 1
     }
   ],
-  "name-en": "Based On A Verse Of Sa’Ib"
+  "name-en": "Based On A Verse Of Sa’Ib",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

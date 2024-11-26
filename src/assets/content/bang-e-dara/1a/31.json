@@ -110,7 +110,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Fleeing from the discomfort of the narrow river I am upset by separation from the ocean's vastness I am.\n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "Fleeing from the discomfort of the narrow river I am upset by separation from the ocean's vastness I am.",
               "lang": "English"
             }
           ]
@@ -118,5 +118,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

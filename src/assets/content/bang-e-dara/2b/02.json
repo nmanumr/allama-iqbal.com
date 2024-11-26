@@ -103,7 +103,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Somebody should take my message to the Makhzan's editor: Activist nations do not have taste for poetic literature!\n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "Somebody should take my message to the Makhzan's editor: Activist nations do not have taste for poetic literature!",
               "lang": "English"
             }
           ]
@@ -111,5 +111,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

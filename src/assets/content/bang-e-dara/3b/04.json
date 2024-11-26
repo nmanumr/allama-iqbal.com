@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You will reach the destination of Lailah one day, O Iqbal! For some more days continue wandering in the wilderness. \n(Translated by Naeem Siddiqui)",
+              "_content": "You will reach the destination of Lailah one day, O Iqbal! For some more days continue wandering in the wilderness.",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
 }

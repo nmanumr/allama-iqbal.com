@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "What if the flame of Namrud is alight in the world?\nThe candle melts itself in the midst of the assembly; my light like the stone’s spark is better if concealed.’\n(Translated by Dr M A K Khalil)",
+              "_content": "What if the flame of Namrud is alight in the world?\nThe candle melts itself in the midst of the assembly; my light like the stone’s spark is better if concealed.’",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       "id": 1
     }
   ],
-  "name-en": "Infidelity And Islam"
+  "name-en": "Infidelity And Islam",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

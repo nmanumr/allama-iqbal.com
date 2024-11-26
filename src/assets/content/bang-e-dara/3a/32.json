@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If the book of literature’s wine in the world’s garden does not exist; the flower, the bud, the verdure, even the garden will not exist.\n(Translated by Dr M A K Khalil)",
+              "_content": "If the book of literature’s wine in the world’s garden does not exist; the flower, the bud, the verdure, even the garden will not exist.",
               "lang": "English"
             }
           ]
@@ -141,5 +141,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Poet"
+  "name-en": "The Poet",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

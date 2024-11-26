@@ -103,7 +103,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "He was expert in sword craft, was unique in bravery; was matchless in piety and in the enthusiasm of love.\n(Translated by M.A.K. Khalil)",
+              "_content": "He was expert in sword craft, was unique in bravery; was matchless in piety and in the enthusiasm of love.",
               "lang": "English"
             }
           ]
@@ -112,5 +112,6 @@
       "id": 1
     }
   ],
-  "name-en": "Rama"
+  "name-en": "Rama",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

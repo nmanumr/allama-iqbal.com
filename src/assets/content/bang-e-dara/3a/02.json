@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Quiescence is difficult in the universe; only change is permanent in the universe.\n(Translated by Dr M A K Khalil)",
+              "_content": "Quiescence is difficult in the universe; only change is permanent in the universe.",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

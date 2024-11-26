@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Spring will never be able to make it bloom; waiting for the gardener ever keeps it sad.\n(Translated by Dr M A K Khalil)",
+              "_content": "Spring will never be able to make it bloom; waiting for the gardener ever keeps it sad.",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       "id": 1
     }
   ],
-  "name-en": "On Being Presented With A Flower"
+  "name-en": "On Being Presented With A Flower",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

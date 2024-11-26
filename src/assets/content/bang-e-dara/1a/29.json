@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When any organ is afflicted with pain, the eye weeps; how sympathetic to the world body is the eye. \n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "When any organ is afflicted with pain, the eye weeps; how sympathetic to the world body is the eye. ",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

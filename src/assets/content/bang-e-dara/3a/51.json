@@ -135,7 +135,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "At last the call of Tawhid rose from the Punjab again! A perfect man roused India from its slumber again! \n(Translated by M.A.K. Khalil)",
+              "_content": "At last the call of Tawhid rose from the Punjab again! A perfect man roused India from its slumber again! ",
               "lang": "English"
             }
           ]
@@ -143,5 +143,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

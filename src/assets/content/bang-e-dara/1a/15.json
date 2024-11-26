@@ -215,7 +215,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Look at the grandeur of my station; the throne of the God of Majesty I am.\n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "Look at the grandeur of my station; the throne of the God of Majesty I am.",
               "lang": "English"
             }
           ]
@@ -224,5 +224,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Intellect And The Heart"
+  "name-en": "The Intellect And The Heart",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

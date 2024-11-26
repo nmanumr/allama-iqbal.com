@@ -1204,7 +1204,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Come, so that we may sprinkle flowers and pour wine in cup; rend asunder the sky’s roof and establish a new foundation.’\n(Translated by Dr M A K Khalil)",
+              "_content": "‘Come, so that we may sprinkle flowers and pour wine in cup; rend asunder the sky’s roof and establish a new foundation.’",
               "lang": "English"
             }
           ]
@@ -1213,5 +1213,6 @@
       "id": 9
     }
   ],
-  "name-en": "The Renaissance Of Islam"
+  "name-en": "The Renaissance Of Islam",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

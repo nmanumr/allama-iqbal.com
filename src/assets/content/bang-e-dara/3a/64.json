@@ -120,7 +120,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Nature has such a strong desire for guarding secrets that another confidante like you it will never create!\n(Translated by M.A.K. Khalil)",
+              "_content": "Nature has such a strong desire for guarding secrets that another confidante like you it will never create!",
               "lang": "English"
             }
           ]
@@ -129,5 +129,6 @@
       "id": 1
     }
   ],
-  "name-en": "Shakespeare"
+  "name-en": "Shakespeare",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

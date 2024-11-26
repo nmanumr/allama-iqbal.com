@@ -221,7 +221,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "By my benevolence farmers' huts on the mountain side are converted into bed chambers of the opulent.\n(Translated by Dr M A K Khalil)",
+              "_content": "By my benevolence farmers' huts on the mountain side are converted into bed chambers of the opulent.",
               "lang": "English"
             }
           ]
@@ -230,5 +230,6 @@
       "id": 4
     }
   ],
-  "name-en": "The Cloud On The Mountain"
+  "name-en": "The Cloud On The Mountain",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

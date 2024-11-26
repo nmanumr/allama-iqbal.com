@@ -445,7 +445,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Tell us what the secret under this rotating dome is. Death a pricking sharp thorn in the human breast is.\n[Translated by Dr M A K Khalil]",
+              "_content": "Tell us what the secret under this rotating dome is. Death a pricking sharp thorn in the human breast is.",
               "lang": "English"
             }
           ]
@@ -453,5 +453,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

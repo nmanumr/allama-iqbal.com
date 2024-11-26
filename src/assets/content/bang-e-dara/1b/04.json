@@ -117,7 +117,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The heart should not sing freedom's song in this garden. Ah! This garden is not suitable for such odes!\n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "The heart should not sing freedom's song in this garden. Ah! This garden is not suitable for such odes!",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

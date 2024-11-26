@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Strange is the feeling for life: ‘Today's joy’ is the belief of youth.\n(Translated by Dr M A K Khalil)",
+              "_content": "Strange is the feeling for life: ‘Today's joy’ is the belief of youth.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

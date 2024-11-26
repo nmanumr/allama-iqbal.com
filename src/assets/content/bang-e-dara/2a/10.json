@@ -196,7 +196,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The reward for this moving is Beauty; Love is the beginning, the end is Beauty.\n(Translated by Dr M A K Khalil)",
+              "_content": "The reward for this moving is Beauty; Love is the beginning, the end is Beauty.",
               "lang": "English"
             }
           ]
@@ -205,5 +205,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Moon And Stars"
+  "name-en": "The Moon And Stars",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -179,7 +179,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O the one who confined me make me free; a silent prisoner I am, earn my blessings free\n[Translated by M.A.K.Khalil]",
+              "_content": "O the one who confined me make me free; a silent prisoner I am, earn my blessings free",
               "lang": "English"
             }
           ]
@@ -188,5 +188,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Bird'S Complaint"
+  "name-en": "The Bird's Complaint",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

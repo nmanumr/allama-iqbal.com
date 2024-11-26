@@ -149,7 +149,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Among your ecstatics is there any seeker of prudence also? Among the sleeping people is anyone with taste of awakening also?’\n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "Among your ecstatics is there any seeker of prudence also? Among the sleeping people is anyone with taste of awakening also?’",
               "lang": "English"
             }
           ]
@@ -158,5 +158,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Sun’S Ray"
+  "name-en": "The Sun’S Ray",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

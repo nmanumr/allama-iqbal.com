@@ -101,7 +101,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Keep very strong communication with the nation; remain attached to the tree and have spring’s expectation! \n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "Keep very strong communication with the nation; remain attached to the tree and have spring’s expectation!",
               "lang": "English"
             }
           ]
@@ -110,5 +110,6 @@
       "id": 1
     }
   ],
-  "name-en": "Remain Attached To The Tree Keep Pring’S Expectation"
+  "name-en": "Remain Attached To The Tree Keep Pring’S Expectation",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

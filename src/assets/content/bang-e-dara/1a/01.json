@@ -449,7 +449,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O Imagination! Bring back that period O Vicissitudes of Time speed backwards*.\n* This is an outpouring of the poet's heart in which he yearns for the revival of the Islamic civilization, of which the Asian civilization was a precursor and a part.\n(Translated by Dr M A K Khalil)",
+              "_content": "O Imagination! Bring back that period O Vicissitudes of Time speed backwards*.\n* This is an outpouring of the poet's heart in which he yearns for the revival of the Islamic civilization, of which the Asian civilization was a precursor and a part.",
               "lang": "English"
             }
           ]
@@ -458,5 +458,6 @@
       "id": 8
     }
   ],
-  "name-en": "Himalaya"
+  "name-en": "Himalaya",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

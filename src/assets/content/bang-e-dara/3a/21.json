@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If he wills he can change the face of the garden; this entity wise, clear-sighted and powerful is!\n(Translated by Dr M A K Khalil)",
+              "_content": "If he wills he can change the face of the garden; this entity wise, clear-sighted and powerful is!",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Human Race"
+  "name-en": "The Human Race",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

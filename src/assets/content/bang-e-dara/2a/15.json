@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Just as dew's elegance depends upon the taste for racing; the elegance of my nature depends upon grief's melodies!\n(Translated by Dr M A K Khalil)",
+              "_content": "Just as dew's elegance depends upon the taste for racing; the elegance of my nature depends upon grief's melodies!",
               "lang": "English"
             }
           ]
@@ -141,5 +141,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Song Of Grief"
+  "name-en": "The Song Of Grief",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

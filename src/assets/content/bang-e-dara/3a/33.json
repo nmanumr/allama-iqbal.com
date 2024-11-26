@@ -138,7 +138,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Yes! On being manifest become lightning to the bat’s eye! O hidden mystery of the heart of universe manifest be! \n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "Yes! On being manifest become lightning to the bat’s eye! O hidden mystery of the heart of universe manifest be!",
               "lang": "English"
             }
           ]
@@ -147,5 +147,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Good News Of The Dawn"
+  "name-en": "The Good News Of The Dawn",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

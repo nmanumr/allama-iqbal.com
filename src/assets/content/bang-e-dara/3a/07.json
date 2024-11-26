@@ -552,7 +552,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The foreheads of the dead brighten up in this darkness as stars are shining in the darkness of the night.\n(Translated by Dr M A K Khalil)",
+              "_content": "The foreheads of the dead brighten up in this darkness as stars are shining in the darkness of the night.",
               "lang": "English"
             }
           ]
@@ -561,5 +561,6 @@
       "id": 7
     }
   ],
-  "name-en": "The Philosophy Of Grief"
+  "name-en": "The Philosophy Of Grief",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

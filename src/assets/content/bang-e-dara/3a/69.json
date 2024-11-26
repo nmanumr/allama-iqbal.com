@@ -1453,7 +1453,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You are a Muslim keep your breast happy with Longing; every moment keep your eye on ‘La yukhlif-ul-Mi’ad’.*\n(Allusion to the Holy Qur’an 3:9 which ends in ‘God never fails in His promise’.)\n(Translated by M.A.K. Khalil)",
+              "_content": "You are a Muslim keep your breast happy with Longing; every moment keep your eye on ‘La yukhlif-ul-Mi’ad’.*\n(Allusion to the Holy Qur’an 3:9 which ends in ‘God never fails in His promise’.)",
               "lang": "English"
             }
           ]
@@ -1462,5 +1462,6 @@
       "id": 6
     }
   ],
-  "name-en": "The Traveler’S Guide"
+  "name-en": "The Traveler’S Guide",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

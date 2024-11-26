@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ah! Does that Beauty exist anywhere or not? O Lord! Does that jewel exist on the universe' ring?\n(Translated by Dr M A K Khalil)",
+              "_content": "Ah! Does that Beauty exist anywhere or not? O Lord! Does that jewel exist on the universe' ring?",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Manifestation Of Beauty"
+  "name-en": "The Manifestation Of Beauty",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

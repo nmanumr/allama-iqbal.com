@@ -170,7 +170,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "There is no beginning and no end of yours; free of limits of time is the light* of yours\n* This does not mean that the sun is eternal in the theological sense, but that it will last in the present form till the existence of the material universe in its present form.\n(Translated by Dr M A K Khalil)",
+              "_content": "There is no beginning and no end of yours; free of limits of time is the light* of yours\n* This does not mean that the sun is eternal in the theological sense, but that it will last in the present form till the existence of the material universe in its present form.",
               "lang": "English"
             }
           ]
@@ -179,5 +179,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Sun"
+  "name-en": "The Sun",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

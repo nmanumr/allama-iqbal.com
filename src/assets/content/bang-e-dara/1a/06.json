@@ -401,7 +401,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The spider had been starving for many days. The fly provided a good leisurely meal.\n[Translated by M.A.K.Khalil]",
+              "_content": "The spider had been starving for many days. The fly provided a good leisurely meal.",
               "lang": "English"
             }
           ]
@@ -410,5 +410,6 @@
       "id": 3
     }
   ],
-  "name-en": "A Spider And A Fly"
+  "name-en": "A Spider And A Fly",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

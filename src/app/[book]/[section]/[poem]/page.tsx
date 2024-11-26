@@ -14,7 +14,7 @@ export default async function Poem({ params }: Props) {
   const { book, section, poem: poemId } = await params;
 
   const poem = await import(`../../../../assets/content/${book}/${section}/${poemId}.json`).then(
-    (m) => m.default as typeof PoemType,
+    (m) => m.default as typeof PoemType
   );
 
   const { next, prev } = findAdjacentPoems(book, section, poemId);
@@ -42,7 +42,14 @@ export default async function Poem({ params }: Props) {
           ))}
         </div>
 
-        <div className="mx-auto mt-28 flex w-full max-w-6xl justify-between gap-x-10 pb-10 font-nastaliq leading-[1.8] sm:grid-cols-2">
+        {(poem as {credits?: string}).credits && (
+          <div dir="ltr" className="mx-auto my-2 w-full max-w-6xl px-4 py-2 text-start text-sm text-gray-600">
+            {(poem as {credits?: string}).credits}
+          </div>
+        )}
+
+        <div
+          className="mx-auto mt-24 flex w-full max-w-6xl justify-between gap-x-10 px-4 pb-10 font-nastaliq leading-[1.8] sm:grid-cols-2">
           {next && (
             <Link
               href={`/${next.bookId}/${next.sectionId}/${next.id}`}
@@ -79,7 +86,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { book, section, poem: poemId } = await params;
 
   const poem = await import(`../../../../assets/content/${book}/${section}/${poemId}.json`).then(
-    (m) => m.default as typeof PoemType,
+    (m) => m.default as typeof PoemType
   );
 
   const description = `Explore the profound words of Allama Iqbal in '${poem?.name}' from his book '${poem.bookName}'. Dive deep into his philosophical and poetic genius.`;
@@ -91,15 +98,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "article",
       title,
       description,
-      siteName: "Iqbal's Poetry",
+      siteName: "Iqbal's Poetry"
     },
     twitter: {
       card: "summary",
       title,
-      description,
+      description
     },
     authors: { name: "Allama Iqbal" },
     keywords: `Iqbal, Poetry, ${poem.bookName}, ${poem?.name}, Allama Iqbal Poems, Urdu Poetry, Persian Poetry`,
-    description,
+    description
   };
 }

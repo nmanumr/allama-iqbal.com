@@ -212,7 +212,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If I am far from home, my relatives should not be sad; like pearl separation from home is perfecting my elegance.\n(Translated by Dr M A K Khalil)",
+              "_content": "If I am far from home, my relatives should not be sad; like pearl separation from home is perfecting my elegance.",
               "lang": "English"
             }
           ]
@@ -220,5 +220,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

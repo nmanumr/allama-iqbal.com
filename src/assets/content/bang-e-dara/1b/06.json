@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Why should not my verses be dear to me, O Iqbal; these the painful laments of my heart are.\n(Translated by Dr M A K Khalil)",
+              "_content": "Why should not my verses be dear to me, O Iqbal; these the painful laments of my heart are.",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

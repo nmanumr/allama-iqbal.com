@@ -213,7 +213,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I am also now crying now laughing like you; outwardly I am elderly, I am also simply a baby.\n[Translated by M.A.K.Khalil]",
+              "_content": "I am also now crying now laughing like you; outwardly I am elderly, I am also simply a baby.",
               "lang": "English"
             }
           ]
@@ -222,5 +222,6 @@
       "id": 3
     }
   ],
-  "name-en": "The Suckling Baby"
+  "name-en": "The Suckling Baby",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

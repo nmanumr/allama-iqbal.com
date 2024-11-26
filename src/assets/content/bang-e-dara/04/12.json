@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I said, ‘O dear, give me some cash I shall hire some Afghan from the Frontier Province’. [Translated by Dr M A K Khalil]",
+              "_content": "I said, ‘O dear, give me some cash I shall hire some Afghan from the Frontier Province’.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

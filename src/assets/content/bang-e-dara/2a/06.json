@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I am the gardener, Love is its bloom; its foundation is firm like eternity.\n(Translated by Dr M A K Khalil)",
+              "_content": "I am the gardener, Love is its bloom; its foundation is firm like eternity.",
               "lang": "English"
             }
           ]
@@ -109,5 +109,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Morning Star –Venus"
+  "name-en": "The Morning Star –Venus",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

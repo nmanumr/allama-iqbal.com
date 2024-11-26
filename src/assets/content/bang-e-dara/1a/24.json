@@ -128,7 +128,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I am seeking light; I am weary in this habitation. I am the restless child in the existence's school.\n(Translated by Dr M A K Khalil)",
+              "_content": "I am seeking light; I am weary in this habitation. I am the restless child in the existence's school.",
               "lang": "English"
             }
           ]
@@ -137,5 +137,6 @@
       "id": 2
     }
   ],
-  "name-en": "The Crescent"
+  "name-en": "The Crescent",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

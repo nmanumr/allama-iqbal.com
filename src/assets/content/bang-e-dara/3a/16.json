@@ -246,7 +246,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "All systems are established on mutual attraction; this secret is concealed in the life of the stars.’ \n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "All systems are established on mutual attraction; this secret is concealed in the life of the stars.’",
               "lang": "English"
             }
           ]
@@ -255,5 +255,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Assembly Of Stars"
+  "name-en": "The Assembly Of Stars",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

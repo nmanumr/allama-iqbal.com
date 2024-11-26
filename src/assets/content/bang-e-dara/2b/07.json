@@ -285,7 +285,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Do not ask about the condition of Iqbal, he is in the same state: Sitting somewhere by the wayside he must be waiting for oppression!\n(Translated by Dr. M.A.K. Khalil)",
+              "_content": "Do not ask about the condition of Iqbal, he is in the same state: Sitting somewhere by the wayside he must be waiting for oppression!",
               "lang": "English"
             }
           ]
@@ -293,5 +293,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

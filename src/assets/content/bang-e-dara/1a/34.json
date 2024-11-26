@@ -1175,7 +1175,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Take not this meaningful tale as related by me is the story was endless, but related with silence is.’\n[Translated by Dr M A K Khalil]",
+              "_content": "‘Take not this meaningful tale as related by me is the story was endless, but related with silence is.’",
               "lang": "English"
             }
           ]
@@ -1183,5 +1183,6 @@
       ],
       "id": 8
     }
-  ]
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

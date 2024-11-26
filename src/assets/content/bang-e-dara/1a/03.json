@@ -110,7 +110,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My eye was devoted to seeing, my lip was prone to speak; my heart was no less than inquisitiveness personified.\n[Translated by M.A.K.Khalil]",
+              "_content": "My eye was devoted to seeing, my lip was prone to speak; my heart was no less than inquisitiveness personified.",
               "lang": "English"
             }
           ]
@@ -119,5 +119,6 @@
       "id": 2
     }
   ],
-  "name-en": "The Age Of Infancy"
+  "name-en": "The Age Of Infancy",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }

@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Why have you brought the message of cure? What concern do Lovers have with the Masiha.* \n(*Allusion to Issa A.S. and his miracle of bringing the dead to life.\n(Translated by Dr M A K Khalil)",
+              "_content": "Why have you brought the message of cure? What concern do Lovers have with the Masiha.* \n(*Allusion to Issa A.S. and his miracle of bringing the dead to life.",
               "lang": "English"
             }
           ]
@@ -141,5 +141,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Hospital Of Hijaz"
+  "name-en": "The Hospital Of Hijaz",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
 }
