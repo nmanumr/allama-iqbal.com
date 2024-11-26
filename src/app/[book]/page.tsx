@@ -2,8 +2,13 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import indexItems from "@/assets/index.json";
 import { numberFormat } from "@/utils/intl";
+import { Metadata } from "next";
 
-export default async function Book({ params }: { params: Promise<{ book: string }> }) {
+interface Props {
+  params: Promise<{ book: string }>;
+}
+
+export default async function Book({ params }: Props) {
   const { book: bookId } = await params;
   const bookIndex = indexItems.findIndex((book) => book.id === bookId);
   const book = indexItems[bookIndex];
@@ -46,4 +51,21 @@ export default async function Book({ params }: { params: Promise<{ book: string 
 
 export function generateStaticParams() {
   return indexItems.map((book) => ({ params: { book: book.id } }));
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { book: bookId } = await params;
+  const bookIndex = indexItems.findIndex((book) => book.id === bookId);
+  const book = indexItems[bookIndex];
+  if (!book)
+    return {
+      title: "Allama Iqbal's Literary Works - Comprehensive Collection",
+      description:
+        "Explore the complete collection of Allama Iqbal's literary masterpieces, including poetry, prose, and philosophical works. Access his books, translated versions, and more.",
+    };
+
+  return {
+    title: `${book.name} by Allama Iqbal`,
+    description: `Explore '${book.name}', one of the remarkable works of Allama Iqbal. Read the full text in ${book.language}. Published in ${book.year}`
+  };
 }

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import indexItems from "../assets/index.json";
 import { numberFormat } from "@/utils/intl";
+import { Metadata } from "next";
 
 const languages: Record<string, string> = {
   ur: "اردو",
@@ -73,7 +74,9 @@ export default async function Home() {
           <div className="flex items-baseline">
             <div className="pe-4">({numberFormat.format(index + 1)})</div>
             {book.name}
-            <div className="text-gray-600 ms-4 text-sm">{languages[book.language] ? `(${languages[book.language]})` : null}</div>
+            <div className="ms-4 text-sm text-gray-600">
+              {languages[book.language] ? `(${languages[book.language]})` : null}
+            </div>
           </div>
           <div className="flex-1 border-b border-dashed border-gray-300" />
           <div>{book.year}</div>
@@ -82,3 +85,9 @@ export default async function Home() {
     </div>
   );
 }
+
+export const metadata: Metadata = {
+  title: "Allama Iqbal's Literary Works - Comprehensive Collection",
+  description:
+    "Explore the complete collection of Allama Iqbal's literary masterpieces, including poetry, prose, and philosophical works. Access his books, translated versions, and more.",
+};
