@@ -31,7 +31,7 @@ export default async function Poem({ params }: Props) {
             {poem.bookName} &gt; {poem.sectionName}
           </div>
           <div className="mt-4 text-4xl leading-[2]">{poem.name}</div>
-          <div className="capitalize">({poem['name-en']})</div>
+          {poem["name-en"] && <div className="capitalize">({poem["name-en"]})</div>}
         </div>
 
         <div className="flex flex-col items-center justify-center font-nastaliq text-2xl leading-[2.2] @container">
@@ -46,7 +46,7 @@ export default async function Poem({ params }: Props) {
           {next && (
             <Link
               href={`/${next.bookId}/${next.sectionId}/${next.id}`}
-              className="items-center justify-start gap-x-4 pe-10 text-start text-xl font-semibold flex"
+              className="flex items-center justify-start gap-x-4 pe-10 text-start text-xl font-semibold"
             >
               <ChevronRightIcon className="relative -bottom-4 size-8" />
               <div className="space-y-4 text-lg">
@@ -58,7 +58,7 @@ export default async function Poem({ params }: Props) {
           {prev ? (
             <Link
               href={`/${prev.bookId}/${prev.sectionId}/${prev.id}`}
-              className="hidden md:flex items-center justify-end gap-x-4 ps-10 text-end text-xl"
+              className="hidden items-center justify-end gap-x-4 ps-10 text-end text-xl md:flex"
             >
               <div className="space-y-4 text-lg">
                 <div className="text-xs">{[prev.bookName, prev.sectionName].filter(Boolean).join(" > ")}</div>
