@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thou gavest in my hand a pen skilful to paint a king of men; thou madest me a scribe; then give a tablet, that my creed may live!\n(Translated by A.J. Arberry)",
+              "_content": "Thou gavest in my hand a pen skilful to paint a king of men; thou madest me a scribe; then give a tablet, that my creed may live!",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

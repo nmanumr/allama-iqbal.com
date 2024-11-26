@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thy light defineth all things one by one: black, white, sea, mountain, valley, moon and sun;\nThou seekest one familiar with the light; my quest is He who cannot bear the sight. \n(Translated by A.J. Arberry)",
+              "_content": "Thy light defineth all things one by one: black, white, sea, mountain, valley, moon and sun;\nThou seekest one familiar with the light; my quest is He who cannot bear the sight.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

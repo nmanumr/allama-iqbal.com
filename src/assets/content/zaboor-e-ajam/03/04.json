@@ -655,7 +655,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Your real place is beyond this mundane world, aspire for a right that is without a left. \n(Translated by Bashir Ahmad Dar)",
+              "_content": "Your real place is beyond this mundane world, aspire for a right that is without a left.",
               "lang": "English"
             }
           ]
@@ -664,5 +664,6 @@
       "id": 2
     }
   ],
-  "name-en": "Question 3"
+  "name-en": "Question 3",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

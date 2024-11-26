@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "This life is ne’er a weary thing while there be worlds for conquering: behold, one world lies bound and tied – into another world I ride.\n(Translated by A.J. Arberry)",
+              "_content": "This life is ne’er a weary thing while there be worlds for conquering: behold, one world lies bound and tied – into another world I ride.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

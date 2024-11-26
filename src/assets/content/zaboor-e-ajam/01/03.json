@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Illuminate my lifeless clay with anthems David used to play; let all my atoms swiftly spring upborne upon an ember’s wing.\n(Translated by A.J. Arberry)",
+              "_content": "Illuminate my lifeless clay with anthems David used to play; let all my atoms swiftly spring upborne upon an ember’s wing.",
               "lang": "English"
             }
           ]
@@ -132,5 +132,6 @@
       "id": 1
     }
   ],
-  "name-en": "Invocation"
+  "name-en": "Invocation",
+  "credits": "English Translation by: A.J. Arberry"
 }

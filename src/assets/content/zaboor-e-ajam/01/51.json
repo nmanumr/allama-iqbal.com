@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If the axe (as legend says) cleave the rock, shall that amaze love upon his shoulder bears such a mountain-range of cares!\n(Translated by A.J. Arberry)",
+              "_content": "If the axe (as legend says) cleave the rock, shall that amaze love upon his shoulder bears such a mountain-range of cares!",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

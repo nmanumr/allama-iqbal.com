@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O take the trembling lute from me, for my hand can play no more; in streams of blood my melody from the heart of the harp doth pour.\n(Translated by A.J. Arberry)",
+              "_content": "O take the trembling lute from me, for my hand can play no more; in streams of blood my melody from the heart of the harp doth pour.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

@@ -68,7 +68,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Come fashioned forth, sublime. This common thought, in time, and with its beauty’s rapture even God’s heart shall capture.\n(Translated by A.J. Arberry)",
+              "_content": "Come fashioned forth, sublime. This common thought, in time, and with its beauty’s rapture even God’s heart shall capture.",
               "lang": "English"
             }
           ]
@@ -76,5 +76,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

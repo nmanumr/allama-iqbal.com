@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Behold, and see! In Ind’s domain Thou shalt not find the like again, that, though a Brahman’s son I be, Tabriz and Rum stand wide to me.\n(Translated by A.J. Arberry)",
+              "_content": "Behold, and see! In Ind’s domain Thou shalt not find the like again, that, though a Brahman’s son I be, Tabriz and Rum stand wide to me.",
               "lang": "English"
             }
           ]
@@ -148,5 +148,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

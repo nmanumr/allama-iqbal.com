@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Ah, within my heart’, said I, ‘yet unbroken idols lie’: ‘Then this temple’, answered he, ‘must be shattered utterly!’ \n(Translated by A.J. Arberry)",
+              "_content": "‘Ah, within my heart’, said I, ‘yet unbroken idols lie’: ‘Then this temple’, answered he, ‘must be shattered utterly!’",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

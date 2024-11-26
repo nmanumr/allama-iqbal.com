@@ -604,7 +604,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "This is indeed the-true kingly glory; this is the State that is linked to religion.\n(Translated by Bashir Ahmad Dar)",
+              "_content": "This is indeed the-true kingly glory; this is the State that is linked to religion.",
               "lang": "English"
             }
           ]
@@ -613,5 +613,6 @@
       "id": 2
     }
   ],
-  "name-en": "Question 1"
+  "name-en": "Question 1",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

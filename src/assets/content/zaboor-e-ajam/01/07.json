@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O Master, guard the honour of him who begs of thee; he’ll let no wine of others within his goblet be.\n(Translated by A.J. Arberry)",
+              "_content": "O Master, guard the honour of him who begs of thee; he’ll let no wine of others within his goblet be.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

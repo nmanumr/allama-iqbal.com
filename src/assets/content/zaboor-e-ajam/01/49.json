@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Not both the worlds suffice my folly’s avarice; earth is a passing day, heaven a passage-way.\n(Translated by A.J. Arberry)",
+              "_content": "Not both the worlds suffice my folly’s avarice; earth is a passing day, heaven a passage-way.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

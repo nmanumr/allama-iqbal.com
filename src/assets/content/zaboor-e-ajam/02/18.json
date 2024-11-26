@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Who sang within the flowery mead? Say, whence his anthem came that lo! The rosebud hides her head, the roses blush for shame. \n[Translated by Arthur J Arberry]",
+              "_content": "Who sang within the flowery mead? Say, whence his anthem came that lo! The rosebud hides her head, the roses blush for shame.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

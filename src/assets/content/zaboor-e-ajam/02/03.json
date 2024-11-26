@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Rise up! The hour is here that Adam shall appear; the stars bow, as they must, to this handful of dust.\nThe secret, that at rest was hid in Being’s breast, by Clay and Water stirred is magically heard. [Translated by Arthur J Arberry]",
+              "_content": "Rise up! The hour is here that Adam shall appear; the stars bow, as they must, to this handful of dust.\nThe secret, that at rest was hid in Being’s breast, by Clay and Water stirred is magically heard.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

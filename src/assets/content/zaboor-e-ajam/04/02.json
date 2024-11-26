@@ -673,7 +673,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The fetter is not on (slave’s) feet, it is on his heart and mind (on his courage and thinking); this is the difficulty, the real difficulty. \n[Translated by Bashir Ahmad Dar]",
+              "_content": "The fetter is not on (slave’s) feet, it is on his heart and mind (on his courage and thinking); this is the difficulty, the real difficulty.",
               "lang": "English"
             }
           ]
@@ -682,5 +682,6 @@
       "id": 2
     }
   ],
-  "name-en": "Religion Of Slaves"
+  "name-en": "Religion Of Slaves",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

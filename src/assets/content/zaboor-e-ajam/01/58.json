@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "What a far gaze may fashion art Thou not aware? So fared we in Thy presence, on our lips a prayer. \n(Translated by A.J. Arberry)",
+              "_content": "What a far gaze may fashion art Thou not aware? So fared we in Thy presence, on our lips a prayer.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

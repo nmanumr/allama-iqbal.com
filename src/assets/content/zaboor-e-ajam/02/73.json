@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Far from cottage and from street, yet in both abroad, and fleet, with the vision of the moon I have gazed this world upon! \n(Translated by A.J. Arberry)",
+              "_content": "Far from cottage and from street, yet in both abroad, and fleet, with the vision of the moon I have gazed this world upon!",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

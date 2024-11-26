@@ -486,7 +486,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Be lost in your self to find the reality of the ego, say ‘I am the Truth’ and affirm the existence of the ego.\n(Translated by Bashir Ahmad Dar)",
+              "_content": "Be lost in your self to find the reality of the ego, say ‘I am the Truth’ and affirm the existence of the ego.",
               "lang": "English"
             }
           ]
@@ -495,5 +495,6 @@
       "id": 2
     }
   ],
-  "name-en": "Question 8"
+  "name-en": "Question 8",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

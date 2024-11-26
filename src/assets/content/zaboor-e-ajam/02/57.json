@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Dear love that doth man’s patience try, to dust in ecstasy hath given eyes to weep, and I the wondrous joy to see.\n(Translated by A.J. Arberry)",
+              "_content": "Dear love that doth man’s patience try, to dust in ecstasy hath given eyes to weep, and I the wondrous joy to see.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

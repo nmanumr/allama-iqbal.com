@@ -55,7 +55,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Bring me that fortune ever new, the cup where lies the world to view, for, in the palace of the East, another Jamshid sits to feast.\n(Translated by A.J. Arberry)",
+              "_content": "Bring me that fortune ever new, the cup where lies the world to view, for, in the palace of the East, another Jamshid sits to feast.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

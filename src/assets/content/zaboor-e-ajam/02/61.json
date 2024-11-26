@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Neither in idol-house nor shrine that saki I can find to grant, no ember’s fitful shine, but splendour unconfined. \n(Translated by A.J. Arberry)",
+              "_content": "Neither in idol-house nor shrine that saki I can find to grant, no ember’s fitful shine, but splendour unconfined.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

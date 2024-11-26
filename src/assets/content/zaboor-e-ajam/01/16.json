@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The aged ringdove in the glade hearkened to my lament, and said, ‘No songbird ever carolled here so sweet an air of yesterday.’\n(Translated by A.J. Arberry)",
+              "_content": "The aged ringdove in the glade hearkened to my lament, and said, ‘No songbird ever carolled here so sweet an air of yesterday.’",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

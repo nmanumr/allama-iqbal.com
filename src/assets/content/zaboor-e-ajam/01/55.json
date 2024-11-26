@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In riddles yet I spake, forsooth; now is the time for naked truth; do Thou declare, where I shall lead my fellow-travelers in their need.\n(Translated by A.J. Arberry)",
+              "_content": "In riddles yet I spake, forsooth; now is the time for naked truth; do Thou declare, where I shall lead my fellow-travelers in their need.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

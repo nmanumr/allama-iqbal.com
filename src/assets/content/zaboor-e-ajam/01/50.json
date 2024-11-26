@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Bring me the wine of heart’s delight, and spread the banquet of the night; give me the bold, adventurous eye, and in love’s transport let me die.\n(Translated by A.J. Arberry)",
+              "_content": "Bring me the wine of heart’s delight, and spread the banquet of the night; give me the bold, adventurous eye, and in love’s transport let me die.",
               "lang": "English"
             }
           ]
@@ -148,5 +148,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

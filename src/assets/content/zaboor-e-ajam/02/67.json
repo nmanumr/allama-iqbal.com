@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Life is not of us alone, life is not for us to own; life is everywhere to see – Ah, and whence came life to be? \n(Translated by A.J. Arberry)",
+              "_content": "Life is not of us alone, life is not for us to own; life is everywhere to see – Ah, and whence came life to be?",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

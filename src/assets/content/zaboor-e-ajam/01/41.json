@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Or the soul, that numbereth life departing at each breath, borrowed spirit, grief of time – shall I speak thee in rhyme? \n(Translated by A.J. Arberry)",
+              "_content": "Or the soul, that numbereth life departing at each breath, borrowed spirit, grief of time – shall I speak thee in rhyme?",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

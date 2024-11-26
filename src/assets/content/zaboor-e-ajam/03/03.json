@@ -509,7 +509,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Throw yourself on this world like fire! Make an assault on the visible and the invisible worlds alike. \n(Translated by Bashir Ahmad Dar)",
+              "_content": "Throw yourself on this world like fire! Make an assault on the visible and the invisible worlds alike.",
               "lang": "English"
             }
           ]
@@ -518,5 +518,6 @@
       "id": 3
     }
   ],
-  "name-en": "Question 2"
+  "name-en": "Question 2",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

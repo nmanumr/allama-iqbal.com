@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Come, O come to prayer; court no prince’s door: so our fathers were when the world was poor. \n(Translated by A.J. Arberry)",
+              "_content": "Come, O come to prayer; court no prince’s door: so our fathers were when the world was poor.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Lament is all I know, but they say I am a singer of ghazal; what is this dew-like thing You are pouring on my heart? \n(Translated by Mustansir Mir)",
+              "_content": "Lament is all I know, but they say I am a singer of ghazal; what is this dew-like thing You are pouring on my heart?",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

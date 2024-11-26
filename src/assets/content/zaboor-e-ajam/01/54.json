@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Into my soul this meaning true Thou pourest like the summer dew, whereof with sorrow and with sighs a new world dawns upon mine eyes.\n(Translated by A.J. Arberry)",
+              "_content": "Into my soul this meaning true Thou pourest like the summer dew, whereof with sorrow and with sighs a new world dawns upon mine eyes.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

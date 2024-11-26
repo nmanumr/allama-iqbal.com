@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In the flask that here I hold, both the worlds one may behold; where’s the vision, to divine the wide vista that is mine? \nMadman comes again to town crying clamour up and down: See, a hundred riots start from the passion of my heart. \n[Translated by Arthur J Arberry]\n\nBoth worlds may be seen in the wine-pitches I have! Where is the eye to view the sights I see? \nThere will come another man, possessed, who will shout ‘hu’ in the city; two hundred commotions will arise from the obsession I have. \n[Translated by Mustansir Mir]",
+              "_content": "In the flask that here I hold, both the worlds one may behold; where’s the vision, to divine the wide vista that is mine? \nMadman comes again to town crying clamour up and down: See, a hundred riots start from the passion of my heart.\n\nBoth worlds may be seen in the wine-pitches I have! Where is the eye to view the sights I see? \nThere will come another man, possessed, who will shout ‘hu’ in the city; two hundred commotions will arise from the obsession I have.",
               "lang": "English"
             }
           ]
@@ -38,7 +38,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Grieve not foolishly, my friend, lest the dark of night descend: Lo, the brand upon my brow gleams in starry splendour now. \nTake me for thy comrade true; yet I fear, if so thou do, thou hast not the strength to bear the vast tumult I prepare.\n[Translated by Arthur J Arberry]\n\nDo not worry, ignorant one, at the approaching darkness of nights; for the scar of my forehead sparkles like stars.\nYou take me as your companion, but I am afraid that you are not up to the tumult and uproar I have raised.\n[Translated by Mustansir Mir]",
+              "_content": "Grieve not foolishly, my friend, lest the dark of night descend: Lo, the brand upon my brow gleams in starry splendour now. \nTake me for thy comrade true; yet I fear, if so thou do, thou hast not the strength to bear the vast tumult I prepare.\n\nDo not worry, ignorant one, at the approaching darkness of nights; for the scar of my forehead sparkles like stars.\nYou take me as your companion, but I am afraid that you are not up to the tumult and uproar I have raised.",
               "lang": "English"
             }
           ]
@@ -46,5 +46,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

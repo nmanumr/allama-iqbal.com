@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Till the sun arise from the eastern skies sleep to me denied. Like the stars I ride. \n(Translated by A.J. Arberry)",
+              "_content": "Till the sun arise from the eastern skies sleep to me denied. Like the stars I ride.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

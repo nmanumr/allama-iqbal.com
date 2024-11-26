@@ -605,7 +605,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It digs your grave in your body; its Munkar and Nakir are with it.\n(Translated by Bashir Ahmad Dar)",
+              "_content": "It digs your grave in your body; its Munkar and Nakir are with it.",
               "lang": "English"
             }
           ]
@@ -614,5 +614,6 @@
       "id": 2
     }
   ],
-  "name-en": "Question 6"
+  "name-en": "Question 6",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If in thy face they lock the gate to selfhood’s shrine, strike head upon the rock and see the ruby shine.\n[Translated by Arthur J Arberry]",
+              "_content": "If in thy face they lock the gate to selfhood’s shrine, strike head upon the rock and see the ruby shine.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

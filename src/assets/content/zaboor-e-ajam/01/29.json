@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When shall this lazy traveller reach his goal, the inner chamber of the soul that doth these thousand years abide at falsehood’s shrine, in slothful pride?\n(Translated by A.J. Arberry)",
+              "_content": "When shall this lazy traveller reach his goal, the inner chamber of the soul that doth these thousand years abide at falsehood’s shrine, in slothful pride?",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

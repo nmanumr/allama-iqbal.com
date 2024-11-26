@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Either the Register of Possibles has no blank pages left or the Pen of Fate has grown too tired to write.\n(Translated by Mustansir Mir)",
+              "_content": "Either the Register of Possibles has no blank pages left or the Pen of Fate has grown too tired to write.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

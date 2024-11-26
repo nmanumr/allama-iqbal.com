@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Wrecked is the barque the ancient guide built out of sense, therein to ride; blest is the one who fashioned me to be his vessel on the sea.\n(Translated by A.J. Arberry)",
+              "_content": "Wrecked is the barque the ancient guide built out of sense, therein to ride; blest is the one who fashioned me to be his vessel on the sea.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

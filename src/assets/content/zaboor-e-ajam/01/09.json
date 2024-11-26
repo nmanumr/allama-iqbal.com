@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I never sought to make this plain or keep it hid from any man; my secret has itself displayed, and so my melody was made.\n(Translated by A.J. Arberry)",
+              "_content": "I never sought to make this plain or keep it hid from any man; my secret has itself displayed, and so my melody was made.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

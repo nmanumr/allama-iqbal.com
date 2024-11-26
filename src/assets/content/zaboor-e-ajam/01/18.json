@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Love to the dust ruin hurled the tabernacle of the world, and stretches high his fingers, even unto the canopy of heaven. \n(Translated by A.J. Arberry)",
+              "_content": "Love to the dust ruin hurled the tabernacle of the world, and stretches high his fingers, even unto the canopy of heaven.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

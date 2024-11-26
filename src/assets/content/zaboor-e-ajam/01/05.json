@@ -55,7 +55,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Our glances reach the neckline of the Galaxy; this obsession of ours, this tumult and clamor – where does it come from?\n(Translated by Mustansir Mir)",
+              "_content": "Our glances reach the neckline of the Galaxy; this obsession of ours, this tumult and clamor – where does it come from?",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

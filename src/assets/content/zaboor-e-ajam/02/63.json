@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Call that a song, which Nature brings to serve as music for her strings; what use is in the minstrelsy that all with Nature doth agree? \n(Translated by A.J. Arberry)",
+              "_content": "Call that a song, which Nature brings to serve as music for her strings; what use is in the minstrelsy that all with Nature doth agree?",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

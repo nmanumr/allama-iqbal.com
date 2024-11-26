@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When the world’s wondrous Artist viewed the madness in my brain, he cried, ‘Too mighty swells thy mood, this ruin to contain!’\n(Translated by A.J. Arberry.)",
+              "_content": "When the world’s wondrous Artist viewed the madness in my brain, he cried, ‘Too mighty swells thy mood, this ruin to contain!’",
               "lang": "English"
             }
           ]
@@ -108,5 +108,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry."
 }

@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Lo, to the slaves I have declared true kingship’s innermost mystery; I am a slave who greatly erred; to the king for judgement O carry me!\n[Translated by Arthur J Arberry]",
+              "_content": "Lo, to the slaves I have declared true kingship’s innermost mystery; I am a slave who greatly erred; to the king for judgement O carry me!",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

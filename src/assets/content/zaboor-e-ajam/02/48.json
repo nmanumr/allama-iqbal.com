@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Far from the threshold now of the Sultan’s gate I have strayed; no infidel I, to bow to a god who can nothing aid.\n[Translated by Arthur J Arberry]",
+              "_content": "Far from the threshold now of the Sultan’s gate I have strayed; no infidel I, to bow to a god who can nothing aid.",
               "lang": "English"
             }
           ]
@@ -148,5 +148,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

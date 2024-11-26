@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My dust ascending in the air seeks a new heaven to prepare; this atom, That is naught, and less, would populate a wilderness!\n(Translated by A.J. Arberry)",
+              "_content": "My dust ascending in the air seeks a new heaven to prepare; this atom, That is naught, and less, would populate a wilderness!",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

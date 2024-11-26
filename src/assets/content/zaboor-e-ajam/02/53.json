@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Let madness surge not in thee so when thou dost stand at prayer; keep firm thy reason; do not go with shredded raiment there!\n(Translated by A.J. Arberry)",
+              "_content": "Let madness surge not in thee so when thou dost stand at prayer; keep firm thy reason; do not go with shredded raiment there!",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Branch of the Sidra tree thou art; be not the meadow’s straw and thorn: Though thou deniest Him in thy heart, hold not thy Self in faithless scorn. \n[Translated by Arthur J Arberry]",
+              "_content": "Branch of the Sidra tree thou art; be not the meadow’s straw and thorn: Though thou deniest Him in thy heart, hold not thy Self in faithless scorn.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

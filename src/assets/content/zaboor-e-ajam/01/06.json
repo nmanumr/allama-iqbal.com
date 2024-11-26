@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Soft amid Persia’s rushes the breeze of morning sings: Bring me the spark that trickles from those melodious strings.\n(Translated by A.J. Arberry)",
+              "_content": "Soft amid Persia’s rushes the breeze of morning sings: Bring me the spark that trickles from those melodious strings.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

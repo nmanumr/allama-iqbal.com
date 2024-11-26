@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O take the goblet from my hand, for hope is past; the saki played at glances, and my heart was lost.\n(Translated by A.J. Arberry)",
+              "_content": "O take the goblet from my hand, for hope is past; the saki played at glances, and my heart was lost.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

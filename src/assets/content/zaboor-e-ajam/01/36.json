@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Lest my heart’s passion may softer grow, not to the trusty I’ll tell my woe.\n(Translated by A.J. Arberry)",
+              "_content": "Lest my heart’s passion may softer grow, not to the trusty I’ll tell my woe.",
               "lang": "English"
             }
           ]
@@ -108,5 +108,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

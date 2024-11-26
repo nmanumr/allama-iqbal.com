@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Wave of flame, O bare thy bosom to the morning-breeze; O blossom, do not seek the dew, to quell Thy heart’s fiery crucible! \n(Translated by A.J. Arberry)",
+              "_content": "Wave of flame, O bare thy bosom to the morning-breeze; O blossom, do not seek the dew, to quell Thy heart’s fiery crucible!",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

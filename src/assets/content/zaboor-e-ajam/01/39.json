@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "By the majesty I swear it, no desire my spirit moves save the prayer: An eagle spirit, Lord, bestow upon Thy doves!\n(Translated by A.J. Arberry)",
+              "_content": "By the majesty I swear it, no desire my spirit moves save the prayer: An eagle spirit, Lord, bestow upon Thy doves!",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

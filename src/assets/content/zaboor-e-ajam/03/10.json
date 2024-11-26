@@ -146,7 +146,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Don’t ask me about the universality of death, you and I are tied by our breaths to the chain of death.\n(Translated by Bashir Ahmad Dar)",
+              "_content": "Don’t ask me about the universality of death, you and I are tied by our breaths to the chain of death.",
               "lang": "English"
             }
           ]
@@ -155,5 +155,6 @@
       "id": 2
     }
   ],
-  "name-en": "Question 9"
+  "name-en": "Question 9",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

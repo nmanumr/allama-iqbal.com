@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Either kill the desire for revolution that stirs in my heart, or completely change these heavens and the earth. Do one thing or the other!\n(Translated by Mustansir Mir)",
+              "_content": "Either kill the desire for revolution that stirs in my heart, or completely change these heavens and the earth. Do one thing or the other!",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

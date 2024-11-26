@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In such frenzy of the soul still I do not yield control: every madman cannot boast that to self he is not lost!\n(Translated by A.J. Arberry)",
+              "_content": "In such frenzy of the soul still I do not yield control: every madman cannot boast that to self he is not lost!",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

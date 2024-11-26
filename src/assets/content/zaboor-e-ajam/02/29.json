@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Take the lees I give; for lo! In the taverns that I know aged vintner never more stands, the young, fierce wine to pour. \n[Translated by Arthur J Arberry]",
+              "_content": "Take the lees I give; for lo! In the taverns that I know aged vintner never more stands, the young, fierce wine to pour.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Love’s self learnt quivering’s art from this our trembling heart; our spark it was that spired until the moth expired.\n(Translated by A.J. Arberry)",
+              "_content": "Love’s self learnt quivering’s art from this our trembling heart; our spark it was that spired until the moth expired.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

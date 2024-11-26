@@ -55,7 +55,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Down, and the stars and moon, nightfall, the sun at noon – all these unveiled the eye for but one glance may buy!\n(Translated by A.J. Arberry)",
+              "_content": "Down, and the stars and moon, nightfall, the sun at noon – all these unveiled the eye for but one glance may buy!",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

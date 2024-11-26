@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In the garden and the mead I sow my jeweled air; precious goods, yet cheap indeed when there are none to hear.\n(Translated by A.J. Arberry.)",
+              "_content": "In the garden and the mead I sow my jeweled air; precious goods, yet cheap indeed when there are none to hear.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry."
 }

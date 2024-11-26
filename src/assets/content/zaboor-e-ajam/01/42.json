@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "With love I convert the crude copper I have into gold, for when I meet you tomorrow, You will want a gift from me.\n(Translated by Mustansir Mir)",
+              "_content": "With love I convert the crude copper I have into gold, for when I meet you tomorrow, You will want a gift from me.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

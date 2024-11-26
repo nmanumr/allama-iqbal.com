@@ -537,7 +537,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It is impossible for an ego to be absorbed in another ego, for the ego to be itself is its perfection.\n(Translated by Bashir Ahmad Dar)",
+              "_content": "It is impossible for an ego to be absorbed in another ego, for the ego to be itself is its perfection.",
               "lang": "English"
             }
           ]
@@ -546,5 +546,6 @@
       "id": 2
     }
   ],
-  "name-en": "Question 4"
+  "name-en": "Question 4",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

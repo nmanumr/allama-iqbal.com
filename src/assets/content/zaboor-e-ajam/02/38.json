@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If a New World thou hast in thy bosom, declare thy faith! Wounded in heart and breast, Europe is nigh to death.\n(Translated by A.J. Arberry.)",
+              "_content": "If a New World thou hast in thy bosom, declare thy faith! Wounded in heart and breast, Europe is nigh to death.",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry."
 }

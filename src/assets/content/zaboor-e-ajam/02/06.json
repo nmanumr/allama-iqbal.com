@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Practice too the amorous art, learn to captivate the heart, if thou dost desire of me Love’s immortal minstrelsy. (Translated by A.J. Arberry.)",
+              "_content": "Practice too the amorous art, learn to captivate the heart, if thou dost desire of me Love’s immortal minstrelsy.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry."
 }

@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In the glad presence of the friend a history is that hath no end, as still these sorrows yet unsaid lie in my heart deep-buried.\n(Translated by A.J. Arberry)",
+              "_content": "In the glad presence of the friend a history is that hath no end, as still these sorrows yet unsaid lie in my heart deep-buried.",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

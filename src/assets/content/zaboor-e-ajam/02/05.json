@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Iqbal! What bright lamp is it in thy bosom thou bast lit, that the things thyself canst do thou in us canst fashion, too? \n[Translated by Arthur J Arberry]",
+              "_content": "Iqbal! What bright lamp is it in thy bosom thou bast lit, that the things thyself canst do thou in us canst fashion, too?",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

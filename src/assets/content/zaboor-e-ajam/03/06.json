@@ -537,7 +537,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Don’t be negligent; you are its trustee, what folly that you do not look within your self! \n(Translated by Bashir Ahmad Dar)",
+              "_content": "Don’t be negligent; you are its trustee, what folly that you do not look within your self!",
               "lang": "English"
             }
           ]
@@ -546,5 +546,6 @@
       "id": 2
     }
   ],
-  "name-en": "Question 5"
+  "name-en": "Question 5",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

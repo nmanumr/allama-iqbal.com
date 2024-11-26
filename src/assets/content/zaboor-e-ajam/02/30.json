@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The caravan’s leader, greet with my blessing, and then repeat: ‘Though the way unchanged remain, ‘Tis a different caravan!’\n[Translated by Arthur J Arberry]",
+              "_content": "The caravan’s leader, greet with my blessing, and then repeat: ‘Though the way unchanged remain, ‘Tis a different caravan!’",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

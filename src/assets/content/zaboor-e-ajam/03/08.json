@@ -554,7 +554,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If it does not remain in the sheath for a little more time, it will kill itself as well as the world.\n(Translated by Bashir Ahmad Dar)",
+              "_content": "If it does not remain in the sheath for a little more time, it will kill itself as well as the world.",
               "lang": "English"
             }
           ]
@@ -563,5 +563,6 @@
       "id": 2
     }
   ],
-  "name-en": "Question 7"
+  "name-en": "Question 7",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

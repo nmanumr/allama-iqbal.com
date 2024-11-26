@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "So live, that if our death for aye continueth, God shall be shamed, to know what things He wrought below. \n[Translated by Arthur J Arberry]",
+              "_content": "So live, that if our death for aye continueth, God shall be shamed, to know what things He wrought below.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

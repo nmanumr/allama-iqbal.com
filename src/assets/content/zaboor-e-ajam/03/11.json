@@ -310,7 +310,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I sow in my dust the seed of selfhood, and keep a constant vigil over my ‘I’.\n(Translated by Bashir Ahmad Dar)",
+              "_content": "I sow in my dust the seed of selfhood, and keep a constant vigil over my ‘I’.",
               "lang": "English"
             }
           ]
@@ -318,5 +318,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Tis passing strange, if yearning be not born to immortality; how can Thy history be said in these few breaths, ere I am dead?\n(Translated by A.J. Arberry)",
+              "_content": "‘Tis passing strange, if yearning be not born to immortality; how can Thy history be said in these few breaths, ere I am dead?",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

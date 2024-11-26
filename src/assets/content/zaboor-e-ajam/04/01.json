@@ -480,7 +480,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Our musician did not pay attention to the meaning (essence); they are fond of lyrics (words) not the meanings. \n(Translated by Bashir Ahmad Dar)",
+              "_content": "Our musician did not pay attention to the meaning (essence); they are fond of lyrics (words) not the meanings.",
               "lang": "English"
             }
           ]
@@ -1200,7 +1200,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Wise bird never gets trapped even if the net is made of silk (deceptively attractive); (wise people are not impressed by such art). \n{Translated by Bashir Ahmad Dar)",
+              "_content": "Wise bird never gets trapped even if the net is made of silk (deceptively attractive); (wise people are not impressed by such art). \n{",
               "lang": "English"
             }
           ]
@@ -1209,5 +1209,6 @@
       "id": 2
     }
   ],
-  "name-en": "On The Fine Arts Of Slaves: Music"
+  "name-en": "On The Fine Arts Of Slaves: Music",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

@@ -55,7 +55,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hue-and-scent world fills thine eyes; what the heart is, knowest thou? ’Tis a moon, that round its brow casts a halo of the skies.\n(Translated by A.J. Arberry)",
+              "_content": "Hue-and-scent world fills thine eyes; what the heart is, knowest thou? ’Tis a moon, that round its brow casts a halo of the skies.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

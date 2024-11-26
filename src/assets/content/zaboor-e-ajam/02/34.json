@@ -68,7 +68,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If Gabriel lay his hand on thy rein, and the Houris, too, with a loving glance pass on again as fair charmers do.\n(Translated by A.J. Arberry.)",
+              "_content": "If Gabriel lay his hand on thy rein, and the Houris, too, with a loving glance pass on again as fair charmers do.",
               "lang": "English"
             }
           ]
@@ -76,5 +76,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry."
 }

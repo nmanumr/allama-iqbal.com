@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Love upon our woe exprest builds anew the great unrest; else no murmur ever stirs from these silent banqueters. (Translated by A.J. Arberry)",
+              "_content": "Love upon our woe exprest builds anew the great unrest; else no murmur ever stirs from these silent banqueters.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

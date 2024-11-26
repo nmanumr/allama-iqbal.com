@@ -531,7 +531,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Give me the pride and submissiveness of man, give unto my heart burning and consuming of man.’\n(Translated by Bashir Ahmad Dar)",
+              "_content": "Give me the pride and submissiveness of man, give unto my heart burning and consuming of man.’",
               "lang": "English"
             }
           ]
@@ -539,5 +539,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

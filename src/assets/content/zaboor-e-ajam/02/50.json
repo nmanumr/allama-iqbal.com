@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Learn to be sculptor, even as I, and haply anew thy selfhood make! \n[Translated by Arthur J Arberry]",
+              "_content": "Learn to be sculptor, even as I, and haply anew thy selfhood make!",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

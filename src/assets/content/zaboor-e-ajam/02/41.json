@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Childlike watchest thou nests beneath the bough; mount on wings, and soon hunt the sun and moon!\n[Translated by Arthur J Arberry]",
+              "_content": "Childlike watchest thou nests beneath the bough; mount on wings, and soon hunt the sun and moon!",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }

@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Each my brief nest and dwelling-place – both let me kindle, and both raze!\n(Translated by A.J. Arberry)",
+              "_content": "Each my brief nest and dwelling-place – both let me kindle, and both raze!",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

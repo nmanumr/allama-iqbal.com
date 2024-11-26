@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Pass wine! Speak not to me of Europe’s tumult vast; caravans countlessly that desolation passed. \n(Translated by A.J. Arberry)",
+              "_content": "Pass wine! Speak not to me of Europe’s tumult vast; caravans countlessly that desolation passed.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

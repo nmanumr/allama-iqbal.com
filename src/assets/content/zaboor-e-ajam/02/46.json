@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O thou who didst my sweet wine take, grieve not at my sharp sting; it needs my sting, that I may wake man from his slumbering. \n[Translated by Arthur J Arberry]",
+              "_content": "O thou who didst my sweet wine take, grieve not at my sharp sting; it needs my sting, that I may wake man from his slumbering.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
 }
