@@ -8,6 +8,8 @@
   "Para": [
     {
       "name": "حکایت درین معنی کہ مسئلۂ نفی خودی از مخترعات اقوام مغلوبۂ بنی نوع انسان است کہ بہ این طریق مخفی اخلاق اقوام غالبہ را ضعیف میسازند",
+      "name-en": "A tale illustrating the idea that the notion of self-negation is an invention of the subjugated nations of humanity, devised to subtly weaken the moral strength of dominant nations.",
+      "name-ur": "اس مطلب کی وضاحت کے لیے حکایت کہ نفیء خودی کا مسلہ اقوام مغلوبہ کی اختراع ہے تاکہ وہ مخفی طریق سے اقوام غالبہ کے اخلاق کو کمزور کريں۔",
       "Verse": [
         {
           "id": "01",
@@ -17,7 +19,7 @@
               "lang": "Original"
             },
             {
-              "_content": "اس مطلب کی وضاحت کے لیے حکایت کہ نفیء خودی کا مسلہ اقوام مغلوبہ کی اختراع ہے تاکہ وہ مخفی طریق سے اقوام غالبہ کے اخلاق کو کمزور کريں۔\n\nکیا تو نے سنا ہے کہ پرانے زمانے میں بہت سی بھیڑ بکریاں ایک چراگاہ میں رہتی تھیں۔",
+              "_content": "کیا تو نے سنا ہے کہ پرانے زمانے میں بہت سی بھیڑ بکریاں ایک چراگاہ میں رہتی تھیں۔",
               "lang": "Urdu"
             },
             {
@@ -812,5 +814,6 @@
       "id": 1
     }
   ],
-  "name-en": "A Tale Of Which The Moral Is That Negation Of The Self Is A Doctrine Invented By Subject Races Of Mankind In Order…"
+  "name-en": "A tale illustrating this concept.",
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

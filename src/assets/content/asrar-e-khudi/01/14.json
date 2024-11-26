@@ -5,6 +5,7 @@
   "bookName": "اسرارِ خودی",
   "+@SectionID": "01",
   "sectionName": "اسرار خودی",
+  "name-ur": "الماس اور کوئلے کی حکایت۔",
   "Para": [
     {
       "Verse": [
@@ -16,7 +17,7 @@
               "lang": "Original"
             },
             {
-              "_content": "الماس اور کوئلے کی حکایت ۔\n\nمیں ایک بار پھر حقیقت کا دروازہ کھولتا ہوں ؛ تمہیں ایک اور کہانی سناتا ہوں۔",
+              "_content": "میں ایک بار پھر حقیقت کا دروازہ کھولتا ہوں ؛ تمہیں ایک اور کہانی سناتا ہوں۔",
               "lang": "Urdu"
             },
             {
@@ -352,5 +353,6 @@
       "id": 1
     }
   ],
-  "name-en": "Story Of The Diamond And The Coal"
+  "name-en": "Story Of The Diamond And The Coal",
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

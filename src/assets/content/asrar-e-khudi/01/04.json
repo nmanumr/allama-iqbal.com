@@ -8,6 +8,8 @@
   "Para": [
     {
       "name": "در بیان اینکہ خودی از عشق و محبت استحکام می پذیرد",
+      "name-en": "Showing that the self is strengthened by love.",
+      "name-ur": "اس بیان میں کہ خودی عشق و محبت سے مستحکم ہوتی ہے۔",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اس بیان میں کہ خودی عشق و محبت سے مستحکم ہوتی ہے۔\n\nنقطہ ء نور جس کا نام خودی ہے ؛ یہی ہمارے بدن میں زندگی کا شرر ہے ۔",
+              "_content": "نقطہ ء نور جس کا نام خودی ہے ؛ یہی ہمارے بدن میں زندگی کا شرر ہے ۔",
               "lang": "Urdu"
             },
             {
-              "_content": "Showing that the self is strengthened by love.\n\nThe luminous point whose name is the self; is the life-spark beneath our dust.",
+              "_content": "The luminous point whose name is the self; is the life-spark beneath our dust.",
               "lang": "English"
             }
           ]
@@ -964,5 +966,6 @@
       "id": 1
     }
   ],
-  "name-en": "Self Is Strengthened By Love"
+  "name-en": "Self Is Strengthened By Love",
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

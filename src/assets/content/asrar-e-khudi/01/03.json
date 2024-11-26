@@ -8,6 +8,8 @@
   "Para": [
     {
       "name": "دربیان اینکہ حیات خودی از تخلیق و تولیدمقاصداست",
+      "name-en": "Showing that the life of the self comes from forming ideals and bringing them to birth.",
+      "name-ur": "اس بیان میں کہ خودی کی زندگی مقاصد کی تخلیق و تولید سے ہے۔",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اس بیان میں کہ خودی کی زندگی مقاصد کی تخلیق و تولید سے ہے۔\n\nزندگی کی بقا مقصد سے ہے ؛ مقصد ہی زندگی کے کاروان کے لیے (بانگ) درا کا کام دیتا ہے۔",
+              "_content": "زندگی کی بقا مقصد سے ہے ؛ مقصد ہی زندگی کے کاروان کے لیے (بانگ) درا کا کام دیتا ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nShowing that the life of the self comes from forming ideals and bringing them to birth.\n\nLife is preserved by purpose: Because of the goal its caravan-bell tinkles.",
+              "_content": "Life is preserved by purpose: Because of the goal its caravan-bell tinkles.",
               "lang": "English"
             }
           ]
@@ -489,5 +491,6 @@
       "id": 1
     }
   ],
-  "name-en": "Life Of The Self Comes From Forming Ideals And Bringing Them To Birth"
+  "name-en": "Life Of The Self Comes From Forming Ideals And Bringing Them To Birth",
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

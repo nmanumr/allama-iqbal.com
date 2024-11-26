@@ -1,6 +1,7 @@
 {
   "id": "09",
   "name": "در حقیقت شعر و اصلاح ادبیات اسلامیہ",
+  "name-ur": "شعر کی حقیقت اور اسلامی ادب کی اصلاح کے بیان میں۔",
   "+@BookID": "05",
   "bookName": "اسرارِ خودی",
   "+@SectionID": "01",
@@ -16,7 +17,7 @@
               "lang": "Original"
             },
             {
-              "_content": "شعر کی حقیقت اور اسلامی ادب کی اصلاح کے بیان میں۔\n\nآرزو کے داغ سے انسان کے اندر جوش پیدا ہوتا ہے؛ اس خاک (انسان) کی آگ آرزو سے روشن ہوتی ہے۔",
+              "_content": "آرزو کے داغ سے انسان کے اندر جوش پیدا ہوتا ہے؛ اس خاک (انسان) کی آگ آرزو سے روشن ہوتی ہے۔",
               "lang": "Urdu"
             },
             {
@@ -1202,5 +1203,6 @@
       "id": 1
     }
   ],
-  "name-en": "The True Nature Of Poetry And Reform Of Islamic Literature"
+  "name-en": "The True Nature Of Poetry And Reform Of Islamic Literature",
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

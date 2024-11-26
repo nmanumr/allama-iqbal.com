@@ -1,18 +1,16 @@
 {
   "id": "10",
-  "name": "در بیان اینکہ تربیت خودی",
+  "name": "در بیان اینکہ تربیت خودی را سہ مراحل است  \nمرحلۂ اول را اطاعت و مرحلۂ دوم را ضبط نفس، و مرحلہ سوم را نیابت الھی نامیدہ اند",
   "+@BookID": "05",
   "bookName": "اسرارِ خودی",
   "+@SectionID": "01",
   "sectionName": "اسرار خودی",
+  "name-en": "Showing that the education of the self has three stages: Obedience, Self-Control, and Divine Vicegerence",
+  "name-ur": "اس مطلب کے بیان میں کہ خودی کی تربیت کے تین مرحلے ہیں؛\nپہلا مرحلہ اطاعت ، دوسرا ضبط نفس اور تیسرے کو نیابت الہی کہا جاتا ہے۔",
   "Para": [
     {
-      "name": "در بیان اینکہ تربیت خودی را سہ مراحل است مرحلۂ اول را اطاعت و مرحلۂ دوم را ضبط نفس، و مرحلہ سوم را نیابت الھی نامیدہ اند",
-      "Verse": [],
-      "id": 1
-    },
-    {
       "name": "مرحلۂ اول اطاعت",
+      "name-en": "Stage 1: Obedience",
       "Verse": [
         {
           "id": "01",
@@ -22,11 +20,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اس مطلب کے بیان میں کہ خودی کی تربیت کے تین مرحلے ہیں؛\nپہلا مرحلہ اطاعت ، دوسرا ضبط نفس اور تیسرے کو نیابت الہی کہا جاتا ہے۔\n\"مرحلۂ اول اطاعت\"\n\nاونٹ کا کام خدمت اور محنت ہے؛ صبر اور مستقل مزاجی اس کی خوبیاں ہیں۔",
+              "_content": "اونٹ کا کام خدمت اور محنت ہے؛ صبر اور مستقل مزاجی اس کی خوبیاں ہیں۔",
               "lang": "Urdu"
             },
             {
-              "_content": "STAGE ONE: OBEDIENCE\n\nService and toil are traits of the camel; patience and perseverance are ways of the camel.",
+              "_content": "Service and toil are traits of the camel; patience and perseverance are ways of the camel.",
               "lang": "English"
             }
           ]
@@ -308,6 +306,7 @@
     },
     {
       "name": "مرحلہ دوم ضبط نفس",
+      "name-en": "Stage 2: Self Control",
       "Verse": [
         {
           "id": "35",
@@ -317,11 +316,11 @@
               "lang": "Original"
             },
             {
-              "_content": "دوسرا مرحلہ : ضبط نفس۔\n\nتیرا نفس اونٹ کی طرح اپنی پرورش میں لگا رہتا ہے؛ ساتھ ہی وہ خود پرست ، خود سوار اور سرکش ہے۔",
+              "_content": "تیرا نفس اونٹ کی طرح اپنی پرورش میں لگا رہتا ہے؛ ساتھ ہی وہ خود پرست ، خود سوار اور سرکش ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "STAGE TWO: SELF CONTROL\n\nThy soul cares only for itself, like the camel: It is self-conceited, self-governed, and self-willed.",
+              "_content": "Thy soul cares only for itself, like the camel: It is self-conceited, self-governed, and self-willed.",
               "lang": "English"
             }
           ]
@@ -688,6 +687,7 @@
     },
     {
       "name": "مرحلہ سوم نیابت الھی",
+      "name-en": "Stage 3: Divine Vicegerency",
       "Verse": [
         {
           "id": "79",
@@ -697,11 +697,11 @@
               "lang": "Original"
             },
             {
-              "_content": "مرحلہ سوم: نیابت الھی\n\nاگر تو شتربان ہے اپنے نفس پر قابو رکھتا ہے تو جہان پر بھی حکومت کرے گا، پادشاہت کا تاج تیرے سر کی زینت بنے گا۔",
+              "_content": "اگر تو شتربان ہے اپنے نفس پر قابو رکھتا ہے تو جہان پر بھی حکومت کرے گا، پادشاہت کا تاج تیرے سر کی زینت بنے گا۔",
               "lang": "Urdu"
             },
             {
-              "_content": "STAGE THREE: DIVINE VICEGERENCY\n\nIf thou canst rule thy camel, thou wilt rule the world; and wear on thine head the crown of Solomon.",
+              "_content": "If thou canst rule thy camel, thou wilt rule the world; and wear on thine head the crown of Solomon.",
               "lang": "English"
             }
           ]
@@ -1305,5 +1305,5 @@
       "id": 4
     }
   ],
-  "name-en": "The Education Of The Self Has Three Stages: Obedience, Self_Control And Divine Vicegerency"
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

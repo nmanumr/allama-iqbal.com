@@ -8,6 +8,8 @@
   "Para": [
     {
       "name": "در بیان اینکہ اصل نظام عالم از خودی است و تسلسل حیات تعینات وجود بر استحکام خودی انحصاردارد",
+      "name-en": "Showing that the system of the universe originates in the self and that the continuation of the life of all individuals depends on strengthening the self.",
+      "name-ur": "اس بیان میں کہ نظام کائنات کی بنیاد خودی ہے\nاور حیات کے مختلف پیکروں کی تعیین اور ان کا ارتقا ء خودی کے استحکام پر منحصر ہے۔",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اس بیان میں کہ نظام کائنات کی بنیاد خودی ہے\nاور حیات کے مختلف پیکروں کی تعیین اور ان کا ارتقا ء خودی کے استحکام پر منحصر ہے۔\n\nزندگی کا وجود خودی کے آثار (نشانات) میں سے ہے؛ جو کچھ تو دیکھتا ہے یہ خودی ہی کے اسرار (کا اظہار) ہے۔",
+              "_content": "زندگی کا وجود خودی کے آثار (نشانات) میں سے ہے؛ جو کچھ تو دیکھتا ہے یہ خودی ہی کے اسرار (کا اظہار) ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "Showing that the system of the universe originates in the self and that the continuation of the life of all individuals depends on strengthening the self.\n\nThe form of existence is an effect of the self; whatsoever thou seest is a secret of the self.",
+              "_content": "The form of existence is an effect of the self; whatsoever thou seest is a secret of the self.",
               "lang": "English"
             }
           ]
@@ -693,5 +695,6 @@
       "id": 1
     }
   ],
-  "name-en": "Life Of All Individuals Depends On Strengthening The Self"
+  "name-en": "Life Of All Individuals Depends On Strengthening The Self",
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

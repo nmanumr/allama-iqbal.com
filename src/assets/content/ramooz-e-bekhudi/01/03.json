@@ -1,13 +1,15 @@
 {
   "id": "03",
-  "name": "در معنی اینکہ ملت از اختلاط افراد پیدا میشود",
+  "name": "در معنی اینکہ ملت از اختلاط افراد پیدا میشود و تکمیل تربیت او از نبوت است",
   "+@BookID": "06",
   "bookName": "رموزِ بیخودی",
   "+@SectionID": "01",
   "sectionName": "رموزِ بیخودی",
+  "name-en": "That The Community Is Made Up Of The Mingling Of Individuals, And Owes The Perfecting Of Its Education To Prophethood",
+  "name-ur": "اس مطلب کی وضاحت کے لیے کہ ملّت افراد کے اختلاط سے وجود میں آتی ہے اور اس کی تربیّت کی تکمیل نبوّت سے ہوتی ہے۔",
   "Para": [
     {
-      "name": "در معنی اینکہ ملت از اختلاط افراد پیدا میشود و تکمیل تربیت او از نبوت است",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اس مطلب کی وضاحت کے لیے کہ ملّت افراد کے اختلاط سے وجود میں آتی ہے اور اس کی تربیّت کی تکمیل نبوّت سے ہوتی ہے۔\n\nانسانوں کا باہمی ربط کس طرح وجود میں آیا ؛ اس کہانی کا آغاز معلوم نہیں۔",
+              "_content": "انسانوں کا باہمی ربط کس طرح وجود میں آیا ؛ اس کہانی کا آغاز معلوم نہیں۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nUpon what manner man is bound to man: \nThat tale’s a thread, the end whereof is lost beyond unraveling.",
+              "_content": "Upon what manner man is bound to man: \nThat tale’s a thread, the end whereof is lost beyond unraveling.",
               "lang": "English"
             }
           ]
@@ -590,6 +592,5 @@
       ],
       "id": 1
     }
-  ],
-  "name-en": "That The Community Is Made Up Of The Mingling Of Individuals, And Owes The Perfecting Of Its Education To Prophethood"
+  ]
 }

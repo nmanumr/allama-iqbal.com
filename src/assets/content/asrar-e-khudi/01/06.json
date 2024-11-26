@@ -8,6 +8,8 @@
   "Para": [
     {
       "name": "در بیان اینکہ چون خودی از عشق و محبت محکم میگردد، قوای ظاہرہ و مخفیہ نظام عالم را مسخر می سازد",
+      "name-en": "The Self Is Strengthened By Love It Gains Dominion Over The Outward And Inward Forces Of The Universe",
+      "name-ur": "اس بیان میں کہ جب خودی عشق و محبت سے مستحکم ہو جاتی ہے تو وہ نظام عالم کی ظاہری اور مخفی قوّتوں کو مسخر کر لیتی ہے۔",
       "Verse": [
         {
           "id": "01",
@@ -17,7 +19,7 @@
               "lang": "Original"
             },
             {
-              "_content": "اس بیان میں کہ جب خودی عشق و محبت سے مستحکم ہو جاتی ہے تو وہ نظام عالم کی ظاہری اور مخفی قوّتوں کو مسخر کر لیتی ہے۔\n\nجب خودی عشق الہی سے مستحکم ہو جاتی ہے؛ تو اس کی قوّت زمانے کی فرمانروا بن جاتی ہے۔",
+              "_content": "جب خودی عشق الہی سے مستحکم ہو جاتی ہے؛ تو اس کی قوّت زمانے کی فرمانروا بن جاتی ہے۔",
               "lang": "Urdu"
             },
             {
@@ -472,5 +474,6 @@
       "id": 1
     }
   ],
-  "name-en": "When The Self Is Strengthened By Love It Gains Dominion Over The Outward And Inward Forces Of The Universe"
+  "name-en": "",
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

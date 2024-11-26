@@ -1,13 +1,15 @@
 {
   "id": "17",
-  "name": "اندرز میر نجات نقشبند المعروف",
+  "name": "اندرز میر نجات نقشبند المعروف بہ بابای صحرائی کہ برای مسلمانان ہندوستان رقم فرمودہ است",
   "+@BookID": "05",
   "bookName": "اسرارِ خودی",
   "+@SectionID": "01",
   "sectionName": "اسرار خودی",
+  "name-en": "The advice of Mir Najat Naqshband, known as Baba-e-Sahrai, written for the Muslims of India.",
+  "name-ur": "میر نجات نقشبندی المعروف بہ بابائے صحرائی کی نصیحت جو انہوں نے مسلمانان ہند کے لیے رقم فرمائی۔",
   "Para": [
     {
-      "name": "اندرز میر نجات نقشبند المعروف بہ بابای صحرائی کہ برای مسلمانان ہندوستان رقم فرمودہ است",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "میر نجات نقشبندی المعروف بہ بابائے صحرائی کی نصیحت جو انہوں نے مسلمانان ہند کے لیے رقم فرمائی۔",
+              "_content": "",
               "lang": "Urdu"
             },
             {
-              "_content": "PRECEPTS WRITTEN FOR THE MUSLIMS OF INDIA BY MIR NAJAT NAKSHBAND…",
+              "_content": "O THOU that hast grown from earth, like a rose,\nThou too art born of the womb of Self.",
               "lang": "English"
             }
           ]
@@ -1242,5 +1244,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

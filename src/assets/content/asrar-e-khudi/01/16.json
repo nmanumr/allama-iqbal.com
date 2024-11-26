@@ -1,13 +1,17 @@
 {
   "id": "16",
-  "name": "در بیان اینکہ مقصد حیات مسلم",
+  "name": "در بیان اینکہ مقصد حیات مسلم، اعلای کلمة اللہ است و جہاد، اگر محرک آن جوع الارض باشد در مذہب اسلام حرام است",
   "+@BookID": "05",
   "bookName": "اسرارِ خودی",
   "+@SectionID": "01",
   "sectionName": "اسرار خودی",
+  "name-en": "Showing that the purpose of the Muslims 's like is to exalt the Word of Allah, and that the Jih«d (was against unbelievers), if it be prompted by land-hunger, is unlawful in the religion of Islam",
+  "name-ur": "اس مطلب کی وضاحت کس لیے کہ مسلمان کی زندگی کا مقصد اعلائے کلمتہ اللہ ہے اور اگر جہاد کا محرک ملک فتح کرنا ہو تو ایسی جنگ مذہب میں حرام ہے۔",
   "Para": [
     {
-      "name": "در بیان اینکہ مقصد حیات مسلم، اعلای کلمة اللہ است و جہاد، اگر محرک آن جوع الارض باشد در مذہب اسلام حرام است",
+      "name": "",
+      "name-en": "",
+      "name-ur": "",
       "Verse": [
         {
           "id": "01",
@@ -17,7 +21,7 @@
               "lang": "Original"
             },
             {
-              "_content": "اس مطلب کی وضاحت کس لیے کہ مسلمان کی زندگی کا مقصد اعلائے کلمتہ اللہ ہے اور اگر جہاد کا محرک ملک فتح کرنا ہو تو ایسی جنگ مذہب میں حرام ہے۔\n\nاپنے دل کو اللہ تعالے کے رنگ میں رنگ دے؛ اور اس طرح اپنے عشق کو ننگ و ناموس و پہچان عطا کر۔",
+              "_content": "اپنے دل کو اللہ تعالے کے رنگ میں رنگ دے؛ اور اس طرح اپنے عشق کو ننگ و ناموس و پہچان عطا کر۔",
               "lang": "Urdu"
             },
             {
@@ -591,5 +595,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Purpose Of The Muslim’S Life Is To Exalt The Word Of Allah, And That The Jihad…If Prompted By Land-Hunger, Is Unlawful In The Religion Of Islam"
+
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

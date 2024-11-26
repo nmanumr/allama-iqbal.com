@@ -8,6 +8,8 @@
   "Para": [
     {
       "name": "در بیان اینکہ خودی از سوال ضعیف میگردد",
+      "name-en": "",
+      "name-ur": "اس بیان میں کہ سوال کرنے سے خودی میں کمزوری واقع ہوتی ہے۔",
       "Verse": [
         {
           "id": "01",
@@ -17,11 +19,11 @@
               "lang": "Original"
             },
             {
-              "_content": "اس بیان میں کہ سوال کرنے سے خودی میں کمزوری واقع ہوتی ہے۔\n\nاے (مسلمان ) کبھی تو جو شیروں سے خراج وصول کرتا تھا؛ اب حاجتمندی کے باعث تیری طبیعت لومڑی کی سی ہو گئی ہے۔",
+              "_content": "اے (مسلمان ) کبھی تو جو شیروں سے خراج وصول کرتا تھا؛ اب حاجتمندی کے باعث تیری طبیعت لومڑی کی سی ہو گئی ہے۔",
               "lang": "Urdu"
             },
             {
-              "_content": "\nO thou who hast gathered taxes from lions; thy need hath caused thee to become a fox in disposition.",
+              "_content": "O thou who hast gathered taxes from lions; thy need hath caused thee to become a fox in disposition.",
               "lang": "English"
             }
           ]
@@ -421,5 +423,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Self Is Weakened By Asking"
+  "name-en": "The Self Is Weakened By Asking",
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

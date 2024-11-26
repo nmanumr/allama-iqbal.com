@@ -5,6 +5,7 @@
   "bookName": "اسرارِ خودی",
   "+@SectionID": "01",
   "sectionName": "اسرار خودی",
+  "name-ur": "وقت تلوار ہے۔",
   "Para": [
     {
       "Verse": [
@@ -16,7 +17,7 @@
               "lang": "Original"
             },
             {
-              "_content": "وقت تلوار ہے۔\n\nخدا شافعی (رضی اللہ) کی قبر کو سرسبز رکھے؛ ان کی شراب علم سے ایک دنیا فیضیاب ہے۔",
+              "_content": "خدا شافعی (رضی اللہ) کی قبر کو سرسبز رکھے؛ ان کی شراب علم سے ایک دنیا فیضیاب ہے۔",
               "lang": "Urdu"
             },
             {
@@ -1049,5 +1050,6 @@
       "id": 1
     }
   ],
-  "name-en": "Time Is A Sword"
+  "name-en": "Time Is A Sword",
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

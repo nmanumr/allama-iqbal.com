@@ -1,13 +1,15 @@
 {
   "id": "02",
-  "name": "تمہید",
+  "name": "تمہید: در معنی ربط فرد و ملت",
   "+@BookID": "06",
   "bookName": "رموزِ بیخودی",
   "+@SectionID": "01",
   "sectionName": "رموزِ بیخودی",
+  "name-en": "Prelude: Of The Bond Between Individual And Community",
+  "name-ur": "تمہید: ربط فرد و ملّت",
   "Para": [
     {
-      "name": "در معنی ربط فرد و ملت",
+      "name": "",
       "Verse": [
         {
           "id": "01",
@@ -17,7 +19,7 @@
               "lang": "Original"
             },
             {
-              "_content": "تمہید: ربط فرد و ملّت\n\nفرد کے لیے جماعت سے ربط رکھنا باعث رحمت ہے؛ ملّت کے اندر رہ کر ہی اس کا جوہر کمال حاصل کرتا ہے۔",
+              "_content": "فرد کے لیے جماعت سے ربط رکھنا باعث رحمت ہے؛ ملّت کے اندر رہ کر ہی اس کا جوہر کمال حاصل کرتا ہے۔",
               "lang": "Urdu"
             },
             {
@@ -590,6 +592,5 @@
       ],
       "id": 1
     }
-  ],
-  "name-en": "Prelude: Of The Bond Between Individual And Community"
+  ]
 }

@@ -5,6 +5,7 @@
   "bookName": "اسرارِ خودی",
   "+@SectionID": "01",
   "sectionName": "اسرار خودی",
+  "name-ur": "پرندے کی کہانی جو پیاس سے بیتاب تھا۔",
   "Para": [
     {
       "Verse": [
@@ -16,7 +17,7 @@
               "lang": "Original"
             },
             {
-              "_content": "پرندے کی کہانی جو پیاس سے بیتاب تھا۔\n\nایک پرندہ پیاس سے بے تاب تھا؛ سانس اس کے سینے میں دھوئیں کی لہر بن گئی تھی۔",
+              "_content": "ایک پرندہ پیاس سے بے تاب تھا؛ سانس اس کے سینے میں دھوئیں کی لہر بن گئی تھی۔",
               "lang": "Urdu"
             },
             {
@@ -403,5 +404,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Bird That Was Faint With Thirst"
+  "name-en": "The Bird That Was Faint With Thirst",
+  "credits": "English Translation by: Reynold A. Nicholson"
 }

@@ -8,6 +8,8 @@
   "Para": [
     {
       "name": "در معنی اینکہ افلاطون یونانی کہ تصوف و ادبیات اقوام اسلامیہ از افکار او اثر عظیم پذیرفتہ بر مسلک گوسفندی رفتہ است و از تخیلات او احتراز واجب است",
+      "name-en": "",
+      "name-ur": "اس مطلب کی وضاحت کے لیے کہ افلاطون جس کے افکار سے تصوّف اور مسلم اقوام کے ادب نے بہت اثر لیا ہے وہ مسلک گوسفندی کا پیرو تھا اس لیے اس کے تخیلات سے بچنا چاہیے۔",
       "Verse": [
         {
           "id": "01",
@@ -17,7 +19,7 @@
               "lang": "Original"
             },
             {
-              "_content": "اس مطلب کی وضاحت کے لیے کہ افلاطون جس کے افکار سے تصوّف اور مسلم اقوام کے ادب نے بہت اثر لیا ہے وہ مسلک گوسفندی کا پیرو تھا اس لیے اس کے تخیلات سے بچنا چاہیے۔\n\nحکیم افلاطون جو ایک قدیم زمانے کا راہب تھا؛ وہ اپنے عہد کے گوسفندوں کے گروہ میں سے تھا۔",
+              "_content": "حکیم افلاطون جو ایک قدیم زمانے کا راہب تھا؛ وہ اپنے عہد کے گوسفندوں کے گروہ میں سے تھا۔",
               "lang": "Urdu"
             },
             {
@@ -370,5 +372,6 @@
       "id": 1
     }
   ],
-  "name-en": "Plato, Whose Thought Has Deeply Influenced The Mysticism And Literature Of Islam, Followed The Sheep’S Doctrine"
+  "name-en": "Plato, Whose Thought Has Deeply Influenced The Mysticism And Literature Of Islam, Followed The Sheep’S Doctrine",
+  "credits": "English Translation by: Reynold A. Nicholson"
 }
