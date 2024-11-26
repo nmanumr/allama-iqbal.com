@@ -136,7 +136,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Though born as Muslim yet knows not the death, from fear of death shivers to his last breath;\nI didn’t peep though through his bosom’s slit; the fear of death has weaken’d his grit.\n(Translated by Q A Kabir)",
+              "_content": "Though born as Muslim yet knows not the death, from fear of death shivers to his last breath;\nI didn’t peep though through his bosom’s slit; the fear of death has weaken’d his grit.",
               "lang": "English"
             }
           ]
@@ -144,5 +144,6 @@
       ],
       "id": 6
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

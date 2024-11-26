@@ -251,7 +251,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Read the clear writing on thy forehead’s slate; find out a way to change thy future fate.\nLike me find a way on the Harem’s land; to know thy worth true, thy own grit and sand.\n[Translated by Qazi Ahdul Kabir]",
+              "_content": "Read the clear writing on thy forehead’s slate; find out a way to change thy future fate.\nLike me find a way on the Harem’s land; to know thy worth true, thy own grit and sand.",
               "lang": "English"
             }
           ]
@@ -260,5 +260,6 @@
       "id": 11
     }
   ],
-  "name-en": "Arab Poets"
+  "name-en": "Arab Poets",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
 }

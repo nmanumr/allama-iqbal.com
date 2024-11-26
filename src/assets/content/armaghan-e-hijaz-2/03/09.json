@@ -90,7 +90,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "So scattered I’m like dust of the way; on the wings of storms I cannot stay.\nHow august and happy would be that day; when a ride is born from my own clay.*\n* Here Iqbal forecasts that a superman will appear to guide the destiny of nation.)\n[Translated by Qazi Ahdul Kabir]",
+              "_content": "So scattered I’m like dust of the way; on the wings of storms I cannot stay.\nHow august and happy would be that day; when a ride is born from my own clay.*\n* Here Iqbal forecasts that a superman will appear to guide the destiny of nation.)",
               "lang": "English"
             }
           ]
@@ -228,7 +228,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The heart in my chest says that leader who cares and is an asset for the nation exists.\nI heard a voice at the time of my death: ‘When flowers are shed; the fruit comes out’. \n[Translated by Qazi Ahdul Kabir]",
+              "_content": "The heart in my chest says that leader who cares and is an asset for the nation exists.\nI heard a voice at the time of my death: ‘When flowers are shed; the fruit comes out’.",
               "lang": "English"
             }
           ]
@@ -237,5 +237,6 @@
       "id": 10
     }
   ],
-  "name-en": "From This Dust A Rider Comes Do You Know?"
+  "name-en": "From This Dust A Rider Comes Do You Know?",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
 }

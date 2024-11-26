@@ -113,7 +113,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The dance you now play in this or that way; is just a drug’s kick, a bliss to soul nay.\nIn wake of whites so? You play feet, lo! No blood boils ever in thy-own-veins so! \n[Translated by Qazi Ahdul Kabir]",
+              "_content": "The dance you now play in this or that way; is just a drug’s kick, a bliss to soul nay.\nIn wake of whites so? You play feet, lo! No blood boils ever in thy-own-veins so!",
               "lang": "English"
             }
           ]
@@ -122,5 +122,6 @@
       "id": 5
     }
   ],
-  "name-en": "The Modern Age"
+  "name-en": "The Modern Age",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
 }

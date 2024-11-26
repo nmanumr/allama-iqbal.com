@@ -44,7 +44,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Hail the desert whose eve is morning gay, whose nights are shorter and longer the day.\nPlace thy steps with a gentle gait, that sands like me has a ruthful trait.\n(Translated by Q A Kabir)",
+              "_content": "Hail the desert whose eve is morning gay, whose nights are shorter and longer the day.\nPlace thy steps with a gentle gait, that sands like me has a ruthful trait.",
               "lang": "English"
             }
           ]
@@ -52,5 +52,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

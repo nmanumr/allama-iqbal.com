@@ -44,7 +44,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In sea you are not it lies but in thee; show thy mettle now and face floods of sea. \nIf you seek from storms a fast retreat; this sea within thee will rob thy heat.\n[Translated by Qazi Ahdul Kabir]",
+              "_content": "In sea you are not it lies but in thee; show thy mettle now and face floods of sea. \nIf you seek from storms a fast retreat; this sea within thee will rob thy heat.",
               "lang": "English"
             }
           ]
@@ -53,5 +53,6 @@
       "id": 2
     }
   ],
-  "name-en": "A Crocodile To Its Young"
+  "name-en": "A Crocodile To Its Young",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
 }

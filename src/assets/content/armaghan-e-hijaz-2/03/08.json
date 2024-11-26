@@ -67,7 +67,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Those nights had the uproar for future’s dawn; being lit up with light of the Sinai’s lawn.\nThus the desert life made their brawns and brains; arid nations arose Crom those desert lanes.\n[Translated by Qazi Ahdul Kabir]",
+              "_content": "Those nights had the uproar for future’s dawn; being lit up with light of the Sinai’s lawn.\nThus the desert life made their brawns and brains; arid nations arose Crom those desert lanes.",
               "lang": "English"
             }
           ]
@@ -76,5 +76,6 @@
       "id": 3
     }
   ],
-  "name-en": "O Son Of The Desert"
+  "name-en": "O Son Of The Desert",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
 }

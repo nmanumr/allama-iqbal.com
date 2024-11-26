@@ -67,7 +67,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thy heart keeps not that hidden scar. A Muslim’s shine it lacks so far.\nYou always water the Soil of Ego; from a lake which knows no furious flow.*\n(Literal: From a lake which knows no flood and great wave which sweeps every thing.)\n[Translated by Qazi Ahdul Kabir]",
+              "_content": "Thy heart keeps not that hidden scar. A Muslim’s shine it lacks so far.\nYou always water the Soil of Ego; from a lake which knows no furious flow.*\n(Literal: From a lake which knows no flood and great wave which sweeps every thing.)",
               "lang": "English"
             }
           ]
@@ -76,5 +76,6 @@
       "id": 3
     }
   ],
-  "name-en": "Self"
+  "name-en": "Self",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
 }

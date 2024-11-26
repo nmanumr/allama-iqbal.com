@@ -44,7 +44,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In pits grow poppies from vernal tide, then the friends pitch tents on desert’s side. \nIt looks me nice to sit all alone, when fountains flow in a mountain zone.\n(Translated by Q A Kabir)",
+              "_content": "In pits grow poppies from vernal tide, then the friends pitch tents on desert’s side. \nIt looks me nice to sit all alone, when fountains flow in a mountain zone.",
               "lang": "English"
             }
           ]
@@ -52,5 +52,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

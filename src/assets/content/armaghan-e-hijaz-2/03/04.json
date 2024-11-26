@@ -182,7 +182,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thus spoke to his son a guide in patched robe; I tell thee a point after whole life’s probe.\nTo Nimrods of this age, know by face’ by God’s grace live with the Abram’s grace.\n[Translated by Qazi Ahdul Kabir]",
+              "_content": "Thus spoke to his son a guide in patched robe; I tell thee a point after whole life’s probe.\nTo Nimrods of this age, know by face’ by God’s grace live with the Abram’s grace.",
               "lang": "English"
             }
           ]
@@ -191,5 +191,6 @@
       "id": 8
     }
   ],
-  "name-en": "Sufi And Mulla"
+  "name-en": "Sufi And Mulla",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
 }

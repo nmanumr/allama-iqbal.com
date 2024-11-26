@@ -43,7 +43,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A knowledge which cures but melts not to trance; far better is the eye with sacred glance. \nIt looks better yet to the sacred eyes; a heart who seeks not any earthly ties.) \n[Translated by Qazi Ahdul Kabir]",
+              "_content": "A knowledge which cures but melts not to trance; far better is the eye with sacred glance. \nIt looks better yet to the sacred eyes; a heart who seeks not any earthly ties.)",
               "lang": "English"
             }
           ]
@@ -319,7 +319,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "To a camel addressed its youngest foal; no God I have seen in the desert whole.\nThe father said: ‘Filly thy foot slips when; you would see thy self, to God also then.’*\n* Due to too much load on his back his foot is likely to slip, of course when he is grown up).\n[Translated by Qazi Ahdul Kabir]",
+              "_content": "To a camel addressed its youngest foal; no God I have seen in the desert whole.\nThe father said: ‘Filly thy foot slips when; you would see thy self, to God also then.’*\n* Due to too much load on his back his foot is likely to slip, of course when he is grown up).",
               "lang": "English"
             }
           ]
@@ -328,5 +328,6 @@
       "id": 14
     }
   ],
-  "name-en": "Education"
+  "name-en": "Education",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
 }

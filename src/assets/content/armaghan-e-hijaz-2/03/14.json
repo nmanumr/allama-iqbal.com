@@ -90,7 +90,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Brahmin said leave this white man’s door; from Hindies think not, save good any more.\nIn one mosque two Mullahs may ne’er contain; with magic of gods can live in a fane. \n[Translated by Qazi Ahdul Kabir]",
+              "_content": "The Brahmin said leave this white man’s door; from Hindies think not, save good any more.\nIn one mosque two Mullahs may ne’er contain; with magic of gods can live in a fane.",
               "lang": "English"
             }
           ]
@@ -99,5 +99,6 @@
       "id": 4
     }
   ],
-  "name-en": "Brahmin"
+  "name-en": "Brahmin",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
 }

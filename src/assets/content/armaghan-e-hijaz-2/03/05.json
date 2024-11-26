@@ -228,7 +228,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "That bright wine scattered from my wineyard; who hung to my shirt, got the lucks award.\nTo Rumi I owe a share of his flame, which Sinai took first and earned great fame. \n[Translated by Qazi Ahdul Kabir]",
+              "_content": "That bright wine scattered from my wineyard; who hung to my shirt, got the lucks award.\nTo Rumi I owe a share of his flame, which Sinai took first and earned great fame.",
               "lang": "English"
             }
           ]
@@ -237,5 +237,6 @@
       "id": 10
     }
   ],
-  "name-en": "Rumi"
+  "name-en": "Rumi",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
 }

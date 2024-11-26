@@ -113,7 +113,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Adam is slave in this world yet; yet his order raw, weak and poor set.\nI am his page, who sheltered each Age; who banned in my faith to keep a page.\n[Translated by Qazi Ahdul Kabir]",
+              "_content": "The Adam is slave in this world yet; yet his order raw, weak and poor set.\nI am his page, who sheltered each Age; who banned in my faith to keep a page.",
               "lang": "English"
             }
           ]
@@ -122,5 +122,6 @@
       "id": 5
     }
   ],
-  "name-en": "The Caliphate And Monarchy"
+  "name-en": "The Caliphate And Monarchy",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
 }

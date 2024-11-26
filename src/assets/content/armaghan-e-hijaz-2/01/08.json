@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thy world is ruled by misers few, whose men still serve the worthless few.\nThe workers skilled in workshops queue, have killed themselves for vultures few. \n(Translated by Q A Kabir)",
+              "_content": "Thy world is ruled by misers few, whose men still serve the worthless few.\nThe workers skilled in workshops queue, have killed themselves for vultures few.",
               "lang": "English"
             }
           ]
@@ -44,7 +44,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A hungry seeker begged his Sheikh to plead, does God has no knowledge of peoples’ need.\nTo me he is closer than jugular vein, but not closer than my abdomen’s pain.\n(Translated by Q A Kabir)",
+              "_content": "A hungry seeker begged his Sheikh to plead, does God has no knowledge of peoples’ need.\nTo me he is closer than jugular vein, but not closer than my abdomen’s pain.",
               "lang": "English"
             }
           ]
@@ -52,5 +52,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }

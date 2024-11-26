@@ -205,7 +205,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A Muslim who tested his own ego first; he took to the heavens his paths’s own dust*.\nKeep an eye on, if you hold the love flame; with that you could make the whole world tame. \n* His path’s own dust; the poet himself; those who followed his path.\n[Translated by Qazi Ahdul Kabir]",
+              "_content": "A Muslim who tested his own ego first; he took to the heavens his paths’s own dust*.\nKeep an eye on, if you hold the love flame; with that you could make the whole world tame. \n* His path’s own dust; the poet himself; those who followed his path.",
               "lang": "English"
             }
           ]
@@ -214,5 +214,6 @@
       "id": 9
     }
   ],
-  "name-en": "The Message Of Farooq"
+  "name-en": "The Message Of Farooq",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
 }

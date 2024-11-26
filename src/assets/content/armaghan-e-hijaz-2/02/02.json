@@ -44,7 +44,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You ask the spots where I played my jazz there; my friends know little I came up from where.\nI opened my baggage in desert’s heat, where I am singing in his lone retreat. \n(Translated by Q A Kabir)",
+              "_content": "You ask the spots where I played my jazz there; my friends know little I came up from where.\nI opened my baggage in desert’s heat, where I am singing in his lone retreat.",
               "lang": "English"
             }
           ]
@@ -52,5 +52,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "credits": "English Translation by: Q A Kabir"
 }
