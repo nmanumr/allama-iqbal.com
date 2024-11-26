@@ -18,7 +18,23 @@ export function Stanza({ para }: { para: (typeof PoemType)["Para"][0] }) {
 
   return (
     <>
-      {para.name && <div className="my-4 text-start text-2xl">{para.name}</div>}
+      <div className="my-4 text-center space-y-4">
+        {para.name && (
+          <div dir="rtl" className="mt-8 text-2xl leading-[1.8]">
+            {para.name}
+          </div>
+        )}
+        {(para as any)["name-ur"] && (
+          <div dir="rtl" className="text-base leading-[2.2] whitespace-pre-wrap">
+            {(para as any)["name-ur"]}
+          </div>
+        )}
+        {(para as any)["name-en"] && (
+          <div dir="ltr" className="max-w-screen-lg mx-auto text-base whitespace-pre-wrap">
+            {(para as any)["name-en"]}
+          </div>
+        )}
+      </div>
 
       {verses.map((couplet) => {
         const originalText = couplet.Text.find((node) => node.lang === "Original")
@@ -35,7 +51,7 @@ export function Stanza({ para }: { para: (typeof PoemType)["Para"][0] }) {
           <SizeProvider key={id}>
             <div
               className={clsx(
-                "relative w-full max-w-6xl border-b border-black/10 px-4 py-2 target:bg-yellow-50",
+                "relative w-full text-2xl border-b border-black/10 px-4 py-2 target:bg-yellow-50",
                 (en || ur) && "grid-cols-5 lg:grid lg:gap-x-10",
               )}
               id={`cplt${id}`}

@@ -14,7 +14,7 @@ export default async function Poem({ params }: Props) {
   const { book, section, poem: poemId } = await params;
 
   const poem = await import(`../../../../assets/content/${book}/${section}/${poemId}.json`).then(
-    (m) => m.default as typeof PoemType
+    (m) => m.default as typeof PoemType,
   );
 
   const { next, prev } = findAdjacentPoems(book, section, poemId);
@@ -26,15 +26,16 @@ export default async function Poem({ params }: Props) {
           <TranslationSettings />
         </div>
 
-        <div dir="rtl" className="mb-10 text-center font-nastaliq leading-[2]">
+        <div dir="rtl" className="mb-10 text-center font-nastaliq leading-[2] mx-auto w-full max-w-6xl whitespace-pre-wrap">
           <div dir="rtl">
             {poem.bookName} &gt; {poem.sectionName}
           </div>
           {poem.name && <div className="mt-4 text-4xl leading-[2]">{poem.name}</div>}
-          {poem["name-en"] && <div className="capitalize">({poem["name-en"]})</div>}
+          {(poem as any)["name-ur"] && <div dir="rtl" className="leading-[2.2]">({(poem as any)["name-ur"]})</div>}
+          {poem["name-en"] && <div dir="ltr" className="capitalize">({poem["name-en"]})</div>}
         </div>
 
-        <div className="flex flex-col items-center justify-center font-nastaliq text-2xl leading-[2.2] @container">
+        <div className="mx-auto flex w-full max-w-6xl flex-col items-center justify-center font-nastaliq leading-[2.2] @container">
           {poem.Para.map((para) => (
             <SizeProvider key={para.id}>
               <Stanza para={para} />
@@ -85,7 +86,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { book, section, poem: poemId } = await params;
 
   const poem = await import(`../../../../assets/content/${book}/${section}/${poemId}.json`).then(
-    (m) => m.default as typeof PoemType
+    (m) => m.default as typeof PoemType,
   );
 
   const description = `Explore the profound words of Allama Iqbal in '${poem?.name}' from his book '${poem.bookName}'. Dive deep into his philosophical and poetic genius.`;
@@ -97,15 +98,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "article",
       title,
       description,
-      siteName: "Iqbal's Poetry"
+      siteName: "Iqbal's Poetry",
     },
     twitter: {
       card: "summary",
       title,
-      description
+      description,
     },
     authors: { name: "Allama Iqbal" },
     keywords: `Iqbal, Poetry, ${poem.bookName}, ${poem?.name}, Allama Iqbal Poems, Urdu Poetry, Persian Poetry`,
-    description
+    description,
   };
 }
