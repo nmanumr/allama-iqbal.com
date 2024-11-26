@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Why ask of Razi what the Quran means? By each man’s own heart is it best construed.\nMind lights a fire, heart burns in it: the one is Abraham, the other is Namrud.\n[Translated by M Hadi Hussain]",
+              "_content": "Why ask of Razi what the Quran means? By each man’s own heart is it best construed.\nMind lights a fire, heart burns in it: the one is Abraham, the other is Namrud.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

@@ -157,7 +157,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Arise and re-engage your heart with friendships of the early days; and with the sun, the tulip of the sky, exchange a knowing gaze.\nConsort with those with seeing eyes; like me take to celestial ways – have you the will to soar the skies ?’\n[Translated by M Hadi Hussain]",
+              "_content": "Arise and re-engage your heart with friendships of the early days; and with the sun, the tulip of the sky, exchange a knowing gaze.\nConsort with those with seeing eyes; like me take to celestial ways – have you the will to soar the skies ?’",
               "lang": "English"
             }
           ]
@@ -166,5 +166,6 @@
       "id": 1
     }
   ],
-  "name-en": "Dew"
+  "name-en": "Dew",
+  "credits": "English Translation by: M Hadi Hussain"
 }

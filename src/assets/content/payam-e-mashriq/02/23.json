@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I am one who makes a mirror out of stone, and turns poison into sweet, delicious drink. \n(Translated by Mustansir Mir)",
+              "_content": "I am one who makes a mirror out of stone, and turns poison into sweet, delicious drink.",
               "lang": "English"
             }
           ]
@@ -115,5 +115,6 @@
       "id": 2
     }
   ],
-  "name-en": "A Dialogue Between God And Man"
+  "name-en": "A Dialogue Between God And Man",
+  "credits": "English Translation by: Mustansir Mir"
 }

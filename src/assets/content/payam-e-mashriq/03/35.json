@@ -157,7 +157,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Come and join Iqbal’s company, and share a drink or two with him. Although he does not shave his head, he knows qalandar’s ways.\n(Translated by M. Hadi Husain)",
+              "_content": "Come and join Iqbal’s company, and share a drink or two with him. Although he does not shave his head, he knows qalandar’s ways.",
               "lang": "English"
             }
           ]
@@ -165,5 +165,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

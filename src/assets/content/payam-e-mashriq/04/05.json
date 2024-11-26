@@ -204,7 +204,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "From earth to sky all things seem running in a race. The caravan moves fast: make haste, increase your pace.\n(Translated by M. Hadi Husain)",
+              "_content": "From earth to sky all things seem running in a race. The caravan moves fast: make haste, increase your pace.",
               "lang": "English"
             }
           ]
@@ -213,5 +213,6 @@
       "id": 6
     }
   ],
-  "name-en": "An Assemblage In The Other World"
+  "name-en": "An Assemblage In The Other World",
+  "credits": "English Translation by: M. Hadi Husain"
 }

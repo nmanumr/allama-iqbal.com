@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Not every soul of Love hath capital, not every spirit respondeth to Love’s call.\nThe tulip flowereth with a branded breast; the ruby’s heart hath not a spark at all. \n(Translated by M. Hadi Husain)",
+              "_content": "Not every soul of Love hath capital, not every spirit respondeth to Love’s call.\nThe tulip flowereth with a branded breast; the ruby’s heart hath not a spark at all.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

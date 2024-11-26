@@ -640,7 +640,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Though Nature is ingenious, yet to intellect it falls a prey, and Ahriman, the fireborn god, kneels down and worships mortal clay.\n[Translated by M Hadi Hussain]",
+              "_content": "Though Nature is ingenious, yet to intellect it falls a prey, and Ahriman, the fireborn god, kneels down and worships mortal clay.",
               "lang": "English"
             }
           ]
@@ -649,5 +649,6 @@
       "id": 5
     }
   ],
-  "name-en": "The Conquest Of Nature"
+  "name-en": "The Conquest Of Nature",
+  "credits": "English Translation by: M Hadi Hussain"
 }

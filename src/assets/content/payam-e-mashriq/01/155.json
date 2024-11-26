@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I heard a voice from inside a grave say: You can commence a new life in the grave.\nThe man who lives by others’ wishes may have breath in him, but has no soul to save.\n[Translated by M Hadi Hussain]",
+              "_content": "I heard a voice from inside a grave say: You can commence a new life in the grave.\nThe man who lives by others’ wishes may have breath in him, but has no soul to save.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

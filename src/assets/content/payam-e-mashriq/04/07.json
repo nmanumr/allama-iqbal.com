@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "What can I say about this subtle-minded sage except that from the race of Moses and of Aaron there has come a Zarathustra in our age?\n(Translated by M. Hadi Husain)",
+              "_content": "What can I say about this subtle-minded sage except that from the race of Moses and of Aaron there has come a Zarathustra in our age?",
               "lang": "English"
             }
           ]
@@ -115,5 +115,6 @@
       "id": 1
     }
   ],
-  "name-en": "Einstein"
+  "name-en": "Einstein",
+  "credits": "English Translation by: M. Hadi Husain"
 }

@@ -191,7 +191,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Dispatch this old fool to the West to learn the art of killing fast – and best.’\n(Translated by M. Hadi Husain)",
+              "_content": "Dispatch this old fool to the West to learn the art of killing fast – and best.’",
               "lang": "English"
             }
           ]
@@ -200,5 +200,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Wisdom Of The West"
+  "name-en": "The Wisdom Of The West",
+  "credits": "English Translation by: M. Hadi Husain"
 }

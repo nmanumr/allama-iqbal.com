@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The love of speech first filled my heart with blood and set aflame the dust upon the road;\nBut when I oped my lips, to speak of love, words veiled this secret in a thicker shroud. \n(Translated by M. Hadi Husain)",
+              "_content": "The love of speech first filled my heart with blood and set aflame the dust upon the road;\nBut when I oped my lips, to speak of love, words veiled this secret in a thicker shroud.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

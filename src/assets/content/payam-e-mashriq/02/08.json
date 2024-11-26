@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Be like a mountain, grave and lofty, with your native dignity, and not like straw. Beware, there is a wildfire raging savagely.\n[Translated by M Hadi Hussain]",
+              "_content": "Be like a mountain, grave and lofty, with your native dignity, and not like straw. Beware, there is a wildfire raging savagely.",
               "lang": "English"
             }
           ]
@@ -81,5 +81,6 @@
       "id": 1
     }
   ],
-  "name-en": "Eternal Life"
+  "name-en": "Eternal Life",
+  "credits": "English Translation by: M Hadi Hussain"
 }

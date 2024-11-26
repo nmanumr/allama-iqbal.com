@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Attach your heart to God, and seek no help from kings. Theirs is a threshold on which one should never rub one’s brow.\n[Translated by M Hadi Hussain]",
+              "_content": "Attach your heart to God, and seek no help from kings. Theirs is a threshold on which one should never rub one’s brow.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

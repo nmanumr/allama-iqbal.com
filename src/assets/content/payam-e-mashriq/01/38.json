@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When the desire to sing aloud grips me, I storm the world with bursts of poesy.\nWhen I seek solitude, I let the world get lost in the waste of my privacy. [Translated by M Hadi Hussain]",
+              "_content": "When the desire to sing aloud grips me, I storm the world with bursts of poesy.\nWhen I seek solitude, I let the world get lost in the waste of my privacy.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

@@ -55,7 +55,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You are lost in your song – because your verse is your tomb: You did not return to earth because you were not of earth. \n(Translated by Mustansir Mir)",
+              "_content": "You are lost in your song – because your verse is your tomb: You did not return to earth because you were not of earth.",
               "lang": "English"
             }
           ]
@@ -64,5 +64,6 @@
       "id": 1
     }
   ],
-  "name-en": "Petöfi"
+  "name-en": "Petöfi",
+  "credits": "English Translation by: Mustansir Mir"
 }

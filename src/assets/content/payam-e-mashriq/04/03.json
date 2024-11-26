@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If thou art wounded, make the pain thy remedy. Accustom thyself to thorns that thou mayst become entirely one with the garden. \n(Translated by R.A. Nicholson)",
+              "_content": "If thou art wounded, make the pain thy remedy. Accustom thyself to thorns that thou mayst become entirely one with the garden.",
               "lang": "English"
             }
           ]
@@ -149,5 +149,6 @@
       "id": 1
     }
   ],
-  "name-en": "Schopenhauer And Nietzsche"
+  "name-en": "Schopenhauer And Nietzsche",
+  "credits": "English Translation by: R.A. Nicholson"
 }

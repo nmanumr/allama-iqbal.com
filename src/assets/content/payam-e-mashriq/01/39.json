@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You ask me what is this heart in your breast; it is your intellect that has been blest with feeling. \nWhile it feels, it is alive: But when it ceases to feel, it is dust.\n[Translated by M Hadi Hussain]",
+              "_content": "You ask me what is this heart in your breast; it is your intellect that has been blest with feeling. \nWhile it feels, it is alive: But when it ceases to feel, it is dust.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

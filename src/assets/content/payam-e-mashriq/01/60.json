@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ye men of learning, I am in a maze, the mind this meaning cannot understand:\nHow in a hand of Dust there beats a heart wherein gazelles of Fancy rove the land.\n(Translated by A.J. Arberry)",
+              "_content": "Ye men of learning, I am in a maze, the mind this meaning cannot understand:\nHow in a hand of Dust there beats a heart wherein gazelles of Fancy rove the land.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

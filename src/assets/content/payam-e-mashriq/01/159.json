@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I have no roasted fowl on which to sup; no mirror-shining wine is in my cup; \nUpon green grasses grazes my gazelle, yet fragrant musk filleth his heartblood up. \n(Translated by A.J. Arberry)",
+              "_content": "I have no roasted fowl on which to sup; no mirror-shining wine is in my cup; \nUpon green grasses grazes my gazelle, yet fragrant musk filleth his heartblood up.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thou sayest, ‘Lo, our bird is in the snare, no more shall he stretch wings and fly in air’; \nYet grows the soul more salient through the flesh our dagger’s whetted by its scabbard there. \n(Translated by M. Hadi Husain)",
+              "_content": "Thou sayest, ‘Lo, our bird is in the snare, no more shall he stretch wings and fly in air’; \nYet grows the soul more salient through the flesh our dagger’s whetted by its scabbard there.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

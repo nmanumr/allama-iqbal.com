@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "But his genius, that high-soaring bird, left its nest to fall into a snare, which it preferred to soaring in the air. \n(Translated by M. Hadi Husain)",
+              "_content": "But his genius, that high-soaring bird, left its nest to fall into a snare, which it preferred to soaring in the air.",
               "lang": "English"
             }
           ]
@@ -81,5 +81,6 @@
       "id": 1
     }
   ],
-  "name-en": "Byron"
+  "name-en": "Byron",
+  "credits": "English Translation by: M. Hadi Husain"
 }

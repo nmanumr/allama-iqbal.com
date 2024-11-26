@@ -148,7 +148,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I speak from ripe experience and true is what I say, don’t think of lost horizons and be steadfast on your way: Keep shining like this while you may. \n(Translated by M. Hadi Husain)",
+              "_content": "I speak from ripe experience and true is what I say, don’t think of lost horizons and be steadfast on your way: Keep shining like this while you may.",
               "lang": "English"
             }
           ]
@@ -157,5 +157,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Glow-Worm"
+  "name-en": "The Glow-Worm",
+  "credits": "English Translation by: M. Hadi Husain"
 }

@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The scent of the rose showed first the way into the garden; else, how should the nightingale have known that roses are?\n(Translated by R.A. Nicholson)",
+              "_content": "The scent of the rose showed first the way into the garden; else, how should the nightingale have known that roses are?",
               "lang": "English"
             }
           ]
@@ -81,5 +81,6 @@
       "id": 1
     }
   ],
-  "name-en": "A Word To England"
+  "name-en": "A Word To England",
+  "credits": "English Translation by: R.A. Nicholson"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The nightingale said to the gardener at dawn: ‘Only the tree of sorrow can take root in this soil. \nThe wild thorn reaches a ripe age, but the rose dies when it is still young’. \n(Translated by Mustansir Mir)",
+              "_content": "The nightingale said to the gardener at dawn: ‘Only the tree of sorrow can take root in this soil. \nThe wild thorn reaches a ripe age, but the rose dies when it is still young’.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

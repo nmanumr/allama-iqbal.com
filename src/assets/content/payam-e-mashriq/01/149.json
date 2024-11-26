@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Persia’s a sea that never comes to shore, wherein are pearls of diamantine hue; \nYet I’ll not sail my barque upon a sea within whose waves is never a shark to view. \n(Translated by M. Hadi Husain)",
+              "_content": "Persia’s a sea that never comes to shore, wherein are pearls of diamantine hue; \nYet I’ll not sail my barque upon a sea within whose waves is never a shark to view.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

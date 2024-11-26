@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Wise in my words, I am mad in my deeds. Drunk with the wine of love for you, I am still fully sober.\n(Translated by M. Hadi Husain)",
+              "_content": "Wise in my words, I am mad in my deeds. Drunk with the wine of love for you, I am still fully sober.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

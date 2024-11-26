@@ -1409,7 +1409,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Arise and make the cup of Love go round, and in your hills make songs of Love resound. \n(Translated by M. Hadi Hussain)",
+              "_content": "Arise and make the cup of Love go round, and in your hills make songs of Love resound.",
               "lang": "English"
             }
           ]
@@ -1417,5 +1417,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Hussain"
 }

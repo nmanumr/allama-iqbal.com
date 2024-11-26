@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I do not know the instrument or key, yet well I recognize Life’s melody;\nSo sang I in the brambles, that the rose asked of the thrush, ‘What caroller is he?’\n(Translated by M. Hadi Husain)",
+              "_content": "I do not know the instrument or key, yet well I recognize Life’s melody;\nSo sang I in the brambles, that the rose asked of the thrush, ‘What caroller is he?’",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

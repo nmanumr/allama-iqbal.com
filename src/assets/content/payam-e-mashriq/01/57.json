@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I do not know thy Ugly and thy Fair: Thou takest Gain and Loss to measure by. \nI am the loneliest in this company; I view the vast world with another eye. \n(Translated by M. Hadi Husain)",
+              "_content": "I do not know thy Ugly and thy Fair: Thou takest Gain and Loss to measure by. \nI am the loneliest in this company; I view the vast world with another eye.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

@@ -90,7 +90,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘How happy is man with his restless soul, so gaily riding on the steed of Time. \nLife is a garment tailor-made for him, because he is a maker of new things.’\n[Translated by M Hadi Hussain]",
+              "_content": "‘How happy is man with his restless soul, so gaily riding on the steed of Time. \nLife is a garment tailor-made for him, because he is a maker of new things.’",
               "lang": "English"
             }
           ]
@@ -98,5 +98,6 @@
       ],
       "id": 4
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

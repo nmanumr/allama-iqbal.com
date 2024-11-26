@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Come; quaff a cup of wine, Iqbal, from the wine-cellar of the self. You are back from the tavern of the West a stranger to yourself.\n(Translated by M. Hadi Husain)",
+              "_content": "Come; quaff a cup of wine, Iqbal, from the wine-cellar of the self. You are back from the tavern of the West a stranger to yourself.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

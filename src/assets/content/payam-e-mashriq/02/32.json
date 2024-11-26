@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Said I, ‘Of earth it comes, to earth it goes.’ Said he, ‘The seed bursts earth, and is the rose.’ \n(Translated by R.A. Nicholson)",
+              "_content": "Said I, ‘Of earth it comes, to earth it goes.’ Said he, ‘The seed bursts earth, and is the rose.’",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       "id": 1
     }
   ],
-  "name-en": "Life"
+  "name-en": "Life",
+  "credits": "English Translation by: R.A. Nicholson"
 }

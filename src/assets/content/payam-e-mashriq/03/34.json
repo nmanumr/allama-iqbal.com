@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O You, closer to my soul than all else, yet hidden from my sight, your separation from me is dearer to me than union with all others.\n(Translated by M. Hadi Husain)",
+              "_content": "O You, closer to my soul than all else, yet hidden from my sight, your separation from me is dearer to me than union with all others.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

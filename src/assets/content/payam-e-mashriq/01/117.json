@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My heart is all the yearning of unrest, tumult and agitation fill my breast; \nWhat discourse, comrade, seekest thou of me? All I would say, is to my self addressed.\n(Translated by M. Hadi Husain)",
+              "_content": "My heart is all the yearning of unrest, tumult and agitation fill my breast; \nWhat discourse, comrade, seekest thou of me? All I would say, is to my self addressed.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

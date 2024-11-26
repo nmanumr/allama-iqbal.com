@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘I am, and God is not’, thou sayest so: ‘Water and clay into the boundless go’;\nYet I have not resolved this mystery – whether it is mine eye that sees, or no.\n(Translated by M. Hadi Husain)",
+              "_content": "‘I am, and God is not’, thou sayest so: ‘Water and clay into the boundless go’;\nYet I have not resolved this mystery – whether it is mine eye that sees, or no.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When a poet breaks into song with the frenzy of love’s sorrow, with his breath I join my own.\n(Translated by M. Hadi Husain)",
+              "_content": "When a poet breaks into song with the frenzy of love’s sorrow, with his breath I join my own.",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Morning Breeze"
+  "name-en": "The Morning Breeze",
+  "credits": "English Translation by: M. Hadi Husain"
 }

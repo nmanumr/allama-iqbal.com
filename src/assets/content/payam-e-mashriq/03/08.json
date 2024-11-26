@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You do not know your worth. The shining ruby is a mere stone: it acquires its preciousness from you. \n[Translated by M Hadi Hussain]",
+              "_content": "You do not know your worth. The shining ruby is a mere stone: it acquires its preciousness from you.",
               "lang": "English"
             }
           ]
@@ -148,5 +148,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

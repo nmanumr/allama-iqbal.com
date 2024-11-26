@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If you seek knowledge, then be of two minds; increase your doubt, decrease your certainty.\nIf you seek action, doubt less, be more sure, be of one mind, one personality. \n[Translated by M Hadi Hussain]",
+              "_content": "If you seek knowledge, then be of two minds; increase your doubt, decrease your certainty.\nIf you seek action, doubt less, be more sure, be of one mind, one personality.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

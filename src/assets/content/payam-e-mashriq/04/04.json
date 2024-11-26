@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Philosopher with statesman weigh not thou: Those are sun-blinded, these are tearless eyes.\nOne shapes a false argument for his truth, the other a block of logic for his lies. \n(Translated by R.A. Nicholson)",
+              "_content": "Philosopher with statesman weigh not thou: Those are sun-blinded, these are tearless eyes.\nOne shapes a false argument for his truth, the other a block of logic for his lies.",
               "lang": "English"
             }
           ]
@@ -30,5 +30,6 @@
       "id": 1
     }
   ],
-  "name-en": "Philosophy And Politics"
+  "name-en": "Philosophy And Politics",
+  "credits": "English Translation by: R.A. Nicholson"
 }

@@ -55,7 +55,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The magic tricks of reason do not touch the fervour of a living heart. Forsake the temple of philosophy, and come into the sanctum of my heart.\n(Translated by M. Hadi Husain)",
+              "_content": "The magic tricks of reason do not touch the fervour of a living heart. Forsake the temple of philosophy, and come into the sanctum of my heart.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

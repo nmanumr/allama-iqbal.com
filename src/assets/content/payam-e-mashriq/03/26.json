@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It is best that we make do with a lamp that has our garment’s skirt for shade. The power to face Sinai’s lamp have neither you nor I.\n(Translated by M. Hadi Husain)",
+              "_content": "It is best that we make do with a lamp that has our garment’s skirt for shade. The power to face Sinai’s lamp have neither you nor I.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

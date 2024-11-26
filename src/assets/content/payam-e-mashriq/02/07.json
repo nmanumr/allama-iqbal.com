@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Sprouts from the garden’s soil: The secret of Creation’s heart. \nThe shadow-play of attribute; how essence brings itself to light; life, as we all imagine it; and. death, which is life’s opposite; O all this is without a root.\nSprouts from the garden’s soil the secret of Creation’s heart.\n[Translated by M Hadi Hussain]",
+              "_content": "Sprouts from the garden’s soil: The secret of Creation’s heart. \nThe shadow-play of attribute; how essence brings itself to light; life, as we all imagine it; and. death, which is life’s opposite; O all this is without a root.\nSprouts from the garden’s soil the secret of Creation’s heart.",
               "lang": "English"
             }
           ]
@@ -115,5 +115,6 @@
       "id": 1
     }
   ],
-  "name-en": "Spring"
+  "name-en": "Spring",
+  "credits": "English Translation by: M Hadi Hussain"
 }

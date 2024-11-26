@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Come, I have brought from the vat of the guide of Rum the wine of poesy, much younger than the wine of grapes.\n(Translated by M. Hadi Husain)",
+              "_content": "Come, I have brought from the vat of the guide of Rum the wine of poesy, much younger than the wine of grapes.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

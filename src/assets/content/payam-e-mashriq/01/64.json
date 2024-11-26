@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If you were merely to glance at a piece of rock, it would turn into a jewel if you so desired. \nSlave of gold, don’t measure yourself by gold; it was your glance that turned it into gold. \n(Translated by Mustansir Mir)",
+              "_content": "If you were merely to glance at a piece of rock, it would turn into a jewel if you so desired. \nSlave of gold, don’t measure yourself by gold; it was your glance that turned it into gold.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

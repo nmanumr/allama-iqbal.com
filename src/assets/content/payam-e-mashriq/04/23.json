@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "How long shall we exist like moths that flit round candle flames? How long shall we exist forgetful of ourselves like this? \n(Translated by M. Hadi Husain)",
+              "_content": "How long shall we exist like moths that flit round candle flames? How long shall we exist forgetful of ourselves like this?",
               "lang": "English"
             }
           ]
@@ -149,5 +149,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Labourer’S Song"
+  "name-en": "The Labourer’S Song",
+  "credits": "English Translation by: M. Hadi Husain"
 }

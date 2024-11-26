@@ -191,7 +191,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You’re bidding wisdom guide you on love’s path! You’re looking for the sun by candle-light!’ (Translated by M. Hadi Husain)",
+              "_content": "You’re bidding wisdom guide you on love’s path! You’re looking for the sun by candle-light!’",
               "lang": "English"
             }
           ]
@@ -200,5 +200,6 @@
       "id": 1
     }
   ],
-  "name-en": "Jalal And Hegel"
+  "name-en": "Jalal And Hegel",
+  "credits": "English Translation by: M. Hadi Husain"
 }

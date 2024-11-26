@@ -225,7 +225,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Of learning’s light I do not have the slightest need; and all I have to do is burn and melt and bleed.\n(Translated by M. Hadi Husain)",
+              "_content": "Of learning’s light I do not have the slightest need; and all I have to do is burn and melt and bleed.",
               "lang": "English"
             }
           ]
@@ -233,5 +233,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

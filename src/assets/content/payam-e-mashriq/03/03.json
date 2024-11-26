@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Custodian of the Harem, do not admit Iqbal; for he has up his sleeve new idols every day.\n[Translated by M Hadi Hussain]",
+              "_content": "Custodian of the Harem, do not admit Iqbal; for he has up his sleeve new idols every day.",
               "lang": "English"
             }
           ]
@@ -148,5 +148,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

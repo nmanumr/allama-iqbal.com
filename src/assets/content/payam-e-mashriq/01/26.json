@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "One morning in a garden, passing by, I heard a bird perched on a high branch cry: \n‘Out with whatever you have inside you; a song, a plaint, a dirge, a cry, a sigh.’\n[Translated by M Hadi Hussain]",
+              "_content": "One morning in a garden, passing by, I heard a bird perched on a high branch cry: \n‘Out with whatever you have inside you; a song, a plaint, a dirge, a cry, a sigh.’",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

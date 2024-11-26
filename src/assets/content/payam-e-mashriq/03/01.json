@@ -157,7 +157,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In India life’s anthem is devoid of all effect; for even David’s songs cannot breathe life into the dead.\n[Translated by M Hadi Hussain]",
+              "_content": "In India life’s anthem is devoid of all effect; for even David’s songs cannot breathe life into the dead.",
               "lang": "English"
             }
           ]
@@ -165,5 +165,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

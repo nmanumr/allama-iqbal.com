@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A hundred worlds stretched star to farthest star. Where’er the mind soared, there the heavens are. \nBut when I looked within upon my self, I saw a margin infinitely far. \n(Translated by M. Hadi Husain)",
+              "_content": "A hundred worlds stretched star to farthest star. Where’er the mind soared, there the heavens are. \nBut when I looked within upon my self, I saw a margin infinitely far.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

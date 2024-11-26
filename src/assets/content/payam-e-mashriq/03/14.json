@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "From his pleasing verses it is clear that Iqbal, teacher of philosophy, turned to Love’s vocation.\n(Translated by M. Hadi Husain)",
+              "_content": "From his pleasing verses it is clear that Iqbal, teacher of philosophy, turned to Love’s vocation.",
               "lang": "English"
             }
           ]
@@ -108,5 +108,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

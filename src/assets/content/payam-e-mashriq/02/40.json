@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Look at that highborn Brahmin maid, lily-limbed, tulip-faced, look at her and feel yourself fade into someone low-placed.\n[Translated by M. Hadi Husain]",
+              "_content": "Look at that highborn Brahmin maid, lily-limbed, tulip-faced, look at her and feel yourself fade into someone low-placed.",
               "lang": "English"
             }
           ]
@@ -115,5 +115,6 @@
       "id": 1
     }
   ],
-  "name-en": "Kashmir"
+  "name-en": "Kashmir",
+  "credits": "English Translation by: M. Hadi Husain"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O ask not what I am, or whence came I: ’Tis self-involvement I am living by:\nWithin this sea I am a restless wave, and when I am no more involved, I die. \n(Translated by M. Hadi Husain)",
+              "_content": "O ask not what I am, or whence came I: ’Tis self-involvement I am living by:\nWithin this sea I am a restless wave, and when I am no more involved, I die.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

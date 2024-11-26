@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Speak not of Love, and of Love’s wizardry: Whatever shape thou wilt, he doth descend:\nWithin the breast he is a spark, no more, but on the tongue a tale without an end.\n(Translated by M. Hadi Husain)",
+              "_content": "Speak not of Love, and of Love’s wizardry: Whatever shape thou wilt, he doth descend:\nWithin the breast he is a spark, no more, but on the tongue a tale without an end.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

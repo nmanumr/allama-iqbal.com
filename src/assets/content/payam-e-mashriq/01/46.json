@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "There is an intellect in every man. My body is, like others’, clay and blood’ just mud. \nBut, no one knows this secret but myself: a subtle soul informs my mud.\n[Translated by M Hadi Hussain]",
+              "_content": "There is an intellect in every man. My body is, like others’, clay and blood’ just mud. \nBut, no one knows this secret but myself: a subtle soul informs my mud.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I do not bear with monarchs’ airs, nor do I seek their favours. O greed-deluded man, look at a pauper’s bravery.\n(Translated by M. Hadi Husain)",
+              "_content": "I do not bear with monarchs’ airs, nor do I seek their favours. O greed-deluded man, look at a pauper’s bravery.",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

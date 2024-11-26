@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Though born in India, I draw my inspiration from the hallowed dust of Kabul and Bokhara and Tabriz. \n(Translated by M. Hadi Husain)",
+              "_content": "Though born in India, I draw my inspiration from the hallowed dust of Kabul and Bokhara and Tabriz.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

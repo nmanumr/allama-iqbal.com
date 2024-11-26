@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If you know your potentialities, then with the dew you are create vast seas. \nO heart, why beg the moon for alms of light? Let your own flaming breath light up your night. \n[Translated by M Hadi Hussain]",
+              "_content": "If you know your potentialities, then with the dew you are create vast seas. \nO heart, why beg the moon for alms of light? Let your own flaming breath light up your night.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

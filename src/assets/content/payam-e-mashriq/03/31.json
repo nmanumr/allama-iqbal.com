@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Love has been overthrown by reason, and the world is upside down. It may be that I shall be given freedom to wail over this.\n(Translated by M. Hadi Husain)",
+              "_content": "Love has been overthrown by reason, and the world is upside down. It may be that I shall be given freedom to wail over this.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

@@ -214,7 +214,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The crime that he exists you want excused. With all your wisdom you have been bemused. \n(Translated by M. Hadi Husain)",
+              "_content": "The crime that he exists you want excused. With all your wisdom you have been bemused.",
               "lang": "English"
             }
           ]
@@ -223,5 +223,6 @@
       "id": 2
     }
   ],
-  "name-en": "Dialogue Between Auguste Comte And The Labourer"
+  "name-en": "Dialogue Between Auguste Comte And The Labourer",
+  "credits": "English Translation by: M. Hadi Husain"
 }

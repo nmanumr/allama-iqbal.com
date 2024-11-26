@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Your heart quakes with the fear of death: you pale at the mere thought of it. \nGo and acquire a selfhood and hold fast to it, If you do this, you will not die when you expire. \n[Translated by M Hadi Hussain]",
+              "_content": "Your heart quakes with the fear of death: you pale at the mere thought of it. \nGo and acquire a selfhood and hold fast to it, If you do this, you will not die when you expire.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

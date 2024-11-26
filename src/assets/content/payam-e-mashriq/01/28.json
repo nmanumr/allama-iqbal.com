@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Do not tell me about that silly moth who met an easy, suicidal death.\nIt is the hardy moth that I admire, the one who bravely fights with his last breath.\n[Translated by M Hadi Hussain]",
+              "_content": "Do not tell me about that silly moth who met an easy, suicidal death.\nIt is the hardy moth that I admire, the one who bravely fights with his last breath.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

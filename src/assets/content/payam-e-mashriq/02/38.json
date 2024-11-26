@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Do not think that you ever can ensnare that seasoned Hunter with your foolish prayer.\n[Translated by M. Hadi Husain]",
+              "_content": "Do not think that you ever can ensnare that seasoned Hunter with your foolish prayer.",
               "lang": "English"
             }
           ]
@@ -98,5 +98,6 @@
       "id": 1
     }
   ],
-  "name-en": "Alamgir’S Letter"
+  "name-en": "Alamgir’S Letter",
+  "credits": "English Translation by: M. Hadi Husain"
 }

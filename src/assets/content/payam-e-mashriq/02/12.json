@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "What is much for you for us is, little: for us your year passes, in an instant. O you with seas in your bosom, why do you seize dewdrops? \nConquer these vast spaces, where to new worlds we move on. \n[Translated by M Hadi Hussain]",
+              "_content": "What is much for you for us is, little: for us your year passes, in an instant. O you with seas in your bosom, why do you seize dewdrops? \nConquer these vast spaces, where to new worlds we move on.",
               "lang": "English"
             }
           ]
@@ -149,5 +149,6 @@
       "id": 1
     }
   ],
-  "name-en": "Song Of The Stars"
+  "name-en": "Song Of The Stars",
+  "credits": "English Translation by: M Hadi Hussain"
 }

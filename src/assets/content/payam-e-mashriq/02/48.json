@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Wherever you can find a way race your horse thither, for we have been outdone many times on this maneuvering-ground.’\n(Translated by M. Hadi Husain)",
+              "_content": "‘Wherever you can find a way race your horse thither, for we have been outdone many times on this maneuvering-ground.’",
               "lang": "English"
             }
           ]
@@ -132,5 +132,6 @@
       "id": 1
     }
   ],
-  "name-en": "Lines Addressed To Mustafa Kamal Pasha"
+  "name-en": "Lines Addressed To Mustafa Kamal Pasha",
+  "credits": "English Translation by: M. Hadi Husain"
 }

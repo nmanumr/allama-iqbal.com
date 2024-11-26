@@ -68,7 +68,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I left the moon and the sun behind, and reached the presence of God. I said, ‘Not one atom in Your world is intimate with me. \nThe world has no heart, but I, though a handful of dust, am all heart. It is a pleasant garden, but unworthy of my song!’ A smile appeared on His lips He did not say a word. \n(Translated by Mustansir Mir)",
+              "_content": "I left the moon and the sun behind, and reached the presence of God. I said, ‘Not one atom in Your world is intimate with me. \nThe world has no heart, but I, though a handful of dust, am all heart. It is a pleasant garden, but unworthy of my song!’ A smile appeared on His lips He did not say a word.",
               "lang": "English"
             }
           ]
@@ -77,5 +77,6 @@
       "id": 1
     }
   ],
-  "name-en": "Solitude"
+  "name-en": "Solitude",
+  "credits": "English Translation by: Mustansir Mir"
 }

@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O where is that alluring glance that captivated my heart first? God bless you, I desire that arrow once again.\n(Translated by M. Hadi Husain)",
+              "_content": "O where is that alluring glance that captivated my heart first? God bless you, I desire that arrow once again.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

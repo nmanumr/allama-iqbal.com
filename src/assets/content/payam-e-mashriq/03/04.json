@@ -174,7 +174,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My song has relit old fires in Persia, but Arabia is still a stranger to my ardent lays.\n[Translated by M Hadi Hussain]",
+              "_content": "My song has relit old fires in Persia, but Arabia is still a stranger to my ardent lays.",
               "lang": "English"
             }
           ]
@@ -182,5 +182,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

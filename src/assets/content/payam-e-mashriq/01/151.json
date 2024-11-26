@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thou hast escaped the mastery of the West and yet to tomb and dome thou still dost pray: \nThou art so well inured to servitude. Thou carv’st a master of the stony way!\n(Translated by M. Hadi Husain)",
+              "_content": "Thou hast escaped the mastery of the West and yet to tomb and dome thou still dost pray: \nThou art so well inured to servitude. Thou carv’st a master of the stony way!",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

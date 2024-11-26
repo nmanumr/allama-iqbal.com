@@ -90,7 +90,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Rumi: How can dilutions be as good as the real stuff itself? I pressed wine out of grapes direct and filled my cup with it.\n(Translated by M. Hadi Husain)",
+              "_content": "Rumi: How can dilutions be as good as the real stuff itself? I pressed wine out of grapes direct and filled my cup with it.",
               "lang": "English"
             }
           ]
@@ -99,5 +99,6 @@
       "id": 4
     }
   ],
-  "name-en": "Poets"
+  "name-en": "Poets",
+  "credits": "English Translation by: M. Hadi Husain"
 }

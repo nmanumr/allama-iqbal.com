@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Our goal is God.’ This saying of the guide of Rum was like a flame flung at the straw that is my self.\n(Translated by M. Hadi Husain)",
+              "_content": "‘Our goal is God.’ This saying of the guide of Rum was like a flame flung at the straw that is my self.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

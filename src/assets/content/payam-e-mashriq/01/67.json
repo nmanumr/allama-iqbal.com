@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Sweet newborn bud, why art thou so forlorn? What seekest thou within this garden fair? \nFor here is dew, a river, song at morn, birds in the grass, red roses, summer air.\n(Translated by M. Hadi Husain)",
+              "_content": "Sweet newborn bud, why art thou so forlorn? What seekest thou within this garden fair? \nFor here is dew, a river, song at morn, birds in the grass, red roses, summer air.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

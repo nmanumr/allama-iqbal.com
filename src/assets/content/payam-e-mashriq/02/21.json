@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Lively is the song that I sing; lively, but full of foreboding – for the caravan a warning that the hour has struck for starting. Kisser of the Haram’s paving! Quicken your pace just a little; journey’s end is not far off.\n(Translated by M. Hadi Husain)",
+              "_content": "Lively is the song that I sing; lively, but full of foreboding – for the caravan a warning that the hour has struck for starting. Kisser of the Haram’s paving! Quicken your pace just a little; journey’s end is not far off.",
               "lang": "English"
             }
           ]
@@ -141,5 +141,6 @@
       "id": 1
     }
   ],
-  "name-en": "Song Of The Hijazi Camel-Driver"
+  "name-en": "Song Of The Hijazi Camel-Driver",
+  "credits": "English Translation by: M. Hadi Husain"
 }

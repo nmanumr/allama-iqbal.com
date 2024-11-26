@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I have consumed the fruit of Passion’s tree. And understood Life’s inmost mystery; \nLo, I have brought the message of the spring; beware the Gardener, Lord of archery!\n(Translated by M. Hadi Husain)",
+              "_content": "I have consumed the fruit of Passion’s tree. And understood Life’s inmost mystery; \nLo, I have brought the message of the spring; beware the Gardener, Lord of archery!",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

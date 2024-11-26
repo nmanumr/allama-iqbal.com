@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My body is a flower from a flower-bed in Kashmir’s paradise. My heart is from the sanctum of Hijaz. My song is from Shiraz.\n(Translated by M. Hadi Husain)",
+              "_content": "My body is a flower from a flower-bed in Kashmir’s paradise. My heart is from the sanctum of Hijaz. My song is from Shiraz.",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The earth and what is in its bowels are mine; from earth to heaven all is your territory. (Translated by M. Hadi Husain)",
+              "_content": "The earth and what is in its bowels are mine; from earth to heaven all is your territory.",
               "lang": "English"
             }
           ]
@@ -98,5 +98,6 @@
       "id": 1
     }
   ],
-  "name-en": "Division Between The Capitalist And The Labourer"
+  "name-en": "Division Between The Capitalist And The Labourer",
+  "credits": "English Translation by: M. Hadi Husain"
 }

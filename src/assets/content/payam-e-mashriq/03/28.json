@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Whatever is the object of the strivings of our thought is in our eyes, but like our sight invisible.\n(Translated by M. Hadi Husain)",
+              "_content": "Whatever is the object of the strivings of our thought is in our eyes, but like our sight invisible.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

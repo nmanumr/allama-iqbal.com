@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The intellect says He cannot be seen, but still the eager eye stays caught between hope and fear.\nMount Sinai is still there, and in man a Moses there has always been.\n[Translated by M Hadi Hussain]",
+              "_content": "The intellect says He cannot be seen, but still the eager eye stays caught between hope and fear.\nMount Sinai is still there, and in man a Moses there has always been.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

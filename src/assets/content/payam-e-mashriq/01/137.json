@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Iskander and his flag and sword are gone; gone are his tribute and his mines and seas. \nLonger than kings’ are peoples’ histories: Jamshid is gone, but Persia still lives on. \n[Translated by M Hadi Hussain]",
+              "_content": "Iskander and his flag and sword are gone; gone are his tribute and his mines and seas. \nLonger than kings’ are peoples’ histories: Jamshid is gone, but Persia still lives on.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

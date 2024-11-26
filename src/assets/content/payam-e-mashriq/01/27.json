@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "To make you understand life’s mystery, I tell you one thing in all secrecy:\nYou die if you do not possess a soul; but if you do, you live eternally.\n[Translated by M Hadi Hussain]",
+              "_content": "To make you understand life’s mystery, I tell you one thing in all secrecy:\nYou die if you do not possess a soul; but if you do, you live eternally.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

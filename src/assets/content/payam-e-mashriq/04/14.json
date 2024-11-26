@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘He who is blest, and a confidant, knows that cunning comes from Iblis and love from Adam.’\n(Translated by Mustansir Mir)",
+              "_content": "‘He who is blest, and a confidant, knows that cunning comes from Iblis and love from Adam.’",
               "lang": "English"
             }
           ]
@@ -149,5 +149,6 @@
       "id": 1
     }
   ],
-  "name-en": "Jalal And Goethe"
+  "name-en": "Jalal And Goethe",
+  "credits": "English Translation by: Mustansir Mir"
 }

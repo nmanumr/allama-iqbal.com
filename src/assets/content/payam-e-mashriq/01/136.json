@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The earth is mere dust at our tavern’s door, the sky our wine-cup going round, no more.\nThe story of our heart is long; so long the world seems to be but its opening song.\n[Translated by M Hadi Hussain]",
+              "_content": "The earth is mere dust at our tavern’s door, the sky our wine-cup going round, no more.\nThe story of our heart is long; so long the world seems to be but its opening song.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

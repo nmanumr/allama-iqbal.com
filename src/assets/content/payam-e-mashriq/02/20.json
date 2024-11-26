@@ -55,7 +55,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "From the sea’s depth arose a fish’s cry, ‘There is something in an unceasing dance.’\n(Translated by M. Hadi Husain)",
+              "_content": "From the sea’s depth arose a fish’s cry, ‘There is something in an unceasing dance.’",
               "lang": "English"
             }
           ]
@@ -64,5 +64,6 @@
       "id": 1
     }
   ],
-  "name-en": "Reality"
+  "name-en": "Reality",
+  "credits": "English Translation by: M. Hadi Husain"
 }

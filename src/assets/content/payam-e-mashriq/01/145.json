@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I am a wanderer like the breeze of morn, rose-like my heart is into fragments torn.\nMy glance, which cannot see the evident, a martyr to the joy of sight is borne.\n(Translated by M. Hadi Husain)",
+              "_content": "I am a wanderer like the breeze of morn, rose-like my heart is into fragments torn.\nMy glance, which cannot see the evident, a martyr to the joy of sight is borne.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

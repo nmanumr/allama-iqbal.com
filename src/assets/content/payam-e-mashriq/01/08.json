@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A spent scent in the garden I suspire, I know not what I seek, what I require. \nBut be my passion satisfied, or no, yet here I burn, a martyr to desire. \n(Translated by M. Hadi Husain)",
+              "_content": "A spent scent in the garden I suspire, I know not what I seek, what I require. \nBut be my passion satisfied, or no, yet here I burn, a martyr to desire.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

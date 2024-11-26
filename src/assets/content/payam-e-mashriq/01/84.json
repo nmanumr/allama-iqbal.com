@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "We are not Afghans, Turks or Tartars: Offspring of the garden, we grew from the same bough. \nDistinctions of colour and scent are forbidden to us, for we are products of a new spring. \n(Translated by M. Hadi Husain)",
+              "_content": "We are not Afghans, Turks or Tartars: Offspring of the garden, we grew from the same bough. \nDistinctions of colour and scent are forbidden to us, for we are products of a new spring.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I boast, I am a beggar without need; I shake, I burn, I melt; I play my reed.\nMy melody has set thee all ablaze: Mirrors I make, being Alexander’s breed.\n(Translated by M. Hadi Husain)",
+              "_content": "I boast, I am a beggar without need; I shake, I burn, I melt; I play my reed.\nMy melody has set thee all ablaze: Mirrors I make, being Alexander’s breed.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

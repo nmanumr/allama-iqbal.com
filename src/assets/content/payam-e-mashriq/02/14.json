@@ -361,7 +361,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Do not take food from the hand of another; be good and take advice from the good. \n(Translated by Mustansir Mir)",
+              "_content": "Do not take food from the hand of another; be good and take advice from the good.",
               "lang": "English"
             }
           ]
@@ -370,5 +370,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Falcon’S Advice To Its Youngster"
+  "name-en": "The Falcon’S Advice To Its Youngster",
+  "credits": "English Translation by: Mustansir Mir"
 }

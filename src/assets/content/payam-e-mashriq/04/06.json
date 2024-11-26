@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The heart of the philosopher bled at man’s sinews laxity so his thought fashioned a new cast of man.\nHe raised a fresh storm in the West - it was as if a lunatic had crashed into a glassware factory. \n(Translated by M. Hadi Husain)",
+              "_content": "The heart of the philosopher bled at man’s sinews laxity so his thought fashioned a new cast of man.\nHe raised a fresh storm in the West - it was as if a lunatic had crashed into a glassware factory.",
               "lang": "English"
             }
           ]
@@ -30,5 +30,6 @@
       "id": 1
     }
   ],
-  "name-en": "Nietzsche"
+  "name-en": "Nietzsche",
+  "credits": "English Translation by: M. Hadi Husain"
 }

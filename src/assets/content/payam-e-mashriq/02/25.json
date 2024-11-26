@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Leave the water, befriend the vastness of space! Only an observant eye will see the point of it.\n(Translated by Mustansir Mir)",
+              "_content": "Leave the water, befriend the vastness of space! Only an observant eye will see the point of it.",
               "lang": "English"
             }
           ]
@@ -149,5 +149,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Young Fish And The Eaglet"
+  "name-en": "The Young Fish And The Eaglet",
+  "credits": "English Translation by: Mustansir Mir"
 }

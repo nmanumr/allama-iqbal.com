@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O Muslim, learn again how to work miracles like Solomon. There is no Ahriman who does not have an eye upon your ring.\n(Translated by M. Hadi Husain)",
+              "_content": "O Muslim, learn again how to work miracles like Solomon. There is no Ahriman who does not have an eye upon your ring.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

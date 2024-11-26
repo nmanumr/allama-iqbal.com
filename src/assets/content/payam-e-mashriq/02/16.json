@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I go because the mountain household is too high for me; but you be careful lest the sun should melt you to the core.’\n[Translated by M. Hadi Husain]",
+              "_content": "I go because the mountain household is too high for me; but you be careful lest the sun should melt you to the core.’",
               "lang": "English"
             }
           ]
@@ -115,5 +115,6 @@
       "id": 1
     }
   ],
-  "name-en": "Vanity"
+  "name-en": "Vanity",
+  "credits": "English Translation by: M. Hadi Husain"
 }

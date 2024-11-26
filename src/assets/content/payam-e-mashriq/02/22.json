@@ -180,7 +180,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Become a pearl and be lodged in the depths of me – My moon, my star, as bright as those of the sky are.’ \n(Translated by M. Hadi Husain)",
+              "_content": "Become a pearl and be lodged in the depths of me – My moon, my star, as bright as those of the sky are.’",
               "lang": "English"
             }
           ]
@@ -189,5 +189,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Raindrop And The Sea"
+  "name-en": "The Raindrop And The Sea",
+  "credits": "English Translation by: M. Hadi Husain"
 }

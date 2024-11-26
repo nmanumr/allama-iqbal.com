@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Create a furor in the garden, storm it with your lament. Until breath gets choked in your breast do not give up your wailing. \n(Translated by M. Hadi Husain)",
+              "_content": "Create a furor in the garden, storm it with your lament. Until breath gets choked in your breast do not give up your wailing.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

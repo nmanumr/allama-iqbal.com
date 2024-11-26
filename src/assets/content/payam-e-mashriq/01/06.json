@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "’Tis Love that paints the tulip petals’ hue: ’Tis Love that stirs the spirit’s bitter rue. \nIf thou couldst cleave this carrion of clay: Thou shalt behold, within, Love’s bloodshed too.\n(Translated by M. Hadi Husain)",
+              "_content": "’Tis Love that paints the tulip petals’ hue: ’Tis Love that stirs the spirit’s bitter rue. \nIf thou couldst cleave this carrion of clay: Thou shalt behold, within, Love’s bloodshed too.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

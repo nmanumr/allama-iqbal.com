@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Life keeps expressing itself in new ways: Content with one fixed form it never stays.\nYou have no spark in you if your today is just a copy of your yesterdays.\n[Translated by M Hadi Hussain]",
+              "_content": "Life keeps expressing itself in new ways: Content with one fixed form it never stays.\nYou have no spark in you if your today is just a copy of your yesterdays.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

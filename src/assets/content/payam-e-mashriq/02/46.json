@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Why tell Love’s story to a people given to lust? Why put the surma of wise Solomon into ants’ eyes?\n[Translated by M Hadi Hussain]",
+              "_content": "Why tell Love’s story to a people given to lust? Why put the surma of wise Solomon into ants’ eyes?",
               "lang": "English"
             }
           ]
@@ -132,5 +132,6 @@
       "id": 1
     }
   ],
-  "name-en": "To A Muslim Missionary In England"
+  "name-en": "To A Muslim Missionary In England",
+  "credits": "English Translation by: M Hadi Hussain"
 }

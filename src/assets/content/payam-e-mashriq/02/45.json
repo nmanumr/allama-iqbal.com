@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You seek the treasures of an alien philosophy from common, low-grade people, themselves poor of mind. Ants crawling on the ground cannot attain the heights of wisdom of a Solomon.\nAvoid the method of democracy; become the bondman of someone of ripe intelligence; for a few hundred donkeys cannot have, combined, the brains of one man, of one homosapiens. \n(Translated by M. Hadi Husain)",
+              "_content": "You seek the treasures of an alien philosophy from common, low-grade people, themselves poor of mind. Ants crawling on the ground cannot attain the heights of wisdom of a Solomon.\nAvoid the method of democracy; become the bondman of someone of ripe intelligence; for a few hundred donkeys cannot have, combined, the brains of one man, of one homosapiens.",
               "lang": "English"
             }
           ]
@@ -30,5 +30,6 @@
       "id": 1
     }
   ],
-  "name-en": "Democracy"
+  "name-en": "Democracy",
+  "credits": "English Translation by: M. Hadi Husain"
 }

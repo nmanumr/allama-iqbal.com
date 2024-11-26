@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thus spake the new-sprung blossom to the dew: ‘We meadow children have no piercing eye: \nIn this broad plain that holds a hundred suns; what difference exists ’twixt low and high?’\n(Translated by M. Hadi Husain)",
+              "_content": "Thus spake the new-sprung blossom to the dew: ‘We meadow children have no piercing eye: \nIn this broad plain that holds a hundred suns; what difference exists ’twixt low and high?’",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A stranger to your own identity, you seek new paths to the stars in the sky.\nOpen your eyes to yourself like a seed so that you come out of the earth a tree.\n[Translated by M Hadi Hussain]",
+              "_content": "A stranger to your own identity, you seek new paths to the stars in the sky.\nOpen your eyes to yourself like a seed so that you come out of the earth a tree.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

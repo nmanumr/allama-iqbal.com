@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It must be known, this world of scent and sheen; they must be plucked, the roses in the dene; \nYet do not close thine eyes upon the self, within thy soul a thing is to be seen.\n(Translated by M. Hadi Husain)",
+              "_content": "It must be known, this world of scent and sheen; they must be plucked, the roses in the dene; \nYet do not close thine eyes upon the self, within thy soul a thing is to be seen.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

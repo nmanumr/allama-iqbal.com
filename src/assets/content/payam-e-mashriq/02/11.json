@@ -95,7 +95,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "We have been on intimate terms since the day of creation, and are the high and low notes of the same song. \n(Translated by Mustansir Mir)",
+              "_content": "We have been on intimate terms since the day of creation, and are the high and low notes of the same song.",
               "lang": "English"
             }
           ]
@@ -103,5 +103,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

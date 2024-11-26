@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "To a fearless heart a lion is a sheep; to a timid heart a deer is a tiger.\nIf you have no fear, the ocean is a desert; if you are fearful, there is a crocodile in every wave.\n(Translated by Mustansir Mir)",
+              "_content": "To a fearless heart a lion is a sheep; to a timid heart a deer is a tiger.\nIf you have no fear, the ocean is a desert; if you are fearful, there is a crocodile in every wave.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My passion puts fire into the Muslim veins, and my restive tears drop from his eyes;\nBut still he is not aware of the tumult in my soul – for he has not seen the world with my eyes. \n(Translated by Mustansir Mir)",
+              "_content": "My passion puts fire into the Muslim veins, and my restive tears drop from his eyes;\nBut still he is not aware of the tumult in my soul – for he has not seen the world with my eyes.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

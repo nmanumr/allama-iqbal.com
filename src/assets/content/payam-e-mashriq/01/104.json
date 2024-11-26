@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Carve out your path with your own pick-axe; it is a torment to take the path of others. \nIf what you can do is unique, it will deserve a reward even if it is a sin.\n(Translated by Mustansir Mir)",
+              "_content": "Carve out your path with your own pick-axe; it is a torment to take the path of others. \nIf what you can do is unique, it will deserve a reward even if it is a sin.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

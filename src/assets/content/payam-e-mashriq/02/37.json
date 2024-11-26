@@ -260,7 +260,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Towards the shoreless ocean how merrily it flows; linked with itself, unlinked with all, it flows.\n(Translated by Prof. Hamid Ahmad Khan)",
+              "_content": "Towards the shoreless ocean how merrily it flows; linked with itself, unlinked with all, it flows.",
               "lang": "English"
             }
           ]
@@ -269,5 +269,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Stream"
+  "name-en": "The Stream",
+  "credits": "English Translation by: Prof. Hamid Ahmad Khan"
 }

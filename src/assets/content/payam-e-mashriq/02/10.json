@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "One night the spring cloud tearfully complained: ‘A ceaseless shedding of tears is this life.’\nBut lightning, flashing quickly, intervened: ‘O no, it is a momentary laugh.’ \nWho bore this to the garden I do not know; but there is talk between the rose and dew.\n[Translated by M Hadi Hussain]",
+              "_content": "One night the spring cloud tearfully complained: ‘A ceaseless shedding of tears is this life.’\nBut lightning, flashing quickly, intervened: ‘O no, it is a momentary laugh.’ \nWho bore this to the garden I do not know; but there is talk between the rose and dew.",
               "lang": "English"
             }
           ]
@@ -30,5 +30,6 @@
       "id": 1
     }
   ],
-  "name-en": "Life"
+  "name-en": "Life",
+  "credits": "English Translation by: M Hadi Hussain"
 }

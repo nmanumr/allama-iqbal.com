@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Heart, in the rosebud view Life’s mystery! Truth in contingent there unveiled is shewn; \nAlthough it springeth from the shadowed earth, its gaze is fixed upon the radiant sun. \n(Translated by A.J. Arberry)",
+              "_content": "Heart, in the rosebud view Life’s mystery! Truth in contingent there unveiled is shewn; \nAlthough it springeth from the shadowed earth, its gaze is fixed upon the radiant sun.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

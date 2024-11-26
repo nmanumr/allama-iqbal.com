@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My thought plucks flowers that in Eden grew to shape and fashion fancies rare and new.\nThen shakes my heart a leaf within my breast, a petal trembling ’neath the Summer dew. \n(Translated by M. Hadi Husain)",
+              "_content": "My thought plucks flowers that in Eden grew to shape and fashion fancies rare and new.\nThen shakes my heart a leaf within my breast, a petal trembling ’neath the Summer dew.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

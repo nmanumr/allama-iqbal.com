@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Never live in a world devoid of joy and zest, where God exists, but Beelzebub does not exist.\n[Translated by M Hadi Hussain]",
+              "_content": "Never live in a world devoid of joy and zest, where God exists, but Beelzebub does not exist.",
               "lang": "English"
             }
           ]
@@ -132,5 +132,6 @@
       "id": 1
     }
   ],
-  "name-en": "Paradise"
+  "name-en": "Paradise",
+  "credits": "English Translation by: M Hadi Hussain"
 }

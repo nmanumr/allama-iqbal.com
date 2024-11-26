@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O gardener, tell Iqbal to be off from the garden, for this spellbinding singer makes men forget the roses. (Translated by M. Hadi Husain)",
+              "_content": "O gardener, tell Iqbal to be off from the garden, for this spellbinding singer makes men forget the roses.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

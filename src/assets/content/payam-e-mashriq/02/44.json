@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Its theme needs no longer statement than a single line, if trenchant.\n(Translated by M. Hadi Husain)",
+              "_content": "Its theme needs no longer statement than a single line, if trenchant.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Riddle Of The Sword"
+  "name-en": "The Riddle Of The Sword",
+  "credits": "English Translation by: M. Hadi Husain"
 }

@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Of that innocent damsel who chose to fly from Eden’s magic frame there is one memento left a sigh, and fragrance is its name.\n[Translated by M Hadi Hussain]",
+              "_content": "Of that innocent damsel who chose to fly from Eden’s magic frame there is one memento left a sigh, and fragrance is its name.",
               "lang": "English"
             }
           ]
@@ -98,5 +98,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Fragrance Of The Rose"
+  "name-en": "The Fragrance Of The Rose",
+  "credits": "English Translation by: M Hadi Hussain"
 }

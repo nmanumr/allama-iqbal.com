@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You are still tied to colour and to race, so you call me Afghan or Turkoman. \nBut I am first of all a man, plain man, and then an Indian or Turanian.\n[Translated by M Hadi Hussain]",
+              "_content": "You are still tied to colour and to race, so you call me Afghan or Turkoman. \nBut I am first of all a man, plain man, and then an Indian or Turanian.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

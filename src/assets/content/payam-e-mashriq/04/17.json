@@ -197,7 +197,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Shirin’s beauty never goes abegging: Khusroes or Farhads are never lacking.’ \n(Translated by M. Hadi Husain)",
+              "_content": "‘Shirin’s beauty never goes abegging: Khusroes or Farhads are never lacking.’",
               "lang": "English"
             }
           ]
@@ -206,5 +206,6 @@
       "id": 2
     }
   ],
-  "name-en": "Dialogue Between Lenin And Kaiser Wilhelm"
+  "name-en": "Dialogue Between Lenin And Kaiser Wilhelm",
+  "credits": "English Translation by: M. Hadi Husain"
 }

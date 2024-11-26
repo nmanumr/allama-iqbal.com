@@ -55,7 +55,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If the truth has no fervour, it is plain philosophy. If it has the proper fervour, it is poetry. \n(Translated by M. Hadi Husain)",
+              "_content": "If the truth has no fervour, it is plain philosophy. If it has the proper fervour, it is poetry.",
               "lang": "English"
             }
           ]
@@ -64,5 +64,6 @@
       "id": 1
     }
   ],
-  "name-en": "Philosophy And Poetry"
+  "name-en": "Philosophy And Poetry",
+  "credits": "English Translation by: M. Hadi Husain"
 }

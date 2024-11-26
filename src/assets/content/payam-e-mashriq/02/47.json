@@ -123,7 +123,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When I am out, it is an empty place, which nobody would care to walk into.’\n[Translated by M. Hadi Husain]",
+              "_content": "When I am out, it is an empty place, which nobody would care to walk into.’",
               "lang": "English"
             }
           ]
@@ -132,5 +132,6 @@
       "id": 1
     }
   ],
-  "name-en": "Ghani Kashmiri"
+  "name-en": "Ghani Kashmiri",
+  "credits": "English Translation by: M. Hadi Husain"
 }

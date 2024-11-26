@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Don’t arrange a party on the shore, for there the song of life is gentle and soft. \nRoll with the ocean and contend with its waves: Struggle and combat give eternal life. \n(Translated by M. Hadi Husain)",
+              "_content": "Don’t arrange a party on the shore, for there the song of life is gentle and soft. \nRoll with the ocean and contend with its waves: Struggle and combat give eternal life.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

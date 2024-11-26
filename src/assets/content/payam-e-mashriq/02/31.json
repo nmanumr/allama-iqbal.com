@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "We who have come out to pursue the path of seeking have converted knowledge into action and thus made it live. \n(Translated by M. Hadi Husain)",
+              "_content": "We who have come out to pursue the path of seeking have converted knowledge into action and thus made it live.",
               "lang": "English"
             }
           ]
@@ -109,5 +109,6 @@
       "id": 1
     }
   ],
-  "name-en": "The World Of Action"
+  "name-en": "The World Of Action",
+  "credits": "English Translation by: M. Hadi Husain"
 }

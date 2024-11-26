@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My heart to its own spell is prisoner; the world is lightened by its radiance fair. \nSeek not my dawn and even in a sun that ere my rising shone a many year. \n(Translated by A.J. Arberry)",
+              "_content": "My heart to its own spell is prisoner; the world is lightened by its radiance fair. \nSeek not my dawn and even in a sun that ere my rising shone a many year.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

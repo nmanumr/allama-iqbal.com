@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "For danger brings out what is best in you: It is the touchstone of all that is true.’\n[Translated by M Hadi Hussain]",
+              "_content": "For danger brings out what is best in you: It is the touchstone of all that is true.’",
               "lang": "English"
             }
           ]
@@ -115,5 +115,6 @@
       "id": 1
     }
   ],
-  "name-en": "Live Dangerously"
+  "name-en": "Live Dangerously",
+  "credits": "English Translation by: M Hadi Hussain"
 }

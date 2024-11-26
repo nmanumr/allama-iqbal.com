@@ -55,7 +55,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When I die, let my ashes form a bed where tulips will be bred, so that my passion’s wounds, revived, may shine in tulips’ hearts again.\n(Translated by M. Hadi Husain)",
+              "_content": "When I die, let my ashes form a bed where tulips will be bred, so that my passion’s wounds, revived, may shine in tulips’ hearts again.",
               "lang": "English"
             }
           ]
@@ -64,5 +64,6 @@
       "id": 1
     }
   ],
-  "name-en": "A Prayer"
+  "name-en": "A Prayer",
+  "credits": "English Translation by: M. Hadi Husain"
 }

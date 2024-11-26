@@ -344,7 +344,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Come pour a drop upon him of your soul-enkindling wine, and from his smouldering ashes make a spark leap up and shine.\n[Translated by M. Hadi Husain]",
+              "_content": "Come pour a drop upon him of your soul-enkindling wine, and from his smouldering ashes make a spark leap up and shine.",
               "lang": "English"
             }
           ]
@@ -353,5 +353,6 @@
       "id": 1
     }
   ],
-  "name-en": "Sakinama"
+  "name-en": "Sakinama",
+  "credits": "English Translation by: M. Hadi Husain"
 }

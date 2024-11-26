@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O heavens, your eyes have still a pitiless, foreboding look. I fear that you intend to stage one more grim show.\n(Translated by M. Hadi Husain)",
+              "_content": "O heavens, your eyes have still a pitiless, foreboding look. I fear that you intend to stage one more grim show.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

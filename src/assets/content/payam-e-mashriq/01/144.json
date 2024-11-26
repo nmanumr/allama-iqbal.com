@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Out of my restless spirit the flames start, in the East’s bosom I have stirred a heart.\nIts clay is set afire by my lament, like lightning to its inmost soul I dart.\n(Translated by M. Hadi Husain)",
+              "_content": "Out of my restless spirit the flames start, in the East’s bosom I have stirred a heart.\nIts clay is set afire by my lament, like lightning to its inmost soul I dart.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

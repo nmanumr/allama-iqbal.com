@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The garden songsters’ chorus I, for one, do not join, but sing on my branch alone.\nIf you are weak, do not come near me; for in my song you will see my heart’s blood drawn. \n[Translated by M Hadi Hussain]",
+              "_content": "The garden songsters’ chorus I, for one, do not join, but sing on my branch alone.\nIf you are weak, do not come near me; for in my song you will see my heart’s blood drawn.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The roving heart likes not at borne to stay, to be contained in water, fire, and clay;\nThink not that in the body is repose, this rolling sea comes to no shore to play. \n(Translated by M. Hadi Husain)",
+              "_content": "The roving heart likes not at borne to stay, to be contained in water, fire, and clay;\nThink not that in the body is repose, this rolling sea comes to no shore to play.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

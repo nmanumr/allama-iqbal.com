@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Nest amid roses and anemones, learn from the thrush his plangent melodies.\nIf impotence has made thee grey and old, from the world’s youth a vital portion seize!\n[Translated by M Hadi Hussain]",
+              "_content": "Nest amid roses and anemones, learn from the thrush his plangent melodies.\nIf impotence has made thee grey and old, from the world’s youth a vital portion seize!",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

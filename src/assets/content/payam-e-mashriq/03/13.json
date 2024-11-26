@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O morning breeze, convey my greetings to the happy Weimar town. The light that radiated from it has illumined many sages’ minds.\n(Weimar: German town where Goethe spent most part of his life.)\n[Translated by M Hadi Hussain]",
+              "_content": "O morning breeze, convey my greetings to the happy Weimar town. The light that radiated from it has illumined many sages’ minds.\n(Weimar: German town where Goethe spent most part of his life.)",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

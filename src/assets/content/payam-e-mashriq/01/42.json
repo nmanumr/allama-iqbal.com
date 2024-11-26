@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I never got attached to this world, this fair-seeming garden, and its vanities.\nBut rather, lending colour to its flowers, I wandered round it like the morning breeze. \n[Translated by M Hadi Hussain]",
+              "_content": "I never got attached to this world, this fair-seeming garden, and its vanities.\nBut rather, lending colour to its flowers, I wandered round it like the morning breeze.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

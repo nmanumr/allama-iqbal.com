@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The world, that findeth in itself no stay, sought in the street of yearning for a way:\nFrom the embrace of non-existence fled, and last in Adam’s heart for refuge lay.\n(Translated by A.J. Arberry)",
+              "_content": "The world, that findeth in itself no stay, sought in the street of yearning for a way:\nFrom the embrace of non-existence fled, and last in Adam’s heart for refuge lay.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "What maketh Foul and Fair, how shall I say? Tongue trembleth, such a riddle to declare:\nWithout the stem, thou seest rose and thorn; within, nor rose nor thorn is patent there.\n(Translated by M. Hadi Husain)",
+              "_content": "What maketh Foul and Fair, how shall I say? Tongue trembleth, such a riddle to declare:\nWithout the stem, thou seest rose and thorn; within, nor rose nor thorn is patent there.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

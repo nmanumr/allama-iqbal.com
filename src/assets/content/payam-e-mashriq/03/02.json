@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "No one has realized that I too have some worth. I am a precious object fallen into the hands of blind men.\n[Translated by M Hadi Hussain]",
+              "_content": "No one has realized that I too have some worth. I am a precious object fallen into the hands of blind men.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

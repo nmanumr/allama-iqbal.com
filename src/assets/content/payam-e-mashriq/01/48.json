@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Go and tell this to Gabriel from me: Though not all light like him, I yet aspire to God. \nThis keeps my dust alight; but it does not keep cold creatures of light afire.\n[Translated by M Hadi Hussain]",
+              "_content": "Go and tell this to Gabriel from me: Though not all light like him, I yet aspire to God. \nThis keeps my dust alight; but it does not keep cold creatures of light afire.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

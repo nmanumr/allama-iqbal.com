@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My heart! My heart! My heart! My ocean, my boat, my shore!\nDid you fall like dew on my dusty being, or did you sprout like a bud out of my soil? \n(Translated by Mustansir Mir)",
+              "_content": "My heart! My heart! My heart! My ocean, my boat, my shore!\nDid you fall like dew on my dusty being, or did you sprout like a bud out of my soil?",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

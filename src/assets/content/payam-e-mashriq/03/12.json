@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O, lay some new foundation, for we happen to like novelty. What is this giddy peep-how You have made of yesterdays, to-morrows and to-days?\n(Translated by M. Hadi Husain)",
+              "_content": "O, lay some new foundation, for we happen to like novelty. What is this giddy peep-how You have made of yesterdays, to-morrows and to-days?",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

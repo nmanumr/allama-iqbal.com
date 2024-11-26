@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My talk is with the songsters of the glade; the tongue of tongueless rosebuds I was made.\nWhen I am dead, O cast my dust on air – attending roses is my only trade. \n(Translated by M. Hadi Husain)",
+              "_content": "My talk is with the songsters of the glade; the tongue of tongueless rosebuds I was made.\nWhen I am dead, O cast my dust on air – attending roses is my only trade.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

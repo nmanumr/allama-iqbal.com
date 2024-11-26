@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "However, here it is: What gives to life intensity is ardency. It lends life wings with which to fly.’\n(Translated by M. Hadi Husain)",
+              "_content": "However, here it is: What gives to life intensity is ardency. It lends life wings with which to fly.’",
               "lang": "English"
             }
           ]
@@ -98,5 +98,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Bookworm"
+  "name-en": "The Bookworm",
+  "credits": "English Translation by: M. Hadi Husain"
 }

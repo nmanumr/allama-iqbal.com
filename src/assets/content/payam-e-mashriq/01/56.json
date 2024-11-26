@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Tell thou for me that poet of bright words: Thou tulip flame, what profit does it bring? \nThou meltest not thyself with such a fire, no lightest up the night of sorrowing. \n(Translated by M. Hadi Husain)",
+              "_content": "Tell thou for me that poet of bright words: Thou tulip flame, what profit does it bring? \nThou meltest not thyself with such a fire, no lightest up the night of sorrowing.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

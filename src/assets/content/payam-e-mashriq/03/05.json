@@ -157,7 +157,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The joy of being on the wing will not let me rest in my nest. One moment on a tree branch, the next I am on the stream’s brink. \n[Translated by M Hadi Hussain]",
+              "_content": "The joy of being on the wing will not let me rest in my nest. One moment on a tree branch, the next I am on the stream’s brink.",
               "lang": "English"
             }
           ]
@@ -165,5 +165,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Love reckoneth the price of eagles cheap, and giveth pheasants to the falcons’ grip.\nOur hearts look carefully to their defence, but suddenly, out of ambush, Love doth leap. \n(Translated by M. Hadi Husain)",
+              "_content": "Love reckoneth the price of eagles cheap, and giveth pheasants to the falcons’ grip.\nOur hearts look carefully to their defence, but suddenly, out of ambush, Love doth leap.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

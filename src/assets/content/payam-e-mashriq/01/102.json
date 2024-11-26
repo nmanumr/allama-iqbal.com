@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Our world, a piece of work not yet finished, is hostage to the alteration of day and night;\nThe file of fate will rub it smooth: This clay sculpture is still being made. \n(Translated by Mustansir Mir)",
+              "_content": "Our world, a piece of work not yet finished, is hostage to the alteration of day and night;\nThe file of fate will rub it smooth: This clay sculpture is still being made.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

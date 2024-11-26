@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When I knocked at the tavern door, the tavern-keeper said: ‘Go, light a fire in the Harem itself, and let it set your heart aflame.’\n[Translated by M Hadi Hussain]",
+              "_content": "When I knocked at the tavern door, the tavern-keeper said: ‘Go, light a fire in the Harem itself, and let it set your heart aflame.’",
               "lang": "English"
             }
           ]
@@ -148,5 +148,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

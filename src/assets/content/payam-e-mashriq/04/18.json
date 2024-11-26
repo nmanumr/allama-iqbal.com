@@ -67,7 +67,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Bergson: It did not bring either wine or a cup from eternity: The tulip gets its eternal passion from the scar in its own heart. \n(Translated by Mustansir Mir)",
+              "_content": "Bergson: It did not bring either wine or a cup from eternity: The tulip gets its eternal passion from the scar in its own heart.",
               "lang": "English"
             }
           ]
@@ -76,5 +76,6 @@
       "id": 3
     }
   ],
-  "name-en": "Philosophers"
+  "name-en": "Philosophers",
+  "credits": "English Translation by: Mustansir Mir"
 }

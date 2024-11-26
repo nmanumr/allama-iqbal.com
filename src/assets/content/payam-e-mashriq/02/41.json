@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Not every subtle point can be expressed in words. Consult a while your own heart: maybe you will see my point made in the heart’s own style.\n(Translated by M. Hadi Husain)",
+              "_content": "Not every subtle point can be expressed in words. Consult a while your own heart: maybe you will see my point made in the heart’s own style.",
               "lang": "English"
             }
           ]
@@ -81,5 +81,6 @@
       "id": 1
     }
   ],
-  "name-en": "Love"
+  "name-en": "Love",
+  "credits": "English Translation by: M. Hadi Husain"
 }

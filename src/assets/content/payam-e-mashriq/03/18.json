@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ascetic that I am, too proud to ask, my creed is this: That I had rather see my body break to bits than seek a medicine to keep it whole.\n(Translated by M. Hadi Husain)",
+              "_content": "Ascetic that I am, too proud to ask, my creed is this: That I had rather see my body break to bits than seek a medicine to keep it whole.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

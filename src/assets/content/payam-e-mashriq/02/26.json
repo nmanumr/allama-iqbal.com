@@ -55,7 +55,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If the night be dark as deer’s eyes, I light my path myself.\n(Translated by M. Hadi Husain)",
+              "_content": "If the night be dark as deer’s eyes, I light my path myself.",
               "lang": "English"
             }
           ]
@@ -64,5 +64,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Glow-Worm"
+  "name-en": "The Glow-Worm",
+  "credits": "English Translation by: M. Hadi Husain"
 }

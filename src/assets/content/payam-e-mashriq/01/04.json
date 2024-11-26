@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Love gives the garden the soft breeze of May, Love lights the star-buds in the meadow gay. \nThe ray of passion plunges through the deep, Love gives the fishes sight to see the way. \n(Translated by M. Hadi Husain)",
+              "_content": "Love gives the garden the soft breeze of May, Love lights the star-buds in the meadow gay. \nThe ray of passion plunges through the deep, Love gives the fishes sight to see the way.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

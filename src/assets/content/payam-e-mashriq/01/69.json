@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Our infinite world – of old Time’s ocean swallows it up (like fish).\nLook once in thy heart, and behold Time’s ocean sunk in a cup. \n(Translated by R.A. Nicholson)",
+              "_content": "Our infinite world – of old Time’s ocean swallows it up (like fish).\nLook once in thy heart, and behold Time’s ocean sunk in a cup.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: R.A. Nicholson"
 }

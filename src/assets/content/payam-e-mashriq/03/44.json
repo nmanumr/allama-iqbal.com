@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You went around the Ka‘bah, and you went around the idol-house. But you did not engage your vision with yourself. Alas!\n(Translated by M. Hadi Husain)",
+              "_content": "You went around the Ka‘bah, and you went around the idol-house. But you did not engage your vision with yourself. Alas!",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

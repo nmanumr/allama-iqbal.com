@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I have revealed to you the secret of success in life. Let no one know of it, if you care for success.\n(Translated by M. Hadi Husain)",
+              "_content": "I have revealed to you the secret of success in life. Let no one know of it, if you care for success.",
               "lang": "English"
             }
           ]
@@ -149,5 +149,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Tavern Of The West"
+  "name-en": "The Tavern Of The West",
+  "credits": "English Translation by: M. Hadi Husain"
 }

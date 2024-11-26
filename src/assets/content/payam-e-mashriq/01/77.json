@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Set not the chain of Fate upon thy foot; there is a way beyond this rolling sphere. \nIf thou believest not, rise up, and find thy foot uplifted leapeth in the air. \n(Translated by M. Hadi Husain)",
+              "_content": "Set not the chain of Fate upon thy foot; there is a way beyond this rolling sphere. \nIf thou believest not, rise up, and find thy foot uplifted leapeth in the air.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

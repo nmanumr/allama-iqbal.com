@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If thou wouldst read Life as an open book, be not a spark divided from the brand.\nBeing the familiar eye, the friendly look, nor visit strange-like thy native land.\nO thou by vain imaginings befooled, get thee a reason which the Heart hath schooled! \n(Translated by R.A. Nicholson)",
+              "_content": "If thou wouldst read Life as an open book, be not a spark divided from the brand.\nBeing the familiar eye, the friendly look, nor visit strange-like thy native land.\nO thou by vain imaginings befooled, get thee a reason which the Heart hath schooled!",
               "lang": "English"
             }
           ]
@@ -30,5 +30,6 @@
       "id": 1
     }
   ],
-  "name-en": "Bergson’S Message"
+  "name-en": "Bergson’S Message",
+  "credits": "English Translation by: R.A. Nicholson"
 }

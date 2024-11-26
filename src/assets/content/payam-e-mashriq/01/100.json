@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Declare: how in the heart is born desire, how in the dwelling burns the lantern’s fire. \nWho sees with this our sight, and what he sees, and how the soul was lodged within our ware. \n(Translated by M. Hadi Husain)",
+              "_content": "Declare: how in the heart is born desire, how in the dwelling burns the lantern’s fire. \nWho sees with this our sight, and what he sees, and how the soul was lodged within our ware.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

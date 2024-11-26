@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Perchance, grave minister, thou knowest not Love too shall have its Judgment after death:\nBut in that Hall nor Book nor Balance is, nor sin, nor infidelity, nor faith.\n(Translated by M. Hadi Husain)",
+              "_content": "Perchance, grave minister, thou knowest not Love too shall have its Judgment after death:\nBut in that Hall nor Book nor Balance is, nor sin, nor infidelity, nor faith.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

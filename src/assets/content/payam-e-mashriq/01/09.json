@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The world is clay; our hearts its harvest be; yet is this drop of blood its mystery.\nSurely our sight is double, or the world of every man is in his heart to see. \n(Translated by A.J. Arberry)",
+              "_content": "The world is clay; our hearts its harvest be; yet is this drop of blood its mystery.\nSurely our sight is double, or the world of every man is in his heart to see.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: A.J. Arberry"
 }

@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I draw the curtain and behind it speak. O I am a blood-shedding sword, but I keep myself sheathed.\n(Translated by M. Hadi Husain)",
+              "_content": "I draw the curtain and behind it speak. O I am a blood-shedding sword, but I keep myself sheathed.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

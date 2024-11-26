@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "And there is no heat in its air of a fervent sigh. No one is so intoxicated by its wine as to sway on his feet.\n(Translated by M. Hadi Husain)",
+              "_content": "And there is no heat in its air of a fervent sigh. No one is so intoxicated by its wine as to sway on his feet.",
               "lang": "English"
             }
           ]
@@ -81,5 +81,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Wine-Shop Of The West"
+  "name-en": "The Wine-Shop Of The West",
+  "credits": "English Translation by: M. Hadi Husain"
 }

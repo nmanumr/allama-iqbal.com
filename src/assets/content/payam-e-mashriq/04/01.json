@@ -817,7 +817,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘I see in the dark night a portent of the coming dawn. My candle has been put out, but to greet the rising sun.’\n(Translated by M. Hadi Husain)",
+              "_content": "‘I see in the dark night a portent of the coming dawn. My candle has been put out, but to greet the rising sun.’",
               "lang": "English"
             }
           ]
@@ -826,5 +826,6 @@
       "id": 9
     }
   ],
-  "name-en": "A Message (To The West)"
+  "name-en": "A Message (To The West)",
+  "credits": "English Translation by: M. Hadi Husain"
 }

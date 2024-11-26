@@ -89,7 +89,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I am a traveler on the road: You are my goal and my abode. I am a field that has been sowed and you the yield it has bestowed. By yourself a grand orchestra, you fill the world with your eclat.\nO you, who have strayed from your way in this world made of grades of clay, try to find out what part it may be fitting for the heart to play. Contained in this cup you can see the whole of being’s boundless sea. It was your own tide riding high that made the raging storm that I am be.\n[Translated by M Hadi Hussain]",
+              "_content": "I am a traveler on the road: You are my goal and my abode. I am a field that has been sowed and you the yield it has bestowed. By yourself a grand orchestra, you fill the world with your eclat.\nO you, who have strayed from your way in this world made of grades of clay, try to find out what part it may be fitting for the heart to play. Contained in this cup you can see the whole of being’s boundless sea. It was your own tide riding high that made the raging storm that I am be.",
               "lang": "English"
             }
           ]
@@ -98,5 +98,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Song Of Time"
+  "name-en": "The Song Of Time",
+  "credits": "English Translation by: M Hadi Hussain"
 }

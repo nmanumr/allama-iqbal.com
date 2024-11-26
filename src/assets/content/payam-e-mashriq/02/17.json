@@ -140,7 +140,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I now stand by my breast rent open to the sun’s effulgence so that it may set ablaze again the fire of my prenatal days.\n[Translated by M. Hadi Husain]",
+              "_content": "I now stand by my breast rent open to the sun’s effulgence so that it may set ablaze again the fire of my prenatal days.",
               "lang": "English"
             }
           ]
@@ -149,5 +149,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Tulip"
+  "name-en": "The Tulip",
+  "credits": "English Translation by: M. Hadi Husain"
 }

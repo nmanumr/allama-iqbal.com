@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Burn thyself in the fire of that Nimrod, for the garden of Abraham is produced from fire. \n(Translated by R.A. Nicholson)",
+              "_content": "Burn thyself in the fire of that Nimrod, for the garden of Abraham is produced from fire.",
               "lang": "English"
             }
           ]
@@ -81,5 +81,6 @@
       "id": 1
     }
   ],
-  "name-en": "Nietzsche"
+  "name-en": "Nietzsche",
+  "credits": "English Translation by: R.A. Nicholson"
 }

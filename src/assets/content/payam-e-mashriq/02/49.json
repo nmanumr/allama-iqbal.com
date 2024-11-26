@@ -208,7 +208,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Be it high, be it low, have you done well your tasks on earth that you are meddling with the sky?’\n[Translated by M Hadi Hussain]",
+              "_content": "‘Be it high, be it low, have you done well your tasks on earth that you are meddling with the sky?’",
               "lang": "English"
             }
           ]
@@ -216,5 +216,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
 }

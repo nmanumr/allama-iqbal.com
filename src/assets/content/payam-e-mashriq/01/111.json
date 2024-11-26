@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In the narcissus bed a bud did rise, the dew of dawn washed slumber from its eyes. \nSelf out of selflessness appeared, and so what it had sought, the world did realize. \n(Translated by M. Hadi Husain)",
+              "_content": "In the narcissus bed a bud did rise, the dew of dawn washed slumber from its eyes. \nSelf out of selflessness appeared, and so what it had sought, the world did realize.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }
