@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "DIVISION BETWEEN THE CAPITALIST AND THE LABOURER\nCapitalist: Mine is the din of the steel factory, and yours is the church organ’s melody.",
+              "_content": "Capitalist: Mine is the din of the steel factory, and yours is the church organ’s melody.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Division Between The Capitalist And The Labourer"
 }

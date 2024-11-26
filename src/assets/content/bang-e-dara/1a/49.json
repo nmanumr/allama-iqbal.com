@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE TRAVELER'S REQUEST\nAt the tomb of Hazrat Mehboob Elahi of Delhi\nWhat angels recite is your exalted name: Your threshold is exalted, your munificence is gernera.",
+              "_content": "At the tomb of Hazrat Mehboob Elahi of Delhi\nWhat angels recite is your exalted name: Your threshold is exalted, your munificence is gernera.",
               "lang": "English"
             }
           ]
@@ -354,5 +354,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "The Traveler'S Request"
 }

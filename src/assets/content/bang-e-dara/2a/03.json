@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MESSAGE\nLove made you acquainted with the taste of affliction; like assembly’s candle give affliction’s gift to the assembly.",
+              "_content": "Love made you acquainted with the taste of affliction; like assembly’s candle give affliction’s gift to the assembly.",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Message"
 }

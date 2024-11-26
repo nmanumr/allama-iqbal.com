@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "INDIAN SCHOOL\nAbout the Self here have no talk, O bard, because with schools such sermons don't accord.",
+              "_content": "About the Self here have no talk, O bard, because with schools such sermons don't accord.",
               "lang": "English"
             }
           ]
@@ -128,5 +128,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Indian School"
 }

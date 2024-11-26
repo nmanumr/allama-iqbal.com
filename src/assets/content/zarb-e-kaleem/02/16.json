@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "UPBRINGING\nExistence and knowledge both are poles apart, life burns the soul, whereas lore makes it smart.",
+              "_content": "Existence and knowledge both are poles apart, life burns the soul, whereas lore makes it smart.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Upbringing"
 }

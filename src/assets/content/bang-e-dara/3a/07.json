@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE PHILOSOPHY OF GRIEF\nThough the wine of life is the embodiment of pleasure; the cloud of life carries tears also in its skirt.",
+              "_content": "Though the wine of life is the embodiment of pleasure; the cloud of life carries tears also in its skirt.",
               "lang": "English"
             }
           ]
@@ -560,5 +560,6 @@
       ],
       "id": 7
     }
-  ]
+  ],
+  "name-en": "The Philosophy Of Grief"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE HOSPITAL OF HIJAZ\nA leader of the nation once said to Iqbal: ‘A hospital is about to open in Jeddah for Hijaz.",
+              "_content": "A leader of the nation once said to Iqbal: ‘A hospital is about to open in Jeddah for Hijaz.",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Hospital Of Hijaz"
 }

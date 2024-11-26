@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "“SA’ID HALIM PASHA”: EAST AND WEST\n\nFor Westerners intelligence is the stuff of life, for Easterners love is the mystery of all being;",
+              "_content": "\nFor Westerners intelligence is the stuff of life, for Easterners love is the mystery of all being;",
               "lang": "English"
             }
           ]
@@ -506,5 +506,6 @@
       ],
       "id": 4
     }
-  ]
+  ],
+  "name-en": "“Sa’Id Halim Pasha”: East And West"
 }

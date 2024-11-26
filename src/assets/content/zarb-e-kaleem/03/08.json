@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "WOMEN AND EDUCATION\nIf Frankish culture blights the motherly urge, for human race it means a funeral dirge.",
+              "_content": "If Frankish culture blights the motherly urge, for human race it means a funeral dirge.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Women And Education"
 }

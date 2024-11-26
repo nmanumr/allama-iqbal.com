@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ABYSSINIA\nThe vultures of Europe still do not know that poison in Abyssinian corpse does flow: The old corpse may with speed to fragments go.",
+              "_content": "The vultures of Europe still do not know that poison in Abyssinian corpse does flow: The old corpse may with speed to fragments go.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Abyssinia"
 }

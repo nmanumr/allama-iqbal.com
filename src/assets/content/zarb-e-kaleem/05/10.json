@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE EAST\nBy strains I sing at early morn, the vest of tulip has been torn.\nBreeze has been roaming since the dark, but has not found a single park.",
+              "_content": "By strains I sing at early morn, the vest of tulip has been torn.\nBreeze has been roaming since the dark, but has not found a single park.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The East"
 }

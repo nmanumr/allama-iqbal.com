@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "GRANDEUR AND GRACE\nWith Haider's might and brawn I feel myself content; I wish you joy of wit, to you by Plato lent.",
+              "_content": "With Haider's might and brawn I feel myself content; I wish you joy of wit, to you by Plato lent.",
               "lang": "English"
             }
           ]
@@ -76,5 +76,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Grandeur And Grace"
 }

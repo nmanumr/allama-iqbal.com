@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE PURGATORY\nA Dead to his grave: \nOf which today’s next would be doomsday? O my old chamber! What is doomsday?",
+              "_content": "A Dead to his grave: \nOf which today’s next would be doomsday? O my old chamber! What is doomsday?",
               "lang": "English"
             }
           ]
@@ -301,5 +301,6 @@
       ],
       "id": 7
     }
-  ]
+  ],
+  "name-en": "The Purgatory"
 }

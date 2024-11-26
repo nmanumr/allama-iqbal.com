@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ADAM\nThe Talisman wrought from mud and clay, whom we give the name of mail, is mystery known to God alone, its essence true we can not scan.",
+              "_content": "The Talisman wrought from mud and clay, whom we give the name of mail, is mystery known to God alone, its essence true we can not scan.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Adam"
 }

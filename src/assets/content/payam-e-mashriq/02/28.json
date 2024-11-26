@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "DEW\n‘Come down’, the voices said to me, ‘from your remote celestial heights. Recoil upon yourself and get embroiled with stormy ocean-tides. \nRide where the billow rides; and make new waves besides; arise as pearls whose sheen abides.’",
+              "_content": "‘Come down’, the voices said to me, ‘from your remote celestial heights. Recoil upon yourself and get embroiled with stormy ocean-tides. \nRide where the billow rides; and make new waves besides; arise as pearls whose sheen abides.’",
               "lang": "English"
             }
           ]
@@ -165,5 +165,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Dew"
 }

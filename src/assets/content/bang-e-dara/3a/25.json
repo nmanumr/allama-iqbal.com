@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MUSLIM\nO Iqbal! Every breath of yours is veiled in sighs; your burning breast is filled with complaint.",
+              "_content": "O Iqbal! Every breath of yours is veiled in sighs; your burning breast is filled with complaint.",
               "lang": "English"
             }
           ]
@@ -300,5 +300,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Muslim"
 }

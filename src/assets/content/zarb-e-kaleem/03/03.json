@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "VEIL\nGreat change the lofty spheres have met, O God! The world his not budged as yet.",
+              "_content": "Great change the lofty spheres have met, O God! The world his not budged as yet.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Veil"
 }

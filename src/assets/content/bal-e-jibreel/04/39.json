@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ABU AL ‘ALA AL-MA‘ARRI\nIt is said that Ma‘arri never ate meat; he lived on fruit and vegetables.",
+              "_content": "It is said that Ma‘arri never ate meat; he lived on fruit and vegetables.",
               "lang": "English"
             }
           ]
@@ -109,5 +109,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Abu Al ‘Ala Al-Ma‘Arri"
 }

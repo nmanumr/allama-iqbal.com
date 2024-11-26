@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "GHAZAL\nO fearless wave, at bed of river gems are found. What are the gifts of coast? There dust and thorns abound.",
+              "_content": "O fearless wave, at bed of river gems are found. What are the gifts of coast? There dust and thorns abound.",
               "lang": "English"
             }
           ]
@@ -127,5 +127,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Ghazal"
 }

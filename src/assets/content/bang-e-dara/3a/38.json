@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SIEGE OF ADRIANOPLE\nWhen the struggle between Truth and falsehood began in Europe; the Truth was compelled on wielding the dagger.",
+              "_content": "When the struggle between Truth and falsehood began in Europe; the Truth was compelled on wielding the dagger.",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Siege Of Adrianople"
 }

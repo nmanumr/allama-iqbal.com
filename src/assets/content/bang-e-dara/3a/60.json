@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "RELIGION\nJudge not your nation on the criteria of Western nations; special in composition is the Hashimi Prophet’s (S.A.W.) nation.",
+              "_content": "Judge not your nation on the criteria of Western nations; special in composition is the Hashimi Prophet’s (S.A.W.) nation.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Religion"
 }

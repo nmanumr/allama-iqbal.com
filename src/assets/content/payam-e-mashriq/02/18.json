@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PHILOSOPHY AND POETRY\nBu Ali got lost in the dust kicked up by Layla’s dromedary. Rumi’s hand seized the curtain of her litter.",
+              "_content": "Bu Ali got lost in the dust kicked up by Layla’s dromedary. Rumi’s hand seized the curtain of her litter.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Philosophy And Poetry"
 }

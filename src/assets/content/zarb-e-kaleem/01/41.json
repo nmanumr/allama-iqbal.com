@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "BELIEVER\nIn the world: A man whose faith is firm and strong is soft as silk in friendly throng in skirmish between wrong and right like sword of steel, he stands to fight.",
+              "_content": "In the world: A man whose faith is firm and strong is soft as silk in friendly throng in skirmish between wrong and right like sword of steel, he stands to fight.",
               "lang": "English"
             }
           ]
@@ -83,5 +83,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Believer"
 }

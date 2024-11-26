@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SUN’S RAY\nAt the dawn when my eye was enjoying the panorama I saw that a ray of the sun was wandering about.",
+              "_content": "At the dawn when my eye was enjoying the panorama I saw that a ray of the sun was wandering about.",
               "lang": "English"
             }
           ]
@@ -157,5 +157,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Sun’S Ray"
 }

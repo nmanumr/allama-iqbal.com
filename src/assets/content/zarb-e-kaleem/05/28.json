@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LEAGUE OF NATIONS\nThe League appears to be in death's tight grips; I fear this grim news may escape my lips.",
+              "_content": "The League appears to be in death's tight grips; I fear this grim news may escape my lips.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "League Of Nations"
 }

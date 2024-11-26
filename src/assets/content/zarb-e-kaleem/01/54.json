@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PROPHETHOOD\nA gnostic, revivalist, jurist or expert in Prophet's maxims I do not claim; as such a Prophet's rank and state in terms precise I can't proclaim.",
+              "_content": "A gnostic, revivalist, jurist or expert in Prophet's maxims I do not claim; as such a Prophet's rank and state in terms precise I can't proclaim.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Prophethood"
 }

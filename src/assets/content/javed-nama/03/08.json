@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "WISDOM IS A GREAT GOOD\n\nGod has declared, Wisdom is a great good; wherever you may see this good, seize it.",
+              "_content": "\nGod has declared, Wisdom is a great good; wherever you may see this good, seize it.",
               "lang": "English"
             }
           ]
@@ -892,5 +892,6 @@
       ],
       "id": 6
     }
-  ]
+  ],
+  "name-en": "Wisdom Is A Great Good"
 }

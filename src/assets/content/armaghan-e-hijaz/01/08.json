@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "MYSTERIOUS VOICE\nAt dawn thus echoes a voice beyond sky: How you lost the essence of ken and pry.",
+              "_content": "At dawn thus echoes a voice beyond sky: How you lost the essence of ken and pry.",
               "lang": "English"
             }
           ]
@@ -127,5 +127,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Mysterious Voice"
 }

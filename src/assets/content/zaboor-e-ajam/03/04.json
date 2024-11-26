@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "QUESTION 3\nWhat is the union of the contingent and the necessary? What are ‘near-and-far’, ‘more-and-less’?",
+              "_content": "What is the union of the contingent and the necessary? What are ‘near-and-far’, ‘more-and-less’?",
               "lang": "English"
             }
           ]
@@ -663,5 +663,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Question 3"
 }

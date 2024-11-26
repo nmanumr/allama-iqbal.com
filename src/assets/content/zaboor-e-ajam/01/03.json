@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "INVOCATION\nI pray thee, Lord; to me impart within my breast a conscious heart: Give me the vision to divine the rapture pulsing through the wine.",
+              "_content": "I pray thee, Lord; to me impart within my breast a conscious heart: Give me the vision to divine the rapture pulsing through the wine.",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Invocation"
 }

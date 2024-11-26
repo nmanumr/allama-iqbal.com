@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE ANGELS BID FAREWELL TO ADAM\nYou have been given the restlessness of Day and Night, we know not whether you are made of clay or mercury;",
+              "_content": "You have been given the restlessness of Day and Night, we know not whether you are made of clay or mercury;",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Angels Bid Farewell To Adam"
 }

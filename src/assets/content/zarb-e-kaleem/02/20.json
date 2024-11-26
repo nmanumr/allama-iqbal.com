@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "MODERN AGE\nWhere from a man can find ripe thoughts in present age? The weather of this park no ripeness can presage.",
+              "_content": "Where from a man can find ripe thoughts in present age? The weather of this park no ripeness can presage.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Modern Age"
 }

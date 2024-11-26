@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "SPRING\nArise, for in plain, hill and dale, spring clouds have pitched their tent. \nThe nightingale sings jubilant songs to a choir’s accompaniment. Along the stream bank’s whole extent blend tulip’s tint and rose’s scent. Let your eye witness this event.\nArise, for in plain, hill and dale, spring clouds have pitched their tent.",
+              "_content": "Arise, for in plain, hill and dale, spring clouds have pitched their tent. \nThe nightingale sings jubilant songs to a choir’s accompaniment. Along the stream bank’s whole extent blend tulip’s tint and rose’s scent. Let your eye witness this event.\nArise, for in plain, hill and dale, spring clouds have pitched their tent.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Spring"
 }

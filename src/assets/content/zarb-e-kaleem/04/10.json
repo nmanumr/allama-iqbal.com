@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "RAY OF HOPE\nThe sun conveyed this message to its rays: ‘What wonder great, the change of nights and days.",
+              "_content": "The sun conveyed this message to its rays: ‘What wonder great, the change of nights and days.",
               "lang": "English"
             }
           ]
@@ -306,5 +306,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "name-en": "Ray Of Hope"
 }

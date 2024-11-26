@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THAT THE LADY FATIMA IS THE PERFECT PATTERN OF MUSLIM WOMANHOOD\n\nMary is hallowed in one line alone, that she bore Jesus; Fatima in three.",
+              "_content": "\nMary is hallowed in one line alone, that she bore Jesus; Fatima in three.",
               "lang": "English"
             }
           ]
@@ -335,5 +335,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "That The Lady Fatima Is The Perfect Pattern Of Muslim Womanhood"
 }

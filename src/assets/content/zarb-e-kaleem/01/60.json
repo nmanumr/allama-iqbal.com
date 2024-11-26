@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PUNJABI MUSLIM\nA new born Faith invokes his taste, adopts with zeal but leaves with haste.",
+              "_content": "A new born Faith invokes his taste, adopts with zeal but leaves with haste.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Punjabi Muslim"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A MESSAGE (TO THE WEST)\nO morning breeze, convey this to the Western sage from me: With wings unfolded, Wisdom is a captive all the more.",
+              "_content": "O morning breeze, convey this to the Western sage from me: With wings unfolded, Wisdom is a captive all the more.",
               "lang": "English"
             }
           ]
@@ -825,5 +825,6 @@
       ],
       "id": 9
     }
-  ]
+  ],
+  "name-en": "A Message (To The West)"
 }

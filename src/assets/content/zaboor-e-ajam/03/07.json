@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "QUESTION 6\nWhat is that part which is greater than its whole? What is the way to find that part?",
+              "_content": "What is that part which is greater than its whole? What is the way to find that part?",
               "lang": "English"
             }
           ]
@@ -613,5 +613,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Question 6"
 }

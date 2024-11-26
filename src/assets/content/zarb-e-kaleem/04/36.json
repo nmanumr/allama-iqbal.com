@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "NEW WORLD\nDecrees of Fate are not concealed from man whose heart throbbing seems, he sees the image of new World in slumberous state, during dreams.",
+              "_content": "Decrees of Fate are not concealed from man whose heart throbbing seems, he sees the image of new World in slumberous state, during dreams.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "New World"
 }

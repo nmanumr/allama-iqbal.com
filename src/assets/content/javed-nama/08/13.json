@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ADDRESS TO JAVED\nThe verbal discourse will achieve nothing; all that is in the depth of heart cannot be described.",
+              "_content": "The verbal discourse will achieve nothing; all that is in the depth of heart cannot be described.",
               "lang": "English"
             }
           ]
@@ -2330,5 +2330,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Address To Javed"
 }

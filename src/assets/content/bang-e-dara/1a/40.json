@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE FIRE-FLY\nThe fire-fly's light is shining in the garden's abode; or a candle is lighted in the assembly of flowers?",
+              "_content": "The fire-fly's light is shining in the garden's abode; or a candle is lighted in the assembly of flowers?",
               "lang": "English"
             }
           ]
@@ -312,5 +312,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "name-en": "The Fire-Fly"
 }

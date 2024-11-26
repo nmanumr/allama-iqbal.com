@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PHILOSOPHY AND RELIGION\nWherefore this succession of day and night? And what are the sun and the starry heavens?",
+              "_content": "Wherefore this succession of day and night? And what are the sun and the starry heavens?",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Philosophy And Religion"
 }

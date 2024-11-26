@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE CANDLE\nO Candle! I am also an afflicted person in the world assembly; constant complaint is my lot in the manner of the rue.*\n* Rue: A perennial evergreen shrub (Ruta graveolens, family Rutaceae) whose seed explodes when put in the fire. This property is shown in Persian and Urdu poetry as an expression of distress and lament and the restlessness it produces.)",
+              "_content": "O Candle! I am also an afflicted person in the world assembly; constant complaint is my lot in the manner of the rue.*\n* Rue: A perennial evergreen shrub (Ruta graveolens, family Rutaceae) whose seed explodes when put in the fire. This property is shown in Persian and Urdu poetry as an expression of distress and lament and the restlessness it produces.)",
               "lang": "English"
             }
           ]
@@ -519,5 +519,6 @@
       ],
       "id": 6
     }
-  ]
+  ],
+  "name-en": "The Candle"
 }

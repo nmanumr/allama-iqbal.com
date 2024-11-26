@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE TULIP\nI am the flame which on creation’s dawn was kindled in love’s heart before the nightingale and the moth came to play their sacrificial part.",
+              "_content": "I am the flame which on creation’s dawn was kindled in love’s heart before the nightingale and the moth came to play their sacrificial part.",
               "lang": "English"
             }
           ]
@@ -148,5 +148,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Tulip"
 }

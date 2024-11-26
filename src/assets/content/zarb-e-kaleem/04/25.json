@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "NEWNESS\nIf you behold the world with gaze much bright; of you the sky may beg morning light.",
+              "_content": "If you behold the world with gaze much bright; of you the sky may beg morning light.",
               "lang": "English"
             }
           ]
@@ -77,5 +77,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Newness"
 }

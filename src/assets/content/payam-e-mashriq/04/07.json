@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "EINSTEIN\nLike Moses he sought a theophany until his mind, in quest of light, unveiled its mystery.",
+              "_content": "Like Moses he sought a theophany until his mind, in quest of light, unveiled its mystery.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Einstein"
 }

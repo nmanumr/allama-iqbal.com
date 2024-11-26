@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE EARTH IS GOD'S\nWho rears the seed in the darkness of the ground? Who lifts the cloud up from the ocean wave?",
+              "_content": "Who rears the seed in the darkness of the ground? Who lifts the cloud up from the ocean wave?",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Earth Is God'S"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "GABRIEL AND SATAN\nGabriel: My old friend, how is the world of sight and sound?",
+              "_content": "Gabriel: My old friend, how is the world of sight and sound?",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 6
     }
-  ]
+  ],
+  "name-en": "Gabriel And Satan"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE PRESENT CIVILIZATION\n(Based on a Verse of Faizi)\n\nExtremely excessive is the heat of current civilization’s wine; the clay body of the Muslim has exploded into flames.",
+              "_content": "(Based on a Verse of Faizi)\n\nExtremely excessive is the heat of current civilization’s wine; the clay body of the Muslim has exploded into flames.",
               "lang": "English"
             }
           ]
@@ -145,5 +145,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Present Civilization"
 }

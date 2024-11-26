@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "AT THE MAUSOLEUM OF HADRAT AHMAD SHAH BABA\nFOUNDER OF THE AFGHAN NATION\n\nThe grave of that enlightened king from whose self a nation arose;",
+              "_content": "FOUNDER OF THE AFGHAN NATION\n\nThe grave of that enlightened king from whose self a nation arose;",
               "lang": "English"
             }
           ]
@@ -267,5 +267,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "At The Mausoleum Of Hadrat Ahmad Shah Baba"
 }

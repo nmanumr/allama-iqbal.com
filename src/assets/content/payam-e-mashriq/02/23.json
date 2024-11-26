@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A DIALOGUE BETWEEN GOD AND MAN\nGod: I made the whole world with the same water and clay, but you created Iran, Tartary, and Ethiopia.",
+              "_content": "God: I made the whole world with the same water and clay, but you created Iran, Tartary, and Ethiopia.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "A Dialogue Between God And Man"
 }

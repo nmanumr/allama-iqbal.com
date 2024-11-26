@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "STANZA\nThe mentor exhorted his disciples once: Listen to my words, in value greater than gold:\nThe Western wine is poison for the people, when the offspring knows neither pride nor skill.\n(Translated by Naim Siddiqui)",
+              "_content": "The mentor exhorted his disciples once: Listen to my words, in value greater than gold:\nThe Western wine is poison for the people, when the offspring knows neither pride nor skill.\n(Translated by Naim Siddiqui)",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Stanza"
 }

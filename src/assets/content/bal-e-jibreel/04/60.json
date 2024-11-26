@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "STANZA\nMy nature is like the fresh breeze of morn: Gentle sometimes, at other times strong;\nI give a velvet mantle to flower petals, and to prickly thorns, the sharpness of the needle.\n(Translated by Naeem Siddiqui)",
+              "_content": "My nature is like the fresh breeze of morn: Gentle sometimes, at other times strong;\nI give a velvet mantle to flower petals, and to prickly thorns, the sharpness of the needle.\n(Translated by Naeem Siddiqui)",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Stanza"
 }

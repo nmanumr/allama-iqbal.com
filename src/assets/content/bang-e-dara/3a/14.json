@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MOON\nO moon! Your beauty is the dignity of creation; circumambulating the earthly sanctuary is your old habit.\n(Earthly Sanctuary: Metaphor for Earth.)",
+              "_content": "O moon! Your beauty is the dignity of creation; circumambulating the earthly sanctuary is your old habit.\n(Earthly Sanctuary: Metaphor for Earth.)",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Moon"
 }

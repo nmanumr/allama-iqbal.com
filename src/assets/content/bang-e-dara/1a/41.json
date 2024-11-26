@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MORNING STAR –VENUS\nShould I abandon the pleasure of sun's and moon's company? And should I abandon this service of conveying dawn's message?",
+              "_content": "Should I abandon the pleasure of sun's and moon's company? And should I abandon this service of conveying dawn's message?",
               "lang": "English"
             }
           ]
@@ -344,5 +344,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "name-en": "The Morning Star –Venus"
 }

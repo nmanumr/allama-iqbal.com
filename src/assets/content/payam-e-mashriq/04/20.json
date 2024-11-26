@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE TAVERN OF THE WEST\nLast night, while I was in the tavern of the West, I was delighted by a witty thing a drinker said.",
+              "_content": "Last night, while I was in the tavern of the West, I was delighted by a witty thing a drinker said.",
               "lang": "English"
             }
           ]
@@ -148,5 +148,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Tavern Of The West"
 }

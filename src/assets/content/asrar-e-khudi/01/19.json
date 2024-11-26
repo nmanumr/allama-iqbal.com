@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "INVOCATION\n\nO Thou that art as the soul in the body of the universe, Thou art our soul end thou art ever fleeing from us.",
+              "_content": "O Thou that art as the soul in the body of the universe, Thou art our soul end thou art ever fleeing from us.",
               "lang": "English"
             }
           ]
@@ -793,5 +793,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Invocation"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "FERVOUR FOR ACTION\nThe mystic mode has naught except the inner changes of the heart. The talk of Mullah on his creed is merely piece of fiery art.",
+              "_content": "The mystic mode has naught except the inner changes of the heart. The talk of Mullah on his creed is merely piece of fiery art.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Fervour For Action"
 }

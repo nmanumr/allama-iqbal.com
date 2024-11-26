@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "QUESTION 9\nWho at last became familiar with the secret of unity? Who is the wise man that is agnostic?",
+              "_content": "Who at last became familiar with the secret of unity? Who is the wise man that is agnostic?",
               "lang": "English"
             }
           ]
@@ -154,5 +154,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Question 9"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE UNFAITHFUL LOVER\nO Iqbal! You are a strange mixture of opposites; you are the elegance of assembly’s crowd as well as alone.",
+              "_content": "O Iqbal! You are a strange mixture of opposites; you are the elegance of assembly’s crowd as well as alone.",
               "lang": "English"
             }
           ]
@@ -430,5 +430,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "The Unfaithful Lover"
 }

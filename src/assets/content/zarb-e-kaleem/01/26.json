@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "MYSTICISM\nIf angelic art and celestial lore the ills of Muslims can not cure, worthless they are and of no use, of fact so true you must be sure.",
+              "_content": "If angelic art and celestial lore the ills of Muslims can not cure, worthless they are and of no use, of fact so true you must be sure.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Mysticism"
 }

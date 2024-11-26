@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE EARTH IS THE LORD’S\n\nThe history of the East and West tells that all wars and bloodshed has been for the land.",
+              "_content": "\nThe history of the East and West tells that all wars and bloodshed has been for the land.",
               "lang": "English"
             }
           ]
@@ -324,5 +324,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "The Earth Is The Lord’S"
 }

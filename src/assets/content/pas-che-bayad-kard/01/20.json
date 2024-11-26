@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "AT THE TOMB OF SULTAN MAHMUD\n\nCries arise from my heart in spite of all restraint, Alas! That city we had in the times past.",
+              "_content": "\nCries arise from my heart in spite of all restraint, Alas! That city we had in the times past.",
               "lang": "English"
             }
           ]
@@ -301,5 +301,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "At The Tomb Of Sultan Mahmud"
 }

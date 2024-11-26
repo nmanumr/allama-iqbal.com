@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE TESTAMENT OF TIPU SULTAN\nIf you traverse the road of love, don't yearn to seek repose or rest; if Laila be your companion close that litter shun with great contempt.",
+              "_content": "If you traverse the road of love, don't yearn to seek repose or rest; if Laila be your companion close that litter shun with great contempt.",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Testament Of Tipu Sultan"
 }

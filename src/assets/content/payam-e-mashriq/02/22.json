@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE RAINDROP AND THE SEA\nI quote what someone else has said, but wish to make a new point with its aid.",
+              "_content": "I quote what someone else has said, but wish to make a new point with its aid.",
               "lang": "English"
             }
           ]
@@ -188,5 +188,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Raindrop And The Sea"
 }

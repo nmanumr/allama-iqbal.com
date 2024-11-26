@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LAMENT ON THE DIFFERENCES AMONG INDIANS\nO Himalayas! O Attock! O Ganges! How long shall we go on living sordidly like this?",
+              "_content": "O Himalayas! O Attock! O Ganges! How long shall we go on living sordidly like this?",
               "lang": "English"
             }
           ]
@@ -460,5 +460,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Lament On The Differences Among Indians"
 }

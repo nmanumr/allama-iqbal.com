@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "SHAKESPEARE\nTo the dawn’s twilight the river’s graceful flow is a mirror! To the evening’s song the evening’s silence is a mirror.",
+              "_content": "To the dawn’s twilight the river’s graceful flow is a mirror! To the evening’s song the evening’s silence is a mirror.",
               "lang": "English"
             }
           ]
@@ -128,5 +128,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Shakespeare"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "RELIGION AND CRAFTS\nVerse, music, rule, lore, creed and crafts enshrine, pearls sublime that with lustre glow and shine.",
+              "_content": "Verse, music, rule, lore, creed and crafts enshrine, pearls sublime that with lustre glow and shine.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Religion And Crafts"
 }

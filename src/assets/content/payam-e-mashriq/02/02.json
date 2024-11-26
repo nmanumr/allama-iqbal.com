@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A PRAYER\nO You who filled my glass with wine galore from Nature’s own wine-store, see to it that my glass is melted by this fire sent from Your sky.",
+              "_content": "O You who filled my glass with wine galore from Nature’s own wine-store, see to it that my glass is melted by this fire sent from Your sky.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "A Prayer"
 }

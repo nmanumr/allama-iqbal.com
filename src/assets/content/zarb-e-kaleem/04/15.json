@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "BEING\nO man, your stay and show beneath the sky, is short and brief, like spark, that parts from flame: Who can make man detect this fact so clear that teing of man enjoys high rank and name?",
+              "_content": "O man, your stay and show beneath the sky, is short and brief, like spark, that parts from flame: Who can make man detect this fact so clear that teing of man enjoys high rank and name?",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Being"
 }

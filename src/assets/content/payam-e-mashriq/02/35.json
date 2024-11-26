@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LIFE AND ACTION\n‘I have lived a long, long while’, said a fallen shore; ‘What I am know as ill as I knew of yore.’\nThen swiftly advanced wave from the Sea upshot; ‘If I roll, I am’, it said; ‘if I rest, I am not.’\n(Translated by R.A. Nicholson)",
+              "_content": "‘I have lived a long, long while’, said a fallen shore; ‘What I am know as ill as I knew of yore.’\nThen swiftly advanced wave from the Sea upshot; ‘If I roll, I am’, it said; ‘if I rest, I am not.’\n(Translated by R.A. Nicholson)",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Life And Action"
 }

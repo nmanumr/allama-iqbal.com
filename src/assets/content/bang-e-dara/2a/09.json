@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE FLOWER BUD\nWhen the dawn uncovers its beautiful cheek; the flower bud uncovers its golden breast.",
+              "_content": "When the dawn uncovers its beautiful cheek; the flower bud uncovers its golden breast.",
               "lang": "English"
             }
           ]
@@ -162,5 +162,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Flower Bud"
 }

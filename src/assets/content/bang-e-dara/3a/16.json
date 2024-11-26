@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE ASSEMBLY OF STARS\nWhile setting, the sun threw at the dark-clothed evening tulip flowers which it had collected from horizon’s basin:",
+              "_content": "While setting, the sun threw at the dark-clothed evening tulip flowers which it had collected from horizon’s basin:",
               "lang": "English"
             }
           ]
@@ -254,5 +254,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Assembly Of Stars"
 }

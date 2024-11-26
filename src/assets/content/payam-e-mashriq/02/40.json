@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "KASHMIR\nRepair to Kashmir’s land and see hills, meadows, pastures, wealds. See miles on miles of greenery and endless tulip-fields.",
+              "_content": "Repair to Kashmir’s land and see hills, meadows, pastures, wealds. See miles on miles of greenery and endless tulip-fields.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Kashmir"
 }

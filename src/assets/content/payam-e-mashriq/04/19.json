@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "POETS\nBrowning: There was nothing to fortify life’s effervescent wine: I took some aqua vitae from Khizr and added it.",
+              "_content": "Browning: There was nothing to fortify life’s effervescent wine: I took some aqua vitae from Khizr and added it.",
               "lang": "English"
             }
           ]
@@ -98,5 +98,6 @@
       ],
       "id": 4
     }
-  ]
+  ],
+  "name-en": "Poets"
 }

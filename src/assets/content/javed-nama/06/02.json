@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SONG OF HALLAJ\nSeek from your own earth a fire as yet unseen, another’s apparition is unworthy of your demand.",
+              "_content": "Seek from your own earth a fire as yet unseen, another’s apparition is unworthy of your demand.",
               "lang": "English"
             }
           ]
@@ -148,5 +148,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Song Of Hallaj"
 }

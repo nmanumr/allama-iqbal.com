@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "AN ADVICE\nAn eagle, advanced in years, advised an eaglet thus: O thou, whose wings may one day aspire to the heavens above.",
+              "_content": "An eagle, advanced in years, advised an eaglet thus: O thou, whose wings may one day aspire to the heavens above.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "An Advice"
 }

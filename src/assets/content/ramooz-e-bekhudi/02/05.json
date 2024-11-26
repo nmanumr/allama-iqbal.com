@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "SECOND PILLAR: APOSTLESHIP\n\nAbraham, friend of God, loved not the things that set; and lo, his footprint was a guide to all successive prophets.",
+              "_content": "\nAbraham, friend of God, loved not the things that set; and lo, his footprint was a guide to all successive prophets.",
               "lang": "English"
             }
           ]
@@ -572,5 +572,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Second Pillar: Apostleship"
 }

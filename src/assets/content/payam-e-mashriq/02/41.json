@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LOVE\nTo Intellect, which, if it chose, could set the universe aflame, learns from Love to illuminate, instead of burning up, its frame.",
+              "_content": "To Intellect, which, if it chose, could set the universe aflame, learns from Love to illuminate, instead of burning up, its frame.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Love"
 }

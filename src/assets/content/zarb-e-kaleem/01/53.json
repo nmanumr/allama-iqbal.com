@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LAHORE AND KARACHI\nFor Muslim true Death has no dread; to realm of souls, he straight is led.",
+              "_content": "For Muslim true Death has no dread; to realm of souls, he straight is led.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Lahore And Karachi"
 }

@@ -30,7 +30,8 @@ export default async function Poem({ params }: Props) {
           <div dir="rtl">
             {poem.bookName} &gt; {poem.sectionName}
           </div>
-          <div className="mt-4 text-4xl leading-[2]">{poem?.name}</div>
+          <div className="mt-4 text-4xl leading-[2]">{poem.name}</div>
+          <div className="capitalize">({poem['name-en']})</div>
         </div>
 
         <div className="flex flex-col items-center justify-center font-nastaliq text-2xl leading-[2.2] @container">

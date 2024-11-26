@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE PRINCESS OF FLOWERS\nOne day the dew in the garden was saying to the flower bud: ‘I lived for a long time among the flower buds of Paradise.",
+              "_content": "One day the dew in the garden was saying to the flower bud: ‘I lived for a long time among the flower buds of Paradise.",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Princess Of Flowers"
 }

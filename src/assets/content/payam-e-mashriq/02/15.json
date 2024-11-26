@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE BOOKWORM\nI hear that in my library one night a bookworm spoke thus to a moth:",
+              "_content": "I hear that in my library one night a bookworm spoke thus to a moth:",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Bookworm"
 }

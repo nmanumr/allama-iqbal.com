@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "INDIAN MUSLIM\nBrahmans dub him as foe to native land, the English call him beggar on other hand.",
+              "_content": "Brahmans dub him as foe to native land, the English call him beggar on other hand.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Indian Muslim"
 }

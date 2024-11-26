@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SONG OF GHALIB\nCome, let us change the rule of heaven, let us change fate by revolving a heavy measure of wine;",
+              "_content": "Come, let us change the rule of heaven, let us change fate by revolving a heavy measure of wine;",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Song Of Ghalib"
 }

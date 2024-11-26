@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "CREATION\nNew worlds derive their pomp from thoughts quite fresh and new from stones and bricks a world was neither built nor grew.",
+              "_content": "New worlds derive their pomp from thoughts quite fresh and new from stones and bricks a world was neither built nor grew.",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Creation"
 }

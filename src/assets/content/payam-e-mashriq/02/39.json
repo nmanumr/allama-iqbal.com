@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PARADISE\nThis world of ours is full of a strange jugglery. Heaven does not have this kind of a revolving sky.",
+              "_content": "This world of ours is full of a strange jugglery. Heaven does not have this kind of a revolving sky.",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Paradise"
 }

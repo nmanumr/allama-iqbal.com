@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "RUMI\nPour in thy self that old wine again; his one cup’s worth is more than a reign.\nKeep the verses of Rumi in thy brain; and paste them around the heart’s walls again.",
+              "_content": "Pour in thy self that old wine again; his one cup’s worth is more than a reign.\nKeep the verses of Rumi in thy brain; and paste them around the heart’s walls again.",
               "lang": "English"
             }
           ]
@@ -236,5 +236,6 @@
       ],
       "id": 10
     }
-  ]
+  ],
+  "name-en": "Rumi"
 }

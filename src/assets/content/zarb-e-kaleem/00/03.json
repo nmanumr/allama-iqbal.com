@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE PROLOGUE\nIn fane and shrine the self in slumber deep is sunk, it seems that soul of East an opiate strong has drunk.",
+              "_content": "In fane and shrine the self in slumber deep is sunk, it seems that soul of East an opiate strong has drunk.",
               "lang": "English"
             }
           ]
@@ -163,5 +163,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "The Prologue"
 }

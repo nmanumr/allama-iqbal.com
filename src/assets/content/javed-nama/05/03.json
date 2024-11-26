@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "TOUR OF THE CITY OF MARGHADIN\n\nMarghadin and those lofty edifices – what can I say of that noble city?",
+              "_content": "\nMarghadin and those lofty edifices – what can I say of that noble city?",
               "lang": "English"
             }
           ]
@@ -829,5 +829,6 @@
       ],
       "id": 4
     }
-  ]
+  ],
+  "name-en": "Tour Of The City Of Marghadin"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MODERN AGE\nWhat is the age? On whom the faith cries; who puts on it thousand checks and ties.\nFrom Man’s face it saps all the healthy signs; his paintings depict, his evil designs.",
+              "_content": "What is the age? On whom the faith cries; who puts on it thousand checks and ties.\nFrom Man’s face it saps all the healthy signs; his paintings depict, his evil designs.",
               "lang": "English"
             }
           ]
@@ -121,5 +121,6 @@
       ],
       "id": 5
     }
-  ]
+  ],
+  "name-en": "The Modern Age"
 }

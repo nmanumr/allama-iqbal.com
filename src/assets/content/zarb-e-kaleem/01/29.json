@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE WORLD\nThe diverse hues of world I can descry, here stone and gem, there moon and starry sky.",
+              "_content": "The diverse hues of world I can descry, here stone and gem, there moon and starry sky.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The World"
 }

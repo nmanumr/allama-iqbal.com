@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "QUESTION 7 \nOf what sort is this traveler, who is the wayfarer? Of whom shall I say that he is the Perfect Man?",
+              "_content": "Of what sort is this traveler, who is the wayfarer? Of whom shall I say that he is the Perfect Man?",
               "lang": "English"
             }
           ]
@@ -562,5 +562,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Question 7"
 }

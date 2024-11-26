@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE STREAM\nBehold the stream! How merrily it flows right through the meadow, like the Milky Way!",
+              "_content": "Behold the stream! How merrily it flows right through the meadow, like the Milky Way!",
               "lang": "English"
             }
           ]
@@ -268,5 +268,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Stream"
 }

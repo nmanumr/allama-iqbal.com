@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "RELIGION\nThe teaching of the sage of Western philosophy is: ‘Those seeking the Invisible Existence are ignorant.",
+              "_content": "The teaching of the sage of Western philosophy is: ‘Those seeking the Invisible Existence are ignorant.",
               "lang": "English"
             }
           ]
@@ -113,5 +113,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Religion"
 }

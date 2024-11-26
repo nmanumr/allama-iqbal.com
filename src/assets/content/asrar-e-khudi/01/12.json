@@ -1,6 +1,7 @@
 {
   "id": "12",
   "name": "حکایت حضرت سید مخدوم علی ھجویری",
+  "name-en": "The Tale of Hazrat Syed Makhdoom Ali Hujwiri",
   "+@BookID": "05",
   "bookName": "اسرارِ خودی",
   "+@SectionID": "01",
@@ -8,6 +9,7 @@
   "Para": [
     {
       "name": "حکایت نوجوانی از مرو کہ پیش حضرت سید مخدوم علی ھجویری رحمة اﷲ علیہ آمدہ از ستم اعدا فریاد کرد",
+      "name-en": "The tale of a young man from Merv who came to Hazrat Syed Makhdoom Ali Hujwiri (may Allah's mercy be upon him) and cried out for help against the oppression of his enemies.",
       "Verse": [
         {
           "id": "01",
@@ -21,7 +23,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "STORY OF A YOUNG MAN OF MERV WHO…COMPLAINED THAT HE WAS OPPRESSED BY HIS ENEMIES\n\nThe saint of Hajwir was venerated by the peoples; and Pir-i-Sanjar visited his tomb as a pilgrim.",
+              "_content": "The saint of Hajwir was venerated by the peoples; and Pir-i-Sanjar visited his tomb as a pilgrim.",
               "lang": "English"
             }
           ]

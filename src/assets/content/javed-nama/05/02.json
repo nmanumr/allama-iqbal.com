@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MARTIAN ASTRONOMER COMES OUT OF THE OBSERVATORY\n\nAn aged man, his beard white as snow, having expended many years upon science and wisdom;",
+              "_content": "\nAn aged man, his beard white as snow, having expended many years upon science and wisdom;",
               "lang": "English"
             }
           ]
@@ -567,5 +567,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "name-en": "The Martian Astronomer Comes Out Of The Observatory"
 }

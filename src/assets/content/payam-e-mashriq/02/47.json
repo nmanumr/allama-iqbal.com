@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "GHANI KASHMIRI\nThat nightingale of poetry, Ghani, who sang in Kashmir’s paradisal land;",
+              "_content": "That nightingale of poetry, Ghani, who sang in Kashmir’s paradisal land;",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Ghani Kashmiri"
 }

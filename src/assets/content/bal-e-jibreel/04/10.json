@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MOTH AND THE FIREFLY\nMOTH: The firefly is so far removed from the status of the moth! Why is it so proud of a fire that cannot burn?",
+              "_content": "MOTH: The firefly is so far removed from the status of the moth! Why is it so proud of a fire that cannot burn?",
               "lang": "English"
             }
           ]
@@ -50,5 +50,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "The Moth And The Firefly"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A WORD TO ENGLAND\nAn Easterner tasted once the wine in Europe’s glass; no wonder if he broke old vows in reckless glee.",
+              "_content": "An Easterner tasted once the wine in Europe’s glass; no wonder if he broke old vows in reckless glee.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "A Word To England"
 }

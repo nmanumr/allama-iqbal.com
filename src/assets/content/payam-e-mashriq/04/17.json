@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "DIALOGUE BETWEEN LENIN AND KAISER WILHELM\nLenin: It is long since in this old world poor man is being ground like grain between millstones.",
+              "_content": "Lenin: It is long since in this old world poor man is being ground like grain between millstones.",
               "lang": "English"
             }
           ]
@@ -205,5 +205,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Dialogue Between Lenin And Kaiser Wilhelm"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE ISLAND OF SICILY\nO blood-dripping eye! Now cry to your heart's content; there you can see the mausoleum of the civilization of Hijaz.",
+              "_content": "O blood-dripping eye! Now cry to your heart's content; there you can see the mausoleum of the civilization of Hijaz.",
               "lang": "English"
             }
           ]
@@ -290,5 +290,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Island Of Sicily"
 }

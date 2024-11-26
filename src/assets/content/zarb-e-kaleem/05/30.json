@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "POLITICAL LEADERS\nYou can not much expect from those who politics guide; their wont to play with dust to lowly dust is tied.",
+              "_content": "You can not much expect from those who politics guide; their wont to play with dust to lowly dust is tied.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Political Leaders"
 }

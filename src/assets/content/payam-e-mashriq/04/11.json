@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PETÖFI\nIn this garden, for just one moment, you sang of the bride-like rose, you increased the sorrow of some hearts, and dispelled the sorrow of others.",
+              "_content": "In this garden, for just one moment, you sang of the bride-like rose, you increased the sorrow of some hearts, and dispelled the sorrow of others.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Petöfi"
 }

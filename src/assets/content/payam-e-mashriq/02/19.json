@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE GLOW-WORM\nA tiny atom found itself a living thing by chance. Aquiver with life’s ardour it began a moth-like dance, and set aglow the night’s expanse.",
+              "_content": "A tiny atom found itself a living thing by chance. Aquiver with life’s ardour it began a moth-like dance, and set aglow the night’s expanse.",
               "lang": "English"
             }
           ]
@@ -156,5 +156,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Glow-Worm"
 }

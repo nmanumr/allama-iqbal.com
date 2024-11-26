@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE LEAGUE OF NATIONS\nTo the end that wars may cease on this old planet, the suffering peoples of the world have founded a new institution.\nSo far as I see it amounts to this: A number of undertakers have formed a company to allot the graves.\n(Translated by R.A. Nicholson)",
+              "_content": "To the end that wars may cease on this old planet, the suffering peoples of the world have founded a new institution.\nSo far as I see it amounts to this: A number of undertakers have formed a company to allot the graves.\n(Translated by R.A. Nicholson)",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The League Of Nations"
 }

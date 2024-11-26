@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ADDRESS TO THE STUDENTS OF ALIGARH COLLEGE\nThe message of others is different, my message is different; the style of address of the one afflicted with Love is different.",
+              "_content": "The message of others is different, my message is different; the style of address of the one afflicted with Love is different.",
               "lang": "English"
             }
           ]
@@ -130,5 +130,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Address To The Students Of Aligarh College"
 }

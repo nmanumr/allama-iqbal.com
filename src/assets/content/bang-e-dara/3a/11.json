@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A PILGRIM ON HIS WAY TO MADINAH\nThe caravan has been robbed in wilderness and the destination is far; the coast of this desolation that is this dry ocean is far.",
+              "_content": "The caravan has been robbed in wilderness and the destination is far; the coast of this desolation that is this dry ocean is far.",
               "lang": "English"
             }
           ]
@@ -160,5 +160,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "A Pilgrim On His Way To Madinah"
 }

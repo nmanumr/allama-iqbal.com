@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MARTIAN DAMSEL WHO CLAIMED TO BE A PROPHETESS\n\nWe passed by thousands of streets and mansions; on the edge of the city was a broad square.",
+              "_content": "\nWe passed by thousands of streets and mansions; on the edge of the city was a broad square.",
               "lang": "English"
             }
           ]
@@ -216,5 +216,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Martian Damsel Who Claimed To Be A Prophetess"
 }

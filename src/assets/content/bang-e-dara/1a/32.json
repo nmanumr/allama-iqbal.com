@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "FAREWELL O WORLD'S CONGREGATION!\n(Adapted from Ralph Waldo Emerson)\nFarewell O worldly companions! I am going to my homeland. I am feeling unhappy in this well populated wilderness.",
+              "_content": "(Adapted from Ralph Waldo Emerson)\nFarewell O worldly companions! I am going to my homeland. I am feeling unhappy in this well populated wilderness.",
               "lang": "English"
             }
           ]
@@ -352,5 +352,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Farewell O World'S Congregation!"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "EAGER GLANCE\nContents of soul this world can not conceal, for every mote has longing to reveal.",
+              "_content": "Contents of soul this world can not conceal, for every mote has longing to reveal.",
               "lang": "English"
             }
           ]
@@ -111,5 +111,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Eager Glance"
 }

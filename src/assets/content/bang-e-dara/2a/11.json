@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE UNION (MEETING THE BELOVED)\nO Nightingale! The rose whose search made me flounced; by dint of good luck that rose I have finally found.",
+              "_content": "O Nightingale! The rose whose search made me flounced; by dint of good luck that rose I have finally found.",
               "lang": "English"
             }
           ]
@@ -188,5 +188,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Union (Meeting The Beloved)"
 }

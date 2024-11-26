@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A DIALOGUE\nA domesticated bird once said to the wild bird: ‘If you have wings, do not I also have wings?",
+              "_content": "A domesticated bird once said to the wild bird: ‘If you have wings, do not I also have wings?",
               "lang": "English"
             }
           ]
@@ -126,5 +126,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "A Dialogue"
 }

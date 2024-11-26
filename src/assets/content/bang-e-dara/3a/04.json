@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE ROYAL CEMETERY\nThe sky is clothed in the cloud’s old tattered robe. The mirror of moon’s forehead is somewhat gloomy.",
+              "_content": "The sky is clothed in the cloud’s old tattered robe. The mirror of moon’s forehead is somewhat gloomy.",
               "lang": "English"
             }
           ]
@@ -1006,5 +1006,6 @@
       ],
       "id": 12
     }
-  ]
+  ],
+  "name-en": "The Royal Cemetery"
 }

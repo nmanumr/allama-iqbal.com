@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LIFE\nI asked a lofty sage what Life might be. ‘The wine whose bitterest cup is best’, said he.",
+              "_content": "I asked a lofty sage what Life might be. ‘The wine whose bitterest cup is best’, said he.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Life"
 }

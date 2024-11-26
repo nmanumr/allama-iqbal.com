@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MESSAGE OF DAWN\nWhen the sparkling of the night's forehead's decoration disappeared; the zephyr of life with the news of the happy morning appeared.",
+              "_content": "When the sparkling of the night's forehead's decoration disappeared; the zephyr of life with the news of the happy morning appeared.",
               "lang": "English"
             }
           ]
@@ -160,5 +160,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Message Of Dawn"
 }

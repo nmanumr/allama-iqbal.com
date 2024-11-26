@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "POPPY OF THE WILDERNESS\nOh blue sky-dome, oh world companionless! Fear comes on me in this wide desolation.",
+              "_content": "Oh blue sky-dome, oh world companionless! Fear comes on me in this wide desolation.",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Poppy Of The Wilderness"
 }

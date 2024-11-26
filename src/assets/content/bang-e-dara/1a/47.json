@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE CHILD AND THE CANDLE\nO Child with moth-like nature! ‘How strange that you keep gazing at the flame of the candle for hours?",
+              "_content": "O Child with moth-like nature! ‘How strange that you keep gazing at the flame of the candle for hours?",
               "lang": "English"
             }
           ]
@@ -258,5 +258,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "The Child And The Candle"
 }

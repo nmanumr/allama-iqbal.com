@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O NATIONS OF EAST\nThe West has put mankind in grievous pain, and, through it, life has lost all charm.",
+              "_content": "The West has put mankind in grievous pain, and, through it, life has lost all charm.",
               "lang": "English"
             }
           ]
@@ -1147,5 +1147,6 @@
       ],
       "id": 6
     }
-  ]
+  ],
+  "name-en": "O Nations Of East"
 }

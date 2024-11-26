@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "SUFI AND MULLA\nThe Mullah and Sufi are cross in deed; his eye seldom sees the pitch in its seed. \nIf this is the faith which I have in me; to oust me from Kaaba a right has he.",
+              "_content": "The Mullah and Sufi are cross in deed; his eye seldom sees the pitch in its seed. \nIf this is the faith which I have in me; to oust me from Kaaba a right has he.",
               "lang": "English"
             }
           ]
@@ -190,5 +190,6 @@
       ],
       "id": 8
     }
-  ]
+  ],
+  "name-en": "Sufi And Mulla"
 }

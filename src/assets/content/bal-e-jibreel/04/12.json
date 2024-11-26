@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "MENDICANCY\nA witty man in a tavern spoke with a tongue untamed: ‘The ruler of our state is a beggar unashamed;",
+              "_content": "A witty man in a tavern spoke with a tongue untamed: ‘The ruler of our state is a beggar unashamed;",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Mendicancy"
 }

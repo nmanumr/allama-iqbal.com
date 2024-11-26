@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "RAMA\nOverflowing with the wine of Truth is the cup of India. All philosophers of the Western world have acknowledged India.",
+              "_content": "Overflowing with the wine of Truth is the cup of India. All philosophers of the Western world have acknowledged India.",
               "lang": "English"
             }
           ]
@@ -111,5 +111,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Rama"
 }

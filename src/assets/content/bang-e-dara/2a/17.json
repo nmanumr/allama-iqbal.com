@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "MANKIND\nWhat an ingenious tyranny of Nature it is! Man has been made a seeker of the Secret; The Secret has been concealed from his eyes.",
+              "_content": "What an ingenious tyranny of Nature it is! Man has been made a seeker of the Secret; The Secret has been concealed from his eyes.",
               "lang": "English"
             }
           ]
@@ -172,5 +172,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Mankind"
 }

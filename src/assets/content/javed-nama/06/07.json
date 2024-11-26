@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "SATAN’S LAMENT\nGod of the righteous and the unrighteous, man’s company has devastated me.",
+              "_content": "God of the righteous and the unrighteous, man’s company has devastated me.",
               "lang": "English"
             }
           ]
@@ -301,5 +301,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Satan’S Lament"
 }

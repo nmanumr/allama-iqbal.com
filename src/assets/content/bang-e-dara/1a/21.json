@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PATHOS OF LOVE\nO Pathos of Love! You are a glossy pearl. Beware; you should not appear among strangers.",
+              "_content": "O Pathos of Love! You are a glossy pearl. Beware; you should not appear among strangers.",
               "lang": "English"
             }
           ]
@@ -233,5 +233,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Pathos Of Love"
 }

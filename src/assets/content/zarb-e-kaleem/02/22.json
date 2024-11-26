@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "EXAMINATION\nThus mountain stream to pebble spake: ‘This lowly state for height you take.",
+              "_content": "Thus mountain stream to pebble spake: ‘This lowly state for height you take.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Examination"
 }

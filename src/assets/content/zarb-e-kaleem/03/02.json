@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A QUESTION\nLet some one ask this question from the wise of West, whom Greece and India, as their guide and master hold:",
+              "_content": "Let some one ask this question from the wise of West, whom Greece and India, as their guide and master hold:",
               "lang": "English"
             }
           ]
@@ -44,5 +44,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "A Question"
 }

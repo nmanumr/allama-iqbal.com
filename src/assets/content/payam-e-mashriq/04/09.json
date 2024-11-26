@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "NIETZSCHE\nIf song thou crave, flee form him! Thunder roars in the reed of his pen.",
+              "_content": "If song thou crave, flee form him! Thunder roars in the reed of his pen.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Nietzsche"
 }

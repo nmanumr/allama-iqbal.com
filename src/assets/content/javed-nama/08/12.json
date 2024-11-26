@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE DIVINE PRESENCE\nThough Paradise is a manifestation of Him the soul reposes not, save in the vision of Him.",
+              "_content": "Though Paradise is a manifestation of Him the soul reposes not, save in the vision of Him.",
               "lang": "English"
             }
           ]
@@ -1437,5 +1437,6 @@
       ],
       "id": 9
     }
-  ]
+  ],
+  "name-en": "The Divine Presence"
 }

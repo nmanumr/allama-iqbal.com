@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SUN\nO Sun! The world's essence and motivator you are; the organizer of the book of the world you are.",
+              "_content": "O Sun! The world's essence and motivator you are; the organizer of the book of the world you are.",
               "lang": "English"
             }
           ]
@@ -178,5 +178,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Sun"
 }

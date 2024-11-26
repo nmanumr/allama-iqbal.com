@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "MUSSOLINI\nWhat is the originality of thought and action? A taste for revolution. What is the originality of thought and action? The age of youth for a nation.",
+              "_content": "What is the originality of thought and action? A taste for revolution. What is the originality of thought and action? The age of youth for a nation.",
               "lang": "English"
             }
           ]
@@ -129,5 +129,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Mussolini"
 }

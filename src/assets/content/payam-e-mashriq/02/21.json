@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "SONG OF THE HIJAZI CAMEL-DRIVER\nMy fleet-footed dromedary, my doe of the Tartar country, O my riches, O my money, O my entire patrimony, O my fortune, O my plenty! Quicken your pace just a little; journey’s end is not far off.",
+              "_content": "My fleet-footed dromedary, my doe of the Tartar country, O my riches, O my money, O my entire patrimony, O my fortune, O my plenty! Quicken your pace just a little; journey’s end is not far off.",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Song Of The Hijazi Camel-Driver"
 }

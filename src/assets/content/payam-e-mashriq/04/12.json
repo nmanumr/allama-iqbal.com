@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "DIALOGUE BETWEEN AUGUSTE COMTE AND THE LABOURER \nComte: All men are one another’s limbs, the leaves and stems of one big tree.",
+              "_content": "Comte: All men are one another’s limbs, the leaves and stems of one big tree.",
               "lang": "English"
             }
           ]
@@ -222,5 +222,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Dialogue Between Auguste Comte And The Labourer"
 }

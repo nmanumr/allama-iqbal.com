@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE BARTENDER (BUTLER)\nEveryone knows how to throw down people with intoxicants; the fun is to convert the intoxicated one to sanity, O cup-bearer.",
+              "_content": "Everyone knows how to throw down people with intoxicants; the fun is to convert the intoxicated one to sanity, O cup-bearer.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Bartender (Butler)"
 }

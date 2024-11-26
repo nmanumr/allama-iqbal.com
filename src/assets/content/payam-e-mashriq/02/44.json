@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE RIDDLE OF THE SWORD\nName that very keen contender which draws luster just like water from a stone, but which, unlike Alexander, does not owe it to a Khizr as a boon.",
+              "_content": "Name that very keen contender which draws luster just like water from a stone, but which, unlike Alexander, does not owe it to a Khizr as a boon.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Riddle Of The Sword"
 }

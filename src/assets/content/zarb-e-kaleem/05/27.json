@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A PIRATE AND ALEXANDER\nAlexander: Is your retribution shackles or cold steel, your violence on high seas, all sailors feel?",
+              "_content": "Alexander: Is your retribution shackles or cold steel, your violence on high seas, all sailors feel?",
               "lang": "English"
             }
           ]
@@ -50,5 +50,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "A Pirate And Alexander"
 }

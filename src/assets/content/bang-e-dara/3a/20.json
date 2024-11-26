@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MOTOR CAR\nHow rightly Jogender said this yesterday: ‘The car of Zulfiqar Ali Khan is so quiet.",
+              "_content": "How rightly Jogender said this yesterday: ‘The car of Zulfiqar Ali Khan is so quiet.",
               "lang": "English"
             }
           ]
@@ -108,5 +108,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Motor Car"
 }

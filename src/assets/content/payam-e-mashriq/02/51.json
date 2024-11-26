@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "CIVILIZATION\nMan, who has brightened up his face with civilization’s rouge, displays the dark dust which is he as if it were a mirror.",
+              "_content": "Man, who has brightened up his face with civilization’s rouge, displays the dark dust which is he as if it were a mirror.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Civilization"
 }

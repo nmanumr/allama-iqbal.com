@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE POET\nThe melodious brook is coming down from the mountain after drinking red wine from the tavern’s spring.",
+              "_content": "The melodious brook is coming down from the mountain after drinking red wine from the tavern’s spring.",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Poet"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "KHAQANI\nKhaqani, the author of Tuhfa-tul-araqain, is dear to those who truths can scan.",
+              "_content": "Khaqani, the author of Tuhfa-tul-araqain, is dear to those who truths can scan.",
               "lang": "English"
             }
           ]
@@ -113,5 +113,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Khaqani"
 }

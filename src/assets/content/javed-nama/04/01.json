@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SPHERE OF VENUS\n\nBetween us and the light of the sun there hang how many veils of space fold upon fold!",
+              "_content": "\nBetween us and the light of the sun there hang how many veils of space fold upon fold!",
               "lang": "English"
             }
           ]
@@ -488,5 +488,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Sphere Of Venus"
 }

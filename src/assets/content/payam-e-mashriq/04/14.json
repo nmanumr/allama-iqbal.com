@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "JALAL AND GOETHE\nIn paradise that perceptive German happened upon the Master of the East.",
+              "_content": "In paradise that perceptive German happened upon the Master of the East.",
               "lang": "English"
             }
           ]
@@ -148,5 +148,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Jalal And Goethe"
 }

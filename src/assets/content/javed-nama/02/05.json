@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SONG OF SAROSH\n\nI fear that you are steering the barque into a mirage; born within a veil, you will die within a veil.",
+              "_content": "I fear that you are steering the barque into a mirage; born within a veil, you will die within a veil.",
               "lang": "English"
             }
           ]
@@ -130,5 +130,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Song Of Sarosh"
 }

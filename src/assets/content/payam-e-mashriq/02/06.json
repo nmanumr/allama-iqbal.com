@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SONG OF TIME\nFor all my solar heraldry and all my stellar pageantry, I am a mere nonentity, if you look hard enough at me. But from your human point of view I am the very life of you.\nI dwell wherever you men dwell – in city, desert, hill and dell – and in ways no one can foretell I come into your life as well. I am both pain and remedy, both ennui and great luxury. I am an all-destroying sword; I am the fountain of eternity.",
+              "_content": "For all my solar heraldry and all my stellar pageantry, I am a mere nonentity, if you look hard enough at me. But from your human point of view I am the very life of you.\nI dwell wherever you men dwell – in city, desert, hill and dell – and in ways no one can foretell I come into your life as well. I am both pain and remedy, both ennui and great luxury. I am an all-destroying sword; I am the fountain of eternity.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Song Of Time"
 }

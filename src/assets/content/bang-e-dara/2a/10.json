@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MOON AND STARS\nBeing scared by the approaching dawn, stars started saying to the moon:",
+              "_content": "Being scared by the approaching dawn, stars started saying to the moon:",
               "lang": "English"
             }
           ]
@@ -204,5 +204,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Moon And Stars"
 }

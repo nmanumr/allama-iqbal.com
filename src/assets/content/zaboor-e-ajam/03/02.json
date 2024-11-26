@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "QUESTION 1\nFirst of all I am perplexed about my thought: What is that which is called ‘thought’? \nWhat sort of thought is the condition of my path? Why is it sometimes obedience, sometimes sin?",
+              "_content": "First of all I am perplexed about my thought: What is that which is called ‘thought’? \nWhat sort of thought is the condition of my path? Why is it sometimes obedience, sometimes sin?",
               "lang": "English"
             }
           ]
@@ -612,5 +612,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Question 1"
 }

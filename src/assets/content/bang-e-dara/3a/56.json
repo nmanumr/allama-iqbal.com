@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "BASED ON A VERSE OF SA’IB\nO Iqbal! In what a place you have constructed your nest! In this garden song is the prelude to nightingale’s disgrace!",
+              "_content": "O Iqbal! In what a place you have constructed your nest! In this garden song is the prelude to nightingale’s disgrace!",
               "lang": "English"
             }
           ]
@@ -129,5 +129,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Based On A Verse Of Sa’Ib"
 }

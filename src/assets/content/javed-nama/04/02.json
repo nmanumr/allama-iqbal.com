@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE ASSEMBLY OF THE GODS OF THE ANCIENT PEOPLES\n\nThat tempestuous wind, those night black clouds – in their darkness the lightning itself had lost its lustre;",
+              "_content": "\nThat tempestuous wind, those night black clouds – in their darkness the lightning itself had lost its lustre;",
               "lang": "English"
             }
           ]
@@ -386,5 +386,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Assembly Of The Gods Of The Ancient Peoples"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ME AND YOU\nNeither I have Kalim’s knowledge nor you have Khalil’s manners; I am destroyed by Samiri’s magic, you are the victim of Azar’s method!",
+              "_content": "Neither I have Kalim’s knowledge nor you have Khalil’s manners; I am destroyed by Samiri’s magic, you are the victim of Azar’s method!",
               "lang": "English"
             }
           ]
@@ -160,5 +160,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Me And You"
 }

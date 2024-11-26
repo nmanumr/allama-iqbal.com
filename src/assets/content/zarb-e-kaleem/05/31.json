@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PSYCHOLOGY OF BONDAGE\nThe causes that make the nations sick are quite obscure, too vague and fine; although some man may try his best, yet cause in full he can't define.",
+              "_content": "The causes that make the nations sick are quite obscure, too vague and fine; although some man may try his best, yet cause in full he can't define.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Psychology Of Bondage"
 }

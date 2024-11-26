@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "CONVERSATION OF THE ARROW AND THE SWORD\n\nHow truthfully the well-notched arrow, \nspoke unto the sword in heat of battletide:",
+              "_content": "\nHow truthfully the well-notched arrow, \nspoke unto the sword in heat of battletide:",
               "lang": "English"
             }
           ]
@@ -181,5 +181,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Conversation Of The Arrow And The Sword"
 }

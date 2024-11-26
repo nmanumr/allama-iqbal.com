@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "SOLITUDE\nI went down to the sea, and said to the restless wave, ‘You are for ever searching – what is your trouble? \nYour bag contains a thousand glowing pearls, but do you, like me, have in your breast a pearl of a heart?’ It writhed in pain and drew away from the shore. It did not say a word.",
+              "_content": "I went down to the sea, and said to the restless wave, ‘You are for ever searching – what is your trouble? \nYour bag contains a thousand glowing pearls, but do you, like me, have in your breast a pearl of a heart?’ It writhed in pain and drew away from the shore. It did not say a word.",
               "lang": "English"
             }
           ]
@@ -76,5 +76,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Solitude"
 }

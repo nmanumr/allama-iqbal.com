@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "EMPEROR ALAMGIR AND THE TIGER\n\nShah Alamgir, that high and mighty king, \npride and renown of Gurgan Timur’s line;",
+              "_content": "\nShah Alamgir, that high and mighty king, \npride and renown of Gurgan Timur’s line;",
               "lang": "English"
             }
           ]
@@ -453,5 +453,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Emperor Alamgir And The Tiger"
 }

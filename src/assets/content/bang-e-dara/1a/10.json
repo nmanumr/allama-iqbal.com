@@ -19,7 +19,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "SYMPATHY\nPerched on the branch of a tree was a nightingale sad and lonely.",
+              "_content": "Perched on the branch of a tree was a nightingale sad and lonely.",
               "lang": "English"
             }
           ]
@@ -139,5 +139,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Sympathy"
 }

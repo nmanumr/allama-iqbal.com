@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "HOPE\nWith courage great a war I wage 'gainst evils of the present age I do not bear a fighter's name, to chieftainship I lay no claim.",
+              "_content": "With courage great a war I wage 'gainst evils of the present age I do not bear a fighter's name, to chieftainship I lay no claim.",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Hope"
 }

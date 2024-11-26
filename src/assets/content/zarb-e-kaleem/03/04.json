@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "SOLITUDE\nMuch greed for show and fame has put this age to shame: The glance is bright and clear, heart's mirror, but is blear.",
+              "_content": "Much greed for show and fame has put this age to shame: The glance is bright and clear, heart's mirror, but is blear.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Solitude"
 }

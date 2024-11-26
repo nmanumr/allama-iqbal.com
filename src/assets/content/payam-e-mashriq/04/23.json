@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE LABOURER’S SONG\nThe hard work of the cotton-wearing labourer provides the idle rich with their silk robes.",
+              "_content": "The hard work of the cotton-wearing labourer provides the idle rich with their silk robes.",
               "lang": "English"
             }
           ]
@@ -148,5 +148,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Labourer’S Song"
 }

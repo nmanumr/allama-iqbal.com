@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MESSAGE OF FAROOQ\nO desert’s breeze rise from ‘Arab’s sky; from Egypt’s Nile raise a new wave high. \nGive Farooq’s message to King Farooq’s race; how content is mixed with the kingship’s face.",
+              "_content": "O desert’s breeze rise from ‘Arab’s sky; from Egypt’s Nile raise a new wave high. \nGive Farooq’s message to King Farooq’s race; how content is mixed with the kingship’s face.",
               "lang": "English"
             }
           ]
@@ -213,5 +213,6 @@
       ],
       "id": 9
     }
-  ]
+  ],
+  "name-en": "The Message Of Farooq"
 }

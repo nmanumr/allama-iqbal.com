@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PERSIAN POETRY\nThere is no doubt that Persian verse, like music of the harp and lute, is full of joy and has much charm, yet sword or Self it makes not sharp.",
+              "_content": "There is no doubt that Persian verse, like music of the harp and lute, is full of joy and has much charm, yet sword or Self it makes not sharp.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Persian Poetry"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘AND THERE IS NOT ANY EQUAL UNTO HIM’\n\nWhat is the Muslim, that hath closed his eyes against the world? This heart attached to God, what is its nature?",
+              "_content": "\nWhat is the Muslim, that hath closed his eyes against the world? This heart attached to God, what is its nature?",
               "lang": "English"
             }
           ]
@@ -406,5 +406,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "‘And There Is Not Any Equal Unto Him’"
 }

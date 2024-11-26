@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE PICTURE AND PAINTER\nPicture: A picture said once on the painter’s play, my beauty gets a charm on thy display.\nTo me it looks so unfair that why thou are hidden from my eye.",
+              "_content": "Picture: A picture said once on the painter’s play, my beauty gets a charm on thy display.\nTo me it looks so unfair that why thou are hidden from my eye.",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       ],
       "id": 4
     }
-  ]
+  ],
+  "name-en": "The Picture And Painter"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE CANDLE AND THE MOTH\nO Candle! Why does the moth love you? Why is this restless soul devoted to you?",
+              "_content": "O Candle! Why does the moth love you? Why is this restless soul devoted to you?",
               "lang": "English"
             }
           ]
@@ -143,5 +143,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Candle And The Moth"
 }

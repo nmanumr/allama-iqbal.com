@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE NIGHT AND THE POET\nNIGHT:\nWhy in my light are you roaming about perturbed; silent like the rose, like the fragrance perturbed?",
+              "_content": "NIGHT:\nWhy in my light are you roaming about perturbed; silent like the rose, like the fragrance perturbed?",
               "lang": "English"
             }
           ]
@@ -248,5 +248,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "The Night And The Poet"
 }

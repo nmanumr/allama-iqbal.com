@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "HOLY WAR\nIt is the verdict of the Shaikh that pen is stronger than the sword: ‘The sword has lost its might and force, tile pen has gained a firmer hold’.",
+              "_content": "It is the verdict of the Shaikh that pen is stronger than the sword: ‘The sword has lost its might and force, tile pen has gained a firmer hold’.",
               "lang": "English"
             }
           ]
@@ -145,5 +145,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Holy War"
 }

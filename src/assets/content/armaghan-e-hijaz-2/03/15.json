@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "EDUCATION\nA shine which lasts with beauty and grace; to life’s mustang a whip for race.\nTeach the kids and colts,* a verve and flame; to books and schools a fiction I name.\n* Kids and colts: New generation.",
+              "_content": "A shine which lasts with beauty and grace; to life’s mustang a whip for race.\nTeach the kids and colts,* a verve and flame; to books and schools a fiction I name.\n* Kids and colts: New generation.",
               "lang": "English"
             }
           ]
@@ -327,5 +327,6 @@
       ],
       "id": 14
     }
-  ]
+  ],
+  "name-en": "Education"
 }

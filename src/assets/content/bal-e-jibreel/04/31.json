@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "AT NAPOLEON’S TOMB\nThe destiny of the world is a mystery unknown; it is the force of character that unlocks its heart.",
+              "_content": "The destiny of the world is a mystery unknown; it is the force of character that unlocks its heart.",
               "lang": "English"
             }
           ]
@@ -111,5 +111,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "At Napoleon’S Tomb"
 }

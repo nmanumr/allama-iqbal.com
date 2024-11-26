@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "POVERTY AND MONARCHY\nFaqr goes to war unequipped, unarmed with glee; it deals dire blows, if heart of sins is free.",
+              "_content": "Faqr goes to war unequipped, unarmed with glee; it deals dire blows, if heart of sins is free.",
               "lang": "English"
             }
           ]
@@ -77,5 +77,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Poverty And Monarchy"
 }

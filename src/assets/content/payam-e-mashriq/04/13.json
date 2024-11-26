@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "HEGEL \nHis thought is fully rational and unrelated to the sensuous, although his ideas are decked out in the garb of brides.\nDo you know what kind of a bird is his high-soaring thought? It is a hen which through excess of heat conceives without a mate.\n(Translated by M. Hadi Husain)",
+              "_content": "His thought is fully rational and unrelated to the sensuous, although his ideas are decked out in the garb of brides.\nDo you know what kind of a bird is his high-soaring thought? It is a hen which through excess of heat conceives without a mate.\n(Translated by M. Hadi Husain)",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Hegel"
 }

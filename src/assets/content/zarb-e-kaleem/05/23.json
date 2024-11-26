@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "TUTELAGE\nIt is not hard to find in present age the place which needs culture's angelic sage.",
+              "_content": "It is not hard to find in present age the place which needs culture's angelic sage.",
               "lang": "English"
             }
           ]
@@ -96,5 +96,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Tutelage"
 }

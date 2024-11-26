@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE AGE OF INFANCY\nThe earth and sky were unknown worlds to me; only the expanse of mother's bosom was a world to me.",
+              "_content": "The earth and sky were unknown worlds to me; only the expanse of mother's bosom was a world to me.",
               "lang": "English"
             }
           ]
@@ -118,5 +118,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "The Age Of Infancy"
 }

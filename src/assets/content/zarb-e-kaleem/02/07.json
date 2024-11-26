@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "OPEN SECRETS\nA nation whose youth are endowed with Self as strong and hard as steel: No need of piercing swords in war such people brave can ever feel.",
+              "_content": "A nation whose youth are endowed with Self as strong and hard as steel: No need of piercing swords in war such people brave can ever feel.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Open Secrets"
 }

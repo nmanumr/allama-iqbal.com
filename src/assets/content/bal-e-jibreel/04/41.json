@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "TO THE PUNJAB PIRS\nI stood by the Reformer's tomb: that dust whence here below an orient splendour breaks;",
+              "_content": "I stood by the Reformer's tomb: that dust whence here below an orient splendour breaks;",
               "lang": "English"
             }
           ]
@@ -141,5 +141,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "To The Punjab Pirs"
 }

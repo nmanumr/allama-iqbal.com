@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SPIRIT OF INDIA LAMENTS\nIndian chandelier has no candle alight; Indians care no more for their honour.",
+              "_content": "Indian chandelier has no candle alight; Indians care no more for their honour.",
               "lang": "English"
             }
           ]
@@ -386,5 +386,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Spirit Of India Laments"
 }

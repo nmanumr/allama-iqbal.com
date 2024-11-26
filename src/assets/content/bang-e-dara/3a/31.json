@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "CLOSENESS TO KINGS\nThe distinction between the ruler and the ruled cannot disappear; the beggar cannot have the audacity of being equal to the king.",
+              "_content": "The distinction between the ruler and the ruled cannot disappear; the beggar cannot have the audacity of being equal to the king.",
               "lang": "English"
             }
           ]
@@ -175,5 +175,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Closeness To Kings"
 }

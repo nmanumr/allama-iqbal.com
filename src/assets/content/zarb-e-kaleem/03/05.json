@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "WOMAN\nThe picture that this world presents from woman gets its tints and scents'; she is the lyre that can impart pathos and warmth to human heart.",
+              "_content": "The picture that this world presents from woman gets its tints and scents'; she is the lyre that can impart pathos and warmth to human heart.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Woman"
 }

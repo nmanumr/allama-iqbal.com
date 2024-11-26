@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "MIRZA BEDIL\nIs it a fact or delusion mere which has been caused by erring eye do earth, hills, deserts vast exist, and is there any azure sky?",
+              "_content": "Is it a fact or delusion mere which has been caused by erring eye do earth, hills, deserts vast exist, and is there any azure sky?",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Mirza Bedil"
 }

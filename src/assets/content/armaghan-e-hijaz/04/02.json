@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "HUSSAIN AHMAD\nYet non-Arabs know not the deen’s hid signs, from Devband Ahmad the man’s odd line.",
+              "_content": "Yet non-Arabs know not the deen’s hid signs, from Devband Ahmad the man’s odd line.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Hussain Ahmad"
 }

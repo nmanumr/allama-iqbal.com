@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "STORY OF THE DIAMOND AND THE COAL\n\nNow I will open one more gate of Truth; I will tell thee another tale.",
+              "_content": "Now I will open one more gate of Truth; I will tell thee another tale.",
               "lang": "English"
             }
           ]
@@ -351,5 +351,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Story Of The Diamond And The Coal"
 }

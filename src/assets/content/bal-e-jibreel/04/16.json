@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "TO A YOUNG MAN\nThy sofas are from Europe, thy carpets from Iran; this slothful opulence evokes my sigh of pity.",
+              "_content": "Thy sofas are from Europe, thy carpets from Iran; this slothful opulence evokes my sigh of pity.",
               "lang": "English"
             }
           ]
@@ -109,5 +109,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "To A Young Man"
 }

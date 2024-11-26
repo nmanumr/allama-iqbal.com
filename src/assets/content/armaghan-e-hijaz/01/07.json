@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE LATE MASOOD\nThis Moon and Sun the skies and stars lot. Who know that this world would live or not.",
+              "_content": "This Moon and Sun the skies and stars lot. Who know that this world would live or not.",
               "lang": "English"
             }
           ]
@@ -371,5 +371,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "The Late Masood"
 }

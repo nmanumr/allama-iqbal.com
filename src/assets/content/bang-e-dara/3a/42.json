@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE POEM BASED ON A VERSE OF ABU TALIB KALIM\nYour regard for the ways of the Lord of Yathrib is strange; your life is exhibiting that you are not a Muslim.",
+              "_content": "Your regard for the ways of the Lord of Yathrib is strange; your life is exhibiting that you are not a Muslim.",
               "lang": "English"
             }
           ]
@@ -127,5 +127,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Poem Based On A Verse Of Abu Talib Kalim"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE WINE-SHOP OF THE WEST\nI well recall the days that I spent in the Wine-Shop of the West. Its wine-bowls shine like Alexander’s looking-glass.",
+              "_content": "I well recall the days that I spent in the Wine-Shop of the West. Its wine-bowls shine like Alexander’s looking-glass.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Wine-Shop Of The West"
 }

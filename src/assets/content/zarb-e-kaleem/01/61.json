@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "FREEDOM\nThe right of thinking free, a Muslim owns, is gift or God which can't be checked by frowns.",
+              "_content": "The right of thinking free, a Muslim owns, is gift or God which can't be checked by frowns.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Freedom"
 }

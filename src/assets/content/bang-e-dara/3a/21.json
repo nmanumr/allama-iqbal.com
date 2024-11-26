@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE HUMAN RACE\nThe sights of the garden may or may not be beautiful; the narcissus, unable to act, forced to watching is!",
+              "_content": "The sights of the garden may or may not be beautiful; the narcissus, unable to act, forced to watching is!",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Human Race"
 }

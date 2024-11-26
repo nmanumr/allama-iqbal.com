@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE GREAT MAN\nHis contempt has no bound. His Love's depth none can sound. His wrath on men of God is tempered in manner odd.",
+              "_content": "His contempt has no bound. His Love's depth none can sound. His wrath on men of God is tempered in manner odd.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Great Man"
 }

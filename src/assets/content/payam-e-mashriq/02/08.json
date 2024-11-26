@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ETERNAL LIFE\nDo not imagine that the work of the Wine-maker is complete. With unknown quantities of undrunk wine the vine is still replete.",
+              "_content": "Do not imagine that the work of the Wine-maker is complete. With unknown quantities of undrunk wine the vine is still replete.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Eternal Life"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A COW AND A GOAT\nThere was a verdant pasture somewhere, whose land was the very picture of beauty.",
+              "_content": "There was a verdant pasture somewhere, whose land was the very picture of beauty.",
               "lang": "English"
             }
           ]
@@ -482,5 +482,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "A Cow And A Goat"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "QUESTION 8\nWhat point does the aphorism ‘I am the Truth’ imply? Do you think that this mystery was mere nonsense?",
+              "_content": "What point does the aphorism ‘I am the Truth’ imply? Do you think that this mystery was mere nonsense?",
               "lang": "English"
             }
           ]
@@ -494,5 +494,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Question 8"
 }

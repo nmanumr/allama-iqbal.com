@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE WORLD OF ACTION\nThis world is a free tavern, and to all who come to it wine is served in accordance with their bowl’s capacity.",
+              "_content": "This world is a free tavern, and to all who come to it wine is served in accordance with their bowl’s capacity.",
               "lang": "English"
             }
           ]
@@ -108,5 +108,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The World Of Action"
 }

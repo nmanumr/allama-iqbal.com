@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE STORY OF SULTAN MURAD AND THE ARCHITECT, IN ILLUSTRATION OF MUSLIM EQUALITY\n\nAn architect there was, that in Khojand was born, a famous craftsman of his kind;",
+              "_content": "\nAn architect there was, that in Khojand was born, a famous craftsman of his kind;",
               "lang": "English"
             }
           ]
@@ -352,5 +352,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Story Of Sultan Murad And The Architect, In Illustration Of Muslim Equality"
 }

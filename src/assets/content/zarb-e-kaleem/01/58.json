@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE GUIDE\nA nation's life gets much prolonged by lofty aims and ideals high if dwellers here some zeal possess, they can explore the heights of sky.",
+              "_content": "A nation's life gets much prolonged by lofty aims and ideals high if dwellers here some zeal possess, they can explore the heights of sky.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Guide"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE GOOD NEWS OF THE DAWN\nWhen the dawn full of action arrives from the east; the silence marches off from the stage of life.",
+              "_content": "When the dawn full of action arrives from the east; the silence marches off from the stage of life.",
               "lang": "English"
             }
           ]
@@ -146,5 +146,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Good News Of The Dawn"
 }

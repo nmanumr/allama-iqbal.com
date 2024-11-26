@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SPHERE OF THE MOON\n\nThis earth and heaven are the Kingdom of God, this moon and Pleiades are our patrimony;",
+              "_content": "This earth and heaven are the Kingdom of God, this moon and Pleiades are our patrimony;",
               "lang": "English"
             }
           ]
@@ -551,5 +551,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "name-en": "The Sphere Of The Moon"
 }

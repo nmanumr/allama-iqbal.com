@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "COMMUNISM AND CAPITALISM\n\nThe author of Das Kapital came of the stock of Abraham, that is to say, that prophet who knew not Gabriel;",
+              "_content": "\nThe author of Das Kapital came of the stock of Abraham, that is to say, that prophet who knew not Gabriel;",
               "lang": "English"
             }
           ]
@@ -296,5 +296,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "name-en": "Communism And Capitalism"
 }

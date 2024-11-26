@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "SHIBLI AND HALI\nOne day Iqbal said to the Muslim: ‘Your existence is unique in the universe.",
+              "_content": "One day Iqbal said to the Muslim: ‘Your existence is unique in the universe.",
               "lang": "English"
             }
           ]
@@ -177,5 +177,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Shibli And Hali"
 }

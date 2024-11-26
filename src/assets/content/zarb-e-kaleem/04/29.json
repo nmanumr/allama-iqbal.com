@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LAWFUL MUSIC\nThe bass and treble of minstrel's song much joy to human heart imparts what is the use of pleasure that is e'er on wings and soon departs?",
+              "_content": "The bass and treble of minstrel's song much joy to human heart imparts what is the use of pleasure that is e'er on wings and soon departs?",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Lawful Music"
 }

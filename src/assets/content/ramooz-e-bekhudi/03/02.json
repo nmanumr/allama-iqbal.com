@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘GOD, THE SELF-SUBSISTENT’\n\nIf thou hast bound thy faithful heart on God the Self-subsistent, thou hast overlept the rim of things material.",
+              "_content": "\nIf thou hast bound thy faithful heart on God the Self-subsistent, thou hast overlept the rim of things material.",
               "lang": "English"
             }
           ]
@@ -861,5 +861,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "‘God, The Self-Subsistent’"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "GOD'S MEN\nThat man alone is brave and free, whose stroke is full of main and might that man is coward through and through who leans on guile and tricks in fight.",
+              "_content": "That man alone is brave and free, whose stroke is full of main and might that man is coward through and through who leans on guile and tricks in fight.",
               "lang": "English"
             }
           ]
@@ -76,5 +76,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "God'S Men"
 }

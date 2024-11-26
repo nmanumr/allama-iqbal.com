@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SELF\nBarter not thy selfhood for silver and gold; sell not a burning flame for a spark half-cold;\nSo says Firdowsi, the poet of vision and grace, who brought to the East the dawn of brighter days:\nBe not a churl for filthy lucre’s sake; count not thy coppers, whatever they may make.\n(Translated by Naim Siddiqui)",
+              "_content": "Barter not thy selfhood for silver and gold; sell not a burning flame for a spark half-cold;\nSo says Firdowsi, the poet of vision and grace, who brought to the East the dawn of brighter days:\nBe not a churl for filthy lucre’s sake; count not thy coppers, whatever they may make.\n(Translated by Naim Siddiqui)",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Self"
 }

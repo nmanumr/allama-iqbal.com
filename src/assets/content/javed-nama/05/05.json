@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ADMONITION OF THE MARTIAN PROPHETESS\n\nWomen! Mothers! Sisters! How long shall we live like fond darlings?",
+              "_content": "\nWomen! Mothers! Sisters! How long shall we live like fond darlings?",
               "lang": "English"
             }
           ]
@@ -460,5 +460,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Admonition Of The Martian Prophetess"
 }

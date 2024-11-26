@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LOVE AND DEATH\nThe hour of the Universe' appearance was charming; the flower-bud of life was showering smiles.",
+              "_content": "The hour of the Universe' appearance was charming; the flower-bud of life was showering smiles.",
               "lang": "English"
             }
           ]
@@ -396,5 +396,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Love And Death"
 }

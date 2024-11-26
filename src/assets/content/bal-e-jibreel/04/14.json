@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "CHURCH AND STATE\nMonasticism was the church’s base; its austere living had no room for wealth.",
+              "_content": "Monasticism was the church’s base; its austere living had no room for wealth.",
               "lang": "English"
             }
           ]
@@ -129,5 +129,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Church And State"
 }

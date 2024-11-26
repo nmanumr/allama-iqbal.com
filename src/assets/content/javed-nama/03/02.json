@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "RELIGION AND COUNTRY\nAFGHANI\nThe Lord of the West, cunning from head to toe, taught the people of religion the concept of Country.",
+              "_content": "AFGHANI\nThe Lord of the West, cunning from head to toe, taught the people of religion the concept of Country.",
               "lang": "English"
             }
           ]
@@ -318,5 +318,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Religion And Country"
 }

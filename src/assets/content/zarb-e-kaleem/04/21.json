@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "FINE ARTS\nZest for sight, no doubt, is true O men endowed with art and tact, what aim or goal such sight can serve which fails to see the inmost part?",
+              "_content": "Zest for sight, no doubt, is true O men endowed with art and tact, what aim or goal such sight can serve which fails to see the inmost part?",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Fine Arts"
 }

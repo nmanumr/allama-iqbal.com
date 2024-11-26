@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE WISDOM OF THE WEST\nThe story goes that in Iran a worthy man, intelligent and wise;",
+              "_content": "The story goes that in Iran a worthy man, intelligent and wise;",
               "lang": "English"
             }
           ]
@@ -199,5 +199,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Wisdom Of The West"
 }

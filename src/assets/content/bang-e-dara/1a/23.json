@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE TOMB-STONE OF SAIYYID\nO you whose life is confined in the material world. O you whose soul is imprisoned in the cage.",
+              "_content": "O you whose life is confined in the material world. O you whose soul is imprisoned in the cage.",
               "lang": "English"
             }
           ]
@@ -248,5 +248,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "name-en": "The Tomb-Stone Of Saiyyid"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "DIVINE GOVERNMENT\n\nThe servant of God has no need of any station, no man is his slave, and he is the slave of none;",
+              "_content": "\nThe servant of God has no need of any station, no man is his slave, and he is the slave of none;",
               "lang": "English"
             }
           ]
@@ -358,5 +358,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Divine Government"
 }

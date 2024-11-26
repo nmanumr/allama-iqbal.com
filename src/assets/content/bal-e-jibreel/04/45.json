@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "SEPARATION\nThe sun is weaving with golden thread a mantle of light about earth's head;",
+              "_content": "The sun is weaving with golden thread a mantle of light about earth's head;",
               "lang": "English"
             }
           ]
@@ -76,5 +76,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Separation"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "QUESTION 2\nWhat is this ocean whose shore is knowledge? What is that pearl which is found in its depth?",
+              "_content": "What is this ocean whose shore is knowledge? What is that pearl which is found in its depth?",
               "lang": "English"
             }
           ]
@@ -517,5 +517,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "name-en": "Question 2"
 }

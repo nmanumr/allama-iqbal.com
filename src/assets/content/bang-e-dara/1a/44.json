@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "NAWAB MIRZA KHAN DAGH\nThe grandeur of Ghalib has remained buried since long; Mahdi Majrooh* is the cemetery's resident since long.\n* Mir Mahdi Majrooh, Dehalvi; an eminent poet of India.)",
+              "_content": "The grandeur of Ghalib has remained buried since long; Mahdi Majrooh* is the cemetery's resident since long.\n* Mir Mahdi Majrooh, Dehalvi; an eminent poet of India.)",
               "lang": "English"
             }
           ]
@@ -404,5 +404,6 @@
       ],
       "id": 5
     }
-  ]
+  ],
+  "name-en": "Nawab Mirza Khan Dagh"
 }

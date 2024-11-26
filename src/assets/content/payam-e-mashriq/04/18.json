@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PHILOSOPHERS\nLocke: It was dawn that lit up the tulip’s cup with a drink from the sun; for the tulip itself bore an empty cup when it joined the company of flowers.",
+              "_content": "Locke: It was dawn that lit up the tulip’s cup with a drink from the sun; for the tulip itself bore an empty cup when it joined the company of flowers.",
               "lang": "English"
             }
           ]
@@ -75,5 +75,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "name-en": "Philosophers"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "BYRON\nFlames would spring up, just as rose and tulip do, from the garden’s soil, if you poured a drop or two on it from his cup, always on the boil.",
+              "_content": "Flames would spring up, just as rose and tulip do, from the garden’s soil, if you poured a drop or two on it from his cup, always on the boil.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Byron"
 }

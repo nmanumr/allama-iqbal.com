@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SELF IS WEAKENED BY ASKING\n\nO thou who hast gathered taxes from lions; thy need hath caused thee to become a fox in disposition.",
+              "_content": "\nO thou who hast gathered taxes from lions; thy need hath caused thee to become a fox in disposition.",
               "lang": "English"
             }
           ]
@@ -420,5 +420,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Self Is Weakened By Asking"
 }

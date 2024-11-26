@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE NEW MOON OF EID\nYou cannot manage to evade the eager view of people waiting for a sight of you. A thousand glances have conspired to weave a net to catch you in.\nOpen your eyes to yourself. Do not grieve that you are a bare outline. Within you lies a real full moon.\n(Translated by M. Hadi Husain)",
+              "_content": "You cannot manage to evade the eager view of people waiting for a sight of you. A thousand glances have conspired to weave a net to catch you in.\nOpen your eyes to yourself. Do not grieve that you are a bare outline. Within you lies a real full moon.\n(Translated by M. Hadi Husain)",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The New Moon Of Eid"
 }

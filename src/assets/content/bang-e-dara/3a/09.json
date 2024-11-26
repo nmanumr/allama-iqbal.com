@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE MUSLIM NATIONAL ANTHEM\nChina and Arabia are ours, India is also ours; we are Muslims, whole world is homeland of ours.",
+              "_content": "China and Arabia are ours, India is also ours; we are Muslims, whole world is homeland of ours.",
               "lang": "English"
             }
           ]
@@ -190,5 +190,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Muslim National Anthem"
 }

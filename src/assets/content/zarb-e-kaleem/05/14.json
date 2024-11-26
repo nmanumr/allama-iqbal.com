@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "TO THE EGYPTIANS\nBy Sphinx this subtle point to me was told; the Sphinx, whose breast holds secrets old.",
+              "_content": "By Sphinx this subtle point to me was told; the Sphinx, whose breast holds secrets old.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "To The Egyptians"
 }

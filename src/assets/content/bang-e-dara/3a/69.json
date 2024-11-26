@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE TRAVELER’S GUIDE\nPoet: One night at the river-bank I was absorbed in contemplation with a world of restlessness concealed in the heart’s recesses.",
+              "_content": "Poet: One night at the river-bank I was absorbed in contemplation with a world of restlessness concealed in the heart’s recesses.",
               "lang": "English"
             }
           ]
@@ -1461,5 +1461,6 @@
       ],
       "id": 6
     }
-  ]
+  ],
+  "name-en": "The Traveler’S Guide"
 }

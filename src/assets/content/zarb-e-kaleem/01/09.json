@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "IJTEHAD\nThere is no place in Ind where from to learn; the tenets that the Muslim Faith concern. They are devoid of zeal for godly acts, and are not wont to seek its basic facts.",
+              "_content": "There is no place in Ind where from to learn; the tenets that the Muslim Faith concern. They are devoid of zeal for godly acts, and are not wont to seek its basic facts.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Ijtehad"
 }

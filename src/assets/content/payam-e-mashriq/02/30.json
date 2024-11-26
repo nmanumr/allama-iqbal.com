@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LIVE DANGEROUSLY\nSaid one gazelle to another, ‘I will take shelter in the harem from now on:",
+              "_content": "Said one gazelle to another, ‘I will take shelter in the harem from now on:",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Live Dangerously"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SONG OF TAHIRA\nIf ever confronting face to face my glance should alight on you I will describe to you my sorrow for you in minutest detail.",
+              "_content": "If ever confronting face to face my glance should alight on you I will describe to you my sorrow for you in minutest detail.",
               "lang": "English"
             }
           ]
@@ -182,5 +182,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Song Of Tahira"
 }

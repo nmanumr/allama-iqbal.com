@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE LION AND THE MULE \nLION: You are so different and unlike all the other dwellers of the wild and the desert! Who are your parents and ancestors? And what is your tribe?",
+              "_content": "LION: You are so different and unlike all the other dwellers of the wild and the desert! Who are your parents and ancestors? And what is your tribe?",
               "lang": "English"
             }
           ]
@@ -50,5 +50,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "The Lion And The Mule"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PARIS MOSQUE\nNo height of art and craft I see, of truth this western mosque is free.",
+              "_content": "No height of art and craft I see, of truth this western mosque is free.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Paris Mosque"
 }

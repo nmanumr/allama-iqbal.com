@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ADVICE\nA Frankish Lord advised his son to seek such aim that is always pleasant ne'er bleak.",
+              "_content": "A Frankish Lord advised his son to seek such aim that is always pleasant ne'er bleak.",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Advice"
 }

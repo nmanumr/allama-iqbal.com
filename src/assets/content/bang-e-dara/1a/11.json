@@ -19,7 +19,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A MOTHER'S DREAM\nAs I slept one night I saw this dream, which further increased my vexation.",
+              "_content": "As I slept one night I saw this dream, which further increased my vexation.",
               "lang": "English"
             }
           ]
@@ -251,5 +251,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "A Mother'S Dream"
 }

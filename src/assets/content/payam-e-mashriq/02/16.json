@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "VANITY\nSaid snow in cold superior syllables to the mountain stream: ‘O babbler, I am weary of your meaningless uproar.",
+              "_content": "Said snow in cold superior syllables to the mountain stream: ‘O babbler, I am weary of your meaningless uproar.",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Vanity"
 }

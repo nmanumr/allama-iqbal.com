@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE FRANKISH MAN\nTo solve this riddle thinkers have much tried, their efforts all so far it has defied.",
+              "_content": "To solve this riddle thinkers have much tried, their efforts all so far it has defied.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Frankish Man"
 }

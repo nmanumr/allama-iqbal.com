@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PHILOSOPHY\nThe thoughts of young both masked and plain from Qalandar's eyes can't hid, remain.",
+              "_content": "The thoughts of young both masked and plain from Qalandar's eyes can't hid, remain.",
               "lang": "English"
             }
           ]
@@ -108,5 +108,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Philosophy"
 }

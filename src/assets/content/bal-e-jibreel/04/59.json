@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE ANT AND THE EAGLE \nANT: I am so miserable and forlorn: Why is your station loftier than the skies?",
+              "_content": "ANT: I am so miserable and forlorn: Why is your station loftier than the skies?",
               "lang": "English"
             }
           ]
@@ -50,5 +50,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "The Ant And The Eagle"
 }

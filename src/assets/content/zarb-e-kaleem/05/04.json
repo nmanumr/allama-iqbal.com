@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "FLATTERY\nThe world and its affairs to me are quite unknown; these secrets are not bid from those who insight own.",
+              "_content": "The world and its affairs to me are quite unknown; these secrets are not bid from those who insight own.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Flattery"
 }

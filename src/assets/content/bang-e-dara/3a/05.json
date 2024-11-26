@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "MORNING’S APPEARANCE\nFrom under the horizon’s skirt is appearing; the day and night’s virgin daughter that is dawn.",
+              "_content": "From under the horizon’s skirt is appearing; the day and night’s virgin daughter that is dawn.",
               "lang": "English"
             }
           ]
@@ -156,5 +156,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Morning’S Appearance"
 }

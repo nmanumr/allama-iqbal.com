@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE GLOW-WORM\nI hear the glow-worm said to itself, ‘I am not an insect that hurts with its sting.",
+              "_content": "I hear the glow-worm said to itself, ‘I am not an insect that hurts with its sting.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Glow-Worm"
 }

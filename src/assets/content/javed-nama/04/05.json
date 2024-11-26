@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE SUDANESE DERVISH APPEARS\nA restless lightning flashed in the water, waves surged and rolled in the water;",
+              "_content": "A restless lightning flashed in the water, waves surged and rolled in the water;",
               "lang": "English"
             }
           ]
@@ -437,5 +437,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Sudanese Dervish Appears"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "TO JAVAID\nA nation’s life is illumined by Selfhood; Selfhood is the pathway to everlasting life.",
+              "_content": "A nation’s life is illumined by Selfhood; Selfhood is the pathway to everlasting life.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "To Javaid"
 }

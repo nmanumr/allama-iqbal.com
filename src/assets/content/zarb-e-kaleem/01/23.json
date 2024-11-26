@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "KINGSHIP\nThe lofty states of faqr are known to few, the faqr that brings the soul of Koran to view.",
+              "_content": "The lofty states of faqr are known to few, the faqr that brings the soul of Koran to view.",
               "lang": "English"
             }
           ]
@@ -126,5 +126,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Kingship"
 }

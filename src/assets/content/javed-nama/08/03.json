@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE PALACE OF SHARAF AL-NISA\nI said, ‘Yonder mansion of pure ruby which gathers tribute from the sun,",
+              "_content": "I said, ‘Yonder mansion of pure ruby which gathers tribute from the sun,",
               "lang": "English"
             }
           ]
@@ -420,5 +420,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Palace Of Sharaf Al-Nisa"
 }

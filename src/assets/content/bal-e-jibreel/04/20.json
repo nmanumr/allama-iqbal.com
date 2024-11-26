@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "TIME\nWhat was; has faded: what is; is fading: but of these words few can tell the worth; time still is gaping with expectation of what is nearest its hour of birth.",
+              "_content": "What was; has faded: what is; is fading: but of these words few can tell the worth; time still is gaping with expectation of what is nearest its hour of birth.",
               "lang": "English"
             }
           ]
@@ -172,5 +172,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Time"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "MOSQUE OF CORDOBA\nThe succession of day and night is the architect of events. The succession of day and night is the fountain-head of life and death.",
+              "_content": "The succession of day and night is the architect of events. The succession of day and night is the fountain-head of life and death.",
               "lang": "English"
             }
           ]
@@ -1106,5 +1106,6 @@
       ],
       "id": 8
     }
-  ]
+  ],
+  "name-en": "Mosque Of Cordoba"
 }

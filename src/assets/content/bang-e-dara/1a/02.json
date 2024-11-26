@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE COLORFUL ROSE\nYou are not familiar with the hardships of solving enigmas O Beautiful Rose! Perhaps you do not have sublime feelings in your heart.",
+              "_content": "You are not familiar with the hardships of solving enigmas O Beautiful Rose! Perhaps you do not have sublime feelings in your heart.",
               "lang": "English"
             }
           ]
@@ -232,5 +232,6 @@
       ],
       "id": 4
     }
-  ]
+  ],
+  "name-en": "The Colorful Rose"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A LETTER FROM EUROPE\nWe venture not beyond the shores: Being to the senses confined. But Rumi is an ocean, stormy, mysterious.\nIqbal! Thou, too, art moving in that band of men: That band of men of passion, of which Rumi is the guide;\nRumi, they say, is the guiding light for freedom; has he, indeed, a message for the age we live in?",
+              "_content": "We venture not beyond the shores: Being to the senses confined. But Rumi is an ocean, stormy, mysterious.\nIqbal! Thou, too, art moving in that band of men: That band of men of passion, of which Rumi is the guide;\nRumi, they say, is the guiding light for freedom; has he, indeed, a message for the age we live in?",
               "lang": "English"
             }
           ]
@@ -50,5 +50,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "A Letter From Europe"
 }

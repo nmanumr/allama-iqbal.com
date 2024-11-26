@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LINES ADDRESSED TO MUSTAFA KAMAL PASHA\nThere was once an unlettered man, thanks to whose wisdom we learned all about the mysteries of human destiny.",
+              "_content": "There was once an unlettered man, thanks to whose wisdom we learned all about the mysteries of human destiny.",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Lines Addressed To Mustafa Kamal Pasha"
 }

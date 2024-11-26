@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘HE BEGAT NOT, NEITHER WAS HE BEGOTTON’\n\nLoftier than hue and blood thy people are, and greater worth one Negro of the Faith than are a hundred redskin infidels.",
+              "_content": "\nLoftier than hue and blood thy people are, and greater worth one Negro of the Faith than are a hundred redskin infidels.",
               "lang": "English"
             }
           ]
@@ -446,5 +446,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "name-en": "‘He Begat Not, Neither Was He Begotton’"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LEAGUE OF THE NATIONS OF THE EAST\nThe West has made the wind and seas work through hard work, not chance; from West, the old blue' sky may turn its gaze and glance.",
+              "_content": "The West has made the wind and seas work through hard work, not chance; from West, the old blue' sky may turn its gaze and glance.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "League Of The Nations Of The East"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LONELINESS\nWhy are you sad in the night's loneliness? Are not the stars your close associates?",
+              "_content": "Why are you sad in the night's loneliness? Are not the stars your close associates?",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Loneliness"
 }

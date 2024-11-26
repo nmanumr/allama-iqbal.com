@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A DETHRONED KING\nI hail, that king great who earned a good name’ whose sacrifice reveals the kingship’s game.",
+              "_content": "I hail, that king great who earned a good name’ whose sacrifice reveals the kingship’s game.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "A Dethroned King"
 }

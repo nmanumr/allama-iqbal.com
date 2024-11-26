@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ADDRESS TO THE VEILED LADIES OF ISLAM\n\nO thou, whose mantle is the covering that guards our honour, whose effulgence our candle’s capital;",
+              "_content": "\nO thou, whose mantle is the covering that guards our honour, whose effulgence our candle’s capital;",
               "lang": "English"
             }
           ]
@@ -283,5 +283,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Address To The Veiled Ladies Of Islam"
 }

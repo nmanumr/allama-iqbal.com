@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE CRESCENT\nThe sun's boat is broken and drowned in the Nile, but a piece is floating about on the water of the Nile.",
+              "_content": "The sun's boat is broken and drowned in the Nile, but a piece is floating about on the water of the Nile.",
               "lang": "English"
             }
           ]
@@ -136,5 +136,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "The Crescent"
 }

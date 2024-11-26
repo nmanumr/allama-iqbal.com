@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "GOD’S COUNTRY\nWhen Tariq burned his boats on Andalusia’s coast, his men observed: ‘It was an unwise thing to do.",
+              "_content": "When Tariq burned his boats on Andalusia’s coast, his men observed: ‘It was an unwise thing to do.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "God’S Country"
 }

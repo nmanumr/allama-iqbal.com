@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE FALCON’S ADVICE TO ITS YOUNGSTER\nYou know that in essence all falcons are one; a mere handful of feathers, but with the heart of a lion.",
+              "_content": "You know that in essence all falcons are one; a mere handful of feathers, but with the heart of a lion.",
               "lang": "English"
             }
           ]
@@ -369,5 +369,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Falcon’S Advice To Its Youngster"
 }

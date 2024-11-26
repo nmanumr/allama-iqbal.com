@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "GHAZAL OF ZINDA-RUD\nYou have not reached Man, so why do you seek God? You have fled from your self; why do you seek a friend?",
+              "_content": "You have not reached Man, so why do you seek God? You have fled from your self; why do you seek a friend?",
               "lang": "English"
             }
           ]
@@ -131,5 +131,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Ghazal Of Zinda-Rud"
 }

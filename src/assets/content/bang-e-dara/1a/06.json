@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A SPIDER AND A FLY\nOne day a spider said to a fly: ‘Though you pass this way daily.",
+              "_content": "One day a spider said to a fly: ‘Though you pass this way daily.",
               "lang": "English"
             }
           ]
@@ -409,5 +409,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "name-en": "A Spider And A Fly"
 }

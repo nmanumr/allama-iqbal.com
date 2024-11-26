@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "RELIGION AND EDUCATION\nI know the modes of those who guide the creed, though lacking truth, of vision boast, indeed.",
+              "_content": "I know the modes of those who guide the creed, though lacking truth, of vision boast, indeed.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Religion And Education"
 }

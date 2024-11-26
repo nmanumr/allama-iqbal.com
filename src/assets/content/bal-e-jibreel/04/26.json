@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "LOVE\nThe shafts of love are not confined to clime or race or creed.",
+              "_content": "The shafts of love are not confined to clime or race or creed.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Love"
 }

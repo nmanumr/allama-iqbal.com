@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A WITHERED ROSE\nHow shall I call you now a flower? Tell me, oh withered rose! How call you that beloved for whom the nightingale’s heart glows?",
+              "_content": "How shall I call you now a flower? Tell me, oh withered rose! How call you that beloved for whom the nightingale’s heart glows?",
               "lang": "English"
             }
           ]
@@ -119,5 +119,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "A Withered Rose"
 }

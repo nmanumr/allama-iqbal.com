@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE BIRD THAT WAS FAINT WITH THIRST\n\nA bird was faint with thirst; the breath in his body was heaving like waves of smoke.",
+              "_content": "A bird was faint with thirst; the breath in his body was heaving like waves of smoke.",
               "lang": "English"
             }
           ]
@@ -402,5 +402,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Bird That Was Faint With Thirst"
 }

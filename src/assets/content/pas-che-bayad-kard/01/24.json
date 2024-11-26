@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "TALK WITH THE KING OF ISLAM, ZAHIR SHAH\n\nO you on whom the robe of kingship fits well, your shadow is like alchemy for our dust.",
+              "_content": "\nO you on whom the robe of kingship fits well, your shadow is like alchemy for our dust.",
               "lang": "English"
             }
           ]
@@ -1294,5 +1294,6 @@
       ],
       "id": 5
     }
-  ]
+  ],
+  "name-en": "Talk With The King Of Islam, Zahir Shah"
 }

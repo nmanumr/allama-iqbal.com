@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE DEW AND THE STARS\nOne night stars started saying this to the dew; ‘Every morning new sights are available to you.",
+              "_content": "One night stars started saying this to the dew; ‘Every morning new sights are available to you.",
               "lang": "English"
             }
           ]
@@ -236,5 +236,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Dew And The Stars"
 }

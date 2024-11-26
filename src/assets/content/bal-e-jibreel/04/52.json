@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "THE EAGLE\nI am a scorner of the earth; where life is a handful of grains.",
+              "_content": "I am a scorner of the earth; where life is a handful of grains.",
               "lang": "English"
             }
           ]
@@ -156,5 +156,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "The Eagle"
 }

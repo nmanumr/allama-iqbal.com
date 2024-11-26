@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "PIETY AND ECSTASY\nI am only relating to you the story of a maulavi; I have no intention of showing my smartness.",
+              "_content": "I am only relating to you the story of a maulavi; I have no intention of showing my smartness.",
               "lang": "English"
             }
           ]
@@ -459,5 +459,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "name-en": "Piety And Ecstasy"
 }

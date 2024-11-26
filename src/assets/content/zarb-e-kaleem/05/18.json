@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "ETERNAL KINGSHIP\nThough Nature has made me such that I too can dive, yet from statesmanship's core to keep aloof I strive.",
+              "_content": "Though Nature has made me such that I too can dive, yet from statesmanship's core to keep aloof I strive.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "Eternal Kingship"
 }

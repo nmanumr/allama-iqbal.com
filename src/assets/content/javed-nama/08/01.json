@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "BEYOND THE SPHERES: THE STATION OF THE GERMAN PHILOSOPHER NITEZSHE\nThe conflict of being and not-being is universal; no man knows the secret of yon azure sky.",
+              "_content": "The conflict of being and not-being is universal; no man knows the secret of yon azure sky.",
               "lang": "English"
             }
           ]
@@ -653,5 +653,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "name-en": "Beyond The Spheres: The Station Of The German Philosopher Nitezshe"
 }

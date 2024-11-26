@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "TO THE PUNJAB PEASANT\nWhat is this life of yours, tell me its mystery: Trampled in dust is your ages-old history!",
+              "_content": "What is this life of yours, tell me its mystery: Trampled in dust is your ages-old history!",
               "lang": "English"
             }
           ]
@@ -127,5 +127,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "name-en": "To The Punjab Peasant"
 }
