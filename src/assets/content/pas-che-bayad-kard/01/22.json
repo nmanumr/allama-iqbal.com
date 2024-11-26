@@ -458,7 +458,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It raised shouts upon shouts till it fell into prostration; there was only the flame of its voice but itself no more!\n(Translated by B A Dar)",
+              "_content": "It raised shouts upon shouts till it fell into prostration; there was only the flame of its voice but itself no more!",
               "lang": "English"
             }
           ]
@@ -467,5 +467,6 @@
       "id": 2
     }
   ],
-  "name-en": "Seeing Prophet’S Garb At Qandhar"
+  "name-en": "Seeing Prophet’S Garb At Qandhar",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

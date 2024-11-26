@@ -259,7 +259,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Tell, O tell the son of Nadir patently; disclose what is in your mind to Zahir unreservedly.\n[Translated by Jamil Naqvi]",
+              "_content": "Tell, O tell the son of Nadir patently; disclose what is in your mind to Zahir unreservedly.",
               "lang": "English"
             }
           ]
@@ -268,5 +268,6 @@
       "id": 1
     }
   ],
-  "name-en": "At The Mausoleum Of Hadrat Ahmad Shah Baba"
+  "name-en": "At The Mausoleum Of Hadrat Ahmad Shah Baba",
+  "credits": "English Translation by: Jamil Naqvi"
 }

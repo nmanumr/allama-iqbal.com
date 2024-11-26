@@ -861,7 +861,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The problems of the nations cannot be set right by you, unless you prove by action that you are the bearer of truth.\n(Translated by Jamil Naqvi)",
+              "_content": "The problems of the nations cannot be set right by you, unless you prove by action that you are the bearer of truth.",
               "lang": "English"
             }
           ]
@@ -870,5 +870,6 @@
       "id": 5
     }
   ],
-  "name-en": "The Essence Of The Shari’Ah"
+  "name-en": "The Essence Of The Shari’Ah",
+  "credits": "English Translation by: Jamil Naqvi"
 }

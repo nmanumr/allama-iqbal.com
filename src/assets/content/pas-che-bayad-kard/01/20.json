@@ -293,7 +293,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Since I was not unaware of this secret, I was all afire with his voice’s heat.\n[Translated by Jamil Naqvi]",
+              "_content": "Since I was not unaware of this secret, I was all afire with his voice’s heat.",
               "lang": "English"
             }
           ]
@@ -302,5 +302,6 @@
       "id": 1
     }
   ],
-  "name-en": "At The Tomb Of Sultan Mahmud"
+  "name-en": "At The Tomb Of Sultan Mahmud",
+  "credits": "English Translation by: Jamil Naqvi"
 }

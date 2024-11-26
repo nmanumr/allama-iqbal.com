@@ -667,7 +667,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O man of the desert, make what is unripe mature and refashion the world according to your touchstone.\n(Translated by Bashir Ahmad Dar)",
+              "_content": "O man of the desert, make what is unripe mature and refashion the world according to your touchstone.",
               "lang": "English"
             }
           ]
@@ -675,5 +675,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

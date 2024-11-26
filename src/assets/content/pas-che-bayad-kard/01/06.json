@@ -594,7 +594,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "He who has the sword of negation in his hands is the ruler of all the universe.\t\n(Translated by Bashir Ahmad Dar)",
+              "_content": "He who has the sword of negation in his hands is the ruler of all the universe.\t",
               "lang": "English"
             }
           ]
@@ -602,5 +602,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

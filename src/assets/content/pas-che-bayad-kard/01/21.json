@@ -401,7 +401,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Split the Red Sea with his staff; let Caucasia Quake with his glory.\n[Translated by Jamil Naqvi]",
+              "_content": "Split the Red Sea with his staff; let Caucasia Quake with his glory.",
               "lang": "English"
             }
           ]
@@ -410,5 +410,6 @@
       "id": 2
     }
   ],
-  "name-en": "Supplication Of A Frenzied One"
+  "name-en": "Supplication Of A Frenzied One",
+  "credits": "English Translation by: Jamil Naqvi"
 }

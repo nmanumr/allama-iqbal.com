@@ -395,7 +395,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Alas! For a nation which has cut itself adrift from God, which is dead, but does not know that it is dead.\n(Translated by Jamil Naqvi)",
+              "_content": "Alas! For a nation which has cut itself adrift from God, which is dead, but does not know that it is dead.",
               "lang": "English"
             }
           ]
@@ -404,5 +404,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Wisdom Of The Pharaohs"
+  "name-en": "The Wisdom Of The Pharaohs",
+  "credits": "English Translation by: Jamil Naqvi"
 }

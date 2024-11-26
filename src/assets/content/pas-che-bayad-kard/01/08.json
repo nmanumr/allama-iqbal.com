@@ -531,7 +531,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In this world you do not count more than a piece of straw unless you attach yourself to the skirt of somebody.\n[Translated by B A Dar]",
+              "_content": "In this world you do not count more than a piece of straw unless you attach yourself to the skirt of somebody.",
               "lang": "English"
             }
           ]
@@ -540,5 +540,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Freeman"
+  "name-en": "The Freeman",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

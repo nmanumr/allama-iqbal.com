@@ -310,7 +310,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It is therefore necessary that their thought should first be purified (of all dross); reconstruction of thought would then be easy for them.\n(Translated by Jamil Naqvi)",
+              "_content": "It is therefore necessary that their thought should first be purified (of all dross); reconstruction of thought would then be easy for them.",
               "lang": "English"
             }
           ]
@@ -319,5 +319,6 @@
       "id": 1
     }
   ],
-  "name-en": "Address To The World-Illuminating Sun"
+  "name-en": "Address To The World-Illuminating Sun",
+  "credits": "English Translation by: Jamil Naqvi"
 }

@@ -612,7 +612,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It palpitated in the lap of the morning for a moment and then dropped into the mouth of the new-born bud.\n(Translated by Jamil Naqvi)",
+              "_content": "It palpitated in the lap of the morning for a moment and then dropped into the mouth of the new-born bud.",
               "lang": "English"
             }
           ]
@@ -621,5 +621,6 @@
       "id": 6
     }
   ],
-  "name-en": "Preamble"
+  "name-en": "Preamble",
+  "credits": "English Translation by: Jamil Naqvi"
 }

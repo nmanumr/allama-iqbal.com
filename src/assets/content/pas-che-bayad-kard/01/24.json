@@ -1286,7 +1286,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Therefore take one or two cups from my brew; so that you should shine like an unsheathed sword.\n[Translated by Jamil Naqvi]",
+              "_content": "Therefore take one or two cups from my brew; so that you should shine like an unsheathed sword.",
               "lang": "English"
             }
           ]
@@ -1295,5 +1295,6 @@
       "id": 5
     }
   ],
-  "name-en": "Talk With The King Of Islam, Zahir Shah"
+  "name-en": "Talk With The King Of Islam, Zahir Shah",
+  "credits": "English Translation by: Jamil Naqvi"
 }

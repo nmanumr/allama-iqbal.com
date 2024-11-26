@@ -514,7 +514,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A man of sensitive type can hear the note that is still in the throat.\n[Translated by Jamil Naqvi]",
+              "_content": "A man of sensitive type can hear the note that is still in the throat.",
               "lang": "English"
             }
           ]
@@ -523,5 +523,6 @@
       "id": 1
     }
   ],
-  "name-en": "Sanai’S Spirit Speaks From Heaven"
+  "name-en": "Sanai’S Spirit Speaks From Heaven",
+  "credits": "English Translation by: Jamil Naqvi"
 }

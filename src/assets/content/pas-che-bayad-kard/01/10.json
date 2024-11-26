@@ -452,7 +452,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O young man, catch hold of its skirt firmly; you have been born in slavery, now live free. \t\n(Translated by Bashir Ahmad Dar)",
+              "_content": "O young man, catch hold of its skirt firmly; you have been born in slavery, now live free. \t",
               "lang": "English"
             }
           ]
@@ -461,5 +461,6 @@
       "id": 2
     }
   ],
-  "name-en": "Lament On The Differences Among Indians"
+  "name-en": "Lament On The Differences Among Indians",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

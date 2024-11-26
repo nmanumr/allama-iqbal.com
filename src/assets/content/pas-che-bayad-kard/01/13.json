@@ -1139,7 +1139,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Alas for the river whose waves did not fret, and which bought its own pearls from the divers!\n(Translated by Bashir Ahmad Dar)",
+              "_content": "Alas for the river whose waves did not fret, and which bought its own pearls from the divers!",
               "lang": "English"
             }
           ]
@@ -1148,5 +1148,6 @@
       "id": 6
     }
   ],
-  "name-en": "O Nations Of East"
+  "name-en": "O Nations Of East",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

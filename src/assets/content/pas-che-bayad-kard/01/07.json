@@ -1258,7 +1258,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘Take your share of my fire and ardour, there may not come after me as a faqir like me.’\t \n(Translated by B A Dar)",
+              "_content": "‘Take your share of my fire and ardour, there may not come after me as a faqir like me.’\t",
               "lang": "English"
             }
           ]
@@ -1266,5 +1266,6 @@
       ],
       "id": 6
     }
-  ]
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

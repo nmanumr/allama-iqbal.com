@@ -548,7 +548,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If he gains ardour and zeal from There is no deity (but God), the Sun and Moon will revolve only at his bidding.\n(Translated by Jamil Naqvi)",
+              "_content": "If he gains ardour and zeal from There is no deity (but God), the Sun and Moon will revolve only at his bidding.",
               "lang": "English"
             }
           ]
@@ -557,5 +557,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Wisdom Of Moses"
+  "name-en": "The Wisdom Of Moses",
+  "credits": "English Translation by: Jamil Naqvi"
 }

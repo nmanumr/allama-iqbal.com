@@ -1088,7 +1088,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My soul, afflicted with separation, cries within me: O my lament! Ah me! Ah me!\n(Translated by B A Dar)",
+              "_content": "My soul, afflicted with separation, cries within me: O my lament! Ah me! Ah me!",
               "lang": "English"
             }
           ]
@@ -1097,5 +1097,6 @@
       "id": 6
     }
   ],
-  "name-en": "To The Holy Prophet S.A.W."
+  "name-en": "To The Holy Prophet S.A.W.",
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }

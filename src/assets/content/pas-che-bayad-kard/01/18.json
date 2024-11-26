@@ -310,7 +310,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Whatever is there hidden behind the veil, let me know; may he the wave once past should come back in the stream.\n[Translated by Jamil Naqvi]",
+              "_content": "Whatever is there hidden behind the veil, let me know; may he the wave once past should come back in the stream.",
               "lang": "English"
             }
           ]
@@ -319,5 +319,6 @@
       "id": 1
     }
   ],
-  "name-en": "Visiting Ghazni And Offering Reverence To Hakim Sanai"
+  "name-en": "Visiting Ghazni And Offering Reverence To Hakim Sanai",
+  "credits": "English Translation by: Jamil Naqvi"
 }

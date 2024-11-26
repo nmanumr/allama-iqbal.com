@@ -650,7 +650,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You too build a self in your corporeal frame and convert a pinch of dust of your self into alchemy.\n(Translated by Jamil Naqvi)",
+              "_content": "You too build a self in your corporeal frame and convert a pinch of dust of your self into alchemy.",
               "lang": "English"
             }
           ]
@@ -658,5 +658,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Jamil Naqvi"
 }

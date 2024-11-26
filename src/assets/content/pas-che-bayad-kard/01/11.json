@@ -719,7 +719,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Eid of the free people is the glory of State and religion, the ‘Id of the slaves is but a congregation of Muslims.\t\n(Translated by Bashir Ahmad Dar)",
+              "_content": "The Eid of the free people is the glory of State and religion, the ‘Id of the slaves is but a congregation of Muslims.\t",
               "lang": "English"
             }
           ]
@@ -727,5 +727,6 @@
       ],
       "id": 4
     }
-  ]
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
 }
