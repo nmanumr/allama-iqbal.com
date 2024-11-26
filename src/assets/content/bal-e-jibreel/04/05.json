@@ -117,7 +117,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I saw as well as showed, I spoke as well as listened; neither seeing nor learning brings calm to the heart!\n(Translated by Naeem Siddiqui)",
+              "_content": "I saw as well as showed, I spoke as well as listened; neither seeing nor learning brings calm to the heart!",
               "lang": "English"
             }
           ]
@@ -126,5 +126,6 @@
       "id": 1
     }
   ],
-  "name-en": "Spain"
+  "name-en": "Spain",
+  "credits": "English Translation by: Naeem Siddiqui"
 }

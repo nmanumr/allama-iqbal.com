@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The station of love is beyond the reach of Your angels; only those of dauntless courage are up to it.\n(Translated by Mustansir Mir)",
+              "_content": "The station of love is beyond the reach of Your angels; only those of dauntless courage are up to it.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

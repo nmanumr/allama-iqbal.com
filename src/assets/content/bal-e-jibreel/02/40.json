@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Gone are the days when I was alone in company: Many here are my confidants now.\n(Translated by Mustansir Mir)",
+              "_content": "Gone are the days when I was alone in company: Many here are my confidants now.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

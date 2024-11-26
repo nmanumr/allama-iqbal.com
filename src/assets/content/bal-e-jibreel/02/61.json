@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘You take the West for neighbour sweet and dear; though Stars to land of yours are close and near.’\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "‘You take the West for neighbour sweet and dear; though Stars to land of yours are close and near.’",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

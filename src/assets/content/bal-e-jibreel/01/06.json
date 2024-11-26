@@ -102,7 +102,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The rise of clay-born man hath smit the hosts of heaven with utter fright: They dread that this fallen star to moon may wax with fuller light.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The rise of clay-born man hath smit the hosts of heaven with utter fright: They dread that this fallen star to moon may wax with fuller light.",
               "lang": "English"
             }
           ]
@@ -110,5 +110,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

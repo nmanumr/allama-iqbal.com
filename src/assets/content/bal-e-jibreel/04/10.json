@@ -42,7 +42,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "FIRE FLY: God be thanked a hundred times that I am not a moth: That I am no beggar of alien fire!\n(Translated by Mustansir Mir)",
+              "_content": "FIRE FLY: God be thanked a hundred times that I am not a moth: That I am no beggar of alien fire!",
               "lang": "English"
             }
           ]
@@ -51,5 +51,6 @@
       "id": 2
     }
   ],
-  "name-en": "The Moth And The Firefly"
+  "name-en": "The Moth And The Firefly",
+  "credits": "English Translation by: Mustansir Mir"
 }

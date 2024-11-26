@@ -164,7 +164,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "That man will still keep his lantern burning, however tempests blow strong and cold, whose soul is centred on high, whose temper the Lord has cast in the royal mould.\n(Translated by V.G. Kiernan)",
+              "_content": "That man will still keep his lantern burning, however tempests blow strong and cold, whose soul is centred on high, whose temper the Lord has cast in the royal mould.",
               "lang": "English"
             }
           ]
@@ -173,5 +173,6 @@
       "id": 1
     }
   ],
-  "name-en": "Time"
+  "name-en": "Time",
+  "credits": "English Translation by: V.G. Kiernan"
 }

@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Dew-drops glisten on flowers that bloom in the spring; the breeze, the jasmine, and the rose have failed:\nTo raise the tumult of joy and liveliness, for flowers here lack the spark and fire of life.\n[Translated by Mustansir Mir]",
+              "_content": "Dew-drops glisten on flowers that bloom in the spring; the breeze, the jasmine, and the rose have failed:\nTo raise the tumult of joy and liveliness, for flowers here lack the spark and fire of life.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Mustansir Mir"
 }

@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My heart bleeds from the song of the early morning: O Lord! What is the sin for which this is a punishment?\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "My heart bleeds from the song of the early morning: O Lord! What is the sin for which this is a punishment?",
               "lang": "English"
             }
           ]
@@ -108,5 +108,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

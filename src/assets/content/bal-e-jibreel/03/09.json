@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A restless heart throbs in every atom; it has its abode, alone, in a multitude.\nImpaled upon the wheel of days and nights, it remains unchained by the tyranny of time.\n(Translated by Naim Siddiqui)",
+              "_content": "A restless heart throbs in every atom; it has its abode, alone, in a multitude.\nImpaled upon the wheel of days and nights, it remains unchained by the tyranny of time.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

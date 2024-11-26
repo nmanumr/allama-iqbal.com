@@ -86,7 +86,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Of the dust blown by the Mughal cavalry, carried by the mountain wind.\n\nKhushhal Khan Khattak was a famous Pashtu nationalist poet, who mobilized the tribes and formed a coalition to fight for freedom of Afghanistan frm Moghal emporers. Omly Afridis remained with him till last. About one hundred poems of his were translated in to English and published in London in 1862. \n[Translated by Naim Siddiqui]",
+              "_content": "Of the dust blown by the Mughal cavalry, carried by the mountain wind.\n\nKhushhal Khan Khattak was a famous Pashtu nationalist poet, who mobilized the tribes and formed a coalition to fight for freedom of Afghanistan frm Moghal emporers. Omly Afridis remained with him till last. About one hundred poems of his were translated in to English and published in London in 1862.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Last Testament Of Khush-Hal Khan Khattak"
+  "name-en": "The Last Testament Of Khush-Hal Khan Khattak",
+  "credits": "English Translation by: Naim Siddiqui"
 }

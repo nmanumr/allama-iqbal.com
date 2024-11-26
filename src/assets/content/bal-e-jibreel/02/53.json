@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O songbird! Thy song is well rewarded when it infuses fire into the rose’s bloom. \n(Translated by Naim Siddiqui)",
+              "_content": "O songbird! Thy song is well rewarded when it infuses fire into the rose’s bloom.",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

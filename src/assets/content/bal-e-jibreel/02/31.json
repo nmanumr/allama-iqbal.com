@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "These desert thorns prick many a doubt: Do not complain if bare feet bleed. \n(Translated by V.G. Kiernan)",
+              "_content": "These desert thorns prick many a doubt: Do not complain if bare feet bleed.",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: V.G. Kiernan"
 }

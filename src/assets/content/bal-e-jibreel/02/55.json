@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Great wars by Aibak and Ghauri fought by the world are all forgot; but the lays of Khusrau still our hearts with joy and pleasure fill.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Great wars by Aibak and Ghauri fought by the world are all forgot; but the lays of Khusrau still our hearts with joy and pleasure fill.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

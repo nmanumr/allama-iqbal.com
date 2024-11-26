@@ -104,7 +104,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "What I esteemed as the clarion call of the caravan was but the plaintive cry of a traveller, weary and forlorn.\n(Translated by S.A. Rahman)",
+              "_content": "What I esteemed as the clarion call of the caravan was but the plaintive cry of a traveller, weary and forlorn.",
               "lang": "English"
             }
           ]
@@ -112,5 +112,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: S.A. Rahman"
 }

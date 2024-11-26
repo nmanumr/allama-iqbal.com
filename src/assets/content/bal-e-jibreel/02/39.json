@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "No wealth is owned by dervish free; at call of death he yields with glee: He has not either gold or land; of him no one can tithe demand.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "No wealth is owned by dervish free; at call of death he yields with glee: He has not either gold or land; of him no one can tithe demand.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

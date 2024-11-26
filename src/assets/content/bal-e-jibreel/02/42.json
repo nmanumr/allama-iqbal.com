@@ -118,7 +118,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The tale of the Holy Shrine, if told, is simple, strange and red in hue: With Ismail the tale begins, ends with Husain, the martyr true.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The tale of the Holy Shrine, if told, is simple, strange and red in hue: With Ismail the tale begins, ends with Husain, the martyr true.",
               "lang": "English"
             }
           ]
@@ -126,5 +126,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

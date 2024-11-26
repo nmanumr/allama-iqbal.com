@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "And get nations and sects in a tangle: Up there in the sky is no Mosque and no Church and no Temple – with whom will he wrangle?\n[Translated by V.G. Kiernan]",
+              "_content": "And get nations and sects in a tangle: Up there in the sky is no Mosque and no Church and no Temple – with whom will he wrangle?",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Heaven And The Priest"
+  "name-en": "Heaven And The Priest",
+  "credits": "English Translation by: V.G. Kiernan"
 }

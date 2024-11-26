@@ -102,7 +102,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O Iqbal! From where did you learn to be such a dervish: Even among the kings there is talk about your contentment!\n(Translated by Naim Siddiqui)",
+              "_content": "O Iqbal! From where did you learn to be such a dervish: Even among the kings there is talk about your contentment!",
               "lang": "English"
             }
           ]
@@ -110,5 +110,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

@@ -118,7 +118,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Bereave not of its moon my night; I see a full moon in your goblet shine, oh Saki!\n[Translated by V.G. Kiernan]",
+              "_content": "Bereave not of its moon my night; I see a full moon in your goblet shine, oh Saki!",
               "lang": "English"
             }
           ]
@@ -126,5 +126,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: V.G. Kiernan"
 }

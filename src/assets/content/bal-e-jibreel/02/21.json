@@ -117,7 +117,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Spite of Nature’s bounty great, its guarding practice, mark! It grants the ruby reddish hue, but denies the heat of spark. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Spite of Nature’s bounty great, its guarding practice, mark! It grants the ruby reddish hue, but denies the heat of spark.",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

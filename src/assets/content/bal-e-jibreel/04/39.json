@@ -101,7 +101,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It is the eternal decree of the Judge sitting in Judgement on destinies: That weakness is a crime punishable by death. \n(Translated by M. Munawwar Mirza)",
+              "_content": "It is the eternal decree of the Judge sitting in Judgement on destinies: That weakness is a crime punishable by death.",
               "lang": "English"
             }
           ]
@@ -110,5 +110,6 @@
       "id": 1
     }
   ],
-  "name-en": "Abu Al ‘Ala Al-Ma‘Arri"
+  "name-en": "Abu Al ‘Ala Al-Ma‘Arri",
+  "credits": "English Translation by: M. Munawwar Mirza"
 }

@@ -88,7 +88,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The soul that knows no stain is something quite discreet: The glow and tint of blood is wrought by bread and meat.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The soul that knows no stain is something quite discreet: The glow and tint of blood is wrought by bread and meat.",
               "lang": "English"
             }
           ]
@@ -96,5 +96,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

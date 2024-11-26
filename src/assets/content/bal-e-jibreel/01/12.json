@@ -118,7 +118,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Unwise are those who tell and preach accord with times and the age. If the world befits you not, a war against it you must wage.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Unwise are those who tell and preach accord with times and the age. If the world befits you not, a war against it you must wage.",
               "lang": "English"
             }
           ]
@@ -126,5 +126,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

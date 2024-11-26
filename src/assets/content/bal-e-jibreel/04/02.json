@@ -1098,7 +1098,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Incomplete are all creations without the lifeblood of the creator. Soulless is the melody without the lifeblood of the maestro. \n(Translated by Naeem Siddiqui)",
+              "_content": "Incomplete are all creations without the lifeblood of the creator. Soulless is the melody without the lifeblood of the maestro.",
               "lang": "English"
             }
           ]
@@ -1107,5 +1107,6 @@
       "id": 8
     }
   ],
-  "name-en": "Mosque Of Cordoba"
+  "name-en": "Mosque Of Cordoba",
+  "credits": "English Translation by: Naeem Siddiqui"
 }

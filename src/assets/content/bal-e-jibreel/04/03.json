@@ -69,7 +69,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Once I had a two-edged sword – it turned into the chains that shackle me now. How whimsical and indifferent is the Author of fates.\n(Translated by Naeem Siddiqui)",
+              "_content": "Once I had a two-edged sword – it turned into the chains that shackle me now. How whimsical and indifferent is the Author of fates.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       "id": 1
     }
   ],
-  "name-en": "Mu‘Tamid’S Lament In Prison"
+  "name-en": "Mu‘Tamid’S Lament In Prison",
+  "credits": "English Translation by: Naeem Siddiqui"
 }

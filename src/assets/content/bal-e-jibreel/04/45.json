@@ -68,7 +68,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Mine is this golden grief alone, to this dust only is this grief known.\n(Translated by V G Kiernan)",
+              "_content": "Mine is this golden grief alone, to this dust only is this grief known.",
               "lang": "English"
             }
           ]
@@ -77,5 +77,6 @@
       "id": 1
     }
   ],
-  "name-en": "Separation"
+  "name-en": "Separation",
+  "credits": "English Translation by: V G Kiernan"
 }

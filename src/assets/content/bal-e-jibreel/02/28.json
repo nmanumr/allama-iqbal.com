@@ -119,7 +119,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The stage of mind by Iqbal soon was crost, but in the Vale of Love this sage was lost.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The stage of mind by Iqbal soon was crost, but in the Vale of Love this sage was lost.",
               "lang": "English"
             }
           ]
@@ -127,5 +127,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

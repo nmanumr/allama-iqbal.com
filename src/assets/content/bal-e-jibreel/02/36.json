@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Their plans shall end in smoke, miscarry the destined stroke: This fact with truth is fraught, no fiction of my thought.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Their plans shall end in smoke, miscarry the destined stroke: This fact with truth is fraught, no fiction of my thought.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

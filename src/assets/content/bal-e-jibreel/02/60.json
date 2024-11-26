@@ -86,7 +86,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The joy that Frankish wine does give lasts not for long nor always lives; though scum at bottom of its bowl is always pure and never foul.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The joy that Frankish wine does give lasts not for long nor always lives; though scum at bottom of its bowl is always pure and never foul.",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

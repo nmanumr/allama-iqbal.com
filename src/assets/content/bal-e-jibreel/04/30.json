@@ -42,7 +42,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Reply: ‘Eat not hay and corn like donkeys; eat of thy choice like the musk-deer: \nHe dies who eats hay and corn. He who eats God’s light, becomes the Quran.’\n[Translated by Naim Siddiqui]",
+              "_content": "Reply: ‘Eat not hay and corn like donkeys; eat of thy choice like the musk-deer: \nHe dies who eats hay and corn. He who eats God’s light, becomes the Quran.’",
               "lang": "English"
             }
           ]
@@ -51,5 +51,6 @@
       "id": 2
     }
   ],
-  "name-en": "A Letter From Europe"
+  "name-en": "A Letter From Europe",
+  "credits": "English Translation by: Naim Siddiqui"
 }

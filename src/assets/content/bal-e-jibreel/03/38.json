@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Selfhood's apostate is the life of reason; its secret lies in communion with God.\nIf thou couldst guard it in thy poverty, thou art indeed a faqir greater than kings.\n(Translated by Naim Siddiqui)",
+              "_content": "Selfhood's apostate is the life of reason; its secret lies in communion with God.\nIf thou couldst guard it in thy poverty, thou art indeed a faqir greater than kings.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

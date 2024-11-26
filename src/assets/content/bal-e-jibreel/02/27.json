@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "On the tortuous path of love, the traveller who knows may ask his guide to leave him, to seek a lonely trail.\n(Translated by Naeem Siddiqui)",
+              "_content": "On the tortuous path of love, the traveller who knows may ask his guide to leave him, to seek a lonely trail.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
 }

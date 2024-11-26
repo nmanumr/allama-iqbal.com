@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The mystic’s soul is like the morning breeze: It freshens and renews life’s inner meaning. \nAn illumined soul can be a shepherd’s, who could hear the Voice of God at God’s command.\n(Translated by Naim Siddiqui)",
+              "_content": "The mystic’s soul is like the morning breeze: It freshens and renews life’s inner meaning. \nAn illumined soul can be a shepherd’s, who could hear the Voice of God at God’s command.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

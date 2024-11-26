@@ -117,7 +117,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "No glitter of Western science could dazzle my eyes: The dust of Medina stains, like collyrium, black. \n(Translated by V.G. Kiernan)",
+              "_content": "No glitter of Western science could dazzle my eyes: The dust of Medina stains, like collyrium, black.",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: V.G. Kiernan"
 }

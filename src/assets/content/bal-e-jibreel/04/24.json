@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Satan: My courage gave a speck of dust the impulse to grow; my cunning is the fabric of man’s intellect.\nThou watchest the war of good and evil, safely ashore, and who is battered by the storm-thou or I?\nBoth Khizr and Ilyas feel helpless: The storms I have stirred up rage in oceans, rivers, and streams.\nAsk God, if thou hast the time to ask: Whose blood gave colour to Adam’s inglorious tale?\nI am a thorn in the Almighty’s mighty heart, and thou but mumblest His praise day and night.\n(Translated by Naim Siddiqui)",
+              "_content": "Satan: My courage gave a speck of dust the impulse to grow; my cunning is the fabric of man’s intellect.\nThou watchest the war of good and evil, safely ashore, and who is battered by the storm-thou or I?\nBoth Khizr and Ilyas feel helpless: The storms I have stirred up rage in oceans, rivers, and streams.\nAsk God, if thou hast the time to ask: Whose blood gave colour to Adam’s inglorious tale?\nI am a thorn in the Almighty’s mighty heart, and thou but mumblest His praise day and night.",
               "lang": "English"
             }
           ]
@@ -141,5 +141,6 @@
       "id": 6
     }
   ],
-  "name-en": "Gabriel And Satan"
+  "name-en": "Gabriel And Satan",
+  "credits": "English Translation by: Naim Siddiqui"
 }

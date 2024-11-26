@@ -133,7 +133,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "That cap bred passionate faith, this tassel breeds passion for playing pander to Government.' \n(Translated by V G Kiernan)",
+              "_content": "That cap bred passionate faith, this tassel breeds passion for playing pander to Government.'",
               "lang": "English"
             }
           ]
@@ -142,5 +142,6 @@
       "id": 1
     }
   ],
-  "name-en": "To The Punjab Pirs"
+  "name-en": "To The Punjab Pirs",
+  "credits": "English Translation by: V G Kiernan"
 }

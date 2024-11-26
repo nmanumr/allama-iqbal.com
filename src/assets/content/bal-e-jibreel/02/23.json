@@ -117,7 +117,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Monasteries and schools left me sad and dejected no life and no love; no vision and no knowledge.\n(Translated by Naim Siddiqui)",
+              "_content": "Monasteries and schools left me sad and dejected no life and no love; no vision and no knowledge.",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

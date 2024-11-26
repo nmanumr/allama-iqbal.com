@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The robe of art and lore I wear is through Your special bounty there: You know my coarse and homely frame, to honour great I have no claim.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The robe of art and lore I wear is through Your special bounty there: You know my coarse and homely frame, to honour great I have no claim.",
               "lang": "English"
             }
           ]
@@ -108,5 +108,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

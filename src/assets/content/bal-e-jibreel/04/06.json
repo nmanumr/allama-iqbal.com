@@ -166,7 +166,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Awaken in them an iron will; and make their eye a sharpened sword.\n(Translated by Naeem Siddiqui)",
+              "_content": "Awaken in them an iron will; and make their eye a sharpened sword.",
               "lang": "English"
             }
           ]
@@ -174,5 +174,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
 }

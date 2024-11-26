@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Though God-gifted intellect is the lamp of an age, the freedom of thought is a Satanic concept.\n(Translated by Naim Siddiqui)",
+              "_content": "Though God-gifted intellect is the lamp of an age, the freedom of thought is a Satanic concept.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Freedom Of Thought"
+  "name-en": "Freedom Of Thought",
+  "credits": "English Translation by: Naim Siddiqui"
 }

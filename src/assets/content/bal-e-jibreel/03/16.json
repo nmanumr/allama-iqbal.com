@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I am not a pursuer, nor a traveller; I am not a goal, but a narrow track.\nI am not a harvest, but a thunder-bolt, born to set fire to straw, buried in the dust.\n(Translated by Naim Siddiqui)",
+              "_content": "I am not a pursuer, nor a traveller; I am not a goal, but a narrow track.\nI am not a harvest, but a thunder-bolt, born to set fire to straw, buried in the dust.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

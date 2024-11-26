@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Love seeks sometimes the solitude of hills; at other times, the tuneful chords of life.\nSometimes pent in the corner of a mosque, at other times it fights like the Tiger of God.\n(Translated by Naim Siddiqui)",
+              "_content": "Love seeks sometimes the solitude of hills; at other times, the tuneful chords of life.\nSometimes pent in the corner of a mosque, at other times it fights like the Tiger of God.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

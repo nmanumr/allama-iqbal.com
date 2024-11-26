@@ -117,7 +117,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O Qartaba! Perhaps, some magic in thy air has breathed into my song the buoyancy of youth.\n(Translated by Naeem Siddiqui)",
+              "_content": "O Qartaba! Perhaps, some magic in thy air has breathed into my song the buoyancy of youth.",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
 }

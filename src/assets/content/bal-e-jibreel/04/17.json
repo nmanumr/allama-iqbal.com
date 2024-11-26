@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "More pleasure there is in pouncing upon thy prey, than in sucking the blood from its vanquished stillness.\n[Translated by Naim Siddiqui]",
+              "_content": "More pleasure there is in pouncing upon thy prey, than in sucking the blood from its vanquished stillness.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "An Advice"
+  "name-en": "An Advice",
+  "credits": "English Translation by: Naim Siddiqui"
 }

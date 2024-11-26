@@ -148,7 +148,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Show unto me, though I too cry, it is not tale of Moses and Sinai.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Show unto me, though I too cry, it is not tale of Moses and Sinai.",
               "lang": "English"
             }
           ]
@@ -156,5 +156,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -68,7 +68,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thou art dust and blind, I am dust and self-aware; which of us is the crown and glory, ruling all life?\n(Translated by Naim Siddiqui)",
+              "_content": "Thou art dust and blind, I am dust and self-aware; which of us is the crown and glory, ruling all life?",
               "lang": "English"
             }
           ]
@@ -76,5 +76,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

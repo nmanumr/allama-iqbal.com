@@ -151,7 +151,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The West hath cast a spell on thine heart and mind: In Rumi’s burning flame a cure for thyself find.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The West hath cast a spell on thine heart and mind: In Rumi’s burning flame a cure for thyself find.",
               "lang": "English"
             }
           ]
@@ -159,5 +159,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

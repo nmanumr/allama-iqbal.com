@@ -168,7 +168,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Call in the soul of man a new fire to birth! Of cry a new revolution over the earth!\n\n* The poet of this verse is not known; Nasiruddin Toosi had quoted this in Shara’a-e-Isharaat. \n[Translated by V G Kiernan]",
+              "_content": "Call in the soul of man a new fire to birth! Of cry a new revolution over the earth!\n\n* The poet of this verse is not known; Nasiruddin Toosi had quoted this in Shara’a-e-Isharaat.",
               "lang": "English"
             }
           ]
@@ -177,5 +177,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Tartar'S Dream"
+  "name-en": "The Tartar'S Dream",
+  "credits": "English Translation by: V G Kiernan"
 }

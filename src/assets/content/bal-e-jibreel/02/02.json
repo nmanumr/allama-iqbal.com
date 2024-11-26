@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thus Iraq and Persia give me praise for my verse: This Indian infidels sheds blood without swords or spears. \n(Translated by D.J. Matthews)",
+              "_content": "Thus Iraq and Persia give me praise for my verse: This Indian infidels sheds blood without swords or spears.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: D.J. Matthews"
 }

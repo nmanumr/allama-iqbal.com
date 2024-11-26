@@ -103,7 +103,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "All potent wine is emptied of Thy cask; art Thou, indeed, a Cup’s bearer, may I ask?\nThou gavest me a drop from an ocean; Art Thou a miser in a Nourisher’s mask?\n[Translated by Naim Siddiqui]",
+              "_content": "All potent wine is emptied of Thy cask; art Thou, indeed, a Cup’s bearer, may I ask?\nThou gavest me a drop from an ocean; Art Thou a miser in a Nourisher’s mask?",
               "lang": "English"
             }
           ]
@@ -111,5 +111,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

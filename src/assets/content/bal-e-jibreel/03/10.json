@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thy vision is not lofty, ethereal; thou dost not have the flight of a faith inspired.\nThou mayest be of an eagle breed, no doubt, thou dost not have those bold, piercing eyes.\n[Translated by Naim Siddiqui]",
+              "_content": "Thy vision is not lofty, ethereal; thou dost not have the flight of a faith inspired.\nThou mayest be of an eagle breed, no doubt, thou dost not have those bold, piercing eyes.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

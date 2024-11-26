@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I revealed the secrets and rent the veil, but your blindness has no cure.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "I revealed the secrets and rent the veil, but your blindness has no cure.",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

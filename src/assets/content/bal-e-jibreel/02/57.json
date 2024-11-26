@@ -88,7 +88,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My thoughts sublime that soar aloft, like the flash of lightning, show the way: Lest travelers in the dark of night should miss the track and go astray.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "My thoughts sublime that soar aloft, like the flash of lightning, show the way: Lest travelers in the dark of night should miss the track and go astray.",
               "lang": "English"
             }
           ]
@@ -96,5 +96,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -148,7 +148,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I stoop not to make a nest; I am a dervish among the birds.\n(Translated by Mustansir Mir)",
+              "_content": "I stoop not to make a nest; I am a dervish among the birds.",
               "lang": "English"
             }
           ]
@@ -157,5 +157,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Eagle"
+  "name-en": "The Eagle",
+  "credits": "English Translation by: Mustansir Mir"
 }

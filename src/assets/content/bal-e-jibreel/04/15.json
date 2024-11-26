@@ -71,7 +71,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Landlord! This earth is not thine, is not thine, nor yet thy fathers'; no, not thine, nor mine. \n(Translated by Naim Siddiqui)",
+              "_content": "Landlord! This earth is not thine, is not thine, nor yet thy fathers'; no, not thine, nor mine.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Earth Is God'S"
+  "name-en": "The Earth Is God'S",
+  "credits": "English Translation by: Naim Siddiqui"
 }

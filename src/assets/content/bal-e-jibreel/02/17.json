@@ -87,7 +87,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The streets of Rome remind of Delhi’s glorious past, the lesson same and charm are writ upon its brow.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The streets of Rome remind of Delhi’s glorious past, the lesson same and charm are writ upon its brow.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

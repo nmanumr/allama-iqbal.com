@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Alas! Thou hast betrayed the secret of a faqir, though a faqir has wealth more than a king of men. \n(Translated by Naim Siddiqui)",
+              "_content": "Alas! Thou hast betrayed the secret of a faqir, though a faqir has wealth more than a king of men.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

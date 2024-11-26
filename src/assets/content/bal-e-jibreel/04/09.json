@@ -500,7 +500,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The wave’s enduring quest, the rain-drop’s search to be a pearl, the heart’s eternal yearning, are all before fulfilme\n[Translated by Naim Siddiqui]",
+              "_content": "The wave’s enduring quest, the rain-drop’s search to be a pearl, the heart’s eternal yearning, are all before fulfilme",
               "lang": "English"
             }
           ]
@@ -509,5 +509,6 @@
       "id": 1
     }
   ],
-  "name-en": "Ecstasy"
+  "name-en": "Ecstasy",
+  "credits": "English Translation by: Naim Siddiqui"
 }

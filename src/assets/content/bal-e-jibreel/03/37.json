@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The movement of days and nights is eternal, fast; no one has seen the future or the past. \nThou art the only fact, the rest is fiction; the present is the only time thou hast. \n(Translated by Naim Siddiqui)",
+              "_content": "The movement of days and nights is eternal, fast; no one has seen the future or the past. \nThou art the only fact, the rest is fiction; the present is the only time thou hast.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

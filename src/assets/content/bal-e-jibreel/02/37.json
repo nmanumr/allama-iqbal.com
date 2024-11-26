@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Of urge, though Nature not deplete, yet where it fails you must complete.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Of urge, though Nature not deplete, yet where it fails you must complete.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

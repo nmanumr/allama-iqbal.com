@@ -68,7 +68,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "He is not entitled to fly in this world, whoever is not free from earth-rootedness.’ \n(Translated by Dr M A K Khalil)",
+              "_content": "He is not entitled to fly in this world, whoever is not free from earth-rootedness.’",
               "lang": "English"
             }
           ]
@@ -77,5 +77,6 @@
       "id": 1
     }
   ],
-  "name-en": "Flight"
+  "name-en": "Flight",
+  "credits": "English Translation by: Dr M A K Khalil"
 }

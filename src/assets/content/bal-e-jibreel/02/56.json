@@ -87,7 +87,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Much care and caution must he take, who sets the music of a song: For oft the Voice Unseen inspires such airs as jarring are and wrong.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Much care and caution must he take, who sets the music of a song: For oft the Voice Unseen inspires such airs as jarring are and wrong.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thine is the world of birds and beasts, O Lord! And mine is the world of sighs by day and night;\nI am a shackled slave in this world of Thine, and Thou art the supreme ruler of my world.\n(Translated by Naeem Siddiqui)",
+              "_content": "Thine is the world of birds and beasts, O Lord! And mine is the world of sighs by day and night;\nI am a shackled slave in this world of Thine, and Thou art the supreme ruler of my world.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
 }

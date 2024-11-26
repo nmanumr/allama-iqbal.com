@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The chief of tavern thinks that West has raised: The house on shaking founds, whose walls are glazed.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The chief of tavern thinks that West has raised: The house on shaking founds, whose walls are glazed.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -42,7 +42,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "EAGLE: You forage about in dusty paths; the nine heavens are as nothing to me!\n(Translated by Mustansir Mir)",
+              "_content": "EAGLE: You forage about in dusty paths; the nine heavens are as nothing to me!",
               "lang": "English"
             }
           ]
@@ -51,5 +51,6 @@
       "id": 2
     }
   ],
-  "name-en": "The Ant And The Eagle"
+  "name-en": "The Ant And The Eagle",
+  "credits": "English Translation by: Mustansir Mir"
 }

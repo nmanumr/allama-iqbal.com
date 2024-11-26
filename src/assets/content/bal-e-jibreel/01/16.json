@@ -269,7 +269,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Will no one hush this too proud thing Iqbal whose tongue God’s presence-chamber could not tie!\n(Translated by V.G. Kiernan)",
+              "_content": "Will no one hush this too proud thing Iqbal whose tongue God’s presence-chamber could not tie!",
               "lang": "English"
             }
           ]
@@ -277,5 +277,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: V.G. Kiernan"
 }

@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Desist from imitation of peacock and nightingale: The one is only hue, the other chant and wail. \n[Translated by Syed Akbar Ali Shah]",
+              "_content": "Desist from imitation of peacock and nightingale: The one is only hue, the other chant and wail.",
               "lang": "English"
             }
           ]
@@ -65,5 +65,6 @@
       "Verse": [],
       "id": 2
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

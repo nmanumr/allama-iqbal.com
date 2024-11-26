@@ -87,7 +87,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "He is a beggar who begs money, be it large or small, Kings with royal pomp and pride, in fact, are beggars all.’\n(Translated by Naim Siddiqui)",
+              "_content": "He is a beggar who begs money, be it large or small, Kings with royal pomp and pride, in fact, are beggars all.’",
               "lang": "English"
             }
           ]
@@ -96,5 +96,6 @@
       "id": 1
     }
   ],
-  "name-en": "Mendicancy"
+  "name-en": "Mendicancy",
+  "credits": "English Translation by: Naim Siddiqui"
 }

@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My poverty is better than imperial pomp, one maketh man; the other maketh glass.\n(Translated by Naim Siddiqui)",
+              "_content": "My poverty is better than imperial pomp, one maketh man; the other maketh glass.",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       "id": 1
     }
   ],
-  "name-en": "Love"
+  "name-en": "Love",
+  "credits": "English Translation by: Naim Siddiqui"
 }

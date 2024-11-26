@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thy body knows not the secrets of thy heart and so thy sighs reach not the heights of heaven.\nGod is disgusted with bodies without souls; the living God is the God of living souls. [Translated by Naim Siddiqui]",
+              "_content": "Thy body knows not the secrets of thy heart and so thy sighs reach not the heights of heaven.\nGod is disgusted with bodies without souls; the living God is the God of living souls.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

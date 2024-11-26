@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "To throngs of Heaven he has taught, like man, to fret and pine. To clay-made man he fain would teach the wont and mode divine.\n(Translated by Naeem Siddiqui)",
+              "_content": "To throngs of Heaven he has taught, like man, to fret and pine. To clay-made man he fain would teach the wont and mode divine.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
 }

@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The faith of the mullah, a vermin of the earth, is the telling of beads, and mumblings in the dust.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The faith of the mullah, a vermin of the earth, is the telling of beads, and mumblings in the dust.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

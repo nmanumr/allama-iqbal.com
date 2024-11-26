@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When the roll of my deeds is brought up on the Day of Reckoning; be ashamed as You will shame me. \n[Translated by Naim Siddiqui]",
+              "_content": "When the roll of my deeds is brought up on the Day of Reckoning; be ashamed as You will shame me.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

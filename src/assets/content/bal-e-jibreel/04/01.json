@@ -184,7 +184,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Both verse and wisdom indicate the way which longing face to face can not convey.\n(Translated by Naeem Siddiqui)",
+              "_content": "Both verse and wisdom indicate the way which longing face to face can not convey.",
               "lang": "English"
             }
           ]
@@ -192,5 +192,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
 }

@@ -121,7 +121,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "More dear and precious song replete with lightning’s dazzling flash and heat than coffers full of yellow gold that mighty kings and chiefs do hold.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "More dear and precious song replete with lightning’s dazzling flash and heat than coffers full of yellow gold that mighty kings and chiefs do hold.",
               "lang": "English"
             }
           ]
@@ -129,5 +129,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

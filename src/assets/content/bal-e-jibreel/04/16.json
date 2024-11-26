@@ -101,7 +101,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thy abode is not on the dome of a royal palace; thou art an eagle and shouldst live on the rocks of mountains.\n[Translated by Naim Siddiqui]",
+              "_content": "Thy abode is not on the dome of a royal palace; thou art an eagle and shouldst live on the rocks of mountains.",
               "lang": "English"
             }
           ]
@@ -110,5 +110,6 @@
       "id": 1
     }
   ],
-  "name-en": "To A Young Man"
+  "name-en": "To A Young Man",
+  "credits": "English Translation by: Naim Siddiqui"
 }

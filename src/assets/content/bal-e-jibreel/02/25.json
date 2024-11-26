@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My bold and simple mode of life has captured each and every heart; though my numbers are lame and dull and lay no claim to poet’s art.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "My bold and simple mode of life has captured each and every heart; though my numbers are lame and dull and lay no claim to poet’s art.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

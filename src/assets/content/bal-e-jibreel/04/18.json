@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Oh cool air of the desert! Let it be mine too to share in silence and heart’s glow, rapture and grace.\n[Translated by V.G. Kiernan]",
+              "_content": "Oh cool air of the desert! Let it be mine too to share in silence and heart’s glow, rapture and grace.",
               "lang": "English"
             }
           ]
@@ -141,5 +141,6 @@
       "id": 1
     }
   ],
-  "name-en": "Poppy Of The Wilderness"
+  "name-en": "Poppy Of The Wilderness",
+  "credits": "English Translation by: V.G. Kiernan"
 }

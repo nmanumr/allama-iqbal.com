@@ -241,7 +241,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Her waters that have bred the shark now breed the storm-wave that will smash its den below!\n(Translated by Naim Siddiqui)",
+              "_content": "Her waters that have bred the shark now breed the storm-wave that will smash its den below!",
               "lang": "English"
             }
           ]
@@ -423,7 +423,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I would not go pearl-diving there, for reverence of Sina‘i; but in these tides a million pearls still grow.\n(Translated by V.G. Kiernan)",
+              "_content": "I would not go pearl-diving there, for reverence of Sina‘i; but in these tides a million pearls still grow.",
               "lang": "English"
             }
           ]
@@ -431,5 +431,6 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui & V.G. Kiernan"
 }

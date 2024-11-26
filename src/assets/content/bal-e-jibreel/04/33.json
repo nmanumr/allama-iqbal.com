@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A self-respecting tramp was saying to the Almighty: I dare not complain for my woes of poverty;\nBut pray tell me if it is by Your permission that the angels bestow riches upon the worthless ones?\n(Translated by Naim Siddiqui)",
+              "_content": "A self-respecting tramp was saying to the Almighty: I dare not complain for my woes of poverty;\nBut pray tell me if it is by Your permission that the angels bestow riches upon the worthless ones?",
               "lang": "English"
             }
           ]
@@ -30,5 +30,6 @@
       "id": 1
     }
   ],
-  "name-en": "Question"
+  "name-en": "Question",
+  "credits": "English Translation by: Naim Siddiqui"
 }

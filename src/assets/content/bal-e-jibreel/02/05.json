@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thy imam is unabsorbed, thy prayer is uninspired, forsake an imam like him; forsake a prayer like this. \n(Translated by Naim Siddiqui)",
+              "_content": "Thy imam is unabsorbed, thy prayer is uninspired, forsake an imam like him; forsake a prayer like this.",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

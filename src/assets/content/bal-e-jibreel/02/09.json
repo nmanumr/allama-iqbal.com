@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O Muslim, search your heart, of mullah don’t ask it: ‘The sacred House of God, the righteous why have quit?’\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "O Muslim, search your heart, of mullah don’t ask it: ‘The sacred House of God, the righteous why have quit?’",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

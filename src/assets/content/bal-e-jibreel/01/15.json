@@ -119,7 +119,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Thou hast Thy pantheon, and I have mine, O Lord, Both have idols of dust; both have idols that die.\n(Translated by Naeem Siddiqui)",
+              "_content": "Thou hast Thy pantheon, and I have mine, O Lord, Both have idols of dust; both have idols that die.",
               "lang": "English"
             }
           ]
@@ -127,5 +127,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
 }

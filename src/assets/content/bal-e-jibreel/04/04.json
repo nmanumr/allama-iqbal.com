@@ -165,7 +165,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "There are no frontiers for the Man of Faith, he is at home everywhere.\n(Translated by Naeem Siddiqui)",
+              "_content": "There are no frontiers for the Man of Faith, he is at home everywhere.",
               "lang": "English"
             }
           ]
@@ -174,5 +174,6 @@
       "id": 1
     }
   ],
-  "name-en": "First Date Tree Seeded By Abdul Rahman The First"
+  "name-en": "First Date Tree Seeded By Abdul Rahman The First",
+  "credits": "English Translation by: Naeem Siddiqui"
 }

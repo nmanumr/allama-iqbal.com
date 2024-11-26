@@ -86,7 +86,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The holy men in sanctums inspire me not; their souls are passionless, their talk is puerile. \n(Translated by Naeem Siddiqui)",
+              "_content": "The holy men in sanctums inspire me not; their souls are passionless, their talk is puerile.",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
 }

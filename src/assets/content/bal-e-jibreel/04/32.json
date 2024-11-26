@@ -121,7 +121,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Whose benevolent eye has graced this miracle upon you? He whose vision is like the light of the Sun! \n(Translated by Naim Siddiqui)",
+              "_content": "Whose benevolent eye has graced this miracle upon you? He whose vision is like the light of the Sun!",
               "lang": "English"
             }
           ]
@@ -130,5 +130,6 @@
       "id": 1
     }
   ],
-  "name-en": "Mussolini"
+  "name-en": "Mussolini",
+  "credits": "English Translation by: Naim Siddiqui"
 }

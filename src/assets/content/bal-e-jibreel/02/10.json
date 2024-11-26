@@ -117,7 +117,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "That godly man gets world’s bequest, who risks his life in ceaseless quest: That man no Faith can claim at all, who lives not up to Prophet’s call.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "That godly man gets world’s bequest, who risks his life in ceaseless quest: That man no Faith can claim at all, who lives not up to Prophet’s call.",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

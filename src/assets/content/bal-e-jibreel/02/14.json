@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O Lord of Yathrib! Cure provide for doubts that in my breast abide: My wisdom to the West is due, girdled my faith like Brahman true. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "O Lord of Yathrib! Cure provide for doubts that in my breast abide: My wisdom to the West is due, girdled my faith like Brahman true.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

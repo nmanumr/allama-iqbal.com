@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "This reason of mine knows not good from evil; and tries to exceed the bounds that nature fixed.\nI know not what has happened to me of late, my reason and my heart are ever at war.\n(Translated by Naim Siddiqui)",
+              "_content": "This reason of mine knows not good from evil; and tries to exceed the bounds that nature fixed.\nI know not what has happened to me of late, my reason and my heart are ever at war.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

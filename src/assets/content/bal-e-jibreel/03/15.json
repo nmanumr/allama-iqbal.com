@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Where is the moving spirit of my life? The thunder-bolt, the harvest of my life?\nHis place is in the solitude of the heart, but I know not the place of the heart within. \n(Translated by Naim Siddiqui)",
+              "_content": "Where is the moving spirit of my life? The thunder-bolt, the harvest of my life?\nHis place is in the solitude of the heart, but I know not the place of the heart within.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

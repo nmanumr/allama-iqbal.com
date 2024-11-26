@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Jewish money-lenders, whose cunning beats the lion’s prowess, have been waiting hopefully for long.\nEurope is ready to drop like a ripe fruit, let’s see in whose bag it goes. – Adapted from Nietzsche.\n(Translated by Naim Siddiqui)",
+              "_content": "The Jewish money-lenders, whose cunning beats the lion’s prowess, have been waiting hopefully for long.\nEurope is ready to drop like a ripe fruit, let’s see in whose bag it goes. – Adapted from Nietzsche.",
               "lang": "English"
             }
           ]
@@ -30,5 +30,6 @@
       "id": 1
     }
   ],
-  "name-en": "Europe"
+  "name-en": "Europe",
+  "credits": "English Translation by: Naim Siddiqui"
 }

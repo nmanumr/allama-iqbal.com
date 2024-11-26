@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In whatsoever state you be, a fettered thrall or monarch free: No wonder ever can be wrought, with Love, if courage be not fraught.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "In whatsoever state you be, a fettered thrall or monarch free: No wonder ever can be wrought, with Love, if courage be not fraught.",
               "lang": "English"
             }
           ]
@@ -108,5 +108,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

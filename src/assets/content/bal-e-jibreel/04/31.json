@@ -103,7 +103,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘The vale of silence is the final goal of our journey; raise a tumult, when alive, under the starlit dome.’ \n(Translated by Naim Siddiqui)",
+              "_content": "‘The vale of silence is the final goal of our journey; raise a tumult, when alive, under the starlit dome.’",
               "lang": "English"
             }
           ]
@@ -112,5 +112,6 @@
       "id": 1
     }
   ],
-  "name-en": "At Napoleon’S Tomb"
+  "name-en": "At Napoleon’S Tomb",
+  "credits": "English Translation by: Naim Siddiqui"
 }

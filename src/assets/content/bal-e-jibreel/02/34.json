@@ -103,7 +103,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Men bold and firm uphold the truth and let no fears assail their hearts: No doubt, the mighty Lions of God know no tricks and know no arts.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Men bold and firm uphold the truth and let no fears assail their hearts: No doubt, the mighty Lions of God know no tricks and know no arts.",
               "lang": "English"
             }
           ]
@@ -111,5 +111,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -116,7 +116,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It was too hard to withhold the flood of these truths, at last the Qalandar revealed the secrets of the Book. \n(Translated by M.D. Taseer)",
+              "_content": "It was too hard to withhold the flood of these truths, at last the Qalandar revealed the secrets of the Book.",
               "lang": "English"
             }
           ]
@@ -124,5 +124,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: M.D. Taseer"
 }

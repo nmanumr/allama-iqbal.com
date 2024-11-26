@@ -118,7 +118,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You are alive and live for aye the rest is all a play with clay.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "You are alive and live for aye the rest is all a play with clay.",
               "lang": "English"
             }
           ]
@@ -126,5 +126,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The vulture and the eagle soar in the same air, but in worlds apart.\n(Translated by Naim Siddiqui)",
+              "_content": "The vulture and the eagle soar in the same air, but in worlds apart.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

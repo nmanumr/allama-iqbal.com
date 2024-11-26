@@ -42,7 +42,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "MULE: Perhaps your highness does not know my uncle – my mother’s brother: He gallops like the wind, and is the pride of the royal stable! – Adapted from German. \n(Translated by Mustansir Mir)",
+              "_content": "MULE: Perhaps your highness does not know my uncle – my mother’s brother: He gallops like the wind, and is the pride of the royal stable! – Adapted from German.",
               "lang": "English"
             }
           ]
@@ -51,5 +51,6 @@
       "id": 2
     }
   ],
-  "name-en": "The Lion And The Mule"
+  "name-en": "The Lion And The Mule",
+  "credits": "English Translation by: Mustansir Mir"
 }

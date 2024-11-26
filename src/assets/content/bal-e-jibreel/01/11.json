@@ -117,7 +117,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My days supported by Your alms, I do not complain against my friends, or the times scold.\n(Translated by Victor Kiernan)",
+              "_content": "My days supported by Your alms, I do not complain against my friends, or the times scold.",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Victor Kiernan"
 }

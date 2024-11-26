@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Conquer the world with the power of selfhood, and solve the riddle of the universe. \nBe intimate with thy shores, like the sea, but avoid the surf around the boundless deep.\n(Translated by Naim Siddiqui)",
+              "_content": "Conquer the world with the power of selfhood, and solve the riddle of the universe. \nBe intimate with thy shores, like the sea, but avoid the surf around the boundless deep.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

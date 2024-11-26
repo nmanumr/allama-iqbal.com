@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O wave! Plunge headlong into the dark seas, and change thyself with many a twist and turn.\nThou was not born for the solace of the shore; arise, untamed, and find a path for thyself. \n(Translated by Naim Siddiqui)",
+              "_content": "O wave! Plunge headlong into the dark seas, and change thyself with many a twist and turn.\nThou was not born for the solace of the shore; arise, untamed, and find a path for thyself.",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

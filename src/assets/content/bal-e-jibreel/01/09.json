@@ -120,7 +120,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Through the poet’s quickening gaze; the rose and tulip lovelier seem: No doubt, the minstrel’s piercing glance is nothing less than magic gleam.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Through the poet’s quickening gaze; the rose and tulip lovelier seem: No doubt, the minstrel’s piercing glance is nothing less than magic gleam.",
               "lang": "English"
             }
           ]
@@ -128,5 +128,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

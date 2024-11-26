@@ -1157,7 +1157,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Imparting heat and light is the task of the brave; cunning and shamelessness are the refuge of the mean.\n[Translated by Naim Siddiqui]",
+              "_content": "Imparting heat and light is the task of the brave; cunning and shamelessness are the refuge of the mean.",
               "lang": "English"
             }
           ]
@@ -1166,5 +1166,6 @@
       "id": 48
     }
   ],
-  "name-en": "The Mentor And The Disciple"
+  "name-en": "The Mentor And The Disciple",
+  "credits": "English Translation by: Naim Siddiqui"
 }

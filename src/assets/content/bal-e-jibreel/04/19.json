@@ -1640,7 +1640,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Should I fly even a hairbreadth too high, the blaze of glory would burn up my wings. \n(Translated by M. Hadi Husain)",
+              "_content": "Should I fly even a hairbreadth too high, the blaze of glory would burn up my wings.",
               "lang": "English"
             }
           ]
@@ -1648,5 +1648,6 @@
       ],
       "id": 7
     }
-  ]
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
 }

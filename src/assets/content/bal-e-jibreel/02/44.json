@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The dust that will break the spell of the passing time one day, though it is entangled in the skein of Fate as yet.\n(Translated by Naeem Siddiqui)",
+              "_content": "The dust that will break the spell of the passing time one day, though it is entangled in the skein of Fate as yet.",
               "lang": "English"
             }
           ]
@@ -92,5 +92,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
 }

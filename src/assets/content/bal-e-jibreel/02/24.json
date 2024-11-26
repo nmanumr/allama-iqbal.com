@@ -117,7 +117,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Though indigent I be, I am of hand yet free: What can the Flame bestow except its spark and glow? \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Though indigent I be, I am of hand yet free: What can the Flame bestow except its spark and glow?",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

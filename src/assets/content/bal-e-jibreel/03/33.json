@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "So man is the powerful lord of land and seas! A lord of the world with an eye that hardly sees!\nHe knows neither himself, nor God, nor the world. Is this, O Lord, Thy greatest masterpiece? \n(Translated by Naim Siddiqui)",
+              "_content": "So man is the powerful lord of land and seas! A lord of the world with an eye that hardly sees!\nHe knows neither himself, nor God, nor the world. Is this, O Lord, Thy greatest masterpiece?",
               "lang": "English"
             }
           ]
@@ -28,5 +28,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

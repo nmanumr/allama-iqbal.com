@@ -132,7 +132,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My soul has a secret song, a defiance to Gabriel: A song I have preserved for life in eternity. \n(Translated by Naeem Siddiqui)",
+              "_content": "My soul has a secret song, a defiance to Gabriel: A song I have preserved for life in eternity.",
               "lang": "English"
             }
           ]
@@ -140,5 +140,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
 }

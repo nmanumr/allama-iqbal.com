@@ -119,7 +119,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The West is a treasure-house for the reason’s quest; but for the heart it is a source of decay and death. \n(Translated by Naim Siddiqui)",
+              "_content": "The West is a treasure-house for the reason’s quest; but for the heart it is a source of decay and death.",
               "lang": "English"
             }
           ]
@@ -127,5 +127,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }

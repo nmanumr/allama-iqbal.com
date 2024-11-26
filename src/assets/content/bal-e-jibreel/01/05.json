@@ -117,7 +117,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "This, dear Lord, is my only wish that my insights should be shared by all!\n(Translated by Naeem Siddiqui)",
+              "_content": "This, dear Lord, is my only wish that my insights should be shared by all!",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
 }

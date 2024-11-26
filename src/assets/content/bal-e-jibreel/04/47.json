@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "For fiends its rulers serve the populace: Beneath the heavens is no more need of me!\n[Translated by V G Kiernan]",
+              "_content": "For fiends its rulers serve the populace: Beneath the heavens is no more need of me!",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: V G Kiernan"
 }

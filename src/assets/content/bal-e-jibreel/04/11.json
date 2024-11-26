@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Iqbal was not at ease in a monastery, for he is bright, and sprightly, and full of wit.\n[Translated by Naim Siddiqui]",
+              "_content": "Iqbal was not at ease in a monastery, for he is bright, and sprightly, and full of wit.",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       "id": 1
     }
   ],
-  "name-en": "To Javaid"
+  "name-en": "To Javaid",
+  "credits": "English Translation by: Naim Siddiqui"
 }

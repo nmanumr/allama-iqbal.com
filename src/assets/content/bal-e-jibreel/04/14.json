@@ -121,7 +121,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Mankind’s deliverance lies in the unity of those who rule the body and those who rule the soul.\n(Translated by Naim Siddiqui)",
+              "_content": "Mankind’s deliverance lies in the unity of those who rule the body and those who rule the soul.",
               "lang": "English"
             }
           ]
@@ -130,5 +130,6 @@
       "id": 1
     }
   ],
-  "name-en": "Church And State"
+  "name-en": "Church And State",
+  "credits": "English Translation by: Naim Siddiqui"
 }

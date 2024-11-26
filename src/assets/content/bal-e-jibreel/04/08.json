@@ -86,7 +86,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The essence of Life is Love, the essence of Love is the self; Alas! This cutting sword as yet rests in the sheath!\n(Translated by Naim Siddiqui)",
+              "_content": "The essence of Life is Love, the essence of Love is the self; Alas! This cutting sword as yet rests in the sheath!",
               "lang": "English"
             }
           ]
@@ -224,7 +224,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "All their fine new world a workshop filled with brittle glass: Go! My poet of the East to madness dedicate.\n(Translated by Naim Siddiqui)",
+              "_content": "All their fine new world a workshop filled with brittle glass: Go! My poet of the East to madness dedicate.",
               "lang": "English"
             }
           ]
@@ -232,5 +232,6 @@
       ],
       "id": 2
     }
-  ]
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
 }
