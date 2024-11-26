@@ -87,7 +87,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "That man can only see in full the world of future and the past, who has the luck to be endowed with my glance so pert and fast.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "That man can only see in full the world of future and the past, who has the luck to be endowed with my glance so pert and fast.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Without resort to incessant strife, no skill or art completion gains: If Farhad does not hew the rocks, no sparks flash, dark his house remains!\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Without resort to incessant strife, no skill or art completion gains: If Farhad does not hew the rocks, no sparks flash, dark his house remains!",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "Invention Of New Meanings"
+  "name-en": "Invention Of New Meanings",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -103,7 +103,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Since Muslim true of Faqr has been bereft, no Salman's Faith or Solomon's awe are left.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Since Muslim true of Faqr has been bereft, no Salman's Faith or Solomon's awe are left.",
               "lang": "English"
             }
           ]
@@ -112,5 +112,6 @@
       "id": 1
     }
   ],
-  "name-en": "Faqr And Monkery"
+  "name-en": "Faqr And Monkery",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

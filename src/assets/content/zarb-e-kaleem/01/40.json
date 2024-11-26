@@ -71,7 +71,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It is time that expected Guide may soon appear oil worldly stage: His piercing glance in realm of thought would cause a violent storm to rage.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "It is time that expected Guide may soon appear oil worldly stage: His piercing glance in realm of thought would cause a violent storm to rage.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       "id": 1
     }
   ],
-  "name-en": "The True Guide"
+  "name-en": "The True Guide",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

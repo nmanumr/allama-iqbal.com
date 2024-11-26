@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The fact concealed in words so far, ‘spend what is surplus and is spare’ may come to light in modern age and make the meanings clear and bare.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The fact concealed in words so far, ‘spend what is surplus and is spare’ may come to light in modern age and make the meanings clear and bare.",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       "id": 1
     }
   ],
-  "name-en": "Communism"
+  "name-en": "Communism",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -87,7 +87,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Mullahs who lead prayers brief, don't know a nation's goal and aim. How can they learn a nation's weight, when things like this they do not claim?\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The Mullahs who lead prayers brief, don't know a nation's goal and aim. How can they learn a nation's weight, when things like this they do not claim?",
               "lang": "English"
             }
           ]
@@ -96,5 +96,6 @@
       "id": 1
     }
   ],
-  "name-en": "Oneness Of God"
+  "name-en": "Oneness Of God",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

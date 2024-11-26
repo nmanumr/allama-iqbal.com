@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When Faith and word with Self lose contact, then nation’s self-esteem can't keep intact.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "When Faith and word with Self lose contact, then nation’s self-esteem can't keep intact.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Religion And Crafts"
+  "name-en": "Religion And Crafts",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

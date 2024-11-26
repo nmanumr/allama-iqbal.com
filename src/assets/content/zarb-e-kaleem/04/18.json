@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Set your craftsmanship quite free from Nature's chains that bind it tight for men endowed with gift of craft aren't prey, of hunters need no fright.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Set your craftsmanship quite free from Nature's chains that bind it tight for men endowed with gift of craft aren't prey, of hunters need no fright.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Pyramids Of Egypt"
+  "name-en": "The Pyramids Of Egypt",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

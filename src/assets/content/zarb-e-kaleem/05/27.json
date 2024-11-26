@@ -42,7 +42,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Pirate: Alas! Alexander, you deem it void of blame, do men of same craft bear each other's shame?\nYour craft is blood-shed and my craft the same, we are both bandits, is diverse fields play the game? \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Pirate: Alas! Alexander, you deem it void of blame, do men of same craft bear each other's shame?\nYour craft is blood-shed and my craft the same, we are both bandits, is diverse fields play the game?",
               "lang": "English"
             }
           ]
@@ -51,5 +51,6 @@
       "id": 2
     }
   ],
-  "name-en": "A Pirate And Alexander"
+  "name-en": "A Pirate And Alexander",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

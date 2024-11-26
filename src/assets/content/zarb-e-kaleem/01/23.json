@@ -118,7 +118,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Your stars have lost their pristine glow and sheen that made them rivals of Sun and Moon so keen. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Your stars have lost their pristine glow and sheen that made them rivals of Sun and Moon so keen.",
               "lang": "English"
             }
           ]
@@ -127,5 +127,6 @@
       "id": 1
     }
   ],
-  "name-en": "Kingship"
+  "name-en": "Kingship",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

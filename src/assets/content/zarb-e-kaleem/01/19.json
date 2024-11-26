@@ -69,7 +69,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Divorced from Faith, a poison strong, when propped by Faith and true belief, 'gainst poison works with speed, and proves a source of much relief.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Divorced from Faith, a poison strong, when propped by Faith and true belief, 'gainst poison works with speed, and proves a source of much relief.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       "id": 1
     }
   ],
-  "name-en": "Authority And Faith"
+  "name-en": "Authority And Faith",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

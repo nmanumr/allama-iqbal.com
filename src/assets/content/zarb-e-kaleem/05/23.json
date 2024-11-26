@@ -88,7 +88,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The wise 'mong Franks this verdict declare of culture Arab lands are fully bare. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The wise 'mong Franks this verdict declare of culture Arab lands are fully bare.",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       "id": 1
     }
   ],
-  "name-en": "Tutelage"
+  "name-en": "Tutelage",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

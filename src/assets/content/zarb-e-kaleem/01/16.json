@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When and whence the call to truth shall rise, my humble heart is feeling much surprise?\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "When and whence the call to truth shall rise, my humble heart is feeling much surprise?",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "Indian Muslim"
+  "name-en": "Indian Muslim",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

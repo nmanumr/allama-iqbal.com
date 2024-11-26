@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Like Plato cannot hold discourse, nor can with thunderous voice declaim but Plato was a spark that broke from her fire that blazed like flame.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Like Plato cannot hold discourse, nor can with thunderous voice declaim but Plato was a spark that broke from her fire that blazed like flame.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "Woman"
+  "name-en": "Woman",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

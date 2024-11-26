@@ -88,7 +88,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The books have marred your taste and zest to such a great and vast extent that breeze of morn has also failed to give you clue of rose and scent.\n[Translated by Akbar Ali Shah]",
+              "_content": "The books have marred your taste and zest to such a great and vast extent that breeze of morn has also failed to give you clue of rose and scent.",
               "lang": "English"
             }
           ]
@@ -96,5 +96,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Akbar Ali Shah"
 }

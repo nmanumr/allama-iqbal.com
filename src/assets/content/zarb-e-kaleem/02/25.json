@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Those who deserved to lead the modern age have worn out brains and others hold the stage.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "Those who deserved to lead the modern age have worn out brains and others hold the stage.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "Teachers"
+  "name-en": "Teachers",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

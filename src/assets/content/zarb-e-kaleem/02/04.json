@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "They are aware of all those things that charm and repel the human sight to them alone this fact is known what blackens heart, what renders bright.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "They are aware of all those things that charm and repel the human sight to them alone this fact is known what blackens heart, what renders bright.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "Awareness"
+  "name-en": "Awareness",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

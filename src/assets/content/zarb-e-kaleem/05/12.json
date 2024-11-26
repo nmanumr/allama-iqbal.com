@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When commons grow mature and ripe, in slavish bent and trend of heart; the governors can rule with ease, they don't face hurdles on their part.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "When commons grow mature and ripe, in slavish bent and trend of heart; the governors can rule with ease, they don't face hurdles on their part.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "Lordship"
+  "name-en": "Lordship",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

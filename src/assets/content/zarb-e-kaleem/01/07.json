@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Wealth has played no part to bring my worth to light; my Faqr this spell has cast, the share of wealth is slight.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "Wealth has played no part to bring my worth to light; my Faqr this spell has cast, the share of wealth is slight.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

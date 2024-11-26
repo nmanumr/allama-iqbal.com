@@ -75,7 +75,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In Paradise: The, angels of this thing are sure that a Muslim can allure, but Maids of Eden do complain, from society he does oft refrain.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "In Paradise: The, angels of this thing are sure that a Muslim can allure, but Maids of Eden do complain, from society he does oft refrain.",
               "lang": "English"
             }
           ]
@@ -84,5 +84,6 @@
       "id": 2
     }
   ],
-  "name-en": "Believer"
+  "name-en": "Believer",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

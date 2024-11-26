@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "On Love's way numerous Mounts Sinai appear God manifests Himself so clear may stage of Love for ever last, and may not come to end too ‘fast!\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "On Love's way numerous Mounts Sinai appear God manifests Himself so clear may stage of Love for ever last, and may not come to end too ‘fast!",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Poet"
+  "name-en": "The Poet",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

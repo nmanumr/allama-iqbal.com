@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Without the aid of wondrous acts no nation ever can advance: An art that has no Hoses' Rod a people's status can't enhance.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Without the aid of wondrous acts no nation ever can advance: An art that has no Hoses' Rod a people's status can't enhance.",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       "id": 1
     }
   ],
-  "name-en": "Fine Arts"
+  "name-en": "Fine Arts",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The brigands same have built this fane by whom Syrians were ruined and slain. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The brigands same have built this fane by whom Syrians were ruined and slain.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "Paris Mosque"
+  "name-en": "Paris Mosque",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

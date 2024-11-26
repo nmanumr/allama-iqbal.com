@@ -86,7 +86,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Don't grieve, for millenniums and aeons more still lie ahead for man in store the ever spinning heaven blue is not devoid of planets new.\n(Written in Riaz Manzil, Bhopal residence of Sir Rass Masood.)\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Don't grieve, for millenniums and aeons more still lie ahead for man in store the ever spinning heaven blue is not devoid of planets new.\n(Written in Riaz Manzil, Bhopal residence of Sir Rass Masood.)",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       "id": 1
     }
   ],
-  "name-en": "Hope"
+  "name-en": "Hope",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

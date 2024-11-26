@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The body of the dreamt or world is made from his handful clay: ‘God is Great’, his slogan shrill that can the role of soul for new world play.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The body of the dreamt or world is made from his handful clay: ‘God is Great’, his slogan shrill that can the role of soul for new world play.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "New World"
+  "name-en": "New World",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

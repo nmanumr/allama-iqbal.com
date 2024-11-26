@@ -106,7 +106,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "His call to prayer is devoid of lofty tones and grandeur great; O God, let this be known to him, will you let him 'fore you prostrate?\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "His call to prayer is devoid of lofty tones and grandeur great; O God, let this be known to him, will you let him 'fore you prostrate?",
               "lang": "English"
             }
           ]
@@ -114,5 +114,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

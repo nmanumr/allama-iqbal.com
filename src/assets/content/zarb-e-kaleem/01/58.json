@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If man alive puts on the shroud, must we take that ass for dead or tear to pieces small and shreds his shroud and cast away the threads?\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "If man alive puts on the shroud, must we take that ass for dead or tear to pieces small and shreds his shroud and cast away the threads?",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Guide"
+  "name-en": "The Guide",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

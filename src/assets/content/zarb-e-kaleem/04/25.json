@@ -69,7 +69,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You beg and borrow thoughts of others' brains, to find approach to Self, don't take much pains.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "You beg and borrow thoughts of others' brains, to find approach to Self, don't take much pains.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       "id": 1
     }
   ],
-  "name-en": "Newness"
+  "name-en": "Newness",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

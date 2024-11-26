@@ -71,7 +71,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "These abject slaves opine and cling to creed that Holy Book is full of flaws indeed. They think it incomplete for this fact because it fails to teach the slavish tact.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "These abject slaves opine and cling to creed that Holy Book is full of flaws indeed. They think it incomplete for this fact because it fails to teach the slavish tact.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       "id": 1
     }
   ],
-  "name-en": "Ijtehad"
+  "name-en": "Ijtehad",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

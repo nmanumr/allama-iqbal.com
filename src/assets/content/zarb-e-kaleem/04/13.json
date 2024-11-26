@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If you grow conscious of your rank, I tell in words so plain and frank ‘Mankind and genii shall form your host as chief you shall hold highest post’. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "If you grow conscious of your rank, I tell in words so plain and frank ‘Mankind and genii shall form your host as chief you shall hold highest post’.",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       "id": 1
     }
   ],
-  "name-en": "To Craftsmen"
+  "name-en": "To Craftsmen",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

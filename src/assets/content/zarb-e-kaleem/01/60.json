@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If comments' snare some hunter set, from nest on bough would drop in net.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "If comments' snare some hunter set, from nest on bough would drop in net.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "Punjabi Muslim"
+  "name-en": "Punjabi Muslim",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

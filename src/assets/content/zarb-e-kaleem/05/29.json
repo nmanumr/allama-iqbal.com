@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Some new design must have inflamed our English potentates; this is no story of oranges, honey or dates. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Some new design must have inflamed our English potentates; this is no story of oranges, honey or dates.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "Syria And Palestine"
+  "name-en": "Syria And Palestine",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

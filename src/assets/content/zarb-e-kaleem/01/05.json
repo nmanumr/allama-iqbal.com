@@ -254,7 +254,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You can not see the path you have to tread, so choose a guide from tribe of Koraish instead.\n(Persian verses are from Khaqani’s ‘Tohfah al-Araqain’.)\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "You can not see the path you have to tread, so choose a guide from tribe of Koraish instead.\n(Persian verses are from Khaqani’s ‘Tohfah al-Araqain’.)",
               "lang": "English"
             }
           ]
@@ -263,5 +263,6 @@
       "id": 1
     }
   ],
-  "name-en": "Admonition To A Philosophy Stricken Sayyad"
+  "name-en": "Admonition To A Philosophy Stricken Sayyad",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

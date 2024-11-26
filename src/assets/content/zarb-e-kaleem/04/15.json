@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Schools and taverns can no morals teach save the fact that you do not exist, learn 'to be' for you too are a fact, besides, your Ego thus shall long subsist.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Schools and taverns can no morals teach save the fact that you do not exist, learn 'to be' for you too are a fact, besides, your Ego thus shall long subsist.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "Being"
+  "name-en": "Being",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

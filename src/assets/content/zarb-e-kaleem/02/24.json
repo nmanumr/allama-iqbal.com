@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Although his natural bent of mind from stains and blemish is quite free his soul this dormant fact betrays, he yearns for life replete with spree.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "Although his natural bent of mind from stains and blemish is quite free his soul this dormant fact betrays, he yearns for life replete with spree.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "Neitzche"
+  "name-en": "Neitzche",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -69,7 +69,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Man has harnessed rays of the Sun, much gain from them he has drawn, but he can not transform the dark and dismal night of life to dawn.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "Man has harnessed rays of the Sun, much gain from them he has drawn, but he can not transform the dark and dismal night of life to dawn.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       "id": 1
     }
   ],
-  "name-en": "Man Of Present Age"
+  "name-en": "Man Of Present Age",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

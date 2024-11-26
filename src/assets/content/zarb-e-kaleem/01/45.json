@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Like Gabriel it owns fine taste and grace, has warmth of Arabs and mind like Persian race. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Like Gabriel it owns fine taste and grace, has warmth of Arabs and mind like Persian race.",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       "id": 1
     }
   ],
-  "name-en": "Islamic Civilization"
+  "name-en": "Islamic Civilization",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

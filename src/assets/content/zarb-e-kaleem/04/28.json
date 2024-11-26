@@ -68,7 +68,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You have portrayed many a natural sight, display your Self in Nature's mirror bright.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "You have portrayed many a natural sight, display your Self in Nature's mirror bright.",
               "lang": "English"
             }
           ]
@@ -77,5 +77,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Painter"
+  "name-en": "The Painter",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

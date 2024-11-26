@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "What binds the words and their import? What links the body and the soul? It wears the cloak of its own ash just like the burnt refuse of coal.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "What binds the words and their import? What links the body and the soul? It wears the cloak of its own ash just like the burnt refuse of coal.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "Soul And Body"
+  "name-en": "Soul And Body",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

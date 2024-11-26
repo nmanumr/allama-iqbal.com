@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I know that subject nation’s freedom gain, if they would nourish Self, display its main.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "I know that subject nation’s freedom gain, if they would nourish Self, display its main.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "To The Palestinian Arabs"
+  "name-en": "To The Palestinian Arabs",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

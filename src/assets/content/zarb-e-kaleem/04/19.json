@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You are a corpse and your art the leader of your funeral rite: In pitch dark bed-room of the grave, of life the fellow catches sight.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "You are a corpse and your art the leader of your funeral rite: In pitch dark bed-room of the grave, of life the fellow catches sight.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Creations Of Art"
+  "name-en": "Creations Of Art",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

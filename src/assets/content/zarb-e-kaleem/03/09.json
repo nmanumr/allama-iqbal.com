@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The oppression of fair sex has cast me down a lot: I can not think of means that can resolve this knot.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The oppression of fair sex has cast me down a lot: I can not think of means that can resolve this knot.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Woman"
+  "name-en": "Woman",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

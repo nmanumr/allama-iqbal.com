@@ -87,7 +87,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Its views vary with the rest, it deems them right and best; its innate slates unknown to mystics with renown.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Its views vary with the rest, it deems them right and best; its innate slates unknown to mystics with renown.",
               "lang": "English"
             }
           ]
@@ -96,5 +96,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Great Man"
+  "name-en": "The Great Man",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

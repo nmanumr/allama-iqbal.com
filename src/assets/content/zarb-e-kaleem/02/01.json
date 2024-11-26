@@ -42,7 +42,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Plato: A wise man knows that 'fore death he must bow, in pitch dark night, life, ike spark, soon loses glow.\nBoth life and death deserve not any heed the Self of man is Ego's goal and need. \n(Written at Riaz Manzil, residence of Sir Rass Masood, Bhopal.)\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "Plato: A wise man knows that 'fore death he must bow, in pitch dark night, life, ike spark, soon loses glow.\nBoth life and death deserve not any heed the Self of man is Ego's goal and need. \n(Written at Riaz Manzil, residence of Sir Rass Masood, Bhopal.)",
               "lang": "English"
             }
           ]
@@ -51,5 +51,6 @@
       "id": 2
     }
   ],
-  "name-en": "Goal"
+  "name-en": "Goal",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

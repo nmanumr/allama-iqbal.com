@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You beg your God to grant your cherished end and goal, I pray my God to change your wish entire and whole. \n[Translated by Syed Akbar Ali Shah]",
+              "_content": "You beg your God to grant your cherished end and goal, I pray my God to change your wish entire and whole.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

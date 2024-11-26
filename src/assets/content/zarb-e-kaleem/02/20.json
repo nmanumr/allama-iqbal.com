@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The love of God is dead by unbelief 'mong Franks through lack of link in thoughts, East shackles wears on shanks.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The love of God is dead by unbelief 'mong Franks through lack of link in thoughts, East shackles wears on shanks.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "Modern Age"
+  "name-en": "Modern Age",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

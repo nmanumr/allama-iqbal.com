@@ -103,7 +103,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "May God to Muslim Priests of India grant homage that news of Life in hearts can plan.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "May God to Muslim Priests of India grant homage that news of Life in hearts can plan.",
               "lang": "English"
             }
           ]
@@ -112,5 +112,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Prayer Of Slaves"
+  "name-en": "The Prayer Of Slaves",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

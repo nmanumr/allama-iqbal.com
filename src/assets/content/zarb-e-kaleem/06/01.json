@@ -88,7 +88,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O zealous Faqr, let me know what is your verdict and firm intent: Would you prefer the British robe, or your shirt, thread-bare, torn and rent?\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "O zealous Faqr, let me know what is your verdict and firm intent: Would you prefer the British robe, or your shirt, thread-bare, torn and rent?",
               "lang": "English"
             }
           ]
@@ -97,5 +97,6 @@
       "id": 1
     }
   ],
-  "name-en": "Meditations Of Mihrab Gul Afghan"
+  "name-en": "Meditations Of Mihrab Gul Afghan",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

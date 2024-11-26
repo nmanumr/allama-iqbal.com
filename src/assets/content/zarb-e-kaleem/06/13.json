@@ -69,7 +69,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Shrines no strength to Self e'er can impart, because no sparks from wet flame can depart.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The Shrines no strength to Self e'er can impart, because no sparks from wet flame can depart.",
               "lang": "English"
             }
           ]
@@ -77,5 +77,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

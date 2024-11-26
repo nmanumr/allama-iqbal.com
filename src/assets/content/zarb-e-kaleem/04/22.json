@@ -65,7 +65,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Dawn: Step tip-toe in the lawn of park at morn, don't crush the shining gems that park adorn.\nEmbrace the mount and waste but caution take that links with whirling sky you do not break.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Dawn: Step tip-toe in the lawn of park at morn, don't crush the shining gems that park adorn.\nEmbrace the mount and waste but caution take that links with whirling sky you do not break.",
               "lang": "English"
             }
           ]
@@ -74,5 +74,6 @@
       "id": 3
     }
   ],
-  "name-en": "Dawn Of The Park"
+  "name-en": "Dawn Of The Park",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

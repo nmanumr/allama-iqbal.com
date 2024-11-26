@@ -86,7 +86,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "God save from revelations of a thrall, like Changez, he leads to nations' fall!\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "God save from revelations of a thrall, like Changez, he leads to nations' fall!",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       "id": 1
     }
   ],
-  "name-en": "Revelation And Freedom"
+  "name-en": "Revelation And Freedom",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

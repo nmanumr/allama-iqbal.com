@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I have visited the meads in East and West, where tulips parks adorn, but I have not beheld a park, where tulips have their collars torn.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "I have visited the meads in East and West, where tulips parks adorn, but I have not beheld a park, where tulips have their collars torn.",
               "lang": "English"
             }
           ]
@@ -60,5 +60,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

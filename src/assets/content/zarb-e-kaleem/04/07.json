@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "One must have eyes to see these sights which vie with each in bloom and grace; for Nature is not wont to sell the charm appearing on her face.\n(Written in Riaz Manzil, Bhopal residence of Sir Rass Masood.)\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "One must have eyes to see these sights which vie with each in bloom and grace; for Nature is not wont to sell the charm appearing on her face.\n(Written in Riaz Manzil, Bhopal residence of Sir Rass Masood.)",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Vision"
+  "name-en": "Vision",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

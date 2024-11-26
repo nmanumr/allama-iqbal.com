@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Twixt actions good and bad it's hard to draw a line, unless life undertakes such subtle points to define. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Twixt actions good and bad it's hard to draw a line, unless life undertakes such subtle points to define.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "Revelation"
+  "name-en": "Revelation",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

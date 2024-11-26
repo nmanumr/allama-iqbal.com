@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The seer, inspired by God, who fails to prompt to deeds of might and main, is just akin to leaf of hemp that makes oblivious to loss or gain.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The seer, inspired by God, who fails to prompt to deeds of might and main, is just akin to leaf of hemp that makes oblivious to loss or gain.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Prophethood"
+  "name-en": "Prophethood",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

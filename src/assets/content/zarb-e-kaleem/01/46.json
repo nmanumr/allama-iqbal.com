@@ -86,7 +86,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Such guidance means revolt 'against Lustrous Creed that makes the Muslims bow to kingly breed. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Such guidance means revolt 'against Lustrous Creed that makes the Muslims bow to kingly breed.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       "id": 1
     }
   ],
-  "name-en": "Guidance"
+  "name-en": "Guidance",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

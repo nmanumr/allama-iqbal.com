@@ -69,7 +69,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If Muslim true can get this sword in hold; he is Ali the Lion of God, or Khalid bold.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "If Muslim true can get this sword in hold; he is Ali the Lion of God, or Khalid bold.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       "id": 1
     }
   ],
-  "name-en": "On The Occasion Of Permission To Keep Sword"
+  "name-en": "On The Occasion Of Permission To Keep Sword",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

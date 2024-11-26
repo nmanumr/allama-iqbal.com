@@ -87,7 +87,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O Sun, arise from East and sail upon my view give all the mountain range a crimson tinge and hue.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "O Sun, arise from East and sail upon my view give all the mountain range a crimson tinge and hue.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

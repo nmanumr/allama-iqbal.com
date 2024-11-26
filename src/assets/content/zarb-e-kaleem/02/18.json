@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Demise of Self has made divine, who keeps a watch on Holy Shrine, to sell the robes that pilgrims don, on sale proceeds he lives upon.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "Demise of Self has made divine, who keeps a watch on Holy Shrine, to sell the robes that pilgrims don, on sale proceeds he lives upon.",
               "lang": "English"
             }
           ]
@@ -81,5 +81,6 @@
       "id": 1
     }
   ],
-  "name-en": "Death Of The Ego"
+  "name-en": "Death Of The Ego",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

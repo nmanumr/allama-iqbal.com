@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The idol houses of the West, their schools and churches wide; the ravage caused for, greed of wealth their wily wit attempts to hide.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The idol houses of the West, their schools and churches wide; the ravage caused for, greed of wealth their wily wit attempts to hide.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Voice Of Karl Marx"
+  "name-en": "The Voice Of Karl Marx",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

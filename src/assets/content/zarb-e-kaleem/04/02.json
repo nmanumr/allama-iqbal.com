@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The air of waste gives out the smell of friendship deep, perhaps there may be some who may my company keep. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The air of waste gives out the smell of friendship deep, perhaps there may be some who may my company keep.",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       "id": 1
     }
   ],
-  "name-en": "Creation"
+  "name-en": "Creation",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

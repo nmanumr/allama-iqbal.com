@@ -103,7 +103,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "That nation cannot come to shame at all, nor shall e'er come across or face disgrace, whose youth are blessed with. pluck and courage great, and guard with zeal the prestige of their race. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "That nation cannot come to shame at all, nor shall e'er come across or face disgrace, whose youth are blessed with. pluck and courage great, and guard with zeal the prestige of their race.",
               "lang": "English"
             }
           ]
@@ -111,5 +111,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

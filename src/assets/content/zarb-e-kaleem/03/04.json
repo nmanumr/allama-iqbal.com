@@ -71,7 +71,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Retreat is blessed state 'bout Self gives knowledge-great Alas! This state divine, isn't found in fane or shrine.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Retreat is blessed state 'bout Self gives knowledge-great Alas! This state divine, isn't found in fane or shrine.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       "id": 1
     }
   ],
-  "name-en": "Solitude"
+  "name-en": "Solitude",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

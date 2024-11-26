@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The faults of one man Nature can reprieve, but groups for crimes no par don can receive.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The faults of one man Nature can reprieve, but groups for crimes no par don can receive.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Religion And Education"
+  "name-en": "Religion And Education",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

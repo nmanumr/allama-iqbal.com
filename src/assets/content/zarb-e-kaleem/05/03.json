@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The hearts of both the East and West of zeal and zest are quite bereft: One means the death of Self and soul, other decease of conscience whole.\nA fervour great is in their hearts, they wait, when some convulsion starts; perhaps, this cosmos old and sear is in throes, its death quite near.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The hearts of both the East and West of zeal and zest are quite bereft: One means the death of Self and soul, other decease of conscience whole.\nA fervour great is in their hearts, they wait, when some convulsion starts; perhaps, this cosmos old and sear is in throes, its death quite near.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       "id": 1
     }
   ],
-  "name-en": "Revolution"
+  "name-en": "Revolution",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

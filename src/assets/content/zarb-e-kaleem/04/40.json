@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The secrets that are hid in verse to judge their worth I always fail, though nnals of the nations past relate this point with much detail.\nThe verse that conveys to man the views of lire that shall e'er last is either song by Gabriel sung, or blare of Sarafil'strumpet blast.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The secrets that are hid in verse to judge their worth I always fail, though nnals of the nations past relate this point with much detail.\nThe verse that conveys to man the views of lire that shall e'er last is either song by Gabriel sung, or blare of Sarafil'strumpet blast.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       "id": 1
     }
   ],
-  "name-en": "Verse"
+  "name-en": "Verse",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

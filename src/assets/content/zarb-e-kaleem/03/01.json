@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "This vice in Frankish way of life we find, men fools and blind, can't read a woman's mind.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "This vice in Frankish way of life we find, men fools and blind, can't read a woman's mind.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Frankish Man"
+  "name-en": "The Frankish Man",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

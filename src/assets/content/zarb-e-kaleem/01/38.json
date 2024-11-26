@@ -68,7 +68,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "This life is free from ugly taint that makes men round the fane to tread O God! The faithful and pagan all have worn on shoulders sacred thread.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "This life is free from ugly taint that makes men round the fane to tread O God! The faithful and pagan all have worn on shoulders sacred thread.",
               "lang": "English"
             }
           ]
@@ -77,5 +77,6 @@
       "id": 1
     }
   ],
-  "name-en": "God'S Men"
+  "name-en": "God'S Men",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

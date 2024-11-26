@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "On godless Russia the command descends: Smite all the Baals and Dagons of the Church!\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "On godless Russia the command descends: Smite all the Baals and Dagons of the Church!",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "Bolshevik Russia"
+  "name-en": "Bolshevik Russia",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

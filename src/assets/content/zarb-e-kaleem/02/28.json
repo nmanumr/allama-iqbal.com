@@ -181,7 +181,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I don't sit like sluggards and indulge in play; it is time for your craft and skill's display.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "I don't sit like sluggards and indulge in play; it is time for your craft and skill's display.",
               "lang": "English"
             }
           ]
@@ -371,7 +371,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘On occasions where your greatness must prevail your lineage there won't be of much avail’.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "‘On occasions where your greatness must prevail your lineage there won't be of much avail’.",
               "lang": "English"
             }
           ]
@@ -555,7 +555,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It sets the Faithful free from need and want, beg God that such Faqr to you e may grant.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "It sets the Faithful free from need and want, beg God that such Faqr to you e may grant.",
               "lang": "English"
             }
           ]
@@ -564,5 +564,6 @@
       "id": 3
     }
   ],
-  "name-en": "To Javaid"
+  "name-en": "To Javaid",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -103,7 +103,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If fervent glance and vision keen you have not met or ever seen; your being is a source of shame on heart and sight can bring a blame.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "If fervent glance and vision keen you have not met or ever seen; your being is a source of shame on heart and sight can bring a blame.",
               "lang": "English"
             }
           ]
@@ -112,5 +112,6 @@
       "id": 1
     }
   ],
-  "name-en": "Eager Glance"
+  "name-en": "Eager Glance",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

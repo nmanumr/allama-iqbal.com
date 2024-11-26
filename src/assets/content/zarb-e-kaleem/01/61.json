@@ -71,7 +71,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In India queer and odd the farce you see, the Faith is captive, but the Muslims free.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "In India queer and odd the farce you see, the Faith is captive, but the Muslims free.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       "id": 1
     }
   ],
-  "name-en": "Freedom"
+  "name-en": "Freedom",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

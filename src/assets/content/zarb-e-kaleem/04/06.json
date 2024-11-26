@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Now Love from mind must take the lead, by God bestowed on human race to dear one's lane it must not go and bring with haste on head disgrace.\nLove must infuse new soul in old poetic moulds and change their course, or break the chains of antique soul, set it free from mimetic force.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Now Love from mind must take the lead, by God bestowed on human race to dear one's lane it must not go and bring with haste on head disgrace.\nLove must infuse new soul in old poetic moulds and change their course, or break the chains of antique soul, set it free from mimetic force.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       "id": 1
     }
   ],
-  "name-en": "Literature"
+  "name-en": "Literature",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

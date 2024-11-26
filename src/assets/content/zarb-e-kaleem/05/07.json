@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "They make the thralls contented with their state, they make excuses, when Faith's affairs relate.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "They make the thralls contented with their state, they make excuses, when Faith's affairs relate.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Psychology Of Bondage"
+  "name-en": "Psychology Of Bondage",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

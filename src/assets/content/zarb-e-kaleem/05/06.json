@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A civilization sick before its prime, at its least gasp; leaving maybe for caretakers of Christendom, the Jews. \n(Translated by V.G. Kiernan)",
+              "_content": "A civilization sick before its prime, at its least gasp; leaving maybe for caretakers of Christendom, the Jews.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "Europe And Jews"
+  "name-en": "Europe And Jews",
+  "credits": "English Translation by: V.G. Kiernan"
 }

@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If schools for girls no lore impart on creed, then lore and crafts for Love are death indeed.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "If schools for girls no lore impart on creed, then lore and crafts for Love are death indeed.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "Women And Education"
+  "name-en": "Women And Education",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

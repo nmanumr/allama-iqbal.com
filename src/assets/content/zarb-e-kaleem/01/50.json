@@ -84,7 +84,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A Darvesh holds a loftier rank than a monarch who wears a crown; there is no cure for such a man, who, like paupers, has sunk down.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "A Darvesh holds a loftier rank than a monarch who wears a crown; there is no cure for such a man, who, like paupers, has sunk down.",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       "id": 1
     }
   ],
-  "name-en": "Unity Of God"
+  "name-en": "Unity Of God",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

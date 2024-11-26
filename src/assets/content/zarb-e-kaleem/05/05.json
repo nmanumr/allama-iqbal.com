@@ -68,7 +68,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "They don't consort with slaves in case of rule and might; they buy the wit of serfs to gain the ends, in sight.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "They don't consort with slaves in case of rule and might; they buy the wit of serfs to gain the ends, in sight.",
               "lang": "English"
             }
           ]
@@ -77,5 +77,6 @@
       "id": 1
     }
   ],
-  "name-en": "High Offices"
+  "name-en": "High Offices",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

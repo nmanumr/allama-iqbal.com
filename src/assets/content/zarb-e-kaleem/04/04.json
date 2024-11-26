@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I have a plaint gainst you, my verse, in self-display you take much delight; your coming forth from inmost heart, my secret all has brought to light.\nDon't roam about without some end having broken from the parent flame; in some breast which is full of warmth some niche for rest and shelter claim.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "I have a plaint gainst you, my verse, in self-display you take much delight; your coming forth from inmost heart, my secret all has brought to light.\nDon't roam about without some end having broken from the parent flame; in some breast which is full of warmth some niche for rest and shelter claim.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       "id": 1
     }
   ],
-  "name-en": "To His Own Verse"
+  "name-en": "To His Own Verse",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

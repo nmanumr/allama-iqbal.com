@@ -43,7 +43,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In God's existence you don't believe, you have no existence, I conceive.\nLife means to bring Self's merits hid to show, take heed, your Self is quite devoid of glow.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "In God's existence you don't believe, you have no existence, I conceive.\nLife means to bring Self's merits hid to show, take heed, your Self is quite devoid of glow.",
               "lang": "English"
             }
           ]
@@ -52,5 +52,6 @@
       "id": 2
     }
   ],
-  "name-en": "Bewitched By The West"
+  "name-en": "Bewitched By The West",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -71,7 +71,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I fear that you have childish bent of heart, those selling sweets in West are full of art.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "I fear that you have childish bent of heart, those selling sweets in West are full of art.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

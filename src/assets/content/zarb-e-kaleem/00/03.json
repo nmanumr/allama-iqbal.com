@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The straws and thorns of East to me have been assigned, for flame that burns in me is rash and unconfined. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The straws and thorns of East to me have been assigned, for flame that burns in me is rash and unconfined.",
               "lang": "English"
             }
           ]
@@ -155,7 +155,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You ought to be deprived of songs of morn, deserve to miss delight and feel forlorn.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "You ought to be deprived of songs of morn, deserve to miss delight and feel forlorn.",
               "lang": "English"
             }
           ]
@@ -164,5 +164,6 @@
       "id": 2
     }
   ],
-  "name-en": "The Prologue"
+  "name-en": "The Prologue",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -86,7 +86,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It is sky if it is above your head; if it is under your wings, it becomes earth.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "It is sky if it is above your head; if it is under your wings, it becomes earth.",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

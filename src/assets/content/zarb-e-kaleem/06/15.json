@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Franks have made you oblivious to Self, otherwise O Believer True, you are the bearer of happy news, and warn the sinners 'gainst their due.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The Franks have made you oblivious to Self, otherwise O Believer True, you are the bearer of happy news, and warn the sinners 'gainst their due.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

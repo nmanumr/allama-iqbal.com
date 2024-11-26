@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Of ripe beliefs, if nations' heart has no share or allotted part; such mortals are devoid of glow; their acts are mean, debased and low.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "Of ripe beliefs, if nations' heart has no share or allotted part; such mortals are devoid of glow; their acts are mean, debased and low.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "For Slaves"
+  "name-en": "For Slaves",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

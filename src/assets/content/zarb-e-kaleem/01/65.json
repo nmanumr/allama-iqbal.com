@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Herbs, vegetables and minerals alike adhere to what Fate pre-ordains: But Muslim true obeys laws of God, all else abhors and much disdains.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Herbs, vegetables and minerals alike adhere to what Fate pre-ordains: But Muslim true obeys laws of God, all else abhors and much disdains.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "Decrees Of God"
+  "name-en": "Decrees Of God",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

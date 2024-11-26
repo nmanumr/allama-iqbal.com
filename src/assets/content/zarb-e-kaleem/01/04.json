@@ -69,7 +69,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "No wonder, meanings of Najm from you hide, on Moon depends your ocean's ebb and tide. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "No wonder, meanings of Najm from you hide, on Moon depends your ocean's ebb and tide.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       "id": 1
     }
   ],
-  "name-en": "Ascension"
+  "name-en": "Ascension",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -137,7 +137,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A man concerned with truth alone can never this much proper deem that East for sins must reckoning face, but crimes by West may lighter seem.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "A man concerned with truth alone can never this much proper deem that East for sins must reckoning face, but crimes by West may lighter seem.",
               "lang": "English"
             }
           ]
@@ -146,5 +146,6 @@
       "id": 1
     }
   ],
-  "name-en": "Holy War"
+  "name-en": "Holy War",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

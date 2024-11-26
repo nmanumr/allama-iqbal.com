@@ -55,7 +55,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "How lucky the Caravan, whose Chief possesses the stock of lofty angelic thoughts, and passions firm as rock.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "How lucky the Caravan, whose Chief possesses the stock of lofty angelic thoughts, and passions firm as rock.",
               "lang": "English"
             }
           ]
@@ -64,5 +64,6 @@
       "id": 1
     }
   ],
-  "name-en": "Political Leaders"
+  "name-en": "Political Leaders",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

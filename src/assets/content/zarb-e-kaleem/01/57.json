@@ -87,7 +87,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In fits of frenzy strong and great of mysteries, God I start to Prate, bestow on my distracted brain some recompense for this pain. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "In fits of frenzy strong and great of mysteries, God I start to Prate, bestow on my distracted brain some recompense for this pain.",
               "lang": "English"
             }
           ]
@@ -96,5 +96,6 @@
       "id": 1
     }
   ],
-  "name-en": "To Elder Of The Shrine"
+  "name-en": "To Elder Of The Shrine",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

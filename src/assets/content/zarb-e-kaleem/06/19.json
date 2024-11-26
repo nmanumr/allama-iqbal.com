@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The sons of Khans, who own high rank, shall listen to my humble sound though I am dressed in rags and sack and wear no cap or turban round.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The sons of Khans, who own high rank, shall listen to my humble sound though I am dressed in rags and sack and wear no cap or turban round.",
               "lang": "English"
             }
           ]
@@ -93,5 +93,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -69,7 +69,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "That nation has the right to luck in life whose youth for honey take worldly blows and strife.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "That nation has the right to luck in life whose youth for honey take worldly blows and strife.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       "id": 1
     }
   ],
-  "name-en": "Government"
+  "name-en": "Government",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

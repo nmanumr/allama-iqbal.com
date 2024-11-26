@@ -69,7 +69,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Ecstatic Love forbids control of heart without breeze the petals do not part.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Ecstatic Love forbids control of heart without breeze the petals do not part.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       "id": 1
     }
   ],
-  "name-en": "Poverty And Monarchy"
+  "name-en": "Poverty And Monarchy",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

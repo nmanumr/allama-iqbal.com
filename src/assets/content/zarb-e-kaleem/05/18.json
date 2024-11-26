@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Cleaving rocks by Farhad in hearts is still distinct, but Empire of Pervez from mind is quite extinct. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Cleaving rocks by Farhad in hearts is still distinct, but Empire of Pervez from mind is quite extinct.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "Eternal Kingship"
+  "name-en": "Eternal Kingship",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -87,7 +87,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The song that jurists of the Self deem lawful in their mystic creed has been expecting since a long a bard, who can acquit indeed.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The song that jurists of the Self deem lawful in their mystic creed has been expecting since a long a bard, who can acquit indeed.",
               "lang": "English"
             }
           ]
@@ -96,5 +96,6 @@
       "id": 1
     }
   ],
-  "name-en": "Lawful Music"
+  "name-en": "Lawful Music",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

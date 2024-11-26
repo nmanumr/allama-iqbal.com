@@ -71,7 +71,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Iqbal much strife is needed in present age which needs chiselling rocks and crushing stone; shun case, in mirror do not peep, and let such things remain alone.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "Iqbal much strife is needed in present age which needs chiselling rocks and crushing stone; shun case, in mirror do not peep, and let such things remain alone.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       "id": 1
     }
   ],
-  "name-en": "Persian Poetry"
+  "name-en": "Persian Poetry",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

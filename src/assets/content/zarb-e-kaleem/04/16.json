@@ -86,7 +86,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The day the minstrel grasps this point which is hid in depths of heart, take it for granted, you have traversed all the stages required by art.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "The day the minstrel grasps this point which is hid in depths of heart, take it for granted, you have traversed all the stages required by art.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       "id": 1
     }
   ],
-  "name-en": "Melody"
+  "name-en": "Melody",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

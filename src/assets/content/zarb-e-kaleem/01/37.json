@@ -100,7 +100,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "As good as dead is science and art, which take not birth from bleeding heart.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "As good as dead is science and art, which take not birth from bleeding heart.",
               "lang": "English"
             }
           ]
@@ -109,5 +109,6 @@
       "id": 1
     }
   ],
-  "name-en": "Philosophy"
+  "name-en": "Philosophy",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

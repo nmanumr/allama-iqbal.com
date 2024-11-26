@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The minds of, those who go to school, in thoughts quite fresh and new are clad Alas! There are such people few who draw a line 'twixt good and bad.\nPerhaps some luminous thought may flash across the inmost part of heart for such inspiring thoughts one must set some recess in heart apart.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The minds of, those who go to school, in thoughts quite fresh and new are clad Alas! There are such people few who draw a line 'twixt good and bad.\nPerhaps some luminous thought may flash across the inmost part of heart for such inspiring thoughts one must set some recess in heart apart.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       "id": 1
     }
   ],
-  "name-en": "Honoured Guest"
+  "name-en": "Honoured Guest",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

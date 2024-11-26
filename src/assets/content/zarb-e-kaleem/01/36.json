@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A Darvesh holds the reins of Time like steed; ile brings sun, stars and moon to book with speed.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "A Darvesh holds the reins of Time like steed; ile brings sun, stars and moon to book with speed.",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Recognition Of A Qalandar"
+  "name-en": "The Recognition Of A Qalandar",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

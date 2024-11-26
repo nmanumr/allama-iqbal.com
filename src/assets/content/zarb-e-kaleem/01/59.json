@@ -134,7 +134,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Such thoughts that shine like lustrous stars my brain, like workshop, can provide, you can select the star you like, so that your Fate this star may guide.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Such thoughts that shine like lustrous stars my brain, like workshop, can provide, you can select the star you like, so that your Fate this star may guide.",
               "lang": "English"
             }
           ]
@@ -143,5 +143,6 @@
       "id": 1
     }
   ],
-  "name-en": "A Muslim"
+  "name-en": "A Muslim",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "It is an uphill task to judge what is more precious lends much grace; emancipation for fair sex or aught or emerald-wrought superb neck-lace.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "It is an uphill task to judge what is more precious lends much grace; emancipation for fair sex or aught or emerald-wrought superb neck-lace.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Emancipation Of Women"
+  "name-en": "Emancipation Of Women",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

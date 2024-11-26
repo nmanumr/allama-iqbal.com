@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "On this Elexir's efficacy you can count, to heap of dust can change a mighty mount! \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "On this Elexir's efficacy you can count, to heap of dust can change a mighty mount!",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       "id": 1
     }
   ],
-  "name-en": "Advice"
+  "name-en": "Advice",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

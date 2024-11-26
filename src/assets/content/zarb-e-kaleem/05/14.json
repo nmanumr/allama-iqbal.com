@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Change its wont e'ery age, though odd, now Mohammad's sword, then Moses' Rod. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Change its wont e'ery age, though odd, now Mohammad's sword, then Moses' Rod.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "To The Egyptians"
+  "name-en": "To The Egyptians",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

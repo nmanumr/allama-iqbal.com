@@ -69,7 +69,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Of cruel Turkish hold they have got rid; in culture's snare they too soon have slid! \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Of cruel Turkish hold they have got rid; in culture's snare they too soon have slid!",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       "id": 1
     }
   ],
-  "name-en": "Culture'S Snare"
+  "name-en": "Culture'S Snare",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

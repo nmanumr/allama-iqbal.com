@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "For songs of Rumi you haven't ears sharp, shaped the strings of your Self's harp.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "For songs of Rumi you haven't ears sharp, shaped the strings of your Self's harp.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

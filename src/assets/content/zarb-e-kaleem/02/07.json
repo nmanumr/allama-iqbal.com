@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The hawk is never tired of flight, does not drop gasping on the ground; if unwearied it remains on wings, from hunters' dread is safe and sound.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The hawk is never tired of flight, does not drop gasping on the ground; if unwearied it remains on wings, from hunters' dread is safe and sound.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Open Secrets"
+  "name-en": "Open Secrets",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

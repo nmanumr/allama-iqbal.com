@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Alas! The Muslim forgot the lesson that to him was taught. He was ordained to cry to none save to God Unique and One. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Alas! The Muslim forgot the lesson that to him was taught. He was ordained to cry to none save to God Unique and One.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "Lahore And Karachi"
+  "name-en": "Lahore And Karachi",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

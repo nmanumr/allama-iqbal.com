@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Alas! My eyes do not behold the Holy Knight whose fervour high may cause his blood to seethe and boil in veins that lend such might to thigh.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "Alas! My eyes do not behold the Holy Knight whose fervour high may cause his blood to seethe and boil in veins that lend such might to thigh.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "Fervour For Action"
+  "name-en": "Fervour For Action",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Makkah this question to Geneva posed: ‘Is League of Man, or diverse states composed?’ \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Makkah this question to Geneva posed: ‘Is League of Man, or diverse states composed?’",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "Makkah And Geneva"
+  "name-en": "Makkah And Geneva",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

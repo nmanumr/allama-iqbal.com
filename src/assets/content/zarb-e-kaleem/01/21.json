@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If Muslim Faith offends the West, let West in its own anger burn: This Faith is known by other name, to 'Jealous Faqr' now we must turn.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "If Muslim Faith offends the West, let West in its own anger burn: This Faith is known by other name, to 'Jealous Faqr' now we must turn.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "Islam"
+  "name-en": "Islam",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "I do not wonder if to God you find approach. You know not rank of man for which you need reproach.\nYour worship is devoid of grandeur, charm and grace. Your Call to Prayer at morn leaves cold and does not brace.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "I do not wonder if to God you find approach. You know not rank of man for which you need reproach.\nYour worship is devoid of grandeur, charm and grace. Your Call to Prayer at morn leaves cold and does not brace.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       "id": 1
     }
   ],
-  "name-en": "Mullah Of The Mosque"
+  "name-en": "Mullah Of The Mosque",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

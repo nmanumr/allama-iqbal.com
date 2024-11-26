@@ -85,7 +85,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Untruth conceals in various masks, but Truth and God are both unique. There can't be pool 'twixt good and bad, this fact is known from times antique.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "Untruth conceals in various masks, but Truth and God are both unique. There can't be pool 'twixt good and bad, this fact is known from times antique.",
               "lang": "English"
             }
           ]
@@ -94,5 +94,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Testament Of Tipu Sultan"
+  "name-en": "The Testament Of Tipu Sultan",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

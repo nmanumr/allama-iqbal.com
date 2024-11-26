@@ -71,7 +71,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "‘If heart of man were vast enough, this mead would have retained no trace some wine has overflowed the brim, because the flask had narrow space.’\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "‘If heart of man were vast enough, this mead would have retained no trace some wine has overflowed the brim, because the flask had narrow space.’",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       "id": 1
     }
   ],
-  "name-en": "Mirza Bedil"
+  "name-en": "Mirza Bedil",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

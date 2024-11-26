@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "O God, to such a land I have been sent, where men in abject bondage feel content. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "O God, to such a land I have been sent, where men in abject bondage feel content.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

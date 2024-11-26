@@ -86,7 +86,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The things on which schools throw no light and keep them from your eyes concealed, go to retreats of mount and waste and get them by some Guide revealed.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The things on which schools throw no light and keep them from your eyes concealed, go to retreats of mount and waste and get them by some Guide revealed.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       "id": 1
     }
   ],
-  "name-en": "The School"
+  "name-en": "The School",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

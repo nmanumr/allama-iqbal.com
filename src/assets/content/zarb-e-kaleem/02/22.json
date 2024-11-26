@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "You never clashed against a wall, don't know, a stone or glass to call’.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "You never clashed against a wall, don't know, a stone or glass to call’.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "Examination"
+  "name-en": "Examination",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

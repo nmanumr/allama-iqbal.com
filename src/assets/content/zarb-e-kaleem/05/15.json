@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Alas that Rome has shattered in the mart the Fragile honour of Church in e'ery part; O Pope, this oppressive act rends human heart!\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Alas that Rome has shattered in the mart the Fragile honour of Church in e'ery part; O Pope, this oppressive act rends human heart!",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "Abyssinia"
+  "name-en": "Abyssinia",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

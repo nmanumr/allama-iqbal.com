@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "When their eyes on some weak domain alight, their Priests as vanguard act to wage the fight.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "When their eyes on some weak domain alight, their Priests as vanguard act to wage the fight.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Secular Politics"
+  "name-en": "Secular Politics",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

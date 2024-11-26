@@ -72,7 +72,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "That ken is vision dim in which the wise man's lore and sight that Moses viewed keep apart and merge no more.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "That ken is vision dim in which the wise man's lore and sight that Moses viewed keep apart and merge no more.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

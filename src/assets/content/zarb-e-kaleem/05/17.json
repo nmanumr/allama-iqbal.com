@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If Tehran is made the Geneva of the East, the Fate or earthly globe may have some change at least. \n(Written in Shish Mehal, Bhopal) \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "If Tehran is made the Geneva of the East, the Fate or earthly globe may have some change at least. \n(Written in Shish Mehal, Bhopal)",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "League Of The Nations Of The East"
+  "name-en": "League Of The Nations Of The East",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

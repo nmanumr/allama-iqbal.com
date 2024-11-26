@@ -71,7 +71,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Fate keeps its eye on what the nations do, like two-edged sword can riddle through and through. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Fate keeps its eye on what the nations do, like two-edged sword can riddle through and through.",
               "lang": "English"
             }
           ]
@@ -80,5 +80,6 @@
       "id": 1
     }
   ],
-  "name-en": "Destiny"
+  "name-en": "Destiny",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

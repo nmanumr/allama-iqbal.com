@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Though odd and strange the matter sounds, but who can't cross Negations's bounds must rest assured, his death is near, naught can save him from blight and sear.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Though odd and strange the matter sounds, but who can't cross Negations's bounds must rest assured, his death is near, naught can save him from blight and sear.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

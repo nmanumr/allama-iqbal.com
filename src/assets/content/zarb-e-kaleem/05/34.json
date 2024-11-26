@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In the East bondage and mimicry have spread the germs of pain and grief. In the West rule of chosen mobs is source of sorrows main and chief.\nNeither the East is quite immune, nor West from germs is fully free; wide-spread the blight of heart and glance, a few can claim true joy and glee.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "In the East bondage and mimicry have spread the germs of pain and grief. In the West rule of chosen mobs is source of sorrows main and chief.\nNeither the East is quite immune, nor West from germs is fully free; wide-spread the blight of heart and glance, a few can claim true joy and glee.",
               "lang": "English"
             }
           ]
@@ -30,5 +30,6 @@
       "id": 1
     }
   ],
-  "name-en": "The East And The West"
+  "name-en": "The East And The West",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

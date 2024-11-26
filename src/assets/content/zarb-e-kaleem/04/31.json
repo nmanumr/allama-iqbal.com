@@ -21,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "To own the flow of brook and meander on the earth in gaze of mine hasn't charm and can't endow with mirth.\nO dear young man, divert a bit aside your eye: The water of the fount by innate force surges high.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "To own the flow of brook and meander on the earth in gaze of mine hasn't charm and can't endow with mirth.\nO dear young man, divert a bit aside your eye: The water of the fount by innate force surges high.",
               "lang": "English"
             }
           ]
@@ -30,5 +30,6 @@
       "id": 1
     }
   ],
-  "name-en": "Fountain"
+  "name-en": "Fountain",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

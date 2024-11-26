@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A nation which can't see this truth divine, pale grows its son and soon begins decline.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "A nation which can't see this truth divine, pale grows its son and soon begins decline.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "Protection Of The Weaker Vessel"
+  "name-en": "Protection Of The Weaker Vessel",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

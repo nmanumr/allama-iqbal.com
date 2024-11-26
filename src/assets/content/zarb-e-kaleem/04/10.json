@@ -298,7 +298,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Don't shun the East, nor look on West with scorn, since Nature yearns for change of night to morn.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Don't shun the East, nor look on West with scorn, since Nature yearns for change of night to morn.",
               "lang": "English"
             }
           ]
@@ -307,5 +307,6 @@
       "id": 3
     }
   ],
-  "name-en": "Ray Of Hope"
+  "name-en": "Ray Of Hope",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

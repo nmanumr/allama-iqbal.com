@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "On Frank's dear mistress, may remain alive, by Satan's charm a few days more survive. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "On Frank's dear mistress, may remain alive, by Satan's charm a few days more survive.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "League Of Nations"
+  "name-en": "League Of Nations",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

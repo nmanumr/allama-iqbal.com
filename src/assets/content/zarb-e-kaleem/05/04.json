@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If a man calls the owl, ‘The kingly hawk of night’; too hard to find this fact wh'r he tells wrong or right. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "If a man calls the owl, ‘The kingly hawk of night’; too hard to find this fact wh'r he tells wrong or right.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "Flattery"
+  "name-en": "Flattery",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

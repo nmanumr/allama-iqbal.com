@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The ways of teachers don't expand the heart, match stick can't light to electric lamp impart.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The ways of teachers don't expand the heart, match stick can't light to electric lamp impart.",
               "lang": "English"
             }
           ]
@@ -79,5 +79,6 @@
       "id": 1
     }
   ],
-  "name-en": "Upbringing"
+  "name-en": "Upbringing",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

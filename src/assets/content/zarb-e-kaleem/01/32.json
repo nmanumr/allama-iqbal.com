@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Man's flight from conflicts of life, or escape from its heat and strife if these not be abject defeat, what else is then a mean retreat?\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "Man's flight from conflicts of life, or escape from its heat and strife if these not be abject defeat, what else is then a mean retreat?",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "Defeatism"
+  "name-en": "Defeatism",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

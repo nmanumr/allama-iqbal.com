@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In different garbs and various masks the idols re-appear in every age: They e'er retain their youth and gloss though man has grown old on this stage.\nProstration 'fore God you presume as irksome, tedious, burden great but mind, this homage sets you free from bonds of men, of might who prate. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "In different garbs and various masks the idols re-appear in every age: They e'er retain their youth and gloss though man has grown old on this stage.\nProstration 'fore God you presume as irksome, tedious, burden great but mind, this homage sets you free from bonds of men, of might who prate.",
               "lang": "English"
             }
           ]
@@ -29,5 +29,6 @@
       "id": 1
     }
   ],
-  "name-en": "Prayer (Namaz)"
+  "name-en": "Prayer (Namaz)",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

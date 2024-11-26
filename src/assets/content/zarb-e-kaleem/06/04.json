@@ -117,7 +117,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "That Darvesh can build up a nation's fate who never tries to seek the royal gate.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "That Darvesh can build up a nation's fate who never tries to seek the royal gate.",
               "lang": "English"
             }
           ]
@@ -125,5 +125,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -75,7 +75,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Dew: If thorns and straws of worldly mead to cause a tension in you fail, then bear in mind, this lonely parks for heaven's dome is like a veil.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Dew: If thorns and straws of worldly mead to cause a tension in you fail, then bear in mind, this lonely parks for heaven's dome is like a veil.",
               "lang": "English"
             }
           ]
@@ -84,5 +84,6 @@
       "id": 2
     }
   ],
-  "name-en": "Breeze And Dew"
+  "name-en": "Breeze And Dew",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

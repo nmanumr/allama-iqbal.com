@@ -54,7 +54,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A heathen gets distinct by getting lost in life whereas a Muslim true keeps 'bove its brawl and strife.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "A heathen gets distinct by getting lost in life whereas a Muslim true keeps 'bove its brawl and strife.",
               "lang": "English"
             }
           ]
@@ -63,5 +63,6 @@
       "id": 1
     }
   ],
-  "name-en": "The Infidel And Believer"
+  "name-en": "The Infidel And Believer",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

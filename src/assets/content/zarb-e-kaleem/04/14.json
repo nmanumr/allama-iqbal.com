@@ -119,7 +119,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Men with vision bright for West have hope go slight the hearts of West aren't chaste for actions good haven't taste.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Men with vision bright for West have hope go slight the hearts of West aren't chaste for actions good haven't taste.",
               "lang": "English"
             }
           ]
@@ -128,5 +128,6 @@
       "id": 1
     }
   ],
-  "name-en": "Ghazal"
+  "name-en": "Ghazal",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

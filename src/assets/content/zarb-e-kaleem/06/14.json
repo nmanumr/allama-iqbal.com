@@ -70,7 +70,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "This world observes traditions old, in world to come mere hymns can serve; forge both worlds and stick to God, if kingly grandeur you wish to deserve.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "This world observes traditions old, in world to come mere hymns can serve; forge both worlds and stick to God, if kingly grandeur you wish to deserve.",
               "lang": "English"
             }
           ]
@@ -78,5 +78,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

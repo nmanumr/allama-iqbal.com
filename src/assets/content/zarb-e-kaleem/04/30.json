@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If in the music or its strains tile message of decease is hid such music of harp, reed and lute in view of mine is quite forbid.\n(Translated by Syed Akbar Ali Shah)",
+              "_content": "If in the music or its strains tile message of decease is hid such music of harp, reed and lute in view of mine is quite forbid.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "Unlawful Music"
+  "name-en": "Unlawful Music",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

@@ -88,7 +88,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If such a craftsman likes, with ease, by dint of skill and magic art, like dew, can make from mass of Sun, the rays of light proceed and dart.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "If such a craftsman likes, with ease, by dint of skill and magic art, like dew, can make from mass of Sun, the rays of light proceed and dart.",
               "lang": "English"
             }
           ]
@@ -96,5 +96,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

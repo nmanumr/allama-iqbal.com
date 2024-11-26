@@ -68,7 +68,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "If there is pluck for growth, the suburbs suffice; O man, the world is wide, if you are, wise. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "If there is pluck for growth, the suburbs suffice; O man, the world is wide, if you are, wise.",
               "lang": "English"
             }
           ]
@@ -77,5 +77,6 @@
       "id": 1
     }
   ],
-  "name-en": "Resignation"
+  "name-en": "Resignation",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

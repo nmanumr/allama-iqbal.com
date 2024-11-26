@@ -53,7 +53,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Of facts so true, I strive to hide not aught, you are, all else a trick that eyes have wrought. \n(Translated by Syed Akbar Ali Shah)",
+              "_content": "Of facts so true, I strive to hide not aught, you are, all else a trick that eyes have wrought.",
               "lang": "English"
             }
           ]
@@ -62,5 +62,6 @@
       "id": 1
     }
   ],
-  "name-en": "The World"
+  "name-en": "The World",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

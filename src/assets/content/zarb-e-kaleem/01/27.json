@@ -86,7 +86,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The leave allowed to Muslim Priest to bow and bend, 'fore God to pray makes that artless fellow think that Ind is free from foreign sway.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "The leave allowed to Muslim Priest to bow and bend, 'fore God to pray makes that artless fellow think that Ind is free from foreign sway.",
               "lang": "English"
             }
           ]
@@ -95,5 +95,6 @@
       "id": 1
     }
   ],
-  "name-en": "Indian Islam"
+  "name-en": "Indian Islam",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

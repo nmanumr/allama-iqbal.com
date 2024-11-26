@@ -120,7 +120,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "This is the training that befits them well, painting, music and science of plants as well.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "This is the training that befits them well, painting, music and science of plants as well.",
               "lang": "English"
             }
           ]
@@ -129,5 +129,6 @@
       "id": 1
     }
   ],
-  "name-en": "Indian School"
+  "name-en": "Indian School",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

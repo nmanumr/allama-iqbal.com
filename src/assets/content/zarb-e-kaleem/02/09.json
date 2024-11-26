@@ -88,7 +88,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "A poet must ne'er keep aloof from noisy fretful stream of life; the bard, who shuns the facts and truths, can't make the nation face its strife.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "A poet must ne'er keep aloof from noisy fretful stream of life; the bard, who shuns the facts and truths, can't make the nation face its strife.",
               "lang": "English"
             }
           ]
@@ -96,5 +96,6 @@
       ],
       "id": 1
     }
-  ]
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }

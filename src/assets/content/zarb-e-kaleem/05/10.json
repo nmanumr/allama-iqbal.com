@@ -52,7 +52,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "My Self deserves correction dire. To set it right and sound entire: The world harbours this evil hope; to hang me seeks a plank and rope.\n[Translated by Syed Akbar Ali Shah]",
+              "_content": "My Self deserves correction dire. To set it right and sound entire: The world harbours this evil hope; to hang me seeks a plank and rope.",
               "lang": "English"
             }
           ]
@@ -61,5 +61,6 @@
       "id": 1
     }
   ],
-  "name-en": "The East"
+  "name-en": "The East",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
 }
