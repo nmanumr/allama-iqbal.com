@@ -1,6 +1,11 @@
 import Link from "next/link";
-import indexItems from '../assets/index.json';
+import indexItems from "../assets/index.json";
 import { numberFormat } from "@/utils/intl";
+
+const languages: Record<string, string> = {
+  ur: "اردو",
+  fa: "فارسی",
+};
 
 export default async function Home() {
   return (
@@ -60,8 +65,18 @@ export default async function Home() {
       {/*</div>*/}
 
       {indexItems.map((book, index) => (
-        <Link className="block py-4 text-start text-lg leading-[2]" key={book.id} href={`/${book.id}`}>
-          <span className="pe-4">({numberFormat.format(index + 1)})</span> {book.name}
+        <Link
+          className="flex items-baseline gap-x-6 py-4 text-start text-lg leading-[2]"
+          key={book.id}
+          href={`/${book.id}`}
+        >
+          <div className="flex items-baseline">
+            <div className="pe-4">({numberFormat.format(index + 1)})</div>
+            {book.name}
+            <div className="text-gray-600 ms-4 text-sm">{languages[book.language] ? `(${languages[book.language]})` : null}</div>
+          </div>
+          <div className="flex-1 border-b border-dashed border-gray-300" />
+          <div>{book.year}</div>
         </Link>
       ))}
     </div>
