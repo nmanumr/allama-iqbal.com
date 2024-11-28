@@ -1,9 +1,9 @@
 {
   "id": "17",
   "name": "موسیولینن و قیصر ولیم",
-  "+@BookID": "07",
+  "bookId": "payam-e-mashriq",
   "bookName": "پیامِ مشرق",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "نقش فرنگ",
   "Para": [
     {

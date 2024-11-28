@@ -1,9 +1,9 @@
 {
   "id": "01",
   "name": "رواح رذیلہ کہ با ملک و ملت غداری کردہ و دوزح ایشان را قبول نکردہ",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "07",
+  "sectionId": "07",
   "sectionName": "فلک زحل",
   "name-en": "The Sphere Of Saturn: The vile spirits which have betrayed the nation and have been rejected by Hell",
   "name-ur": "ارواح رذیلہ جنہوں نے ملک و ملت سے غداری کی اور انہیں دوزح نے بھی قبول نہ کیا۔",

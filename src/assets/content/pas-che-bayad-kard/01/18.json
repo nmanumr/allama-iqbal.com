@@ -1,9 +1,9 @@
 {
   "id": "18",
   "name": "سفر بہ غزنی و زیارت مزار حکیم سنائی",
-  "+@BookID": "10",
+  "bookId": "pas-che-bayad-kard",
   "bookName": "پس چہ بائد کرد",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "پس چہ بائد کرد",
   "name-ur": "غزنی کا سفر اور حکیم سنائی کے مزار کی زیارت۔",
   "Para": [

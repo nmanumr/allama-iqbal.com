@@ -1,9 +1,9 @@
 {
   "id": "05",
   "name": "",
-  "+@BookID": "01",
+  "bookId": "bang-e-dara",
   "bookName": "بانگِ درا",
-  "+@SectionID": "3b",
+  "sectionId": "3b",
   "sectionName": "غزلیات 3",
   "Para": [
     {

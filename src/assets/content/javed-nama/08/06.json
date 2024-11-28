@@ -1,9 +1,9 @@
 {
   "id": "06",
   "name": "صحبت با شاعر ہندی برتری ہری",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "08",
+  "sectionId": "08",
   "sectionName": "آن سوی افلاک",
   "name-ur": "شاعر ہند برتری ہری سے ملاقات۔",
   "Para": [

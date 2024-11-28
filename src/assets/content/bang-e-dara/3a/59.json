@@ -1,9 +1,9 @@
 {
   "id": "59",
   "name": "جنگ یر موک کاایک واقعہ",
-  "+@BookID": "01",
+  "bookId": "bang-e-dara",
   "bookName": "بانگِ درا",
-  "+@SectionID": "3a",
+  "sectionId": "3a",
   "sectionName": "حصہ سوم",
   "Para": [
     {

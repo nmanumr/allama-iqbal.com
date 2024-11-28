@@ -1,9 +1,9 @@
 {
   "id": "07",
   "name": "ارض ملک خداست",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "فلک عطارد",
   "name-ur": "زمین اللہ کی ملکیت ہے۔",
   "Para": [

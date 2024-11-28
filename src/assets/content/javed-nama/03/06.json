@@ -1,9 +1,9 @@
 {
   "id": "06",
   "name": "حکومت الھی",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "فلک عطارد",
   "Para": [
     {

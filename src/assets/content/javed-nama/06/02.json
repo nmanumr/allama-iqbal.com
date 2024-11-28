@@ -1,9 +1,9 @@
 {
   "id": "02",
   "name": "نوای حلاج",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "06",
+  "sectionId": "06",
   "sectionName": "فلک مشتری",
   "name-ur": "منصور حلاج کی صدا",
   "Para": [

@@ -1,9 +1,9 @@
 {
   "id": "02",
   "name": "تمہید: در معنی ربط فرد و ملت",
-  "+@BookID": "06",
+  "bookId": "ramooz-e-bekhudi",
   "bookName": "رموزِ بیخودی",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "رموزِ بیخودی",
   "name-en": "Prelude: Of The Bond Between Individual And Community",
   "name-ur": "تمہید: ربط فرد و ملّت",

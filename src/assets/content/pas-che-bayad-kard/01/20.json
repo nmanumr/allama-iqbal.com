@@ -1,9 +1,9 @@
 {
   "id": "20",
   "name": "بر مزار سلطان محمود علیہ الرحمہ",
-  "+@BookID": "10",
+  "bookId": "pas-che-bayad-kard",
   "bookName": "پس چہ بائد کرد",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "پس چہ بائد کرد",
   "name-ur": "سلطان محمود علیہ الرحمہ کے مزار پر۔",
   "Para": [

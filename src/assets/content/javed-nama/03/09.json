@@ -1,9 +1,9 @@
 {
   "id": "09",
   "name": "پیغام افغانی با ملت روسیہ",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "فلک عطارد",
   "name-ur": "جمال الدین افغانی کا پیغام روسیوں کے نام۔",
   "Para": [

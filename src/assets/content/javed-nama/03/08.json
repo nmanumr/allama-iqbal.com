@@ -1,9 +1,9 @@
 {
   "id": "08",
   "name": "حکمت خیرکثیر است",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "فلک عطارد",
   "name-ur": "حکمت خیر کثیر ہے۔",
   "Para": [

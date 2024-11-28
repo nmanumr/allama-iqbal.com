@@ -1,9 +1,9 @@
 {
   "id": "01",
   "name": "رکن اول: توحید",
-  "+@BookID": "06",
+  "bookId": "ramooz-e-bekhudi",
   "bookName": "رموزِ بیخودی",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "ارکان اساسی ملیہ اسلامیہ",
   "name-ur": "ملّت مسلمہ کے بنیادی ارکان\nپہلا رکن: توحید",
   "Para": [

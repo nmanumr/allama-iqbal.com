@@ -1,10 +1,10 @@
 {
   "id": "11",
   "name": "در شرح اسرار اسمای علی مرتضی",
-  "+@BookID": "05",
+  "bookId": "asrar-e-khudi",
   "bookName": "اسرارِ خودی",
-  "+@SectionID": "01",
-  "sectionName": "اسرار خودی",
+  "sectionId": "01",
+  "sectionName": "",
   "name-en": "The Inner Meaning Of The Names Of Ali",
   "name-ur": "حضرت علی مرتضی (رضی اللہ) کے اسماء کے اسرار کی شرح۔",
   "Para": [

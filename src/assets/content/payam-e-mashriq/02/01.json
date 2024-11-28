@@ -1,9 +1,9 @@
 {
   "id": "01",
   "name": "گل نخستین",
-  "+@BookID": "07",
+  "bookId": "payam-e-mashriq",
   "bookName": "پیامِ مشرق",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "افکار",
   "name-en": "The First Rose",
   "credits": "English Translation by: M. Hadi Hussain",

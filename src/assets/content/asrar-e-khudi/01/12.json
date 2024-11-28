@@ -2,10 +2,10 @@
   "id": "12",
   "name": "حکایت حضرت سید مخدوم علی ھجویری",
   "name-en": "The Tale of Hazrat Syed Makhdoom Ali Hujwiri",
-  "+@BookID": "05",
+  "bookId": "asrar-e-khudi",
   "bookName": "اسرارِ خودی",
-  "+@SectionID": "01",
-  "sectionName": "اسرار خودی",
+  "sectionId": "01",
+  "sectionName": "",
   "Para": [
     {
       "name": "حکایت نوجوانی از مرو کہ پیش حضرت سید مخدوم علی ھجویری رحمة اﷲ علیہ آمدہ از ستم اعدا فریاد کرد",

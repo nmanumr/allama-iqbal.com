@@ -1,9 +1,9 @@
 {
   "id": "22",
   "name": "گل پژمردہ",
-  "+@BookID": "01",
+  "bookId": "bang-e-dara",
   "bookName": "بانگِ درا",
-  "+@SectionID": "1a",
+  "sectionId": "1a",
   "sectionName": "حصہ اول",
   "Para": [
     {

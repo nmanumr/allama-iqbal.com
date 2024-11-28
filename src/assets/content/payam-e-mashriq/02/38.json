@@ -1,9 +1,9 @@
 {
   "id": "38",
   "name": "نامۂ عالمگیر",
-  "+@BookID": "07",
+  "bookId": "payam-e-mashriq",
   "bookName": "پیامِ مشرق",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "افکار",
   "Para": [
     {

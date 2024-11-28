@@ -1,9 +1,9 @@
 {
   "id": "13",
   "name": "خطاب بہ جاوید سخنی بہ نژاد نو ",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "08",
+  "sectionId": "08",
   "sectionName": "آن سوی افلاک",
   "name-ur": "جاوید سے خطاب : نئی نسل سے چند باتیں۔",
   "Para": [

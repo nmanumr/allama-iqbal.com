@@ -1,9 +1,9 @@
 {
   "id": "59",
   "name": "چیونٹی اور عقاب",
-  "+@BookID": "02",
+  "bookId": "bal-e-jibreel",
   "bookName": "‫بالِ جبریل",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "منظومات",
   "Para": [
     {

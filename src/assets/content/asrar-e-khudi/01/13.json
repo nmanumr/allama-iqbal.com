@@ -1,10 +1,10 @@
 {
   "id": "13",
   "name": "حکایت طایری کہ از تشنگی بیتاب بود",
-  "+@BookID": "05",
+  "bookId": "asrar-e-khudi",
   "bookName": "اسرارِ خودی",
-  "+@SectionID": "01",
-  "sectionName": "اسرار خودی",
+  "sectionId": "01",
+  "sectionName": "",
   "name-ur": "پرندے کی کہانی جو پیاس سے بیتاب تھا۔",
   "Para": [
     {

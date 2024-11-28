@@ -1,9 +1,9 @@
 {
   "id": "05",
   "name": "رکن دوم : رسالت",
-  "+@BookID": "06",
+  "bookId": "ramooz-e-bekhudi",
   "bookName": "رموزِ بیخودی",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "ارکان اساسی ملیہ اسلامیہ",
   "Para": [
     {

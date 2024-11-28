@@ -1,9 +1,9 @@
 {
   "id": "04",
   "name": "صوفی و ملا",
-  "+@BookID": "11",
+  "bookId": "armaghan-e-hijaz-2",
   "bookName": "ارمغانِ حجاز",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "حضور ملت",
   "Para": [
     {

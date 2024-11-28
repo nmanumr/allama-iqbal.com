@@ -1,9 +1,9 @@
 {
   "id": "33",
   "name": "حکمت فرنگ",
-  "+@BookID": "07",
+  "bookId": "payam-e-mashriq",
   "bookName": "پیامِ مشرق",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "افکار",
   "Para": [
     {

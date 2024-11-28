@@ -1,9 +1,9 @@
 {
   "id": "03",
   "name": "نوای غالب",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "06",
+  "sectionId": "06",
   "sectionName": "فلک مشتری",
   "Para": [
     {

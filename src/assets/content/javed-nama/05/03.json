@@ -1,9 +1,9 @@
 {
   "id": "03",
   "name": "گردش در شہر مرغدین",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "05",
+  "sectionId": "05",
   "sectionName": "فلک مریخ",
   "name-ur": "شہر مرغدین کی سیر",
   "Para": [

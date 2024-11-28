@@ -1,10 +1,10 @@
 {
   "id": "17",
   "name": "اندرز میر نجات نقشبند المعروف بہ بابای صحرائی کہ برای مسلمانان ہندوستان رقم فرمودہ است",
-  "+@BookID": "05",
+  "bookId": "asrar-e-khudi",
   "bookName": "اسرارِ خودی",
-  "+@SectionID": "01",
-  "sectionName": "اسرار خودی",
+  "sectionId": "01",
+  "sectionName": "",
   "name-en": "The advice of Mir Najat Naqshband, known as Baba-e-Sahrai, written for the Muslims of India.",
   "name-ur": "میر نجات نقشبندی المعروف بہ بابائے صحرائی کی نصیحت جو انہوں نے مسلمانان ہند کے لیے رقم فرمائی۔",
   "Para": [

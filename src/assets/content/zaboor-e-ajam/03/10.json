@@ -1,9 +1,9 @@
 {
   "id": "10",
   "name": "سوال نہم",
-  "+@BookID": "08",
+  "bookId": "zaboor-e-ajam",
   "bookName": "زبورِعجم",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "گلشن راز جدید",
   "Para": [
     {

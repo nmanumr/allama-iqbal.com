@@ -1,9 +1,9 @@
 {
   "id": "01",
   "name": "اہل مریخ",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "05",
+  "sectionId": "05",
   "sectionName": "فلک مریخ",
   "Para": [
     {

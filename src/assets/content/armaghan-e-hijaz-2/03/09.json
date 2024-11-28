@@ -1,9 +1,9 @@
 {
   "id": "09",
   "name": "تو چہ دانی کہ درین گرد سواری باشد",
-  "+@BookID": "11",
+  "bookId": "armaghan-e-hijaz-2",
   "bookName": "ارمغانِ حجاز",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "حضور ملت",
   "Para": [
     {

@@ -1,9 +1,9 @@
 {
   "id": "15",
   "name": "خطاب بہ اقوام سرحد",
-  "+@BookID": "10",
+  "bookId": "pas-che-bayad-kard",
   "bookName": "پس چہ بائد کرد",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "پس چہ بائد کرد",
   "name-ur": "سرحد کے قبائل سے خطاب",
   "Para": [

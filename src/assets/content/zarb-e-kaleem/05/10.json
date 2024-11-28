@@ -1,9 +1,9 @@
 {
   "id": "10",
   "name": "مشرق",
-  "+@BookID": "03",
+  "bookId": "zarb-e-kaleem",
   "bookName": "ضربِ کلیم",
-  "+@SectionID": "05",
+  "sectionId": "05",
   "sectionName": "سیاست مشرق و مغرب",
   "Para": [
     {

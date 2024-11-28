@@ -2,10 +2,10 @@
   "id": "09",
   "name": "در حقیقت شعر و اصلاح ادبیات اسلامیہ",
   "name-ur": "شعر کی حقیقت اور اسلامی ادب کی اصلاح کے بیان میں۔",
-  "+@BookID": "05",
+  "bookId": "asrar-e-khudi",
   "bookName": "اسرارِ خودی",
-  "+@SectionID": "01",
-  "sectionName": "اسرار خودی",
+  "sectionId": "01",
+  "sectionName": "",
   "Para": [
     {
       "Verse": [

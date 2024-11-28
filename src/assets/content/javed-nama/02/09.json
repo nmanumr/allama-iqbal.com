@@ -1,9 +1,9 @@
 {
   "id": "09",
   "name": "طاسین مسیح رویای حکیم طالسطایی",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "فلک قمر",
   "name-en": "TASIN OF CHRIST: Vision of the sage Tolstoy",
   "Para": [

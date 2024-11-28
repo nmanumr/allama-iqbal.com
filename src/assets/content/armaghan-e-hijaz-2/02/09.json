@@ -1,9 +1,9 @@
 {
   "id": "09",
   "name": "",
-  "+@BookID": "11",
+  "bookId": "armaghan-e-hijaz-2",
   "bookName": "ارمغانِ حجاز",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "حضور رسالت",
   "Para": [
     {

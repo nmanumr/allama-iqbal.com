@@ -1,9 +1,9 @@
 {
   "id": "27",
   "name": "ستارے کاپیغام",
-  "+@BookID": "02",
+  "bookId": "bal-e-jibreel",
   "bookName": "‫بالِ جبریل",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "منظومات",
   "Para": [
     {

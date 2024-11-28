@@ -1,9 +1,9 @@
 {
   "id": "48",
   "name": "خطاب بہ مصطفی کمال پاشا",
-  "+@BookID": "07",
+  "bookId": "payam-e-mashriq",
   "bookName": "پیامِ مشرق",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "افکار",
   "Para": [
     {

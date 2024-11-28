@@ -1,9 +1,9 @@
 {
   "id": "19",
   "name": "",
-  "+@BookID": "08",
+  "bookId": "zaboor-e-ajam",
   "bookName": "زبورِعجم",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "حصہ اول",
   "Para": [
     {

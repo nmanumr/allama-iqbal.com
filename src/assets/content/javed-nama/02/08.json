@@ -1,9 +1,9 @@
 {
   "id": "08",
   "name": "طاسین زرتشت آزمایش کردن اہرمن زرتشت را",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "فلک قمر",
   "name-ur": "اہریمن (شیطان) کا زرتشت کی آزمائش کرنا۔",
   "name-en": "TASIN OF ZOROASTER: Ahriman Tempts Zoroaster",

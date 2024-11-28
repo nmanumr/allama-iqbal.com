@@ -1,9 +1,9 @@
 {
   "id": "12",
   "name": "حضور",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "08",
+  "sectionId": "08",
   "sectionName": "آن سوی افلاک",
   "Para": [
     {

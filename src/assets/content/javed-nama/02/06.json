@@ -1,9 +1,9 @@
 {
   "id": "06",
   "name": "حرکت بہ وادی یرغمید کہ ملائکہ او را وادی طواسین می نامند",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "فلک قمر",
   "name-en": "Departure For The Valley Of Yarghamid, Called By The Angels The Valley Of Tawasin",
   "name-ur": "وادی یرغمید کی طرف جانا جسے ملائکہ وادی طواسین کہتے ہیں۔",

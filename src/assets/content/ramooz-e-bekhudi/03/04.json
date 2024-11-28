@@ -1,9 +1,9 @@
 {
   "id": "04",
   "name": "ولم یکن لہ کفواً احد",
-  "+@BookID": "06",
+  "bookId": "ramooz-e-bekhudi",
   "bookName": "رموزِ بیخودی",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "مثنوی مطالب خلاصۂ در تفسیر اخلاص",
   "Para": [
     {

@@ -1,9 +1,9 @@
 {
   "id": "02",
   "name": "اﷲالصمد",
-  "+@BookID": "06",
+  "bookId": "ramooz-e-bekhudi",
   "bookName": "رموزِ بیخودی",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "مثنوی مطالب خلاصۂ در تفسیر اخلاص",
   "Para": [
     {

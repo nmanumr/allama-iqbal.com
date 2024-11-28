@@ -1,9 +1,9 @@
 {
   "id": "30",
   "name": "اگر خواہی حیات اندر خطر زی",
-  "+@BookID": "07",
+  "bookId": "payam-e-mashriq",
   "bookName": "پیامِ مشرق",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "افکار",
   "Para": [
     {

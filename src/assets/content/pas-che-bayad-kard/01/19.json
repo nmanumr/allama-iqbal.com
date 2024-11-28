@@ -1,9 +1,9 @@
 {
   "id": "19",
   "name": "روح حکیم سنائی از بہشت برین جواب میدہد",
-  "+@BookID": "10",
+  "bookId": "pas-che-bayad-kard",
   "bookName": "پس چہ بائد کرد",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "پس چہ بائد کرد",
   "name-ur": "حکیم سنائی کی روح بہشت بریں سے جواب دیتی ہے۔",
   "Para": [

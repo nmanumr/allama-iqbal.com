@@ -1,9 +1,9 @@
 {
   "id": "21",
   "name": "خطاب بہ انگلستان",
-  "+@BookID": "07",
+  "bookId": "payam-e-mashriq",
   "bookName": "پیامِ مشرق",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "نقش فرنگ",
   "Para": [
     {

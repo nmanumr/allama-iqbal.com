@@ -1,9 +1,9 @@
 {
   "id": "21",
   "name": "فرشتے آدم کو جنت سے رخصت کرتے ہیں",
-  "+@BookID": "02",
+  "bookId": "bal-e-jibreel",
   "bookName": "‫بالِ جبریل",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "منظومات",
   "Para": [
     {

@@ -1,9 +1,9 @@
 {
   "id": "46",
   "name": "بہ مبلغ اسلام در فرنگستان",
-  "+@BookID": "07",
+  "bookId": "payam-e-mashriq",
   "bookName": "پیامِ مشرق",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "افکار",
   "name-ur": "فرنگستان میں اسلام کے مبلغ سے۔",
   "Para": [

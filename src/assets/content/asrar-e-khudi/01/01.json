@@ -1,10 +1,10 @@
 {
   "id": "01",
   "name": "تمہید",
-  "+@BookID": "05",
+  "bookId": "asrar-e-khudi",
   "bookName": "اسرارِ خودی",
-  "+@SectionID": "01",
-  "sectionName": "اسرار خودی",
+  "sectionId": "01",
+  "sectionName": "",
   "credits": "English Translation by: Reynold A. Nicholson",
   "name-en": "Prologue",
   "Para": [

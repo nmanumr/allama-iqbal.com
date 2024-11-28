@@ -1,10 +1,10 @@
 {
   "id": "15",
   "name": "حکایت شیخ و برہمن و مکالمہ گنگ و ہمالہ در معنی اینکہ تسلسل حیات ملیہ از محکم گرفتن روایات مخصوصہ ملیہ می باشد",
-  "+@BookID": "05",
+  "bookId": "asrar-e-khudi",
   "bookName": "اسرارِ خودی",
-  "+@SectionID": "01",
-  "sectionName": "اسرار خودی",
+  "sectionId": "01",
+  "sectionName": "",
   "name-en": "Story of the Sheikh and the Brahmin, followed by a conversation between Ganges and Himalayas to the effect that the continuation of social life depends on firm attachment to the characteristic traditions of the community\n\n",
   "name-ur": "شیخ و برہمن کی حکایت اور گنگا و ہمالہ کا مکالہ اس مطلب کی وضاحت کے لیے کہ ملت کی زندگی کے تسلسل کا دار و مدار اپنی مخصوص روایات سے جمے رہنے میں ہے۔",
   "Para": [

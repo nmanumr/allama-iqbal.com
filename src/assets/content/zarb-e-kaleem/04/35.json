@@ -1,9 +1,9 @@
 {
   "id": "35",
   "name": "مرد بزرگ",
-  "+@BookID": "03",
+  "bookId": "zarb-e-kaleem",
   "bookName": "ضربِ کلیم",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "ادبیات فنون لطیفہ",
   "Para": [
     {

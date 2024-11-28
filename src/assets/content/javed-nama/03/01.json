@@ -1,9 +1,9 @@
 {
   "id": "01",
   "name": "زیارت ارواح جمال الدین افغانی و سعید حلیم پاشا",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "فلک عطارد",
   "name-en": "The Sphere Of Mercury: Visitation to the spirits of Jamal al-Din Afghani and Sa‘id Halim Pasha",
   "name-ur": "اروح جمال الدین افغانی و سعید حلیم پاشا کی زیارت۔",

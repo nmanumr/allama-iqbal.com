@@ -1,9 +1,9 @@
 {
   "id": "05",
   "name": "ایک فلسفہ زدہ سید زادے کے نام",
-  "+@BookID": "03",
+  "bookId": "zarb-e-kaleem",
   "bookName": "ضربِ کلیم",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "اسلام اور مسلمان",
   "Para": [
     {

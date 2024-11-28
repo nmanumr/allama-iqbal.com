@@ -1,9 +1,9 @@
 {
   "id": "24",
   "name": "سسلي جزيرہ صقليہ",
-  "+@BookID": "01",
+  "bookId": "bang-e-dara",
   "bookName": "بانگِ درا",
-  "+@SectionID": "2a",
+  "sectionId": "2a",
   "sectionName": "حصہ دوم",
   "Para": [
     {

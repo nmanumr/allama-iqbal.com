@@ -1,10 +1,10 @@
 {
   "id": "18",
   "name": "الوقت سیف",
-  "+@BookID": "05",
+  "bookId": "asrar-e-khudi",
   "bookName": "اسرارِ خودی",
-  "+@SectionID": "01",
-  "sectionName": "اسرار خودی",
+  "sectionId": "01",
+  "sectionName": "",
   "name-ur": "وقت تلوار ہے۔",
   "Para": [
     {

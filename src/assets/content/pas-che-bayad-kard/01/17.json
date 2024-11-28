@@ -1,9 +1,9 @@
 {
   "id": "17",
   "name": "بر مزار شہنشاہ بابر خلد آشیانی",
-  "+@BookID": "10",
+  "bookId": "pas-che-bayad-kard",
   "bookName": "پس چہ بائد کرد",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "پس چہ بائد کرد",
   "name-ur": "شہنشاہ بابر خلد آشیانی کے مزار پر۔",
   "Para": [

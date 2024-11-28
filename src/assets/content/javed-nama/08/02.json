@@ -1,9 +1,9 @@
 {
   "id": "02",
   "name": "حرکت بجنت الفردوس",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "08",
+  "sectionId": "08",
   "sectionName": "آن سوی افلاک",
   "name-ur": "جنت الفردوس کی طرف روانگی۔",
   "Para": [

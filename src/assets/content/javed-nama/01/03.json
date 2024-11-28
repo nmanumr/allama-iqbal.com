@@ -1,9 +1,9 @@
 {
   "id": "03",
   "name": "تمہید آسمانی نخستین روز آفرینش ٓنکوہش می کند آسمان زمین را",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "جاوید نامہ",
   "name-ur": "آفرینش (کائنات) کے اوّلین روز آسمان کا زمین کو ملامت کرنا",
   "name-en": "On the first day of creation Heaven rebukes Earth",

@@ -1,9 +1,9 @@
 {
   "id": "20",
   "name": "خرابات فرنگ",
-  "+@BookID": "07",
+  "bookId": "payam-e-mashriq",
   "bookName": "پیامِ مشرق",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "نقش فرنگ",
   "Para": [
     {

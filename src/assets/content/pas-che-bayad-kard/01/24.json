@@ -1,9 +1,9 @@
 {
   "id": "24",
   "name": "خطاب بہ پادشاہ اسلام اعلیحضرت ظاہر شاہ",
-  "+@BookID": "10",
+  "bookId": "pas-che-bayad-kard",
   "bookName": "پس چہ بائد کرد",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "پس چہ بائد کرد",
   "name-ur": "پادشاہ اسلام ظاہر شاہ سے خطاب۔",
   "Para": [

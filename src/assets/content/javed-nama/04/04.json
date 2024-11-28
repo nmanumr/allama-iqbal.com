@@ -1,9 +1,9 @@
 {
   "id": "04",
   "name": "ارواح فرعون و کشنر را",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "فلک زہرہ",
   "name-ur": "دریائے زہرہ کے اندر جانا اور فرعون و کچنر کی ارواح دیکھنا۔",
   "Para": [

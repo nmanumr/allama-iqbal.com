@@ -1,9 +1,9 @@
 {
   "id": "03",
   "name": "در معنی اینکہ ملت از اختلاط افراد پیدا میشود و تکمیل تربیت او از نبوت است",
-  "+@BookID": "06",
+  "bookId": "ramooz-e-bekhudi",
   "bookName": "رموزِ بیخودی",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "رموزِ بیخودی",
   "name-en": "That The Community Is Made Up Of The Mingling Of Individuals, And Owes The Perfecting Of Its Education To Prophethood",
   "name-ur": "اس مطلب کی وضاحت کے لیے کہ ملّت افراد کے اختلاط سے وجود میں آتی ہے اور اس کی تربیّت کی تکمیل نبوّت سے ہوتی ہے۔",

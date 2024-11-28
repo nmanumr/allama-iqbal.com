@@ -1,9 +1,9 @@
 {
   "id": "01",
   "name": "ارواح جلیلۂ حلاج و غالب و قرةالعین طاہرہ کہ بہ نشیمن بہشتی نگردیدند و بگردش جاودان گراییدند",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "06",
+  "sectionId": "06",
   "sectionName": "فلک مشتری",
   "name-en": "The Sphere Of Jupiter: The noble spirits of Hallaj, Ghalib, and Qurrat al-Ain Tahira who disdained to dwell in Paradise",
   "name-ur": "حلاج ، غالب اور قرتہ العین طاہرہ کی ارواح جلیلہ جنہوں نے بہشت میں رہنے کی بجائے گردش جاودان کو پسند کیا",

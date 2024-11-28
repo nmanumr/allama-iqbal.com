@@ -1,9 +1,9 @@
 {
   "id": "17",
   "name": "نہنگ با بچۂ خویش",
-  "+@BookID": "11",
+  "bookId": "armaghan-e-hijaz-2",
   "bookName": "ارمغانِ حجاز",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "حضور ملت",
   "Para": [
     {

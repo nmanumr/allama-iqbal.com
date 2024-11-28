@@ -1,10 +1,10 @@
 {
   "id": "10",
   "name": "در بیان اینکہ تربیت خودی را سہ مراحل است  \nمرحلۂ اول را اطاعت و مرحلۂ دوم را ضبط نفس، و مرحلہ سوم را نیابت الھی نامیدہ اند",
-  "+@BookID": "05",
+  "bookId": "asrar-e-khudi",
   "bookName": "اسرارِ خودی",
-  "+@SectionID": "01",
-  "sectionName": "اسرار خودی",
+  "sectionId": "01",
+  "sectionName": "",
   "name-en": "Showing that the education of the self has three stages: Obedience, Self-Control, and Divine Vicegerence",
   "name-ur": "اس مطلب کے بیان میں کہ خودی کی تربیت کے تین مرحلے ہیں؛\nپہلا مرحلہ اطاعت ، دوسرا ضبط نفس اور تیسرے کو نیابت الہی کہا جاتا ہے۔",
   "Para": [

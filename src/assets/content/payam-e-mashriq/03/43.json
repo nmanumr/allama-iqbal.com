@@ -1,9 +1,9 @@
 {
   "id": "43",
   "name": "",
-  "+@BookID": "07",
+  "bookId": "payam-e-mashriq",
   "bookName": "پیامِ مشرق",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "می باقے",
   "Para": [
     {

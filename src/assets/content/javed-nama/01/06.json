@@ -1,9 +1,9 @@
 {
   "id": "06",
   "name": "زروان کہ روح زمان و مکان است مسافر را بہ سیاحت عالم علوی می برد",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "جاوید نامہ",
   "name-en": "Zarvan: The Spirit Of Time And Space, Conducts The Traveller On His Journey To The Supernal World",
   "name-ur": "زروان جو روح زمان و مکان ہے مسافر (اقبال) کو عالم بالا کی سیاحت کے لیے ساتھ لے جاتا ہے۔",

@@ -1,9 +1,9 @@
 {
   "id": "02",
   "name": "گل رنگیں",
-  "+@BookID": "01",
+  "bookId": "bang-e-dara",
   "bookName": "بانگِ درا",
-  "+@SectionID": "1a",
+  "sectionId": "1a",
   "sectionName": "حصہ اول",
   "Para": [
     {

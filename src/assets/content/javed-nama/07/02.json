@@ -1,9 +1,9 @@
 {
   "id": "02",
   "name": "قلزم خونین",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "07",
+  "sectionId": "07",
   "sectionName": "فلک زحل",
   "name-ur": "خونیں سمندر",
   "Para": [

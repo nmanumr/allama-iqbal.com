@@ -1,9 +1,9 @@
 {
   "id": "22",
   "name": "روح ارضی آدم کا استقبال کرتی ہے",
-  "+@BookID": "02",
+  "bookId": "bal-e-jibreel",
   "bookName": "‫بالِ جبریل",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "منظومات",
   "Para": [
     {

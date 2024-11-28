@@ -1,9 +1,9 @@
 {
   "id": "01",
   "name": "فلک زہرہ",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "فلک زہرہ",
   "Para": [
     {

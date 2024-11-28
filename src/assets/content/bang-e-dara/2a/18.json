@@ -1,9 +1,9 @@
 {
   "id": "18",
   "name": "جلوہء حسن",
-  "+@BookID": "01",
+  "bookId": "bang-e-dara",
   "bookName": "بانگِ درا",
-  "+@SectionID": "2a",
+  "sectionId": "2a",
   "sectionName": "حصہ دوم",
   "Para": [
     {

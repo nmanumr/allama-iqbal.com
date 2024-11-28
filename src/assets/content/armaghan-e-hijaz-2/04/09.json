@@ -1,9 +1,9 @@
 {
   "id": "09",
   "name": "خودی",
-  "+@BookID": "11",
+  "bookId": "armaghan-e-hijaz-2",
   "bookName": "ارمغانِ حجاز",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "حضور عالم انسانیت",
   "Para": [
     {

@@ -1,9 +1,9 @@
 {
   "id": "06",
   "name": "مغربی تہذیب",
-  "+@BookID": "03",
+  "bookId": "zarb-e-kaleem",
   "bookName": "ضربِ کلیم",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "تعلیم و تربیت",
   "Para": [
     {

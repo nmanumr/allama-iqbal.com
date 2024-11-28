@@ -1,9 +1,9 @@
 {
   "id": "17",
   "name": "خوب و زشت",
-  "+@BookID": "03",
+  "bookId": "zarb-e-kaleem",
   "bookName": "ضربِ کلیم",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "تعلیم و تربیت",
   "Para": [
     {

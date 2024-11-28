@@ -1,9 +1,9 @@
 {
   "id": "05",
   "name": "فریاد یکی از زورق نشینان قلزم خونین",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "07",
+  "sectionId": "07",
   "sectionName": "فلک زحل",
   "Para": [
     {

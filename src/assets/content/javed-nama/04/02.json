@@ -1,9 +1,9 @@
 {
   "id": "02",
   "name": "مجلس خدایان اقوام قدیم",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "فلک زہرہ",
   "name-ur": "گذشتہ اقوام کے بتوں کی مجلس۔",
   "Para": [

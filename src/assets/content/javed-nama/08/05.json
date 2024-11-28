@@ -1,9 +1,9 @@
 {
   "id": "05",
   "name": "در حضور شاہ ہمدان",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "08",
+  "sectionId": "08",
   "sectionName": "آن سوی افلاک",
   "name-ur": "شاہ ہمدان کے حضور",
   "Para": [

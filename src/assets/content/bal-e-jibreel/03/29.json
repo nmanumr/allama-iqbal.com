@@ -1,9 +1,9 @@
 {
   "id": "29",
   "name": "",
-  "+@BookID": "02",
+  "bookId": "bal-e-jibreel",
   "bookName": "‫بالِ جبریل",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "رباعیات",
   "Para": [
     {

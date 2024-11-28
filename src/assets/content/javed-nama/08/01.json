@@ -1,9 +1,9 @@
 {
   "id": "01",
   "name": "مقام حکیم آلمانی نیچہ",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "08",
+  "sectionId": "08",
   "sectionName": "آن سوی افلاک",
   "name-ur": "افلاک کے اس طرف : جرمن فلسفی نطشے کا مقام۔",
   "name-en": "Beyond The Spheres: The Station Of The German Philosopher Nitezshe",

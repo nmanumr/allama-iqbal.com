@@ -1,9 +1,9 @@
 {
   "id": "21",
   "name": "مناجات مرد شوریدہ در ویرانۂ غزنے",
-  "+@BookID": "10",
+  "bookId": "pas-che-bayad-kard",
   "bookName": "پس چہ بائد کرد",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "پس چہ بائد کرد",
   "name-ur": "ویرانہء غزنی میں مرد شوریدہ کی مناجات۔",
   "Para": [

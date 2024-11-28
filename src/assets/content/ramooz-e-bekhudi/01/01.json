@@ -1,9 +1,9 @@
 {
   "id": "01",
   "name": "پیشکش بحضور ملت اسلامیہ",
-  "+@BookID": "06",
+  "bookId": "ramooz-e-bekhudi",
   "bookName": "رموزِ بیخودی",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "رموزِ بیخودی",
   "name-ur": "ملّت اسلامیہ کے حضور میں پیشکش۔",
   "Para": [

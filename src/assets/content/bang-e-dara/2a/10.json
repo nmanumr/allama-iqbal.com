@@ -1,9 +1,9 @@
 {
   "id": "10",
   "name": "چاند اور تارے",
-  "+@BookID": "01",
+  "bookId": "bang-e-dara",
   "bookName": "بانگِ درا",
-  "+@SectionID": "2a",
+  "sectionId": "2a",
   "sectionName": "حصہ دوم",
   "Para": [
     {

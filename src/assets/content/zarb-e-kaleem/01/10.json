@@ -1,9 +1,9 @@
 {
   "id": "10",
   "name": "شکر و شکایت",
-  "+@BookID": "03",
+  "bookId": "zarb-e-kaleem",
   "bookName": "ضربِ کلیم",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "اسلام اور مسلمان",
   "Para": [
     {

@@ -1,9 +1,9 @@
 {
   "id": "07",
   "name": "عورت کی حفاظت",
-  "+@BookID": "03",
+  "bookId": "zarb-e-kaleem",
   "bookName": "ضربِ کلیم",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "عورت",
   "Para": [
     {

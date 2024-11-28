@@ -1,10 +1,10 @@
 {
   "id": "14",
   "name": "حکایت الماس و زغال",
-  "+@BookID": "05",
+  "bookId": "asrar-e-khudi",
   "bookName": "اسرارِ خودی",
-  "+@SectionID": "01",
-  "sectionName": "اسرار خودی",
+  "sectionId": "01",
+  "sectionName": "",
   "name-ur": "الماس اور کوئلے کی حکایت۔",
   "Para": [
     {

@@ -56,11 +56,11 @@ export function Stanza({ para }: { para: (typeof PoemType)["Para"][0] }) {
               )}
               id={`cplt${id}`}
             >
-              <div className="relative col-span-2 flex flex-col justify-center ps-8 font-mehr-nastaliq">
+              <div className="relative col-span-2 flex flex-col justify-center sm:ps-8 font-mehr-nastaliq">
                 {id && (
                   <Link
                     href={`#cplt${id}`}
-                    className="absolute inset-y-0 -start-2 flex items-center font-sans text-xl font-black text-gray-200 transition hover:text-gray-400"
+                    className="absolute hidden sm:flex inset-y-0 -start-2 items-center font-sans text-xl font-black text-gray-200 transition hover:text-gray-400"
                   >
                     {id}
                   </Link>
@@ -115,7 +115,7 @@ function Verse({ content }: { content: string }) {
         .filter(Boolean)
         .map((word, index) => [word, index] as const)
         .map(([word, i]) => (
-          <div key={i} className="inline-block px-0.5">
+          <div key={i} className="inline-block px-px sm:px-0.5">
             {word}&nbsp;
           </div>
         ))}

@@ -1,9 +1,9 @@
 {
   "id": "05",
   "name": "تمہید زمینی: آشکارا می شود روح حضرت رومی و شرح میدہد اسرار معراج را",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "جاوید نامہ",
   "name-en": "Prelude On Earth: The Spirit of Rumi appears and explains the mystery of the Ascension",
   "name-ur": "تمہید زمینی\nمولانا رومی (رحمتہ ) کی روح ظاہر ہوتی ہے اور معراج کے اسرار کی شرح بیان کرتی ہے",

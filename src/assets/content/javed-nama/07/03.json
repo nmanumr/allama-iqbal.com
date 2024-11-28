@@ -1,9 +1,9 @@
 {
   "id": "03",
   "name": "آشکارا می شود روح ہندوستان",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "07",
+  "sectionId": "07",
   "sectionName": "فلک زحل",
   "name-ur": "روح ہندوستان ظاہر ہوتی ہے۔",
   "Para": [

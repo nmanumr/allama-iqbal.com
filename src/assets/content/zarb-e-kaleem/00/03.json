@@ -1,9 +1,9 @@
 {
   "id": "03",
   "name": "تمہید",
-  "+@BookID": "03",
+  "bookId": "zarb-e-kaleem",
   "bookName": "ضربِ کلیم",
-  "+@SectionID": "00",
+  "sectionId": "00",
   "sectionName": "ابتدا",
   "Para": [
     {

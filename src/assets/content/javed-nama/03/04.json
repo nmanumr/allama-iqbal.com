@@ -1,9 +1,9 @@
 {
   "id": "04",
   "name": "شرق و غرب",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "03",
+  "sectionId": "03",
   "sectionName": "فلک عطارد",
   "Para": [
     {

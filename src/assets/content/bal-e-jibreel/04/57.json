@@ -1,9 +1,9 @@
 {
   "id": "57",
   "name": "آزادی افکار",
-  "+@BookID": "02",
+  "bookId": "bal-e-jibreel",
   "bookName": "‫بالِ جبریل",
-  "+@SectionID": "04",
+  "sectionId": "04",
   "sectionName": "منظومات",
   "Para": [
     {

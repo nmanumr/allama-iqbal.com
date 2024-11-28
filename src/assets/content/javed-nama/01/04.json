@@ -1,9 +1,9 @@
 {
   "id": "04",
   "name": "نغمہ ملائک",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "جاوید نامہ",
   "Para": [
     {

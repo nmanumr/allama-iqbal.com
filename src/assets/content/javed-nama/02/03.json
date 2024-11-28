@@ -1,9 +1,9 @@
 {
   "id": "03",
   "name": "نہ تا سخن از عارف ہندی",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "02",
+  "sectionId": "02",
   "sectionName": "فلک قمر",
   "name-ur": "ہندی رشی کی نو باتیں (ہندو فلسفہ)۔",
   "Para": [

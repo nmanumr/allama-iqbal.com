@@ -1,9 +1,9 @@
 {
   "id": "02",
   "name": "برآمدن انجم شناس مریخی از رصدگاہ",
-  "+@BookID": "09",
+  "bookId": "javed-nama",
   "bookName": "جاوید نامہ",
-  "+@SectionID": "05",
+  "sectionId": "05",
   "sectionName": "فلک مریخ",
   "name-ur": "رسدگاہ سے ایک مریخی عالم فلکیات کا باہر آنا۔",
   "Para": [

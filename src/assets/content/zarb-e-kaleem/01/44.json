@@ -1,9 +1,9 @@
 {
   "id": "44",
   "name": "اے روح محمد",
-  "+@BookID": "03",
+  "bookId": "zarb-e-kaleem",
   "bookName": "ضربِ کلیم",
-  "+@SectionID": "01",
+  "sectionId": "01",
   "sectionName": "اسلام اور مسلمان",
   "Para": [
     {
