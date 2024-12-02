@@ -31,7 +31,7 @@ export default function SearchBox() {
     <div className="relative">
       {editor?.isInitialized && (
         <div className="absolute inset-y-0 start-3 flex items-center">
-          <MagnifyingGlassIcon className="size-5 text-gray-700" />
+          <MagnifyingGlassIcon className="size-5 text-gray-600" strokeWidth={1.7} />
         </div>
       )}
 

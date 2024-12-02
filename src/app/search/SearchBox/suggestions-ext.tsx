@@ -14,6 +14,16 @@ const fetcher = getTransliterationFetcher();
 
 export const WordSuggestion = Extension.create<SuggestionOptions>({
   name: "transliteration-suggestion",
+
+  onBlur({ event }) {
+    const relatedTarget = event.relatedTarget as HTMLElement | null;
+    const isSuggestionsFocused = document.querySelector('[data-suggestions-el]')?.contains(relatedTarget);
+
+    if (!isSuggestionsFocused) {
+      getDefaultStore().set(suggestionProps$, null);
+    }
+  },
+
   addOptions() {
     return {
       suggestion: {

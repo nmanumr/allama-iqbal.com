@@ -1,62 +1,48 @@
-import { escapeForRegEx } from "@tiptap/core";
 import type { SuggestionMatch, Trigger } from "@tiptap/suggestion";
+import type { ResolvedPos } from "@tiptap/pm/model";
 
 export function findSuggestionMatch(config: Trigger): SuggestionMatch {
-  const {
-    char, allowSpaces, allowedPrefixes, startOfLine, $position,
-  } = config
+  const { $position } = config;
 
-  const escapedChar = escapeForRegEx(char)
-  const suffix = new RegExp(`\\s${escapedChar}$`)
-  const prefix = startOfLine ? '^' : ''
-  const regexp = allowSpaces
-    ? new RegExp(`${prefix}${escapedChar}.*?(?=\\s${escapedChar}|$)`, 'gm')
-    : new RegExp(`${prefix}(?:^)?${escapedChar}[^\\s${escapedChar}]*`, 'gm')
-
-  const text = $position.nodeBefore?.isText && ` ${$position.nodeBefore.text}`;
-
-  if (!text) {
-    return null
+  const word = getWordAtCursor($position);
+  if (!word) {
+    return null;
   }
 
-  const textFrom = $position.pos - text.length
-  const match = Array.from(text.matchAll(regexp)).pop()
+  return {
+    range: {
+      from: word.from,
+      to: word.to,
+    },
+    query: word.word,
+    text: word.word,
+  };
+}
 
-  if (!match || match.input === undefined || match.index === undefined) {
-    return null
+function getWordAtCursor($position: ResolvedPos) {
+  const textBefore = $position.nodeBefore ? $position.nodeBefore.text : "";
+  const textAfter = $position.nodeAfter ? $position.nodeAfter.text : "";
+
+  // Get the offset of the cursor within the current node
+  const offsetInNode = $position.parentOffset;
+
+  // Extract the word fragment before the cursor
+  const beforeFragment = textBefore?.slice(0, offsetInNode).match(/\b\w+$/)?.[0] || "";
+
+  // Extract the word fragment after the cursor
+  const afterFragment = textAfter?.match(/^\w+\b/)?.[0] || "";
+
+  // Combine both fragments to get the complete word
+  const from = Math.max(textBefore?.lastIndexOf(beforeFragment) ?? 0, 0);
+  const word = beforeFragment + afterFragment;
+
+  if (!word) {
+    return null;
   }
 
-  // JavaScript doesn't have lookbehinds. This hacks a check that first character
-  // is a space or the start of the line
-  const matchPrefix = match.input.slice(Math.max(0, match.index - 1), match.index)
-  const matchPrefixIsAllowed = new RegExp(`^[${allowedPrefixes?.join('')}\0]?$`).test(matchPrefix)
-
-  if (allowedPrefixes !== null && !matchPrefixIsAllowed) {
-    return null
-  }
-
-  // The absolute position of the match in the document
-  const from = textFrom + match.index
-  let to = from + match[0].length
-
-  // Edge case handling; if spaces are allowed and we're directly in between
-  // two triggers
-  if (allowSpaces && suffix.test(text.slice(to - 1, to + 1))) {
-    match[0] += ' '
-    to += 1
-  }
-
-  // If the $position is located within the matched substring, return that range
-  if (from < $position.pos && to >= $position.pos) {
-    return {
-      range: {
-        from,
-        to,
-      },
-      query: match[0].slice(char.length),
-      text: match[0],
-    }
-  }
-
-  return null
+  return {
+    word,
+    from,
+    to: from + word.length,
+  } as const;
 }

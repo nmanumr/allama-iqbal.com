@@ -16,7 +16,7 @@ export default function SuggestionList() {
   const clientRect = useMemo(() => suggestionProps?.clientRect?.(), [suggestionProps]);
 
   const { refs, floatingStyles } = useFloating({
-    placement: "bottom",
+    placement: "bottom-end",
     strategy: "fixed",
     whileElementsMounted: autoUpdate,
     middleware: [offset(10), flip(), shift()], // Adjust as needed
@@ -66,12 +66,15 @@ export default function SuggestionList() {
       <div
         ref={refs.setFloating}
         style={{ ...floatingStyles }}
+        data-suggestions-el=""
         className="z-50 w-48 rounded-lg border border-gray-200 bg-white shadow-lg"
+        tabIndex={0}
       >
         <ul className="py-1" dir="rtl">
           {suggestionProps?.items.map((item, index) => (
             <li
               onClick={() => suggestionProps?.command({ ...suggestionProps, text: item })}
+              tabIndex={0}
               key={item}
               className={clsx(
                 `cursor-pointer px-4 py-2 font-mehr-nastaliq leading-relaxed`,
