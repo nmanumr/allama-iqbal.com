@@ -4,7 +4,7 @@ import { getDefaultStore } from "jotai";
 
 import { suggestionProps$, suggestionsKeydownHandler$ } from "./state";
 import getTransliterationFetcher from "./translitration-fetcher";
-import { findSuggestionMatch } from "./findSuggestioMatch";
+import { findSuggestionMatch } from "./findSuggestionMatch";
 
 export type SuggestionOptions = {
   suggestion: Omit<BaseSuggestionOptions, "editor">;
