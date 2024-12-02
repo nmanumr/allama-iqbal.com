@@ -9,14 +9,28 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@floating-ui/react": "^0.26.28",
     "@heroicons/react": "^2.2.0",
     "@mantine/hooks": "^7.14.2",
     "@radix-ui/react-popover": "^1.1.2",
+    "@radix-ui/react-portal": "^1.1.2",
+    "@tiptap/core": "^2.10.3",
+    "@tiptap/extension-document": "^2.10.3",
+    "@tiptap/extension-paragraph": "^2.10.3",
+    "@tiptap/extension-placeholder": "^2.10.3",
+    "@tiptap/extension-text": "^2.10.3",
+    "@tiptap/pm": "^2.10.3",
+    "@tiptap/react": "^2.10.3",
+    "@tiptap/suggestion": "^2.10.3",
     "clsx": "^2.1.1",
+    "flexsearch": "^0.7.43",
+    "jotai": "^2.10.3",
     "next": "15.0.3",
     "nextjs-toploader": "^3.7.15",
+    "persian-preprocess": "^1.0.0",
     "react": "19.0.0-rc-66855b96-20241106",
-    "react-dom": "19.0.0-rc-66855b96-20241106"
+    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "tippy.js": "^6.3.7"
   },
   "devDependencies": {
     "@tailwindcss/container-queries": "^0.1.1",
