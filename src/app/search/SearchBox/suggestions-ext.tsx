@@ -4,13 +4,10 @@ import { getDefaultStore } from "jotai";
 
 import { findSuggestionMatch } from "./findSuggestionMatch";
 import { suggestionProps$, suggestionsKeydownHandler$ } from "./state";
-import getTransliterationFetcher from "./translitration-fetcher";
 
 export type SuggestionOptions = {
   suggestion: Omit<BaseSuggestionOptions, "editor">;
 };
-
-const fetcher = getTransliterationFetcher();
 
 export const WordSuggestion = Extension.create<SuggestionOptions>({
   name: "transliteration-suggestion",
@@ -42,7 +39,7 @@ export const WordSuggestion = Extension.create<SuggestionOptions>({
           const length = range.to - range.from;
           return length >= 1;
         },
-        items: ({ query }) => fetcher(query),
+        items: () => [],
         render: () => {
           const store = getDefaultStore();
 

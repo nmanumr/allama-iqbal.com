@@ -5,8 +5,9 @@ import { PropsWithChildren, createContext, use, useEffect, useState } from "reac
 
 import Link from "next/link";
 
-import { TranslationContext } from "@/app/[book]/[section]/[poem]/TranslationSettinngs";
 import type PoemType from "@/assets/content/armaghan-e-hijaz/01/01.json";
+
+import { TranslationContext } from "./TranslationSettings";
 
 const SizeContext = createContext<{
   setChildSize: (size: number) => void;

@@ -7,8 +7,11 @@ import { autoUpdate, flip, offset, shift, useFloating } from "@floating-ui/react
 import { Portal } from "@radix-ui/react-portal";
 import { SuggestionKeyDownProps } from "@tiptap/suggestion";
 import { useAtomValue, useSetAtom } from "jotai";
+import useSWR from "swr";
 
-import { suggestionProps$, suggestionsKeydownHandler$ } from "@/app/search/SearchBox/state";
+import { suggestionProps$, suggestionsKeydownHandler$ } from "./state";
+
+const swrFetcher = (res: string) => fetch(res).then((res) => res.json());
 
 export default function SuggestionList() {
   const suggestionProps = useAtomValue(suggestionProps$);
@@ -24,6 +27,20 @@ export default function SuggestionList() {
     middleware: [offset(10), flip(), shift()], // Adjust as needed
   });
 
+  const { data } = useSWR(
+    suggestionProps?.query &&
+      `https://inputtools.google.com/request?text=${suggestionProps?.query}&itc=${"ur"}-t-i0-und&num=4&cp=0&cs=1&ie=utf-8&oe=utf-8`,
+    swrFetcher,
+    {
+      keepPreviousData: true,
+      revalidateIfStale: false,
+      revalidateOnFocus: false,
+      revalidateOnReconnect: false,
+    },
+  );
+
+  const items: string[] | undefined = data?.[1]?.[0]?.[1];
+
   useEffect(() => {
     if (clientRect) {
       refs.setReference({ getBoundingClientRect: () => clientRect });
@@ -32,8 +49,9 @@ export default function SuggestionList() {
 
   const keydownHandler = useCallback(
     (props: SuggestionKeyDownProps) => {
-      const item = suggestionProps?.items?.[selectionIdx];
-      const itemsLength = suggestionProps?.items.length ?? 0;
+      const item = items?.[selectionIdx];
+      const itemsLength = items?.length ?? 0;
+
       if (props.event.key === "ArrowDown" && itemsLength) {
         setSelectionIdx((idx) => (idx + 1) % itemsLength);
         return true;
@@ -52,7 +70,7 @@ export default function SuggestionList() {
 
       return false;
     },
-    [selectionIdx, suggestionProps],
+    [selectionIdx, suggestionProps, items],
   );
 
   useEffect(() => {
@@ -60,20 +78,15 @@ export default function SuggestionList() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [keydownHandler]);
 
-  if (!suggestionProps || suggestionProps?.items?.length === 0) {
+  if (!suggestionProps || !items) {
     return null;
   }
+
   return (
     <Portal>
-      <div
-        ref={refs.setFloating}
-        style={{ ...floatingStyles }}
-        data-suggestions-el=""
-        className="z-50 w-48 rounded-lg border border-gray-200 bg-white shadow-lg"
-        tabIndex={0}
-      >
-        <ul className="py-1" dir="rtl">
-          {suggestionProps?.items.map((item, index) => (
+      <div ref={refs.setFloating} style={{ ...floatingStyles }} tabIndex={0} className="z-50 w-48">
+        <ul dir="rtl" data-suggestions-el="" className="rounded-lg border border-gray-200 bg-white py-1 shadow-lg">
+          {items.map((item, index) => (
             <li
               onClick={() => suggestionProps?.command({ ...suggestionProps, text: item })}
               tabIndex={0}

@@ -52,8 +52,7 @@ export default function App() {
       className="mx-auto px-4 py-10 font-nastaliq leading-[2] sm:px-6 md:max-w-2xl md:px-4 lg:max-w-4xl lg:px-12"
       dir="rtl"
     >
-      <InstantSearchNext searchClient={searchClient} indexName="verses">
-        {/*<ASearchBox />*/}
+      <InstantSearchNext future={{ preserveSharedStateOnUnmount: true }} searchClient={searchClient} indexName="verses">
         <SearchBox />
         <EmptyQueryBoundary>
           <Hits hitComponent={SearchResult} />
