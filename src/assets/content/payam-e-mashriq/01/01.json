@@ -1,6 +1,7 @@
 {
   "id": "01",
   "name": "پیش کش",
+  "name-en": "Epistle",
   "bookId": "payam-e-mashriq",
   "bookName": "پیامِ مشرق",
   "sectionId": "01",
@@ -20,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "DEDICATORY EPISTLE TO KING AMANULLAH KHAN OF AFGHANISTAN",
+              "_content": "Dedicatory Epistle to King Amanullah Khan of Afghanistan",
               "lang": "English"
             }
           ]

@@ -1,13 +1,13 @@
 {
   "id": "01",
-  "name": "(1)",
+  "name": "",
   "bookId": "armaghan-e-hijaz-2",
   "bookName": "ارمغانِ حجاز",
   "sectionId": "02",
   "sectionName": "حضور رسالت",
   "Para": [
     {
-      "name": "",
+      "name": "(1)",
       "Verse": [
         {
           "id": "01",

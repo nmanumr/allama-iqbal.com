@@ -1,13 +1,15 @@
 {
   "id": "28",
   "name": "جاوید کے نام",
+  "name-en": "To Javed",
   "bookId": "bal-e-jibreel",
-  "bookName": "‫بالِ جبریل",
+  "bookName": "بالِ جبریل",
   "sectionId": "04",
   "sectionName": "منظومات",
   "Para": [
     {
       "name": "لندن میں اس کے ہاتھ کا لکھا ہوا پہلا خط آنے پر",
+      "name-en": "On Receiving His First Letter from London.",
       "Verse": [
         {
           "id": "01",
@@ -20,7 +22,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "On Receiving His First Letter from London.\nCreate a place for thyself in the world of love; create a new age, new days, and new nights.",
+              "_content": "Create a place for thyself in the world of love; create a new age, new days, and new nights.",
               "lang": "English"
             }
           ]

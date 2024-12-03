@@ -1,6 +1,7 @@
 {
   "id": "19",
   "name": "ایک شام دریائے نیکر ہائیڈل برگ کے کنارے",
+  "name-en": "An Evening by the River Neckar’s Banks, Heidelberg, Germany",
   "bookId": "bang-e-dara",
   "bookName": "بانگِ درا",
   "sectionId": "2a",
@@ -20,7 +21,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "AN EVENING on The River Neckar’s Banks, Heidelberg, Germany)\nThe moon's light is silent; the branches of every tree are silent.",
+              "_content": "The moon's light is silent; the branches of every tree are silent.",
               "lang": "English"
             }
           ]

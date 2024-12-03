@@ -1,6 +1,7 @@
 {
   "id": "10",
   "name": "وطنیت",
+  "name-en": "Nationalism",
   "bookId": "bang-e-dara",
   "bookName": "بانگِ درا",
   "sectionId": "3a",
@@ -8,6 +9,7 @@
   "Para": [
     {
       "name": "یعنی وطن بحیثیت ایک سیاسی تصور کے",
+      "name-en": "Nation as a political concept",
       "Verse": [
         {
           "id": "01",
@@ -20,7 +22,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "NATIONALISM (Nation as a political concept)\nIn this age the wine, the cup, even Jam is different. The cup-bearer started different ways of grace and tyranny.",
+              "_content": "In this age the wine, the cup, even Jam is different. The cup-bearer started different ways of grace and tyranny.",
               "lang": "English"
             }
           ]

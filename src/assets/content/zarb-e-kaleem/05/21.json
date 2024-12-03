@@ -1,6 +1,7 @@
 {
   "id": "21",
   "name": "مسولینی",
+  "name-en": "Mussolini",
   "bookId": "zarb-e-kaleem",
   "bookName": "ضربِ کلیم",
   "sectionId": "05",
@@ -8,6 +9,7 @@
   "Para": [
     {
       "name": "اپنے مشرقي اور مغربي حريفوں سے",
+      "name-en": "to his Eastern and western adversaries",
       "Verse": [
         {
           "id": "01",
@@ -20,7 +22,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "MUSSOLINI (to his Eastern and western adversaries)\nDoes crime of Mussolini seem so odd to age, without cause all the chaste are put to rage?",
+              "_content": "Does crime of Mussolini seem so odd to age, without cause all the chaste are put to rage?",
               "lang": "English"
             }
           ]
