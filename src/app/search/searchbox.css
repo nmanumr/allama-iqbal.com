@@ -3,7 +3,6 @@
   padding-inline-start: theme(spacing.10);
   border: 1px solid theme(colors.gray.300);
 
-
   @apply rounded-md;
 
   p.is-editor-empty:first-child::before {

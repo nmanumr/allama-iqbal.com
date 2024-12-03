@@ -1,30 +1,39 @@
-"use client";
-
-import { EditorContent, useEditor } from "@tiptap/react";
-import Placeholder from '@tiptap/extension-placeholder'
-import Text from "@tiptap/extension-text";
-import Document from "@tiptap/extension-document";
-import Paragraph from "@tiptap/extension-paragraph";
+import { useSearchBox } from "react-instantsearch";
 
 import { MagnifyingGlassIcon } from "@heroicons/react/24/outline";
+import Document from "@tiptap/extension-document";
+import Paragraph from "@tiptap/extension-paragraph";
+import Placeholder from "@tiptap/extension-placeholder";
+import Text from "@tiptap/extension-text";
+import { EditorContent, useEditor } from "@tiptap/react";
 
-import { WordSuggestion } from "./SearchBox/suggestions-ext";
 import SuggestionList from "./SearchBox/SuggestionsList";
 import { EditorContext } from "./SearchBox/context";
-
-import './searchbox.css';
+import { WordSuggestion } from "./SearchBox/suggestions-ext";
+import "./searchbox.css";
 
 const CustomDocument = Document.extend({
   content: "block",
 });
 
 export default function SearchBox() {
+  const { query, refine } = useSearchBox({}, { $$widgetType: "ais.searchBox" });
+
   const editor = useEditor({
     immediatelyRender: false,
-    extensions: [CustomDocument, Text, Paragraph, WordSuggestion, Placeholder.configure({
-      placeholder: 'کتابیں، نظمیں یا اشعار تلاش کریں'
-    })],
-    content: "",
+    extensions: [
+      CustomDocument,
+      Text,
+      Paragraph,
+      WordSuggestion,
+      Placeholder.configure({
+        placeholder: "کتابیں، نظمیں یا اشعار تلاش کریں",
+      }),
+    ],
+    content: query,
+    onUpdate: ({ editor: ed }) => {
+      refine(ed.getText());
+    },
   });
 
   return (

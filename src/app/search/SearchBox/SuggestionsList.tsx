@@ -1,12 +1,14 @@
 "use client";
 
-import { suggestionProps$, suggestionsKeydownHandler$ } from "@/app/search/SearchBox/state";
-import { Portal } from "@radix-ui/react-portal";
-import { useAtomValue, useSetAtom } from "jotai";
-import { useCallback, useEffect, useMemo, useState } from "react";
-import { SuggestionKeyDownProps } from "@tiptap/suggestion";
 import clsx from "clsx";
+import { useCallback, useEffect, useMemo, useState } from "react";
+
 import { autoUpdate, flip, offset, shift, useFloating } from "@floating-ui/react";
+import { Portal } from "@radix-ui/react-portal";
+import { SuggestionKeyDownProps } from "@tiptap/suggestion";
+import { useAtomValue, useSetAtom } from "jotai";
+
+import { suggestionProps$, suggestionsKeydownHandler$ } from "@/app/search/SearchBox/state";
 
 export default function SuggestionList() {
   const suggestionProps = useAtomValue(suggestionProps$);

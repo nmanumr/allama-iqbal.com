@@ -1,5 +1,5 @@
-import type { SuggestionMatch, Trigger } from "@tiptap/suggestion";
 import type { ResolvedPos } from "@tiptap/pm/model";
+import type { SuggestionMatch, Trigger } from "@tiptap/suggestion";
 
 export function findSuggestionMatch(config: Trigger): SuggestionMatch {
   const { $position } = config;
@@ -43,6 +43,6 @@ function getWordAtCursor($position: ResolvedPos) {
   return {
     word,
     from,
-    to: from + word.length,
+    to: from + word.length + 1,
   } as const;
 }

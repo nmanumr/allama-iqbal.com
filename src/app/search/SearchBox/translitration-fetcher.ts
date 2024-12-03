@@ -4,7 +4,6 @@ export default function getTransliterationFetcher() {
   let lastRequestSignal: AbortController | undefined;
 
   return (query: string, lang: "ur" | "fa" = "ur") => {
-
     if (!query || query.length < 2 || !/^[\x00-\x7F]*$/.test(query)) {
       return [];
     }

@@ -2,9 +2,9 @@ import { Extension } from "@tiptap/core";
 import Suggestion, { SuggestionOptions as BaseSuggestionOptions } from "@tiptap/suggestion";
 import { getDefaultStore } from "jotai";
 
+import { findSuggestionMatch } from "./findSuggestionMatch";
 import { suggestionProps$, suggestionsKeydownHandler$ } from "./state";
 import getTransliterationFetcher from "./translitration-fetcher";
-import { findSuggestionMatch } from "./findSuggestionMatch";
 
 export type SuggestionOptions = {
   suggestion: Omit<BaseSuggestionOptions, "editor">;
@@ -17,7 +17,7 @@ export const WordSuggestion = Extension.create<SuggestionOptions>({
 
   onBlur({ event }) {
     const relatedTarget = event.relatedTarget as HTMLElement | null;
-    const isSuggestionsFocused = document.querySelector('[data-suggestions-el]')?.contains(relatedTarget);
+    const isSuggestionsFocused = document.querySelector("[data-suggestions-el]")?.contains(relatedTarget);
 
     if (!isSuggestionsFocused) {
       getDefaultStore().set(suggestionProps$, null);

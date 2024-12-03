@@ -1,7 +1,9 @@
-import Link from "next/link";
-import indexItems from "../assets/index.json";
-import { numberFormat } from "@/utils/intl";
 import { Metadata } from "next";
+import Link from "next/link";
+
+import { numberFormat } from "@/utils/intl";
+
+import indexItems from "../assets/index.json";
 
 const languages: Record<string, string> = {
   ur: "اردو",
