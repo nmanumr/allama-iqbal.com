@@ -39,7 +39,7 @@ export default async function Poem({ params }: Props) {
           className="mx-auto mb-10 w-full max-w-6xl whitespace-pre-wrap text-center font-nastaliq leading-[2]"
         >
           <Link href={poem.sectionId ? `/${poem.bookId}#${poem.sectionId}` : `/${poem.bookId}`} dir="rtl">
-            {poem.bookName} {poem.sectionName && <>&gt; {poem.sectionName}</>}
+            {poem.bookName} {poem.sectionName && <>&#183; {poem.sectionName}</>}
           </Link>
           {poem.name && <div className="mt-4 text-4xl leading-[2]">{poem.name}</div>}
           {(poem as any)["name-ur"] && (
