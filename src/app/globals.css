@@ -11,8 +11,11 @@
 
   @font-face {
     font-family: MehrNastaliqRegular;
-    src: url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.ttf) format("truetype"),url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.woff2) format("woff2"),url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.woff) format("woff");
-    font-display: swap
+    src:
+      url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.ttf) format("truetype"),
+      url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.woff2) format("woff2"),
+      url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.woff) format("woff");
+    font-display: swap;
   }
 
   html {
@@ -21,28 +24,29 @@
 }
 
 .para:has(> :last-child:nth-child(6)) {
-  grid-template: "a c" auto
-                "b d" auto
-                "e e" auto
-                "f f" auto/ 1fr 1fr;
+  grid-template:
+    "a c" auto
+    "b d" auto
+    "e e" auto
+    "f f" auto/ 1fr 1fr;
   justify-content: center;
 
-  &>:nth-child(1) {
+  & > :nth-child(1) {
     grid-area: a;
   }
-  &>:nth-child(2) {
+  & > :nth-child(2) {
     grid-area: b;
   }
-  &>:nth-child(3) {
+  & > :nth-child(3) {
     grid-area: c;
   }
-  &>:nth-child(4) {
+  & > :nth-child(4) {
     grid-area: d;
   }
-  &>:nth-child(5){
+  & > :nth-child(5) {
     grid-area: e;
   }
-  &>:nth-child(6){
+  & > :nth-child(6) {
     grid-area: f;
   }
 }

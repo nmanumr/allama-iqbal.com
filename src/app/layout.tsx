@@ -1,6 +1,7 @@
+import clsx from "clsx";
+
 import type { Metadata } from "next";
 import { Noto_Nastaliq_Urdu } from "next/font/google";
-import clsx from "clsx";
 import NextTopLoader from "nextjs-toploader";
 
 import "./globals.css";

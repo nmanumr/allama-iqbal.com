@@ -1,4 +1,5 @@
 import { cache } from "react";
+
 import indexItems from "../assets/index.json";
 
 export const flattenIndex = cache(() => {
@@ -76,7 +77,7 @@ export function findAdjacentPoems(bookId: string, sectionId: string, poemId: str
   let prev = null;
   let next = null;
 
-  const flattenedPoems = flattenIndex()
+  const flattenedPoems = flattenIndex();
 
   const currentIndex = flattenedPoems.findIndex(
     (poem) => poem.bookId === bookId && poem.sectionId === sectionId && poem.id === poemId,

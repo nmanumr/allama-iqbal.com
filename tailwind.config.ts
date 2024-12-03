@@ -1,6 +1,6 @@
+import containerQueries from "@tailwindcss/container-queries";
+import tailwindForms from "@tailwindcss/forms";
 import type { Config } from "tailwindcss";
-import containerQueries from '@tailwindcss/container-queries';
-import tailwindForms from '@tailwindcss/forms';
 
 export default {
   content: [
@@ -11,13 +11,10 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'mehr-nastaliq': ['"Mehr_Nastaliq_Web"'],
-        nastaliq: ['var(--font-nastaliq)'],
-      }
+        "mehr-nastaliq": ['"Mehr_Nastaliq_Web"'],
+        nastaliq: ["var(--font-nastaliq)"],
+      },
     },
   },
-  plugins: [
-    containerQueries,
-    tailwindForms,
-  ],
+  plugins: [containerQueries, tailwindForms],
 } satisfies Config;
