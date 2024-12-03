@@ -1,3 +1,4 @@
+import { MagnifyingGlassIcon } from "@heroicons/react/24/outline";
 import { Metadata } from "next";
 import Link from "next/link";
 
@@ -16,7 +17,14 @@ export default async function Home() {
       className="mx-auto px-4 py-10 font-nastaliq leading-[2] sm:px-6 md:max-w-2xl md:px-4 lg:max-w-4xl lg:px-12"
       dir="rtl"
     >
-      <div className="text-center text-4xl leading-[2]">کلیات اقبال</div>
+      <div className="flex-1 text-center text-4xl leading-[2]">کلیات اقبال</div>
+
+      <div className="flex justify-center mt-6">
+        <Link href="/search" className="relative flex w-64 items-center gap-x-4 rounded-md bg-gray-100 py-2.5 px-4 hover:bg-gray-200 focus:outline-none">
+          <MagnifyingGlassIcon className="size-5 text-gray-600 absolute" />
+          <div className="text-gray-600 w-full text-center">تلاش کریں...</div>
+        </Link>
+      </div>
 
       <div className="mt-6">
         {indexItems.map((book, index) => (
