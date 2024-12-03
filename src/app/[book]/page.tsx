@@ -1,8 +1,9 @@
-import { notFound } from "next/navigation";
+import { Metadata } from "next";
 import Link from "next/link";
+import { notFound } from "next/navigation";
+
 import indexItems from "@/assets/index.json";
 import { numberFormat } from "@/utils/intl";
-import { Metadata } from "next";
 
 interface Props {
   params: Promise<{ book: string }>;
@@ -66,6 +67,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: `${book.name} by Allama Iqbal`,
-    description: `Explore '${book.name}', one of the remarkable works of Allama Iqbal. Read the full text in ${book.language}. Published in ${book.year}`
+    description: `Explore '${book.name}', one of the remarkable works of Allama Iqbal. Read the full text in ${book.language}. Published in ${book.year}`,
   };
 }

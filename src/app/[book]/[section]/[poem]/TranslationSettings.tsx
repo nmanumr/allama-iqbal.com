@@ -1,9 +1,10 @@
 "use client";
 
-import { createContext, ReactNode, use, useCallback } from "react";
+import { ReactNode, createContext, use, useCallback } from "react";
+
 import { Cog8ToothIcon } from "@heroicons/react/24/outline";
-import * as Popover from "@radix-ui/react-popover";
 import { useLocalStorage } from "@mantine/hooks";
+import * as Popover from "@radix-ui/react-popover";
 
 interface TranslationContextProps {
   ur: boolean;
@@ -27,14 +28,17 @@ export function TranslationSettingsProvider({ children }: { children: ReactNode 
     defaultValue: true,
   });
 
-  const toggleTranslation = useCallback((lang: "en" | "ur", val: boolean) => {
-    if (lang === "ur") {
-      setUr(val);
-    }
-    if (lang === "en") {
-      setEn(val);
-    }
-  }, [setEn, setUr]);
+  const toggleTranslation = useCallback(
+    (lang: "en" | "ur", val: boolean) => {
+      if (lang === "ur") {
+        setUr(val);
+      }
+      if (lang === "en") {
+        setEn(val);
+      }
+    },
+    [setEn, setUr],
+  );
 
   return <TranslationContext.Provider value={{ ur, en, toggleTranslation }}>{children}</TranslationContext.Provider>;
 }

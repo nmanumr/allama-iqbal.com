@@ -1,10 +1,12 @@
 "use client";
 
-import { createContext, PropsWithChildren, use, useEffect, useState } from "react";
 import clsx from "clsx";
-import type PoemType from "@/assets/content/armaghan-e-hijaz/01/01.json";
+import { PropsWithChildren, createContext, use, useEffect, useState } from "react";
+
 import Link from "next/link";
+
 import { TranslationContext } from "@/app/[book]/[section]/[poem]/TranslationSettinngs";
+import type PoemType from "@/assets/content/armaghan-e-hijaz/01/01.json";
 
 const SizeContext = createContext<{
   setChildSize: (size: number) => void;
@@ -56,11 +58,11 @@ export function Stanza({ para }: { para: (typeof PoemType)["Para"][0] }) {
               )}
               id={`cplt${id}`}
             >
-              <div className="relative col-span-2 flex flex-col justify-center sm:ps-8 font-mehr-nastaliq">
+              <div className="relative col-span-2 flex flex-col justify-center font-mehr-nastaliq sm:ps-8">
                 {id && (
                   <Link
                     href={`#cplt${id}`}
-                    className="absolute hidden sm:flex inset-y-0 -start-2 items-center font-sans text-xl font-black text-gray-200 transition hover:text-gray-400"
+                    className="absolute inset-y-0 -start-2 hidden items-center font-sans text-xl font-black text-gray-200 transition hover:text-gray-400 sm:flex"
                   >
                     {id}
                   </Link>
@@ -96,7 +98,7 @@ export function Stanza({ para }: { para: (typeof PoemType)["Para"][0] }) {
   );
 }
 
-function Verse({ content }: { content: string }) {
+export function Verse({ content }: { content: string }) {
   const sizeContext = use(SizeContext);
 
   return (
