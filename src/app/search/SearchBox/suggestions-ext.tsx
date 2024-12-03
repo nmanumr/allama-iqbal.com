@@ -45,11 +45,9 @@ export const WordSuggestion = Extension.create<SuggestionOptions>({
 
           return {
             onStart(props) {
-              console.log(props.items);
               store.set(suggestionProps$, props);
             },
             onUpdate(props) {
-              console.log(props.items);
               store.set(suggestionProps$, props);
             },
             onExit() {

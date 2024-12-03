@@ -10,12 +10,17 @@ import { useAtomValue, useSetAtom } from "jotai";
 import useSWR from "swr";
 
 import { suggestionProps$, suggestionsKeydownHandler$ } from "./state";
+import { useLocalStorage } from "@mantine/hooks";
 
 const swrFetcher = (res: string) => fetch(res).then((res) => res.json());
 
 export default function SuggestionList() {
   const suggestionProps = useAtomValue(suggestionProps$);
   const setKeydownHandler = useSetAtom(suggestionsKeydownHandler$);
+  const [transLang] = useLocalStorage({
+    key: "trans-lang",
+    defaultValue: 'ur',
+  })
   const [selectionIdx, setSelectionIdx] = useState(0);
 
   const clientRect = useMemo(() => suggestionProps?.clientRect?.(), [suggestionProps]);
@@ -29,7 +34,7 @@ export default function SuggestionList() {
 
   const { data } = useSWR(
     suggestionProps?.query &&
-      `https://inputtools.google.com/request?text=${suggestionProps?.query}&itc=${"ur"}-t-i0-und&num=4&cp=0&cs=1&ie=utf-8&oe=utf-8`,
+      `https://inputtools.google.com/request?text=${suggestionProps?.query}&itc=${transLang}-t-i0-und&num=4&cp=0&cs=1&ie=utf-8&oe=utf-8`,
     swrFetcher,
     {
       keepPreviousData: true,
