@@ -54,7 +54,7 @@ export function Stanza({ para }: { para: (typeof PoemType)["Para"][0] }) {
           <SizeProvider key={id}>
             <div
               className={clsx(
-                "relative w-full border-b border-black/10 px-4 py-2 text-2xl target:bg-yellow-50",
+                "relative w-full border-b border-black/10 px-4 py-2 text-2xl target:bg-yellow-50 scroll-mt-10",
                 (en || ur) && "grid-cols-5 lg:grid lg:gap-x-10",
               )}
               id={`cplt${id}`}
