@@ -2,8 +2,8 @@ import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/20/solid";
 import { Metadata } from "next";
 import Link from "next/link";
 
-import PatchLocationHash from "@/app/[book]/[section]/[poem]/PatchLocationHash";
 import type PoemType from "@/assets/content/armaghan-e-hijaz/01/01.json";
+import PatchLocationHash from "@/components/PatchLocationHash";
 import { findAdjacentPoems } from "@/utils/books";
 
 import { TranslationSettings, TranslationSettingsProvider } from "./TranslationSettings";

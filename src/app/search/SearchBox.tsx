@@ -6,18 +6,26 @@ import Paragraph from "@tiptap/extension-paragraph";
 import Placeholder from "@tiptap/extension-placeholder";
 import Text from "@tiptap/extension-text";
 import { EditorContent, useEditor } from "@tiptap/react";
+import { useQueryState } from "nuqs";
 
 import SuggestionList from "./SearchBox/SuggestionsList";
 import { EditorContext } from "./SearchBox/context";
 import { WordSuggestion } from "./SearchBox/suggestions-ext";
 import "./searchbox.css";
+import { useEffect } from "react";
 
 const CustomDocument = Document.extend({
   content: "block",
 });
 
 export default function SearchBox() {
-  const { query, refine } = useSearchBox({}, { $$widgetType: "ais.searchBox" });
+  const [inputValue, setInputValue] = useQueryState("q");
+  const { refine } = useSearchBox({}, { $$widgetType: "ais.searchBox" });
+
+  function setQuery(q: string) {
+    setInputValue(q);
+    refine(q);
+  }
 
   const editor = useEditor({
     immediatelyRender: false,
@@ -30,11 +38,17 @@ export default function SearchBox() {
         placeholder: "کتابیں، نظمیں یا اشعار تلاش کریں",
       }),
     ],
-    content: query,
+    content: inputValue,
     onUpdate: ({ editor: ed }) => {
-      refine(ed.getText());
+      setQuery(ed.getText());
     },
   });
+
+  useEffect(() => {
+    if (inputValue) {
+      refine(inputValue);
+    }
+  }, []);
 
   return (
     <div className="relative">

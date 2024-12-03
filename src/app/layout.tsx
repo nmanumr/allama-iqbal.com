@@ -3,6 +3,9 @@ import clsx from "clsx";
 import type { Metadata } from "next";
 import { Noto_Nastaliq_Urdu } from "next/font/google";
 import NextTopLoader from "nextjs-toploader";
+import { NuqsAdapter } from "nuqs/adapters/next/app";
+
+import PatchLocationHash from "@/components/PatchLocationHash";
 
 import "./globals.css";
 
@@ -22,10 +25,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={clsx(font.variable, "antialiased")}>
-        <NextTopLoader />
-        {children}
+    <html lang="en" className="h-full">
+      <body className={clsx(font.variable, "h-full antialiased")}>
+        <NuqsAdapter>
+          <NextTopLoader />
+          <PatchLocationHash />
+          {children}
+        </NuqsAdapter>
       </body>
     </html>
   );
