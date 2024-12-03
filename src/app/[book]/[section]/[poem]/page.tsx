@@ -1,3 +1,5 @@
+import { Suspense } from "react";
+
 import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/20/solid";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -24,7 +26,9 @@ export default async function Poem({ params }: Props) {
 
   return (
     <TranslationSettingsProvider>
-      <PatchLocationHash />
+      <Suspense fallback={null}>
+        <PatchLocationHash />
+      </Suspense>
       <div className="px-4 py-10 text-center font-nastaliq leading-[2] sm:px-6 md:px-4 lg:px-12" dir="rtl">
         <div dir="ltr" className="flex max-w-fit items-center gap-x-4">
           <TranslationSettings />

@@ -1,4 +1,5 @@
 import clsx from "clsx";
+import { Suspense } from "react";
 
 import type { Metadata } from "next";
 import { Noto_Nastaliq_Urdu } from "next/font/google";
@@ -29,7 +30,9 @@ export default function RootLayout({
       <body className={clsx(font.variable, "h-full antialiased")}>
         <NuqsAdapter>
           <NextTopLoader />
-          <PatchLocationHash />
+          <Suspense fallback={null}>
+            <PatchLocationHash />
+          </Suspense>
           {children}
         </NuqsAdapter>
       </body>

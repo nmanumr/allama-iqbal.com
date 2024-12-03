@@ -1,6 +1,6 @@
 import { cache } from "react";
 
-import indexItems from "../assets/index.json";
+import indexItems from "@/assets/index.json";
 
 export const flattenIndex = cache(() => {
   const books = indexItems.map((book) => ({
