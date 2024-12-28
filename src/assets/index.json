@@ -2,14 +2,16 @@
   {
     "id": "bang-e-dara",
     "name": "بانگِ درا",
-    "name-en": "Bang-e-Dara",
+    "name-ro": "Bang-e-Dara",
+    "name-en": "Call Of The Marching Bell",
     "year": "1924",
     "language": "ur",
     "sections": [
       {
         "id": "1a",
-        "name": "حصہ اول",
-        "name-en": "Hissa Awwal",
+        "name": "حصہ اول ــ 1905 تک",
+        "name-en": "Part 1 -- Before 1908",
+        "name-ro": "Hissa Awwal",
         "poems": [
           { "id": "01", "name": "ہمالہ", "name-en": "Himalaya" },
           { "id": "02", "name": "گل رنگیں", "name-en": "Gul-e-Rangeen" },
@@ -65,7 +67,8 @@
       {
         "id": "1b",
         "name": "غزلیات ۱",
-        "name-en": "Ghazaliyat 1",
+        "name-en": "The Ghazals 1",
+        "name-ro": "Ghazaliyat 1",
         "poems": [
           { "id": "01", "name": "گلزار ہست و بود نہ بیگانہ وار دیکھ", "name-en": "Gulzar hast o bood na begaana waar dekh" },
           { "id": "02", "name": "نہ آتے، ہمیں اس میں تکرار کیا تھی", "name-en": "Na aate, humein is mein takraar kya thi" },
@@ -84,8 +87,9 @@
       },
       {
         "id": "2a",
-        "name": "حصہ دوم",
-        "name-en": "Hissa Doem",
+        "name": "حصہ دوم ــ 1905 سے 1908 تک",
+        "name-en": "Poems of Period 1905-08",
+        "name-ro": "Hissa Doem",
         "poems": [
           { "id": "01", "name": "محبت", "name-en": "Mohabbat" },
           { "id": "02", "name": "حقیقت حسن", "name-en": "Haqeeqat-e-Husn" },
@@ -116,7 +120,8 @@
       {
         "id": "2b",
         "name": "غزلیات ۲",
-        "name-en": "Ghazaliyat 2",
+        "name-ro": "Ghazaliyat 2",
+        "name-en": "The Ghazals 2",
         "poems": [
           { "id": "01", "name": "زندگی انساں کی اک دم کے سوا کچھ بھی نہیں", "name-en": "Zindagi insaan ki ek dam ke siwa kuch bhi nahin" },
           { "id": "02", "name": "الہی عقل خجستہ پے کو ذرا سی دیوانگی سکھا دے", "name-en": "Ilahi aqal khujasta pay ko zara si deewangi sikha de" },
@@ -130,7 +135,8 @@
       {
         "id": "3a",
         "name": "حصہ سوم",
-        "name-en": "Hissa Soem",
+        "name-ro": "Hissa Soem",
+        "name-en": "Poems of Period - 1908-30",
         "poems": [
           { "id": "01", "name": "بلاد اسلامیہ", "name-en": "Bilad-e-Islamia" },
           { "id": "02", "name": "ستارہ", "name-en": "Sitara" },
@@ -207,7 +213,8 @@
       {
         "id": "3b",
         "name": "غزلیات ۳",
-        "name-en": "Ghazaliyat 3",
+        "name-ro": "Ghazaliyat 3",
+        "name-en": "The Ghazals 3",
         "poems": [
           { "id": "01", "name": "اے باد صبا! کملی والے سے جا کہیو پیغام مرا", "name-en": "Ae baad-e-saba! Kamli wale se ja kehiye paighaam mera" },
           { "id": "02", "name": "یہ سرود قمری و بلبل فریب گوش ہے", "name-en": "Yeh sarood-e-qamri o bulbul fareb-e-gosh hai" },
@@ -222,7 +229,8 @@
       {
         "id": "04",
         "name": "ظریفانہ",
-        "name-en": "Zarifana",
+        "name-ro": "Zarifana",
+        "name-en": "Humorous Poems",
         "poems": [
           { "id": "01", "name": "مشرق میں اصول دین بن جاتے ہیں", "name-en": "Mashriq mein usool-e-deen ban jaate hain" },
           { "id": "02", "name": "لڑکیاں پڑھ رہی ہیں انگریزی", "name-en": "Ladkiyaan parh rahi hain angrezi" },
@@ -260,14 +268,16 @@
   {
     "id": "bal-e-jibreel",
     "name": "بالِ جبریل",
-    "name-en": "Bal-e-Jibreel",
+    "name-ro": "Bal-e-Jibreel",
+    "name-en": "Wings of Gabriel",
     "year": "1935",
     "language": "ur",
     "sections": [
       {
         "id": "01",
         "name": "حصہ اول",
-        "name-en": "Hissa Awwal",
+        "name-ro": "Hissa Awwal",
+        "name-en": "Odes Part-I",
         "poems": [
           { "id": "01", "name": "میری نوائے شوق سے شور حریم ذات میں", "name-en": "Meri nawa-e-shauq se shor hareem-e-zaat mein" },
           { "id": "02", "name": "اگر کج رو ہیں انجم، آسماں تیرا ہے یا میرا", "name-en": "Agar kaj row hain anjum, aasman tera hai ya mera" },
@@ -290,7 +300,8 @@
       {
         "id": "02",
         "name": "حصہ دوم",
-        "name-en": "Hissa Doem",
+        "name-ro": "Hissa Doem",
+        "name-en": "Odes Part-II",
         "poems": [
           { "id": "01", "name": "سما سکتا نہیں پہنائے فطرت میں مرا سودا", "name-en": "Sama sakta nahin pehnaaye fitrat mein mera soda" },
           { "id": "02", "name": "یہ کون غزل خواں ہے پرسوز و نشاط انگیز", "name-en": "Yeh kaun ghazal khwaan hai parsoz o nashaat angaiz" },
@@ -359,7 +370,8 @@
       {
         "id": "03",
         "name": "رباعیات",
-        "name-en": "Rubaiyat",
+        "name-ro": "Rubaiyat",
+        "name-en": "Quatrains",
         "poems": [
           { "id": "01", "name": "رہ و رسم حرم نا محرمانہ", "name-en": "Rav o rasam-e-haram na mehromana" },
           { "id": "02", "name": "ظلام بحر میں کھو کر سنبھل جا", "name-en": "Zalaam-e-bahr mein kho kar sambhal ja" },
@@ -406,7 +418,8 @@
       {
         "id": "04",
         "name": "منظومات",
-        "name-en": "Manzoomat",
+        "name-ro": "Manzoomat",
+        "name-en": "Poems",
         "poems": [
           { "id": "01", "name": "دعا", "name-en": "Dua" },
           { "id": "02", "name": "مسجد قرطبہ", "name-en": "Masjid-e-Qurtuba" },
@@ -476,14 +489,16 @@
   {
     "id": "zarb-e-kaleem",
     "name": "ضربِ کلیم",
-    "name-en": "Zarb-e-Kaleem",
+    "name-ro": "Zarb-e-Kaleem",
+    "name-en": "The Rod of the Moses",
     "year": "1936",
     "language": "ur",
     "sections": [
       {
         "id": "00",
         "name": "ابتدا",
-        "name-en": "Ibtida",
+        "name-ro": "Ibtida",
+        "name-en": "Beginning",
         "poems": [
           { "id": "01", "name": "نواب سرحمید اللہ خاں فرمانروائے بھوپال کی خدمت میں", "name-en": "Nawab Sir Hamidullah Khan Farmanrawa-e-Bhopal ki Khidmat Mein" },
           { "id": "02", "name": "ناظرین سے", "name-en": "Naazreen Se" },
@@ -493,7 +508,8 @@
       {
         "id": "01",
         "name": "اسلام اور مسلمان",
-        "name-en": "Islam Aur Musalman",
+        "name-ro": "Islam Aur Musalman",
+        "name-en": "Islam and Muslim",
         "poems": [
           { "id": "01", "name": "صبح", "name-en": "Subh" },
           { "id": "02", "name": "لا الہ الا اللہ", "name-en": "La Ilaha Illallah" },
@@ -567,7 +583,8 @@
       {
         "id": "02",
         "name": "تعلیم و تربیت",
-        "name-en": "Taleem Wa Tarbiyat",
+        "name-ro": "Taleem Wa Tarbiyat",
+        "name-en": "Education and Upbringing",
         "poems": [
           { "id": "01", "name": "مقصود", "name-en": "Maqsood" },
           { "id": "02", "name": "زمانہ حاضر کا انسان", "name-en": "Zamana-e-Haazir ka Insaan" },
@@ -602,7 +619,8 @@
       {
         "id": "03",
         "name": "عورت",
-        "name-en": "Aurat",
+        "name-ro": "Aurat",
+        "name-en": "Woman",
         "poems": [
           { "id": "01", "name": "مرد فرنگ", "name-en": "Mard-e-Farang" },
           { "id": "02", "name": "ایک سوال", "name-en": "Ek Sawaal" },
@@ -618,7 +636,8 @@
       {
         "id": "04",
         "name": "ادبیات فنون لطیفہ",
-        "name-en": "Adabiyat Funoon-e-Lateefa",
+        "name-ro": "Adabiyat Funoon-e-Lateefa",
+        "name-en": "Literature and Fine Arts",
         "poems": [
           { "id": "01", "name": "دین و ہنر", "name-en": "Deen-o-Hunar" },
           { "id": "02", "name": "تخلیق", "name-en": "Takhleek" },
@@ -668,7 +687,8 @@
       {
         "id": "05",
         "name": "سیاست مشرق و مغرب",
-        "name-en": "Siyasat Mashriq Wa Maghrib",
+        "name-ro": "Siyasat Mashriq Wa Maghrib",
+        "name-en": "Politics of the East and the West",
         "poems": [
           { "id": "01", "name": "اشتراکیت", "name-en": "Ishtiraakiyat" },
           { "id": "02", "name": "کارل مارکس کی آواز", "name-en": "Karl Marx ki Awaaz" },
@@ -710,7 +730,8 @@
       {
         "id": "06",
         "name": "محراب گل افغان کے افکار",
-        "name-en": "Mihrab Gul Afghan Ke Afkar",
+        "name-ro": "Mihrab Gul Afghan Ke Afkar",
+        "name-en": "Meditations of Mihrab Gul Afghan",
         "poems": [
           { "id": "01", "name": "میرے کہستاں! تجھے چھوڑ کے جاوں کہاں", "name-en": "Mere kehstaan! Tujhe chhod ke jaoon kahan" },
           { "id": "02", "name": "حقیقت ازلی ہے رقابت اقوام", "name-en": "Haqeeqat azali hai riqaabat aqwaam" },
@@ -739,14 +760,16 @@
   {
     "id": "armaghan-e-hijaz",
     "name": "ارمغانِ حجاز",
-    "name-en": "Armaghan-e-Jijaz",
+    "name-ro": "Armaghan-e-Hijaz",
+    "name-en": "Gift of the Hijaz",
     "year": "1938",
     "language": "ur",
     "sections": [
       {
         "id": "01",
         "name": "ابتدا",
-        "name-en": "Ibtida",
+        "name-ro": "Ibtida",
+        "name-en": "Beginning",
         "poems": [
           { "id": "01", "name": "ابلیس کی مجلس شوری", "name-en": "Iblees ki Majlis-e-Shura" },
           { "id": "02", "name": "بڈھے بلوچ کی نصیحت بیٹے کو", "name-en": "Budhe Baloch ki Naseehat Bete ko" },
@@ -761,7 +784,8 @@
       {
         "id": "02",
         "name": "رباعیات",
-        "name-en": "Rubaiyat",
+        "name-ro": "Rubaiyat",
+        "name-en": "Quatrains",
         "poems": [
           { "id": "01", "name": "مری شاخ امل کا ہے ثمر کیا", "name-en": "Meri shaakh amal ka hai samar kya" },
           { "id": "02", "name": "فراغت دے اسے کار جہاں سے", "name-en": "Faraaghat de use kaar jahan se" },
@@ -781,7 +805,8 @@
       {
         "id": "03",
         "name": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
-        "name-en": "Mulla Zada Zaiygham Lola Be Kashmiri Ka Bayaz",
+        "name-ro": "Mulla Zada Zaiygham Lola Be Kashmiri Ka Bayaz",
+        "name-en": "The Amanuensis of Mullah Zaighum",
         "poems": [
           { "id": "01", "name": "پانی ترے چشموں کا تڑپتا ہوا سیماب", "name-en": "Paani tere chashmo ka tarpta hua seemaab" },
           { "id": "02", "name": "موت ہے اک سخت تر جس کا غلمی ہے نام", "name-en": "Maut hai ek sakht tar jiska ghulmi hai naam" },
@@ -801,17 +826,10 @@
           { "id": "16", "name": "حاجت نہیں اے خطہ گل شرح و بیاں کی", "name-en": "Hajat nahi ae khitta gul sharh o bayan ki" },
           { "id": "17", "name": "خود آگاہی نے سکھل دی ہے جس کو تن فراموشی", "name-en": "Khud aagahi ne sikhla di hai jisko tan faramooshi" },
           { "id": "18", "name": "آں عزم بلند آور آں سوز جگر آور", "name-en": "Aan azm buland aawar aan sooz jigar aawar" },
-          { "id": "19", "name": "غریب شہر ہوں میں، سن تو لے مری فریاد", "name-en": "Ghareeb sheher hoon main, sun to le meri faryad" }
-        ]
-      },
-      {
-        "id": "04",
-        "name": "ارمغانِ حجاز",
-        "name-en": "Armaghan-e-Hijaz",
-        "poems": [
-          { "id": "01", "name": "سر اکبر حیدری، صدراعظم حیدرآباد دکن کے نام", "name-en": "Sir Akbar Haidari, Sadr-e-Azam Hyderabad Deccan ke Naam" },
-          { "id": "02", "name": "حسین احمد", "name-en": "Hussain Ahmad" },
-          { "id": "03", "name": "حضرت انسان", "name-en": "Hazrat Insaan" }
+          { "id": "19", "name": "غریب شہر ہوں میں، سن تو لے مری فریاد", "name-en": "Ghareeb sheher hoon main, sun to le meri faryad" },
+          { "id": "20", "name": "سر اکبر حیدری، صدراعظم حیدرآباد دکن کے نام", "name-en": "Sir Akbar Haidari, Sadr-e-Azam Hyderabad Deccan ke Naam" },
+          { "id": "21", "name": "حسین احمد", "name-en": "Hussain Ahmad" },
+          { "id": "22", "name": "حضرت انسان", "name-en": "Hazrat Insaan" }
         ]
       }
     ]
@@ -819,7 +837,8 @@
   {
     "id": "asrar-e-khudi",
     "name": "اسرارِ خودی",
-    "name-en": "Asrar-e-Khudi",
+    "name-ro": "Asrar-e-Khudi",
+    "name-en": "The Secrets of the Self",
     "year": "1915",
     "language": "fa",
     "sections": [
@@ -853,14 +872,16 @@
   {
     "id": "ramooz-e-bekhudi",
     "name": "رموزِ بیخودی",
-    "name-en": "Ramooz-e-Bekhudi",
+    "name-ro": "Ramooz-e-Bekhudi",
+    "name-en": "The Mysteries of the Selflessness",
     "year": "1918",
     "language": "fa",
     "sections": [
       {
         "id": "01",
-        "name": "رموزِ بیخودی",
-        "name-en": "Ramooz-e-Bekhudi",
+        "name": "پیشکش بحضور ملت اسلامیہ",
+        "name-ro": "Peshkash ba Huzoor-e-Millat-e-Islamia",
+        "name-en": "Dedication to the Muslim Community",
         "poems": [
           { "id": "01", "name": "پیشکش بحضور ملت اسلامیہ", "name-en": "Peshkash ba Huzoor-e-Millat-e-Islamia" },
           { "id": "02", "name": "تمہید", "name-en": "Tamheed" },
@@ -870,7 +891,8 @@
       {
         "id": "02",
         "name": "ارکان اساسی ملیہ اسلامیہ",
-        "name-en": "Arkaan-e-Asaasi-e-Millat-e-Islamia",
+        "name-ro": "Arkaan-e-Asaasi-e-Millat-e-Islamia",
+        "name-en": "The Pillars of Islam",
         "poems": [
           { "id": "01", "name": "رکن اول: توحید", "name-en": "Rukn-e-Awwal: Tauheed" },
           { "id": "02", "name": "در معنی اینکہ یأس و حزن و خوف ام الحبا ئث است", "name-en": "Dar Ma'ani-e-Inke Yaas-o-Huzn-o-Khauf Umm-ul-Khabais Ast" },
@@ -900,7 +922,8 @@
       {
         "id": "03",
         "name": "مثنوی مطالب خلاصۂ در تفسیر اخلاص",
-        "name-en": "Masnavi Matalibe Khulasa dar Tafseer-e-Ikhlaas",
+        "name-ro": "Masnavi Matalibe Khulasa dar Tafseer-e-Ikhlaas",
+        "name-en": "Summary of the Purport of the Poem",
         "poems": [
           { "id": "01", "name": "قل ہواللہ احد", "name-en": "Qul Huwa Allahu Ahad" },
           { "id": "02", "name": "اﷲالصمد", "name-en": "Allahu-s-Samad" },
@@ -914,14 +937,16 @@
   {
     "id": "payam-e-mashriq",
     "name": "پیامِ مشرق",
-    "name-en": "Payam-e-Mashriq",
+    "name-ro": "Payam-e-Mashriq",
+    "name-en": "Message from the East",
     "year": "1923",
     "language": "fa",
     "sections": [
       {
         "id": "01",
         "name": "لالۂ طور",
-        "name-en": "Lala-e-Tur",
+        "name-ro": "Lala-e-Tur",
+        "name-en": "The Tulip of Sinai",
         "poems": [
           { "id": "01", "name": "پیش کش", "name-en": "Pesh Kash" }
         ]
@@ -929,7 +954,7 @@
       {
         "id": "02",
         "name": "افکار",
-        "name-en": "Afkaar",
+        "name-ro": "Afkaar",
         "poems": [
           { "id": "01", "name": "گل نخستین", "name-en": "Gul-e-Nakhusteen" },
           { "id": "02", "name": "دعا", "name-en": "Dua" },
@@ -987,7 +1012,7 @@
       {
         "id": "03",
         "name": "می باقے",
-        "name-en": "Mai Baaqi",
+        "name-ro": "Mai Baaqi",
         "poems": [
           { "id": "01", "name": "بہار تا بہ گلستان کشید بزم سرود", "name-en": "Bahar ta be gulistan kashid bazm sorood" },
           { "id": "02", "name": "حلقہ بستند سر تربت من نوحہ گران", "name-en": "Halaqa bastand sar tarmat man nouhah gran" },
@@ -1039,7 +1064,7 @@
       {
         "id": "04",
         "name": "نقش فرنگ",
-        "name-en": "Naqsh-e-Farang",
+        "name-ro": "Naqsh-e-Farang",
         "poems": [
           { "id": "01", "name": "پیام", "name-en": "Payaam" },
           { "id": "02", "name": "جمعیت الاقوام", "name-en": "Jamiat-ul-Aqwaam" },
@@ -1073,14 +1098,16 @@
   {
     "id": "zaboor-e-ajam",
     "name": "زبورِعجم",
-    "name-en": "Zaboor-e-Ajam",
+    "name-ro": "Zaboor-e-Ajam",
+    "name-en": "Persian Psalms",
     "year": "1927",
     "language": "fa",
     "sections": [
       {
         "id": "01",
         "name": "حصہ اول",
-        "name-en": "Hissa Awwal",
+        "name-ro": "Hissa Awwal",
+        "name-en": "Part 1",
         "poems": [
           { "id": "01", "name": "بخوانندہ کتاب زبور", "name-en": "Ba Khwaananda-e-Kitaab-e-Zaboor" },
           { "id": "02", "name": "حصہ اول", "name-en": "Hissa Awwal" },
@@ -1140,13 +1167,14 @@
           { "id": "56", "name": "نفس شمار بہ پیچاک روزگار خودیم", "name-en": "nafas shumar ba pechak-e rozgar-e khudim" },
           { "id": "57", "name": "بہ فغان نہ لب گشودم کہ فغان اثر ندارد", "name-en": "ba fighan na lab gushudam ke fighan asar nadarad" },
           { "id": "58", "name": "ماکہ افتندہ تر از پر تو مہ آمدہ ایم", "name-en": "ma ke uftada tar az par-e to mah amada em" },
-          { "id": "59", "name": "ایخدای مہر و مہ خاک پریشانی نگر", "name-en": "ay khuda-e mehr-o mah khak-e parishani nigar" }
+          { "id": "59", "name": "اے خداے مہر و مہ خاک پریشانی نگر", "name-en": "ay khuda-e mehr-o mah khak-e parishani nigar" }
         ]
       },
       {
         "id": "02",
         "name": "حصہ دوم",
-        "name-en": "Hissa Duvvum",
+        "name-ro": "Hissa Duvvum",
+        "name-en": "Part 2",
         "poems": [
           { "id": "01", "name": "حصہ دوم", "name-en": "Hissa Duvvum" },
           { "id": "02", "name": "دو عالم را توان دیدن  بہ مینای کہ من دارم", "name-en": "do alam ra tawan didan ba minay-e ke man daram" },
@@ -1231,7 +1259,7 @@
       {
         "id": "03",
         "name": "گلشن راز جدید",
-        "name-en": "Gulshan-e-Raaz-e-Jadeed",
+        "name-ro": "Gulshan-e-Raaz-e-Jadeed",
         "poems": [
           { "id": "01", "name": "تمہید", "name-en": "Tamheed" },
           { "id": "02", "name": "سوال اول", "name-en": "Sawaal-e-Awwal" },
@@ -1244,16 +1272,25 @@
           { "id": "09", "name": "سوال ہشتم", "name-en": "Sawaal-e-Hashtum" },
           { "id": "10", "name": "سوال نہم", "name-en": "Sawaal-e-Nuhum" },
           { "id": "11", "name": "غزل", "name-en": "Ghazal" },
-          { "id": "12", "name": "خاتمہ", "name-en": "Khatima" },
+          { "id": "12", "name": "خاتمہ", "name-en": "Khatima" }
+        ]
+      },
+      {
+        "id": "05",
+        "name": "بندگی نامہ",
+        "name-ro": "Bandagi Nama",
+        "poems": [
           { "id": "13", "name": "بندگی نامہ", "name-en": "Bandagi Nama" }
         ]
       },
       {
         "id": "04",
         "name": "در بیان فنون لطیفۂ غلامان",
-        "name-en": "Dar Bayaan-e-Funoon-e-Lateefa-e-Ghulaman",
+        "name-en": "On The Fine Arts Of Slaves",
+        "name-ro": "Dar Bayaan-e-Funoon-e-Lateefa-e-Ghulaman",
         "poems": [
           { "id": "01", "name": "موسیقی", "name-en": "Moseeki" },
+          { "id": "04", "name": "مصوری" },
           { "id": "02", "name": "مذہب غلامان", "name-en": "Mazhab-e-Ghulaman" },
           { "id": "03", "name": "در فن تعمیر مردان آزاد", "name-en": "Dar Fan-e-Ta'meer-e-Mardan-e-Azaad" }
         ]
@@ -1263,14 +1300,15 @@
   {
     "id": "javed-nama",
     "name": "جاوید نامہ",
-    "name-en": "Javed Nama",
+    "name-ro": "Javed Nama",
+    "name-en": "The Book of Eternity",
     "year": "1932",
     "language": "fa",
     "sections": [
       {
         "id": "01",
         "name": "جاوید نامہ",
-        "name-en": "Javid Nama",
+        "name-ro": "Javid Nama",
         "poems": [
           { "id": "01", "name": "دیباچہ", "name-en": "Dibacha" },
           { "id": "02", "name": "مناجات", "name-en": "Munajaat" },
@@ -1284,7 +1322,8 @@
       {
         "id": "02",
         "name": "فلک قمر",
-        "name-en": "Falak-e-Qamar",
+        "name-ro": "Falak-e-Qamar",
+        "name-en": "The Sphere of the Moon",
         "poems": [
           { "id": "01", "name": "فلک قمر", "name-en": "Falak-e-Qamar" },
           { "id": "02", "name": "عارف ہندی کہ بہ یکی از غار ہای قمر خلوت گرفتہ", "name-en": "Aarif-e-Hindi ke ba Yaki az Ghaar-ha-e-Qamar Khalwat Girifta" },
@@ -1301,7 +1340,8 @@
       {
         "id": "03",
         "name": "فلک عطارد",
-        "name-en": "Falak-e-Utaarid",
+        "name-ro": "Falak-e-Utaarid",
+        "name-en": "The Sphere of Mecury",
         "poems": [
           { "id": "01", "name": "زیارت ارواح جمال الدین افغانی و سعید حلیم پاشا", "name-en": "Ziyarat-e-Arwaah-e-Jamal-ud-Din Afghani va Saeed Halim Pasha" },
           { "id": "02", "name": "دین و وطن", "name-en": "Deen-o-Watan" },
@@ -1318,7 +1358,8 @@
       {
         "id": "04",
         "name": "فلک زہرہ",
-        "name-en": "Falak-e-Zuhra",
+        "name-ro": "Falak-e-Zuhra",
+        "name-en": "The Sphere of Venus",
         "poems": [
           { "id": "01", "name": "فلک زہرہ", "name-en": "Falak-e-Zuhra" },
           { "id": "02", "name": "مجلس خدایان اقوام قدیم", "name-en": "Majlis-e-Khudayaan-e-Aqwaam-e-Qadeem" },
@@ -1330,7 +1371,8 @@
       {
         "id": "05",
         "name": "فلک مریخ",
-        "name-en": "Falak-e-Mirreekh",
+        "name-ro": "Falak-e-Mirreekh",
+        "name-en": "The Sphere of Mars",
         "poems": [
           { "id": "01", "name": "اہل مریخ", "name-en": "Ahl-e-Mirreekh" },
           { "id": "02", "name": "برآمدن انجم شناس مریخی از رصدگاہ", "name-en": "Bar Aamadan-e-Anjum Shanaas-e-Mirreekhi az Rasadgaah" },
@@ -1342,7 +1384,8 @@
       {
         "id": "06",
         "name": "فلک مشتری",
-        "name-en": "Falak-e-Mushtari",
+        "name-ro": "Falak-e-Mushtari",
+        "name-en": "The Sphere of Jupiter",
         "poems": [
           { "id": "01", "name": "ارواح جلیلۂ حلاج و غالب و قرةالعین طاہرہ", "name-en": "Arwaah-e-Jaleela-e-Hallaj-o-Ghalib-o-Qurrat-ul-Ain Tahira" },
           { "id": "02", "name": "نوای حلاج", "name-en": "Nawa-e-Hallaj" },
@@ -1356,7 +1399,8 @@
       {
         "id": "07",
         "name": "فلک زحل",
-        "name-en": "Falak-e-Zuhal",
+        "name-ro": "Falak-e-Zuhal",
+        "name-en": "The Sphere of Saturn",
         "poems": [
           { "id": "01", "name": "ارواح رذیلہ کہ با ملک و ملت غداری کردہ", "name-en": "Arwaah-e-Razeela ke ba Mulk-o-Millat Ghaddari Karda" },
           { "id": "02", "name": "قلزم خونین", "name-en": "Qulzum-e-Khooneen" },
@@ -1368,7 +1412,8 @@
       {
         "id": "08",
         "name": "آن سوی افلاک",
-        "name-en": "Aan Soo-e-Aflaak",
+        "name-ro": "Aan Soo-e-Aflaak",
+        "name-en": "Beyond rhe Spheres",
         "poems": [
           { "id": "01", "name": "مقام حکیم آلمانی نیچہ", "name-en": "Maqaam-e-Hakeem-e-Almani Nietzsche" },
           { "id": "02", "name": "حرکت بجنت الفردوس", "name-en": "Harkat ba Jannat-ul-Firdaus" },
@@ -1390,14 +1435,14 @@
   {
     "id": "pas-che-bayad-kard",
     "name": "پس چہ بائد کرد",
-    "name-en": "Pas Che Bayad Kard",
+    "name-en": "What should them be done",
+    "name-ro": "Pas Che Bayad Kard",
     "year": "1936",
     "language": "fa",
     "sections": [
       {
         "id": "01",
-        "name": "پس چہ بائد کرد",
-        "name-en": "Pas Cheh Bayad Kard",
+        "name": "",
         "poems": [
           { "id": "01", "name": "بخوانندۂ کتاب", "name-en": "Ba Khwaananda-e-Kitaab" },
           { "id": "02", "name": "تمہید", "name-en": "Tamheed" },
@@ -1412,7 +1457,15 @@
           { "id": "11", "name": "سیاسیات حاضرہ", "name-en": "Siyasiyaat-e-Haazira" },
           { "id": "12", "name": "حرفی چند با امت عربیہ", "name-en": "Harfi Chand ba Ummat-e-Arabiya" },
           { "id": "13", "name": "پس چہ باید کرد اے اقوام شرق", "name-en": "Pas Cheh Bayad Kard Ay Aqwaam-e-Sharq" },
-          { "id": "14", "name": "در حضور رسالت مآب", "name-en": "Dar Huzoor-e-Risalat Ma'ab" },
+          { "id": "14", "name": "در حضور رسالت مآب", "name-en": "Dar Huzoor-e-Risalat Ma'ab" }
+       ]
+      },
+      {
+        "id": "02",
+        "name": "مسافر",
+        "name-ro": " ",
+        "name-en": "The Traveller",
+        "poems": [
           { "id": "15", "name": "خطاب بہ اقوام سرحد", "name-en": "Khitaab ba Aqwaam-e-Sarhad" },
           { "id": "16", "name": "سافر وارد میشود بہ شہر کابل", "name-en": "Saafir Waarid Mishavad ba Shahr-e-Kabul" },
           { "id": "17", "name": "بر مزار شہنشاہ بابر خلد آشیانی", "name-en": "Bar Mazaar-e-Shahanshah Babur Khuld Aashiyaani" },
@@ -1421,6 +1474,7 @@
           { "id": "20", "name": "بر مزار سلطان محمود علیہ الرحمہ", "name-en": "Bar Mazaar-e-Sultan Mahmood Alaihir Rahmah" },
           { "id": "21", "name": "مناجات مرد شوریدہ در ویرانۂ غزنے", "name-en": "Munajaat-e-Mard-e-Shoreeda dar Veerana-e-Ghazni" },
           { "id": "22", "name": "قندہار و زیارت خرقہ مبارک", "name-en": "Qandahar va Ziyarat-e-Khirqa-e-Mubarak" },
+          { "id": "25", "name": "غزل", "name-en": "The Chant" },
           { "id": "23", "name": "بر مزار حضرت احمد شاہ بابا علیہ الرحمہ", "name-en": "Bar Mazaar-e-Hazrat Ahmad Shah Baba Alaihir Rahmah" },
           { "id": "24", "name": "خطاب بہ پادشاہ اسلام اعلیحضرت ظاہر شاہ", "name-en": "Khitaab ba Paadshah-e-Islam Aalaahazrat Zahir Shah" }
         ]
@@ -1430,14 +1484,15 @@
   {
     "id": "armaghan-e-hijaz-2",
     "name": "ارمغانِ حجاز",
-    "name-en": "Armaghan-e-Hijaz",
+    "name-ro": "Armaghan-e-Hijaz",
+    "name-en": "Gift of the Hijaz",
     "year": "1938",
     "language": "fa",
     "sections": [
       {
         "id": "01",
         "name": "حضور حق",
-        "name-en": "Huzoor Haq",
+        "name-ro": "Huzoor Haq",
         "poems": [
           { "id": "01", "name": "01", "name-en": "01" },
           { "id": "02", "name": "02", "name-en": "02" },
@@ -1455,7 +1510,7 @@
       {
         "id": "02",
         "name": "حضور رسالت",
-        "name-en": "Huzoor Risalat",
+        "name-ro": "Huzoor Risalat",
         "poems": [
           { "id": "01", "name": "01", "name-en": "01" },
           { "id": "02", "name": "02", "name-en": "02" },
@@ -1475,7 +1530,7 @@
       {
         "id": "03",
         "name": "حضور ملت",
-        "name-en": "Huzoor Millat",
+        "name-ro": "Huzoor Millat",
         "poems": [
           { "id": "01", "name": "بحق دل بند و راہ مصطفی رو", "name-en": "Bihaq Dil Band Wa Rah-e-Mustafa Ro" },
           { "id": "02", "name": "خودی", "name-en": "Khudi" },
@@ -1500,7 +1555,7 @@
       {
         "id": "04",
         "name": "حضور عالم انسانیت",
-        "name-en": "Huzoor Alam-e-Insaniyat",
+        "name-ro": "Huzoor Alam-e-Insaniyat",
         "poems": [
           { "id": "01", "name": "تمہید", "name-en": "Tamheed" },
           { "id": "02", "name": "02", "name-en": "02" },
@@ -1520,7 +1575,7 @@
       {
         "id": "05",
         "name": "بہ یاران طریق",
-        "name-en": "Ba Yaran-e-Tareeq",
+        "name-ro": "Ba Yaran-e-Tareeq",
         "poems": [
           { "id": "01", "name": "01", "name-en": "01" },
           { "id": "02", "name": "02", "name-en": "02" },

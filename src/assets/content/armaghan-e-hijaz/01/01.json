@@ -8,6 +8,7 @@
   "Para": [
     {
       "name": "ابلیس",
+      "name-en": "The Satan",
       "Verse": [
         {
           "id": "01",
@@ -21,7 +22,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "The Satan: An old game of needs this mean world’s tact, to heavenly host hopes a cold blood act.",
+              "_content": "An old game of needs this mean world’s tact, to heavenly host hopes a cold blood act.",
               "lang": "English"
             }
           ]
@@ -116,6 +117,7 @@
     },
     {
       "name": "پہلا مشیر",
+      "name-en": "First Advisor",
       "Verse": [
         {
           "id": "13",
@@ -129,7 +131,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "First Advisor: The Satan’s order is firm every where, the masses too like the servitude snare.",
+              "_content": "The Satan’s order is firm every where, the masses too like the servitude snare.",
               "lang": "English"
             }
           ]
@@ -240,6 +242,7 @@
     },
     {
       "name": "دوسرا مشیر",
+      "name-en": "Second Advisor",
       "Verse": [
         {
           "id": "27",
@@ -253,7 +256,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Second Advisor: Is this roar in goodness that masses are kings? You know not new mischiefs of underlings.",
+              "_content": "Is this roar in goodness that masses are kings? You know not new mischiefs of underlings.",
               "lang": "English"
             }
           ]
@@ -263,6 +266,7 @@
     },
     {
       "name": "پہلا مشیر",
+      "name-en": "First Advisor",
       "Verse": [
         {
           "id": "29",
@@ -276,7 +280,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "First Advisor: A good point well, my seeing eye hails, no danger too there from a kingship’s veil.",
+              "_content": "A good point well, my seeing eye hails, no danger too there from a kingship’s veil.",
               "lang": "English"
             }
           ]
@@ -353,6 +357,7 @@
     },
     {
       "name": "تیسرا مشیر",
+      "name-en": "Third Advisor",
       "Verse": [
         {
           "id": "39",
@@ -366,7 +371,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Third Advisor: What is the harm if lives the royal soul, what is the answer to that Jew’s wicked role.",
+              "_content": "What is the harm if lives the royal soul, what is the answer to that Jew’s wicked role.",
               "lang": "English"
             }
           ]
@@ -427,6 +432,7 @@
     },
     {
       "name": "چوتھا مشیر",
+      "name-en": "Fourth Advisor",
       "Verse": [
         {
           "id": "47",
@@ -440,7 +446,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Fourth Advisor: Its counter action see in Rome’s big halls, we have shown his sons, dream of Caesar’s call.",
+              "_content": "Its counter action see in Rome’s big halls, we have shown his sons, dream of Caesar’s call.",
               "lang": "English"
             }
           ]
@@ -467,6 +473,7 @@
     },
     {
       "name": "تیسرا مشیر",
+      "name-en": "Third Advisor",
       "Verse": [
         {
           "id": "51",
@@ -480,7 +487,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Third Advisor: I can’t admire his prudence and care, who laid bare the Europe’s statecraft snare.",
+              "_content": "I can’t admire his prudence and care, who laid bare the Europe’s statecraft snare.",
               "lang": "English"
             }
           ]
@@ -490,6 +497,7 @@
     },
     {
       "name": "پانچواں مشیرابلیس کو مخاطب کرکے",
+      "name-en": "Fifth Advisor, while addressing Iblis",
       "Verse": [
         {
           "id": "53",
@@ -503,7 +511,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Fifth Advisor, while addressing Iblis: Due to thy burning this world gets balance, when you wished laid bare each hidden face hence.",
+              "_content": "Due to thy burning this world gets balance, when you wished laid bare each hidden face hence.",
               "lang": "English"
             }
           ]
@@ -665,6 +673,7 @@
     },
     {
       "name": "ابلیس اپنے مشیروں سے",
+      "name-en": "Satan (To His Advisors)",
       "Verse": [
         {
           "id": "73",
@@ -678,7 +687,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "Satan (To His Advisors): Thus lies in my hold the world’s pomp an show, this earth, the Sun and Moon, the sky’s glow.",
+              "_content": "Thus lies in my hold the world’s pomp an show, this earth, the Sun and Moon, the sky’s glow.",
               "lang": "English"
             }
           ]
