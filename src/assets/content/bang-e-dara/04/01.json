@@ -20,7 +20,7 @@
               "lang": "Urdu"
             },
             {
-              "_content": "In the East principles are changed to religion, but in the West they are changed into machines.\nWe do not retain even one of them; there one is changed into three. \n(Reference to the doctrine of Trinity) ",
+              "_content": "In the East principles are changed to religion\nBut in the West they are changed into machines. \n(Reference to the doctrine of Trinity) ",
               "lang": "English"
             }
           ]
@@ -36,7 +36,8 @@
               "lang": "Urdu"
             },
             {
-              "lang": "English"
+              "lang": "English",
+              "content": "We do not retain even one of them\nThere one is changed into three"
             }
           ]
         }

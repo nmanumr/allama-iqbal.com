@@ -2,7 +2,7 @@
   "id": "32",
   "name": "",
   "bookId": "bal-e-jibreel",
-  "bookName": "‫بالِ جبریل",
+  "bookName": "بالِ جبریل",
   "sectionId": "03",
   "sectionName": "رباعیات",
   "Para": [
@@ -20,7 +20,8 @@
               "lang": "Urdu"
             },
             {
-              "lang": "English"
+              "lang": "English",
+              "_content": "To be God is to do a million tasks;\nTo be God, no doubt, is a wearisome headache;\nBut-pardon me, O Lord-to be a man,\nIs not a headache, but a heartache."
             }
           ]
         }
