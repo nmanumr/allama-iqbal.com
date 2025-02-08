@@ -46,11 +46,11 @@ export default async function Book({ params }: Props) {
               <div>({urNumberFormat.format(poemIndex + 1)})</div>
               <div>{poem.name}</div>
 
-              {poem.nameAlt?.en && (
+              {(poem.nameAlt as any)?.en && (
                 <>
                   <div className="flex-1 border-b border-dashed border-gray-300"></div>
 
-                  <div className="text-end">{poem.nameAlt?.en}</div>
+                  <div className="text-end">{(poem.nameAlt as any)?.en}</div>
                   <div>.{poemIndex + 1}</div>
                 </>
               )}

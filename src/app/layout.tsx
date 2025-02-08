@@ -35,6 +35,18 @@ export default function RootLayout({
           </Suspense>
           {children}
         </NuqsAdapter>
+
+        <footer className="max-w-container mx-auto mt-32 w-full px-4 sm:px-6 lg:px-8" aria-labelledby="footer-heading">
+          <h2 id="footer-heading" className="sr-only">
+            Footer
+          </h2>
+          <div className="items-centers grid grid-cols-1 justify-between gap-4 border-t border-gray-100 py-6 md:grid-cols-2">
+            <div />
+            <div className="flex items-center px-4 justify-center space-x-4 text-sm/6 font-semibold text-slate-900 md:justify-end">
+              <a target="_blank" href="https://github.com/nmanumr/allama-iqbal.com">Source Code</a>
+            </div>
+          </div>
+        </footer>
       </body>
     </html>
   );
