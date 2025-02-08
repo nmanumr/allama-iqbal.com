@@ -4,7 +4,7 @@ import Link from "next/link";
 
 import { numberFormat } from "@/utils/intl";
 
-import indexItems from "../assets/index.json";
+import indexItems from "../assets/new-index.json";
 
 const languages: Record<string, string> = {
   ur: "اردو",
@@ -19,10 +19,13 @@ export default async function Home() {
     >
       <div className="flex-1 text-center text-4xl leading-[2]">کلیات اقبال</div>
 
-      <div className="flex justify-center mt-6">
-        <Link href="/search" className="relative flex w-64 items-center gap-x-4 rounded-md bg-gray-100 py-2.5 px-4 hover:bg-gray-200 focus:outline-none">
-          <MagnifyingGlassIcon className="size-5 text-gray-600 absolute" />
-          <div className="text-gray-600 w-full text-center">تلاش کریں...</div>
+      <div className="mt-6 flex justify-center">
+        <Link
+          href="/search"
+          className="relative flex w-64 items-center gap-x-4 rounded-md bg-gray-100 px-4 py-2.5 hover:bg-gray-200 focus:outline-none"
+        >
+          <MagnifyingGlassIcon className="absolute size-5 text-gray-600" />
+          <div className="w-full text-center text-gray-600">تلاش کریں...</div>
         </Link>
       </div>
 
@@ -31,7 +34,7 @@ export default async function Home() {
           <Link
             className="flex items-baseline gap-x-6 py-4 text-start text-lg leading-[2]"
             key={book.id}
-            href={`/${book.id}`}
+            href={`/${book.slug}`}
           >
             <div className="flex items-baseline">
               <div className="pe-4">({numberFormat.format(index + 1)})</div>

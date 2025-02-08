@@ -1,86 +1,67 @@
-import { cache } from "react";
+/* eslint-disable @typescript-eslint/no-unused-vars */
+import indexItems from "@/assets/new-index.json";
 
-import indexItems from "@/assets/index.json";
 
-export const flattenIndex = cache(() => {
-  const books = indexItems.map((book) => ({
-    type: "book",
-    id: book.id,
-    name: book.name,
-    nameEn: book["name-en"],
-    year: book.year,
-  }));
-
-  const sectionsWithBookName = indexItems.flatMap((book) =>
-    book.sections.map((s) => ({
-      ...s,
-      bookId: book.id,
-      bookName: book.name,
-      bookNameEn: book["name-en"],
-    })),
+export const flattenIndex = () => {
+  const books = indexItems.map(
+    ({ sections, ...book }) =>
+      ({
+        type: "book",
+        ...book,
+      }) as const,
   );
 
-  const poemsWithSectionName = sectionsWithBookName.flatMap((section) =>
-    section.poems.map((p) => ({
-      ...p,
-      bookName: section.bookName,
-      bookNameEn: section.bookNameEn,
-      sectionId: section.id,
-      bookId: section.bookId,
-      sectionName: section.name,
-      sectionNameEn: (section as Record<string, unknown>)["name-en"],
-    })),
+  const sectionsWithBook = indexItems.flatMap(({ sections, ...book }) =>
+    sections.map(({ poems, ...section }) => ({ ...section, poems, book }) as const),
   );
 
-  const sections = sectionsWithBookName
-    .filter((e) => !!(e as Record<string, unknown>)["name-en"])
-    .map((section) => ({
-      id: section.id,
-      type: "section",
-      name: section.name,
-      nameEn: (section as Record<string, unknown>)["name-en"],
-      bookId: section.bookId,
-      bookName: section.bookName,
-      bookNameEn: section.bookNameEn,
-    }));
+  const poemsWithSection = sectionsWithBook.flatMap(({ poems, book, ...section }) =>
+    poems.map(
+      (poem) =>
+        ({
+          ...poem,
+          section,
+          book,
+        }) as const,
+    ),
+  );
 
-  const poems = poemsWithSectionName
-    .filter((e) => !!e["name-en"])
-    .map((poem) => ({
-      id: poem.id,
-      type: "poem",
-      name: poem.name,
-      nameEn: poem["name-en"],
-      bookId: poem.bookId,
-      bookName: poem.bookName,
-      bookNameEn: poem.bookNameEn,
-      sectionId: poem.sectionId,
-      sectionName: poem.sectionName,
-      sectionNameEn: poem.sectionNameEn,
-    }));
+  const sections = sectionsWithBook
+    .filter((e) => !!e.name)
+    .map(
+      ({ poems, ...section }) =>
+        ({
+          type: "section",
+          ...section,
+        }) as const,
+    );
 
-  return [...books, ...sections, ...poems] as {
-    type: "poem" | "book" | "section";
-    id: string;
-    name: string;
-    nameEn?: string;
-    bookId?: string;
-    bookName?: string;
-    bookNameEn?: string;
-    sectionId?: string;
-    sectionName?: string;
-    sectionNameEn?: string;
-  }[];
-});
+  const poems = poemsWithSection
+    .filter((e) => !!e.name)
+    .map(
+      (poem) =>
+        ({
+          type: "poem",
+          ...poem,
+        }) as const,
+    );
+
+  return [...books, ...sections, ...poems] as (
+    | (typeof books)[number]
+    | (typeof poems)[number]
+    | (typeof sections)[number]
+  )[];
+};
 
 export function findAdjacentPoems(bookId: string, sectionId: string, poemId: string) {
   let prev = null;
   let next = null;
 
-  const flattenedPoems = flattenIndex();
+  const flattenedPoems = flattenIndex().filter((p) => p.type === "poem");
+  type PoemType = Extract<(typeof flattenedPoems)[number], { type: "poem" }>;
 
   const currentIndex = flattenedPoems.findIndex(
-    (poem) => poem.bookId === bookId && poem.sectionId === sectionId && poem.id === poemId,
+    (poem) => poem.type === "poem" && poem.book.id === bookId && poem.section.id === sectionId && poem.id === poemId,
   );
 
   if (currentIndex > 0) {
@@ -91,5 +72,5 @@ export function findAdjacentPoems(bookId: string, sectionId: string, poemId: str
     next = flattenedPoems[currentIndex + 1];
   }
 
-  return { prev, next };
+  return { prev, next } as { prev: PoemType; next: PoemType };
 }

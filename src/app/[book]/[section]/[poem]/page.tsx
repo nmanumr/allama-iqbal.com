@@ -67,23 +67,23 @@ export default async function Poem({ params }: Props) {
         <div className="mx-auto mt-24 flex w-full max-w-6xl justify-between gap-x-10 px-4 pb-10 font-nastaliq leading-[1.8] sm:grid-cols-2">
           {next && (
             <Link
-              href={`/${next.bookId}/${next.sectionId}/${next.id}`}
+              href={`/${next.book.slug}/${next.section.slug}/${next.slug}`}
               className="flex items-center justify-start gap-x-4 pe-10 text-start text-xl font-semibold"
             >
               <ChevronRightIcon className="relative -bottom-4 size-8" />
               <div className="space-y-4 text-lg">
-                <div className="text-xs">{[next.bookName, next.sectionName].filter(Boolean).join(" > ")}</div>
+                <div className="text-xs">{[next.book.name, next.section.name].filter(Boolean).join(" > ")}</div>
                 <div>{next.name}</div>
               </div>
             </Link>
           )}
           {prev ? (
             <Link
-              href={`/${prev.bookId}/${prev.sectionId}/${prev.id}`}
+              href={`/${prev.book.slug}/${prev.section.slug}/${prev.slug}`}
               className="hidden items-center justify-end gap-x-4 ps-10 text-end text-xl md:flex"
             >
               <div className="space-y-4 text-lg">
-                <div className="text-xs">{[prev.bookName, prev.sectionName].filter(Boolean).join(" > ")}</div>
+                <div className="text-xs">{[prev.book.name, prev.section.name].filter(Boolean).join(" > ")}</div>
                 <div>{prev.name}</div>
               </div>
               <ChevronLeftIcon className="relative -bottom-4 size-8" />

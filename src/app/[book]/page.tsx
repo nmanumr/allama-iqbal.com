@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
-import indexItems from "@/assets/index.json";
+import indexItems from "@/assets/new-index.json";
 import { numberFormat } from "@/utils/intl";
 
 interface Props {
@@ -29,7 +29,7 @@ export default async function Book({ params }: Props) {
       {book.sections.map((section, sectionIndex) => (
         <section key={section.id} id={section.id} className="mt-10">
           {section.name && (
-            <Link href={`#${section.id}`} className="sticky top-0 block border-b border-gray-200 bg-white py-4 text-xl">
+            <Link href={`#${section.slug}`} className="sticky top-0 block border-b border-gray-200 bg-white py-4 text-xl">
               <span className="pe-4">({numberFormat.format(sectionIndex + 1)})</span> {section.name}
             </Link>
           )}
@@ -37,7 +37,7 @@ export default async function Book({ params }: Props) {
           {section.poems.map((poem, poemIndex) => (
             <Link
               key={poem.id}
-              href={`/${book.id}/${section.id}/${poem.id}`}
+              href={`/${book.slug}/${section.slug}/${poem.slug}`}
               className="block px-4 py-3 text-start leading-[2]"
             >
               <span className="pe-4">({numberFormat.format(poemIndex + 1)})</span>
