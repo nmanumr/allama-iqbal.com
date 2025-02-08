@@ -6,4 +6,4 @@ export const urIntl = new Intl.Locale("ur-PK", {
   numberingSystem: "arabext",
 });
 
-export const numberFormat = Intl.NumberFormat(urIntl);
+export const urNumberFormat = Intl.NumberFormat(urIntl);

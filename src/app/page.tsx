@@ -2,7 +2,7 @@ import { MagnifyingGlassIcon } from "@heroicons/react/24/outline";
 import { Metadata } from "next";
 import Link from "next/link";
 
-import { numberFormat } from "@/utils/intl";
+import { urNumberFormat } from "@/utils/intl";
 
 import indexItems from "../assets/new-index.json";
 
@@ -37,7 +37,7 @@ export default async function Home() {
             href={`/${book.slug}`}
           >
             <div className="flex items-baseline">
-              <div className="pe-4">({numberFormat.format(index + 1)})</div>
+              <div className="pe-4">({urNumberFormat.format(index + 1)})</div>
               {book.name}
               <div className="ms-4 text-sm text-gray-600">
                 {languages[book.language] ? `(${languages[book.language]})` : null}

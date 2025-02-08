@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import indexItems from "@/assets/new-index.json";
-import { numberFormat } from "@/utils/intl";
+import { urNumberFormat } from "@/utils/intl";
 
 interface Props {
   params: Promise<{ book: string }>;
@@ -24,13 +24,16 @@ export default async function Book({ params }: Props) {
       dir="rtl"
     >
       <div className="my-20 text-4xl">
-        <span className="pe-4">({numberFormat.format(bookIndex + 1)})</span> {book.name}
+        <span className="pe-4">({urNumberFormat.format(bookIndex + 1)})</span> {book.name}
       </div>
       {book.sections.map((section, sectionIndex) => (
         <section key={section.id} id={section.id} className="mt-10">
           {section.name && (
-            <Link href={`#${section.slug}`} className="sticky top-0 block border-b border-gray-200 bg-white py-4 text-xl">
-              <span className="pe-4">({numberFormat.format(sectionIndex + 1)})</span> {section.name}
+            <Link
+              href={`#${section.slug}`}
+              className="sticky top-0 block border-b border-gray-200 bg-white py-4 text-xl"
+            >
+              <span className="pe-4">({urNumberFormat.format(sectionIndex + 1)})</span> {section.name}
             </Link>
           )}
 
@@ -38,10 +41,19 @@ export default async function Book({ params }: Props) {
             <Link
               key={poem.id}
               href={`/${book.slug}/${section.slug}/${poem.slug}`}
-              className="block px-4 py-3 text-start leading-[2]"
+              className="flex gap-x-3 px-4 py-3 text-start leading-[2]"
             >
-              <span className="pe-4">({numberFormat.format(poemIndex + 1)})</span>
-              {poem.name}
+              <div>({urNumberFormat.format(poemIndex + 1)})</div>
+              <div>{poem.name}</div>
+
+              {poem.nameAlt?.en && (
+                <>
+                  <div className="flex-1 border-b border-dashed border-gray-300"></div>
+
+                  <div className="text-end">{poem.nameAlt?.en}</div>
+                  <div>.{poemIndex + 1}</div>
+                </>
+              )}
             </Link>
           ))}
         </section>
