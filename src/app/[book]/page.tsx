@@ -41,7 +41,7 @@ export default async function Book({ params }: Props) {
             <Link
               key={poem.id}
               href={`/${book.slug}/${section.slug}/${poem.slug}`}
-              className="flex gap-x-3 px-4 py-3 text-start leading-[2]"
+              className="flex text-baseline gap-x-3 px-4 py-3 text-start leading-[2]"
             >
               <div>({urNumberFormat.format(poemIndex + 1)})</div>
               <div>{poem.name}</div>
