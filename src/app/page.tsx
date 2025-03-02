@@ -31,20 +31,29 @@ export default async function Home() {
 
       <div className="mt-6">
         {indexItems.map((book, index) => (
-          <Link
-            className="flex items-baseline gap-x-6 py-4 text-start text-lg leading-[2]"
-            key={book.id}
-            href={`/${book.slug}`}
-          >
-            <div className="flex items-baseline">
-              <div className="pe-4">({urNumberFormat.format(index + 1)})</div>
-              {book.name}
-              <div className="ms-4 text-sm text-gray-600">
-                {languages[book.language] ? `(${languages[book.language]})` : null}
+          <Link key={book.id} href={`/${book.slug}`} className="py-4 block border-b border-dashed border-gray-300 pb-4">
+            <div className="flex flex-col sm:flex-row justify-between items-stretch">
+              <div className="flex flex-col items-start text-start mb-2 sm:mb-0 space-y-3">
+                <div className="text-lg">
+                  <span className="me-2">({urNumberFormat.format(index + 1)})</span>
+                  {book.name}
+                </div>
+                <div className="text-sm text-gray-600 ">
+                  {languages[book.language]} • {book.year}
+                </div>
               </div>
+              {book.nameAlt?.en && (
+                <div dir="ltr" className="flex flex-col items-start text-start space-y-3">
+                  <div className="text-lg">
+                    <span className="me-2">{index + 1}. </span>
+                    {book.nameAlt.en}
+                  </div>
+                  <div className="text-sm text-gray-600">
+                  {book.language === "ur" ? "Urdu" : "Persian"} • {book.year}
+                  </div>
+                </div>
+              )}
             </div>
-            <div className="flex-1 border-b border-dashed border-gray-300" />
-            <div>{book.year}</div>
           </Link>
         ))}
       </div>

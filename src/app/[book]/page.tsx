@@ -41,17 +41,21 @@ export default async function Book({ params }: Props) {
             <Link
               key={poem.id}
               href={`/${book.slug}/${section.slug}/${poem.slug}`}
-              className="flex text-baseline gap-x-3 px-4 py-3 text-start leading-[2]"
+              className="text-baseline flex flex-col gap-x-3 gap-y-2 border-b border-dashed border-gray-300 px-4 py-4 text-start leading-[2] sm:flex-row sm:border-b-0"
             >
-              <div>({urNumberFormat.format(poemIndex + 1)})</div>
-              <div>{poem.name}</div>
+              <div className="flex gap-x-3">
+                <div>({urNumberFormat.format(poemIndex + 1)})</div>
+                <div>{poem.name}</div>
+              </div>
 
               {(poem.nameAlt as any)?.en && (
                 <>
-                  <div className="flex-1 border-b border-dashed border-gray-300"></div>
+                  <div className="hidden flex-1 border-b border-dashed border-gray-300 sm:block"></div>
 
-                  <div className="text-end">{(poem.nameAlt as any)?.en}</div>
-                  <div>.{poemIndex + 1}</div>
+                  <div dir="ltr" className="flex gap-x-2 text-start">
+                    <div>{poemIndex + 1}.</div>
+                    <div>{(poem.nameAlt as any)?.en}</div>
+                  </div>
                 </>
               )}
             </Link>
