@@ -11799,6 +11799,16 @@
         },
         "poems": [
           {
+            "id": "00",
+            "slug": "00",
+            "title": "مجو از من کلام عارفانہ",
+            "name": "مجو از من کلام عارفانہ",
+            "nameAlt": {
+              "romanized": "Majū az man kalām-e ārifāna",
+              "en": "Do not seek mystical words from me"
+            }
+          },
+          {
             "id": "01",
             "slug": "01",
             "title": "بحق دل بند و راہ مصطفی رو",
