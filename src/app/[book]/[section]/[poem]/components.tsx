@@ -54,7 +54,7 @@ export function Stanza({ para }: { para: (typeof PoemType)["Para"][0] }) {
           <SizeProvider key={id}>
             <div
               className={clsx(
-                "relative w-full border-b border-black/10 px-4 py-2 text-2xl target:bg-yellow-50 scroll-mt-10",
+                "relative w-full scroll-mt-10 border-b border-black/10 px-4 py-2 text-2xl target:bg-yellow-50",
                 (en || ur) && "grid-cols-5 lg:grid lg:gap-x-10",
               )}
               id={`cplt${id}`}
@@ -106,22 +106,16 @@ export function Verse({ content }: { content: string }) {
     <div
       ref={(el) => {
         if (el?.clientWidth && sizeContext?.setChildSize && sizeContext?.fontsLoaded) {
-          sizeContext.setChildSize(el?.clientWidth);
+          if ((sizeContext?.maxSize ?? 0) < el?.clientWidth) {
+            sizeContext.setChildSize(el?.clientWidth + 20);
+          }
         }
       }}
       key={sizeContext?.fontsLoaded ? "pending" : "loaded"}
       style={{ minWidth: sizeContext?.maxSize ? `${sizeContext?.maxSize}px` : undefined }}
-      className={clsx("inline-block w-fit leading-[1.8]", sizeContext?.maxSize && "flex justify-between")}
+      className={"inline-block w-fit whitespace-nowrap leading-[1.8] [text-align-last:justify]"}
     >
-      {content
-        .split(" ")
-        .filter(Boolean)
-        .map((word, index) => [word, index] as const)
-        .map(([word, i]) => (
-          <div key={i} className="inline-block px-px sm:px-0.5">
-            {word}&nbsp;
-          </div>
-        ))}
+      {content}
     </div>
   );
 }
