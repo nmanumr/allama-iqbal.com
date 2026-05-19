@@ -70,5 +70,5 @@ jobs:
           fi
 
       - name: Upload to Algolia
-        if: steps.changed.outputs.verses_changed == 'true'
+        # if: steps.changed.outputs.verses_changed == 'true'
         run: pnpm upload:algolia-index
