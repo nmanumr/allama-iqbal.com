@@ -4,15 +4,15 @@ on:
   push:
     branches:
       - main
-    paths:
-      - src/assets/algolia/verses.json
-      - src/assets/content/**
-      - src/assets/new-index.json
-      - scripts/build-algolia-index.mjs
-      - scripts/upload-algolia-index.mjs
-      - package.json
-      - pnpm-lock.yaml
-      - .github/workflows/algolia-index.yml
+#    paths:
+#      - src/assets/algolia/verses.json
+#      - src/assets/content/**
+#      - src/assets/new-index.json
+#      - scripts/build-algolia-index.mjs
+#      - scripts/upload-algolia-index.mjs
+#      - package.json
+#      - pnpm-lock.yaml
+#      - .github/workflows/algolia-index.yml
 
 concurrency:
   group: algolia-index-${{ github.ref }}
