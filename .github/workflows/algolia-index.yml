@@ -1,0 +1,74 @@
+name: Algolia index
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - src/assets/algolia/verses.json
+      - src/assets/content/**
+      - src/assets/new-index.json
+      - scripts/build-algolia-index.mjs
+      - scripts/upload-algolia-index.mjs
+      - package.json
+      - pnpm-lock.yaml
+      - .github/workflows/algolia-index.yml
+
+concurrency:
+  group: algolia-index-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  upload:
+    name: Upload verses index
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    env:
+      ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+      ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+      ALGOLIA_INDEX_NAME: ${{ vars.ALGOLIA_INDEX_NAME || 'verses' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Enable Corepack
+        run: corepack enable
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Rebuild Algolia payload
+        run: pnpm build:algolia-index
+
+      - name: Verify committed payload is current
+        run: git diff --exit-code -- src/assets/algolia/verses.json
+
+      - name: Detect changed payload
+        id: changed
+        shell: bash
+        run: |
+          before="${{ github.event.before }}"
+
+          if [[ "$before" =~ ^0+$ ]]; then
+            echo "verses_changed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if git diff --name-only "$before" "${{ github.sha }}" -- src/assets/algolia/verses.json | grep -q .; then
+            echo "verses_changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "verses_changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Upload to Algolia
+        if: steps.changed.outputs.verses_changed == 'true'
+        run: pnpm upload:algolia-index
