@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:algolia-index": "node scripts/build-algolia-index.mjs",
     "start": "next start",
     "lint": "next lint",
     "prettier": "prettier . --write"
