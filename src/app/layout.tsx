@@ -3,6 +3,7 @@ import { Suspense } from "react";
 
 import type { Metadata } from "next";
 import { Noto_Nastaliq_Urdu } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import NextTopLoader from "nextjs-toploader";
 import { NuqsAdapter } from "nuqs/adapters/next/app";
 
@@ -47,6 +48,7 @@ export default function RootLayout({
             </div>
           </div>
         </footer>
+        <Analytics />
       </body>
     </html>
   );

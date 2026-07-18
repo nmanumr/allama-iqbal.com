@@ -28,6 +28,7 @@
     "@tiptap/react": "^2.10.3",
     "@tiptap/suggestion": "^2.10.3",
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "@vercel/analytics": "^2.0.1",
     "algoliasearch": "^5.15.0",
     "clsx": "^2.1.1",
     "flexsearch": "^0.7.43",
