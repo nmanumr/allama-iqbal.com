@@ -33,7 +33,7 @@
     "flexsearch": "^0.7.43",
     "instantsearch.js": "^4.75.5",
     "jotai": "^2.10.3",
-    "next": "15.0.3",
+    "next": "15.0.7",
     "nextjs-toploader": "^3.7.15",
     "nuqs": "^2.2.3",
     "persian-preprocess": "^1.0.0",
