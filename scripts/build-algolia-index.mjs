@@ -103,17 +103,29 @@ function buildRecord({ poem, verse, para, bookMeta, sectionMeta, poemMeta }) {
   const verseId = String(verse.id);
   const id = `${poem.bookId}/${poem.sectionId}/${poem.id}/${verseId}`;
   const paraId = para.id == null ? "" : String(para.id);
+  const names = poemNames({ poem, bookMeta, sectionMeta, poemMeta });
 
   return {
     objectID: id,
     id,
     type: "verse",
+    typeRank: 0,
     bookId: poem.bookId,
     sectionId: poem.sectionId,
     poemId: poem.id,
     verseId,
     paraId,
-    ...poemNames({ poem, bookMeta, sectionMeta, poemMeta }),
+    // Titles stay on poem records only so title queries surface poems, not every verse.
+    bookName: names.bookName,
+    bookNameRomanized: names.bookNameRomanized,
+    bookNameEnglish: names.bookNameEnglish,
+    sectionName: names.sectionName,
+    sectionNameRomanized: names.sectionNameRomanized,
+    sectionNameEnglish: names.sectionNameEnglish,
+    poemName: "",
+    poemNameRomanized: "",
+    poemNameEnglish: "",
+    poemLabel: names.poemName,
     paraName: para.name ?? "",
     content,
     contentUrdu: text.get("Urdu") ?? "",
@@ -121,25 +133,27 @@ function buildRecord({ poem, verse, para, bookMeta, sectionMeta, poemMeta }) {
   };
 }
 
-function buildPoemRecord({ poem, firstVerse, bookMeta, sectionMeta, poemMeta }) {
-  const text = firstVerse ? textByLanguage(firstVerse) : new Map();
-  const content = text.get("Original") ?? "";
+function buildPoemRecord({ poem, bookMeta, sectionMeta, poemMeta }) {
+  const names = poemNames({ poem, bookMeta, sectionMeta, poemMeta });
   const id = `${poem.bookId}/${poem.sectionId}/${poem.id}`;
 
   return {
     objectID: `poem:${id}`,
     id,
     type: "poem",
+    typeRank: 1,
     bookId: poem.bookId,
     sectionId: poem.sectionId,
     poemId: poem.id,
     verseId: "",
     paraId: "",
-    ...poemNames({ poem, bookMeta, sectionMeta, poemMeta }),
+    ...names,
+    poemLabel: names.poemName,
     paraName: "",
-    content,
-    contentUrdu: text.get("Urdu") ?? "",
-    contentEnglish: text.get("English") ?? "",
+    // Title-only: empty content so poem hits don't compete with verse text matches.
+    content: "",
+    contentUrdu: "",
+    contentEnglish: "",
   };
 }
 
@@ -168,12 +182,10 @@ async function main() {
     const sectionMeta = metadata.sections.get(`${poem.bookId}/${poem.sectionId}`);
     const poemMeta = metadata.poems.get(`${poem.bookId}/${poem.sectionId}/${poem.id}`);
 
-    const firstVerse = firstVerseWithContent(poem);
-    if (firstVerse) {
+    if (firstVerseWithContent(poem)) {
       records.push(
         buildPoemRecord({
           poem,
-          firstVerse,
           bookMeta,
           sectionMeta,
           poemMeta,

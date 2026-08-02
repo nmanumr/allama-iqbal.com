@@ -50,6 +50,7 @@ await client.setSettings({
       "contentUrdu",
       "contentEnglish",
     ],
+    customRanking: ["desc(typeRank)"],
   },
 });
 

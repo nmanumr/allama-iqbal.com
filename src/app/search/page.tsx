@@ -1,7 +1,7 @@
 "use client";
 
 import { ReactNode } from "react";
-import { Hits, useInstantSearch } from "react-instantsearch";
+import { Configure, Hits, useInstantSearch } from "react-instantsearch";
 import { InstantSearchNext } from "react-instantsearch-nextjs";
 
 import { liteClient as algoliasearch } from "algoliasearch/lite";
@@ -21,7 +21,12 @@ interface SearchHitItem {
   bookName: string;
   sectionName: string;
   poemName: string;
+  poemLabel?: string;
   paraName: string;
+}
+
+function poemTitle(hit: SearchHitItem) {
+  return hit.poemLabel || hit.poemName;
 }
 
 function ResultBreadcrumb({
@@ -72,32 +77,21 @@ function ResultBreadcrumb({
 function SearchResult({ hit }: { hit: SearchHit<SearchHitItem> }) {
   const [bookId, sectionId, poemId, stanzaId] = hit.id.split("/");
   const poemHref = `/${bookId}/${sectionId}/${poemId}`;
+  const title = poemTitle(hit);
 
   if (hit.type === "poem") {
     return (
       <div className="boder-gray-300 border-b px-4 py-4 font-mehr-nastaliq">
-        <Link href={poemHref} className="text-2xl pb-2 block">
-          {hit.poemName}
+        <Link href={poemHref} className="text-2xl pb-4 block">
+          {title}
         </Link>
-        {hit.content && (
-          <Link href={poemHref} className="text-lg pb-4 block opacity-70">
-            <SizeProvider>
-              {hit.content
-                .split("\n")
-                .map((line, i) => [i, line] as const)
-                .map(([i, line]) => (
-                  <Verse content={line} key={i} />
-                ))}
-            </SizeProvider>
-          </Link>
-        )}
         <ResultBreadcrumb
           bookId={bookId}
           sectionId={sectionId}
           poemId={poemId}
           bookName={hit.bookName}
           sectionName={hit.sectionName}
-          poemName={hit.poemName}
+          poemName={title}
         />
       </div>
     );
@@ -121,11 +115,15 @@ function SearchResult({ hit }: { hit: SearchHit<SearchHitItem> }) {
         poemId={poemId}
         bookName={hit.bookName}
         sectionName={hit.sectionName}
-        poemName={hit.poemName}
+        poemName={title}
         showPoem
       />
     </div>
   );
+}
+
+function promotePoems<T extends { type?: string }>(items: T[]) {
+  return [...items].sort((a, b) => Number(b.type === "poem") - Number(a.type === "poem"));
 }
 
 function EmptyQueryBoundary({ children, fallback }: { children: ReactNode; fallback?: ReactNode }) {
@@ -165,9 +163,10 @@ export default function SearchPage() {
         searchClient={searchClient}
         indexName="verses"
       >
+        <Configure optionalFilters={["type:poem<score=1000>"]} />
         <SearchBox />
         <EmptyQueryBoundary fallback={<EmptyState />}>
-          <Hits className="mt-10" hitComponent={SearchResult} />
+          <Hits className="mt-10" hitComponent={SearchResult} transformItems={promotePoems} />
         </EmptyQueryBoundary>
       </InstantSearchNext>
     </div>
