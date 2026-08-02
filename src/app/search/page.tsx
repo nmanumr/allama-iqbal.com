@@ -1,7 +1,7 @@
 "use client";
 
 import { ReactNode } from "react";
-import { Configure, Hits, Index, useInstantSearch } from "react-instantsearch";
+import { Configure, Index, useInfiniteHits, useInstantSearch } from "react-instantsearch";
 import { InstantSearchNext } from "react-instantsearch-nextjs";
 
 import { liteClient as algoliasearch } from "algoliasearch/lite";
@@ -15,7 +15,8 @@ import EmptySearchIllustration from "@/components/EmptySearchIllustration";
 const searchClient = algoliasearch(process.env.NEXT_PUBLIC_ALGOLIA_APP_ID!, process.env.NEXT_PUBLIC_ALGOLIA_API_KEY!);
 
 const INDEX_NAME = "verses";
-const MAX_POEM_HITS = 3;
+const POEM_PAGE_SIZE = 10;
+const VERSE_PAGE_SIZE = 20;
 
 interface SearchHitItem {
   id: string;
@@ -127,6 +128,36 @@ function VerseSearchResult({ hit }: { hit: SearchHit<SearchHitItem> }) {
   );
 }
 
+function HitSection({
+  heading,
+  moreLabel,
+  hitComponent: HitComponent,
+}: {
+  heading: string;
+  moreLabel: string;
+  hitComponent: (props: { hit: SearchHit<SearchHitItem> }) => ReactNode;
+}) {
+  const { items, isLastPage, showMore } = useInfiniteHits<SearchHitItem>();
+
+  if (items.length === 0) {
+    return null;
+  }
+
+  return (
+    <section className="mb-8">
+      <h2 className="border-b border-gray-300 px-4 pb-2 text-lg text-gray-500">{heading}</h2>
+      {items.map((hit) => (
+        <HitComponent hit={hit} key={hit.objectID} />
+      ))}
+      {!isLastPage && (
+        <button className="px-4 py-4 text-gray-500 transition hover:text-green-700" onClick={showMore} type="button">
+          {moreLabel}
+        </button>
+      )}
+    </section>
+  );
+}
+
 function EmptyQueryBoundary({ children, fallback }: { children: ReactNode; fallback?: ReactNode }) {
   const { indexUiState, scopedResults } = useInstantSearch();
   const hasQuery = Boolean(indexUiState.query);
@@ -173,12 +204,12 @@ export default function SearchPage() {
         <EmptyQueryBoundary fallback={<EmptyState />}>
           <div className="mt-10">
             <Index indexId="poem-hits" indexName={INDEX_NAME}>
-              <Configure filters="type:poem" hitsPerPage={MAX_POEM_HITS} />
-              <Hits hitComponent={PoemSearchResult} />
+              <Configure filters="type:poem" hitsPerPage={POEM_PAGE_SIZE} />
+              <HitSection heading="نظمیں" hitComponent={PoemSearchResult} moreLabel="مزید نظمیں دکھائیں" />
             </Index>
             <Index indexId="verse-hits" indexName={INDEX_NAME}>
-              <Configure filters="type:verse" />
-              <Hits hitComponent={VerseSearchResult} />
+              <Configure filters="type:verse" hitsPerPage={VERSE_PAGE_SIZE} />
+              <HitSection heading="اشعار" hitComponent={VerseSearchResult} moreLabel="مزید اشعار دکھائیں" />
             </Index>
           </div>
         </EmptyQueryBoundary>
