@@ -1,7 +1,7 @@
 "use client";
 
 import clsx from "clsx";
-import { PropsWithChildren, ReactNode, createContext, use, useEffect, useState } from "react";
+import { PropsWithChildren, createContext, use, useEffect, useState } from "react";
 
 import Link from "next/link";
 
@@ -99,7 +99,7 @@ export function Stanza({ para }: { para: (typeof PoemType)["Para"][0] }) {
   );
 }
 
-export function Verse({ content }: { content: ReactNode }) {
+export function Verse({ content }: { content: string }) {
   const sizeContext = use(SizeContext);
 
   return (

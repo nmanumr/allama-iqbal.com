@@ -8,7 +8,6 @@ import { liteClient as algoliasearch } from "algoliasearch/lite";
 import { type Hit as SearchHit } from "instantsearch.js";
 import Link from "next/link";
 
-import { SizeProvider, Verse } from "@/app/[book]/[section]/[poem]/components";
 import SearchBox from "@/app/search/SearchBox";
 import EmptySearchIllustration from "@/components/EmptySearchIllustration";
 
@@ -94,7 +93,7 @@ function highlightNodes(value: string): ReactNode[] {
     }
 
     nodes.push(
-      <mark className="bg-yellow-100 text-inherit" key={start}>
+      <mark className="rounded-[2px] bg-yellow-100/80 text-inherit" key={start}>
         {unescapeHighlight(match[1])}
       </mark>,
     );
@@ -113,7 +112,16 @@ function highlighted(hit: SearchHit<SearchHitItem>, attribute: "content" | "poem
   return value ? highlightNodes(value) : [fallback];
 }
 
-function ResultBreadcrumb({
+const FOCUS_RING = "rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-green-700/40";
+const RESULT_ROW =
+  "group relative border-b border-[#EFEDE8] px-4 py-3.5 font-mehr-nastaliq transition-colors duration-[120ms] last:border-b-0 hover:bg-[#FAFAF8] motion-reduce:transition-none";
+// Stretches the result's own link across the whole row, so the hover band and the hit target match.
+// Source links sit above it on their own stacking layer and stay independently clickable.
+const STRETCHED_LINK = `block text-2xl leading-[1.9] after:absolute after:inset-0 after:content-[''] ${FOCUS_RING}`;
+const SOURCE_LINK = `whitespace-nowrap transition-colors duration-[120ms] hover:text-green-700 motion-reduce:transition-none ${FOCUS_RING}`;
+
+/** Where the hit comes from: quiet, small, and always on its own edge of the row. */
+function ResultSource({
   bookId,
   sectionId,
   poemId,
@@ -131,25 +139,22 @@ function ResultBreadcrumb({
   showPoem?: boolean;
 }) {
   return (
-    <div className="flex items-center">
-      <Link className="whitespace-nowrap px-2 transition hover:text-green-700" href={`/${bookId}`}>
+    <div className="relative z-10 flex w-fit items-center gap-x-1.5 text-[13px] leading-[1.6] text-[#9A9A9A] transition-colors duration-[120ms] group-hover:text-[#6B6B6B] motion-reduce:transition-none">
+      <Link className={SOURCE_LINK} href={`/${bookId}`}>
         {bookName}
       </Link>
       {sectionName && (
         <>
-          &#183;
-          <Link
-            className="whitespace-nowrap px-2 transition hover:text-green-700"
-            href={`/${bookId}?hash=${sectionId}`}
-          >
+          <span aria-hidden>&#183;</span>
+          <Link className={SOURCE_LINK} href={`/${bookId}?hash=${sectionId}`}>
             {sectionName}
           </Link>
         </>
       )}
       {showPoem && poemName && (
         <>
-          &#183;
-          <Link className="truncate px-2 transition hover:text-green-700" href={`/${bookId}/${sectionId}/${poemId}`}>
+          <span aria-hidden>&#183;</span>
+          <Link className={`truncate ${SOURCE_LINK}`} href={`/${bookId}/${sectionId}/${poemId}`}>
             {poemName}
           </Link>
         </>
@@ -158,16 +163,26 @@ function ResultBreadcrumb({
   );
 }
 
+/**
+ * One misra. Unlike `Verse` on the reading page this wraps freely — no shared min-width and no
+ * justification, both of which are column-alignment devices that misbehave in a results list.
+ */
+function VerseLine({ children }: { children: ReactNode }) {
+  return <div className="[text-wrap:balance]">{children}</div>;
+}
+
 function PoemSearchResult({ hit }: { hit: SearchHit<SearchHitItem> }) {
   const [bookId, sectionId, poemId] = hit.id.split("/");
   const title = poemTitle(hit);
 
   return (
-    <div className="boder-gray-300 border-b px-4 py-4 font-mehr-nastaliq">
-      <Link href={`/${bookId}/${sectionId}/${poemId}`} className="text-2xl pb-4 block">
+    <div
+      className={`${RESULT_ROW} flex flex-col gap-y-0.5 sm:flex-row sm:items-baseline sm:justify-between sm:gap-x-8`}
+    >
+      <Link className={STRETCHED_LINK} href={`/${bookId}/${sectionId}/${poemId}`}>
         {highlighted(hit, "poemName", title)}
       </Link>
-      <ResultBreadcrumb
+      <ResultSource
         bookId={bookId}
         sectionId={sectionId}
         poemId={poemId}
@@ -185,23 +200,23 @@ function VerseSearchResult({ hit }: { hit: SearchHit<SearchHitItem> }) {
   const lines = highlighted(hit, "content", hit.content);
 
   return (
-    <div className="boder-gray-300 border-b px-4 py-4 font-mehr-nastaliq">
-      <Link href={`/${bookId}/${sectionId}/${poemId}/?hash=cplt${stanzaId}`} className="text-2xl pb-4 block">
-        <SizeProvider>
-          {splitLines(lines).map((line, i) => (
-            <Verse content={line} key={i} />
-          ))}
-        </SizeProvider>
+    <div className={RESULT_ROW}>
+      <Link className={STRETCHED_LINK} href={`/${bookId}/${sectionId}/${poemId}/?hash=cplt${stanzaId}`}>
+        {splitLines(lines).map((line, i) => (
+          <VerseLine key={i}>{line}</VerseLine>
+        ))}
       </Link>
-      <ResultBreadcrumb
-        bookId={bookId}
-        sectionId={sectionId}
-        poemId={poemId}
-        bookName={hit.bookName}
-        sectionName={hit.sectionName}
-        poemName={title}
-        showPoem
-      />
+      <div className="relative z-10 mt-1 w-fit">
+        <ResultSource
+          bookId={bookId}
+          sectionId={sectionId}
+          poemId={poemId}
+          bookName={hit.bookName}
+          sectionName={hit.sectionName}
+          poemName={title}
+          showPoem
+        />
+      </div>
     </div>
   );
 }
@@ -244,16 +259,20 @@ function HitSection({
   }
 
   return (
-    <section className="mb-8">
-      <h2 className="flex items-baseline justify-between border-b border-gray-300 px-4 pb-2 text-lg text-gray-500">
+    <section className="mb-10">
+      <h2 className="mb-2 flex items-baseline gap-x-2 border-b border-[#EFEDE8] px-4 pb-2 text-lg text-[#9A9A9A]">
         <span>{heading}</span>
-        <span className="font-sans text-sm">{nbHits}</span>
+        <span className="text-sm">{nbHits}</span>
       </h2>
       {items.map((hit) => (
         <HitComponent hit={hit} key={hit.objectID} />
       ))}
       {!isLastPage && (
-        <button className="px-4 py-4 text-gray-500 transition hover:text-green-700" onClick={showMore} type="button">
+        <button
+          className={`px-4 pt-4 text-[13px] text-[#9A9A9A] transition-colors duration-[120ms] hover:text-green-700 motion-reduce:transition-none ${FOCUS_RING}`}
+          onClick={showMore}
+          type="button"
+        >
           {moreLabel}
         </button>
       )}
