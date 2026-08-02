@@ -50,6 +50,7 @@ await client.setSettings({
       "contentUrdu",
       "contentEnglish",
     ],
+    attributesForFaceting: ["filterOnly(type)"],
     customRanking: ["desc(typeRank)"],
   },
 });

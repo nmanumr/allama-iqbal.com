@@ -1,7 +1,7 @@
 "use client";
 
 import { ReactNode } from "react";
-import { Configure, Hits, useInstantSearch } from "react-instantsearch";
+import { Configure, Hits, Index, useInstantSearch } from "react-instantsearch";
 import { InstantSearchNext } from "react-instantsearch-nextjs";
 
 import { liteClient as algoliasearch } from "algoliasearch/lite";
@@ -13,6 +13,9 @@ import SearchBox from "@/app/search/SearchBox";
 import EmptySearchIllustration from "@/components/EmptySearchIllustration";
 
 const searchClient = algoliasearch(process.env.NEXT_PUBLIC_ALGOLIA_APP_ID!, process.env.NEXT_PUBLIC_ALGOLIA_API_KEY!);
+
+const INDEX_NAME = "verses";
+const MAX_POEM_HITS = 3;
 
 interface SearchHitItem {
   id: string;
@@ -74,32 +77,34 @@ function ResultBreadcrumb({
   );
 }
 
-function SearchResult({ hit }: { hit: SearchHit<SearchHitItem> }) {
-  const [bookId, sectionId, poemId, stanzaId] = hit.id.split("/");
-  const poemHref = `/${bookId}/${sectionId}/${poemId}`;
+function PoemSearchResult({ hit }: { hit: SearchHit<SearchHitItem> }) {
+  const [bookId, sectionId, poemId] = hit.id.split("/");
   const title = poemTitle(hit);
-
-  if (hit.type === "poem") {
-    return (
-      <div className="boder-gray-300 border-b px-4 py-4 font-mehr-nastaliq">
-        <Link href={poemHref} className="text-2xl pb-4 block">
-          {title}
-        </Link>
-        <ResultBreadcrumb
-          bookId={bookId}
-          sectionId={sectionId}
-          poemId={poemId}
-          bookName={hit.bookName}
-          sectionName={hit.sectionName}
-          poemName={title}
-        />
-      </div>
-    );
-  }
 
   return (
     <div className="boder-gray-300 border-b px-4 py-4 font-mehr-nastaliq">
-      <Link href={`${poemHref}/?hash=cplt${stanzaId}`} className="text-2xl pb-4 block">
+      <Link href={`/${bookId}/${sectionId}/${poemId}`} className="text-2xl pb-4 block">
+        {title}
+      </Link>
+      <ResultBreadcrumb
+        bookId={bookId}
+        sectionId={sectionId}
+        poemId={poemId}
+        bookName={hit.bookName}
+        sectionName={hit.sectionName}
+        poemName={title}
+      />
+    </div>
+  );
+}
+
+function VerseSearchResult({ hit }: { hit: SearchHit<SearchHitItem> }) {
+  const [bookId, sectionId, poemId, stanzaId] = hit.id.split("/");
+  const title = poemTitle(hit);
+
+  return (
+    <div className="boder-gray-300 border-b px-4 py-4 font-mehr-nastaliq">
+      <Link href={`/${bookId}/${sectionId}/${poemId}/?hash=cplt${stanzaId}`} className="text-2xl pb-4 block">
         <SizeProvider>
           {hit.content
             .split("\n")
@@ -122,17 +127,12 @@ function SearchResult({ hit }: { hit: SearchHit<SearchHitItem> }) {
   );
 }
 
-const MAX_POEM_HITS = 3;
-
-function promotePoems<T extends { type?: string }>(items: T[]) {
-  const poems = items.filter((item) => item.type === "poem").slice(0, MAX_POEM_HITS);
-  const verses = items.filter((item) => item.type !== "poem");
-  return [...poems, ...verses];
-}
-
 function EmptyQueryBoundary({ children, fallback }: { children: ReactNode; fallback?: ReactNode }) {
-  const { indexUiState, results } = useInstantSearch();
-  if (!indexUiState.query || results.hits.length === 0) {
+  const { indexUiState, scopedResults } = useInstantSearch();
+  const hasQuery = Boolean(indexUiState.query);
+  const hasHits = scopedResults.some(({ results }) => (results?.nbHits ?? 0) > 0);
+
+  if (!hasQuery || !hasHits) {
     return (
       <>
         {fallback}
@@ -165,12 +165,22 @@ export default function SearchPage() {
         future={{ preserveSharedStateOnUnmount: true }}
         insights
         searchClient={searchClient}
-        indexName="verses"
+        indexName={INDEX_NAME}
       >
-        <Configure optionalFilters={["type:poem<score=1000>"]} />
+        {/* Suppress unused root-index hits; poems and verses are queried separately. */}
+        <Configure hitsPerPage={0} />
         <SearchBox />
         <EmptyQueryBoundary fallback={<EmptyState />}>
-          <Hits className="mt-10" hitComponent={SearchResult} transformItems={promotePoems} />
+          <div className="mt-10">
+            <Index indexId="poem-hits" indexName={INDEX_NAME}>
+              <Configure filters="type:poem" hitsPerPage={MAX_POEM_HITS} />
+              <Hits hitComponent={PoemSearchResult} />
+            </Index>
+            <Index indexId="verse-hits" indexName={INDEX_NAME}>
+              <Configure filters="type:verse" />
+              <Hits hitComponent={VerseSearchResult} />
+            </Index>
+          </div>
         </EmptyQueryBoundary>
       </InstantSearchNext>
     </div>
