@@ -16,6 +16,7 @@ const searchClient = algoliasearch(process.env.NEXT_PUBLIC_ALGOLIA_APP_ID!, proc
 
 interface SearchHitItem {
   id: string;
+  type?: "poem" | "verse";
   content: string;
   bookName: string;
   sectionName: string;
@@ -23,12 +24,88 @@ interface SearchHitItem {
   paraName: string;
 }
 
+function ResultBreadcrumb({
+  bookId,
+  sectionId,
+  poemId,
+  bookName,
+  sectionName,
+  poemName,
+  showPoem,
+}: {
+  bookId: string;
+  sectionId: string;
+  poemId: string;
+  bookName: string;
+  sectionName: string;
+  poemName: string;
+  showPoem?: boolean;
+}) {
+  return (
+    <div className="flex items-center">
+      <Link className="whitespace-nowrap px-2 transition hover:text-green-700" href={`/${bookId}`}>
+        {bookName}
+      </Link>
+      {sectionName && (
+        <>
+          &#183;
+          <Link
+            className="whitespace-nowrap px-2 transition hover:text-green-700"
+            href={`/${bookId}?hash=${sectionId}`}
+          >
+            {sectionName}
+          </Link>
+        </>
+      )}
+      {showPoem && poemName && (
+        <>
+          &#183;
+          <Link className="truncate px-2 transition hover:text-green-700" href={`/${bookId}/${sectionId}/${poemId}`}>
+            {poemName}
+          </Link>
+        </>
+      )}
+    </div>
+  );
+}
+
 function SearchResult({ hit }: { hit: SearchHit<SearchHitItem> }) {
   const [bookId, sectionId, poemId, stanzaId] = hit.id.split("/");
+  const poemHref = `/${bookId}/${sectionId}/${poemId}`;
+
+  if (hit.type === "poem") {
+    return (
+      <div className="boder-gray-300 border-b px-4 py-4 font-mehr-nastaliq">
+        <Link href={poemHref} className="text-2xl pb-2 block">
+          {hit.poemName}
+        </Link>
+        {hit.content && (
+          <Link href={poemHref} className="text-lg pb-4 block opacity-70">
+            <SizeProvider>
+              {hit.content
+                .split("\n")
+                .map((line, i) => [i, line] as const)
+                .map(([i, line]) => (
+                  <Verse content={line} key={i} />
+                ))}
+            </SizeProvider>
+          </Link>
+        )}
+        <ResultBreadcrumb
+          bookId={bookId}
+          sectionId={sectionId}
+          poemId={poemId}
+          bookName={hit.bookName}
+          sectionName={hit.sectionName}
+          poemName={hit.poemName}
+        />
+      </div>
+    );
+  }
 
   return (
     <div className="boder-gray-300 border-b px-4 py-4 font-mehr-nastaliq">
-      <Link href={`/${bookId}/${sectionId}/${poemId}/?hash=cplt${stanzaId}`} className="text-2xl pb-4 block">
+      <Link href={`${poemHref}/?hash=cplt${stanzaId}`} className="text-2xl pb-4 block">
         <SizeProvider>
           {hit.content
             .split("\n")
@@ -38,30 +115,15 @@ function SearchResult({ hit }: { hit: SearchHit<SearchHitItem> }) {
             ))}
         </SizeProvider>
       </Link>
-      <div className="flex items-center">
-        <Link className="whitespace-nowrap px-2 transition hover:text-green-700" href={`/${bookId}`}>
-          {hit.bookName}
-        </Link>
-        {hit.sectionName && (
-          <>
-            &#183;
-            <Link
-              className="whitespace-nowrap px-2 transition hover:text-green-700"
-              href={`/${bookId}?hash=${sectionId}`}
-            >
-              {hit.sectionName}
-            </Link>
-          </>
-        )}
-        {hit.poemName && (
-          <>
-            &#183;
-            <Link className="truncate px-2 transition hover:text-green-700" href={`/${bookId}/${sectionId}/${poemId}`}>
-              {hit.poemName}
-            </Link>
-          </>
-        )}
-      </div>
+      <ResultBreadcrumb
+        bookId={bookId}
+        sectionId={sectionId}
+        poemId={poemId}
+        bookName={hit.bookName}
+        sectionName={hit.sectionName}
+        poemName={hit.poemName}
+        showPoem
+      />
     </div>
   );
 }

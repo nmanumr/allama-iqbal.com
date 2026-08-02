@@ -78,6 +78,20 @@ function textByLanguage(verse) {
   return text;
 }
 
+function poemNames({ poem, bookMeta, sectionMeta, poemMeta }) {
+  return {
+    bookName: bookMeta?.name ?? poem.bookName ?? "",
+    bookNameRomanized: bookMeta?.nameAlt?.romanized ?? "",
+    bookNameEnglish: bookMeta?.nameAlt?.en ?? "",
+    sectionName: sectionMeta?.name ?? poem.sectionName ?? "",
+    sectionNameRomanized: sectionMeta?.nameAlt?.romanized ?? "",
+    sectionNameEnglish: sectionMeta?.nameAlt?.en ?? "",
+    poemName: poemMeta?.name ?? poem.name ?? "",
+    poemNameRomanized: poemMeta?.nameAlt?.romanized ?? "",
+    poemNameEnglish: poemMeta?.nameAlt?.en ?? "",
+  };
+}
+
 function buildRecord({ poem, verse, para, bookMeta, sectionMeta, poemMeta }) {
   const text = textByLanguage(verse);
   const content = text.get("Original") ?? "";
@@ -93,25 +107,53 @@ function buildRecord({ poem, verse, para, bookMeta, sectionMeta, poemMeta }) {
   return {
     objectID: id,
     id,
+    type: "verse",
     bookId: poem.bookId,
     sectionId: poem.sectionId,
     poemId: poem.id,
     verseId,
     paraId,
-    bookName: bookMeta?.name ?? poem.bookName ?? "",
-    bookNameRomanized: bookMeta?.nameAlt?.romanized ?? "",
-    bookNameEnglish: bookMeta?.nameAlt?.en ?? "",
-    sectionName: sectionMeta?.name ?? poem.sectionName ?? "",
-    sectionNameRomanized: sectionMeta?.nameAlt?.romanized ?? "",
-    sectionNameEnglish: sectionMeta?.nameAlt?.en ?? "",
-    poemName: poemMeta?.name ?? poem.name ?? "",
-    poemNameRomanized: poemMeta?.nameAlt?.romanized ?? "",
-    poemNameEnglish: poemMeta?.nameAlt?.en ?? "",
+    ...poemNames({ poem, bookMeta, sectionMeta, poemMeta }),
     paraName: para.name ?? "",
     content,
     contentUrdu: text.get("Urdu") ?? "",
     contentEnglish: text.get("English") ?? "",
   };
+}
+
+function buildPoemRecord({ poem, firstVerse, bookMeta, sectionMeta, poemMeta }) {
+  const text = firstVerse ? textByLanguage(firstVerse) : new Map();
+  const content = text.get("Original") ?? "";
+  const id = `${poem.bookId}/${poem.sectionId}/${poem.id}`;
+
+  return {
+    objectID: `poem:${id}`,
+    id,
+    type: "poem",
+    bookId: poem.bookId,
+    sectionId: poem.sectionId,
+    poemId: poem.id,
+    verseId: "",
+    paraId: "",
+    ...poemNames({ poem, bookMeta, sectionMeta, poemMeta }),
+    paraName: "",
+    content,
+    contentUrdu: text.get("Urdu") ?? "",
+    contentEnglish: text.get("English") ?? "",
+  };
+}
+
+function firstVerseWithContent(poem) {
+  for (const para of asArray(poem.Para)) {
+    for (const verse of asArray(para.Verse)) {
+      const text = textByLanguage(verse);
+      if (text.get("Original")) {
+        return verse;
+      }
+    }
+  }
+
+  return null;
 }
 
 async function main() {
@@ -125,6 +167,19 @@ async function main() {
     const bookMeta = metadata.books.get(poem.bookId);
     const sectionMeta = metadata.sections.get(`${poem.bookId}/${poem.sectionId}`);
     const poemMeta = metadata.poems.get(`${poem.bookId}/${poem.sectionId}/${poem.id}`);
+
+    const firstVerse = firstVerseWithContent(poem);
+    if (firstVerse) {
+      records.push(
+        buildPoemRecord({
+          poem,
+          firstVerse,
+          bookMeta,
+          sectionMeta,
+          poemMeta,
+        }),
+      );
+    }
 
     for (const para of asArray(poem.Para)) {
       for (const verse of asArray(para.Verse)) {

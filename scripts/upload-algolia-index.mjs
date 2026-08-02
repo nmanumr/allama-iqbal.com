@@ -32,6 +32,27 @@ if (missingObjectID) {
 
 const client = algoliasearch(appId, apiKey);
 
+await client.setSettings({
+  indexName,
+  indexSettings: {
+    searchableAttributes: [
+      "unordered(poemName)",
+      "unordered(poemNameRomanized)",
+      "unordered(poemNameEnglish)",
+      "unordered(sectionName)",
+      "unordered(sectionNameRomanized)",
+      "unordered(sectionNameEnglish)",
+      "unordered(bookName)",
+      "unordered(bookNameRomanized)",
+      "unordered(bookNameEnglish)",
+      "unordered(paraName)",
+      "content",
+      "contentUrdu",
+      "contentEnglish",
+    ],
+  },
+});
+
 await client.replaceAllObjects({
   indexName,
   objects,
