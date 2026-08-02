@@ -122,8 +122,12 @@ function SearchResult({ hit }: { hit: SearchHit<SearchHitItem> }) {
   );
 }
 
+const MAX_POEM_HITS = 3;
+
 function promotePoems<T extends { type?: string }>(items: T[]) {
-  return [...items].sort((a, b) => Number(b.type === "poem") - Number(a.type === "poem"));
+  const poems = items.filter((item) => item.type === "poem").slice(0, MAX_POEM_HITS);
+  const verses = items.filter((item) => item.type !== "poem");
+  return [...poems, ...verses];
 }
 
 function EmptyQueryBoundary({ children, fallback }: { children: ReactNode; fallback?: ReactNode }) {
