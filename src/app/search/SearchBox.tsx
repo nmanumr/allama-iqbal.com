@@ -15,7 +15,7 @@ import SuggestionList from "./SearchBox/SuggestionsList";
 import { EditorContext } from "./SearchBox/context";
 import { WordSuggestion } from "./SearchBox/suggestions-ext";
 import "./searchbox.css";
-import { useLocalStorage } from "@mantine/hooks";
+import { useDebouncedCallback, useLocalStorage } from "@mantine/hooks";
 
 const CustomDocument = Document.extend({
   content: "block",
@@ -29,10 +29,11 @@ export default function SearchBox() {
   })
   const { refine } = useSearchBox({}, { $$widgetType: "ais.searchBox" });
 
-  function setQuery(q: string) {
+  // The editor stays instant; only the Algolia query and the URL trail behind it.
+  const setQuery = useDebouncedCallback((q: string) => {
     setInputValue(q);
     refine(q);
-  }
+  }, 150);
 
   const editor = useEditor({
     immediatelyRender: false,

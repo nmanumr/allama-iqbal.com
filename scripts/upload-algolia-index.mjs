@@ -5,6 +5,7 @@ import { algoliasearch } from "algoliasearch";
 
 const rootDir = process.cwd();
 const indexPath = path.join(rootDir, "src/assets/algolia/verses.json");
+const synonymsPath = path.join(rootDir, "scripts/algolia-synonyms.json");
 
 const appId = process.env.ALGOLIA_APP_ID;
 const apiKey = process.env.ALGOLIA_ADMIN_API_KEY;
@@ -51,7 +52,21 @@ await client.setSettings({
       "contentEnglish",
     ],
     attributesForFaceting: ["filterOnly(type)"],
-    customRanking: ["desc(typeRank)"],
+    customRanking: ["desc(typeRank)", "asc(poemNameWords)"],
+    attributesToHighlight: [
+      "poemName",
+      "poemNameRomanized",
+      "poemNameEnglish",
+      "sectionName",
+      "bookName",
+      "content",
+    ],
+    attributesToSnippet: ["contentUrdu:30", "contentEnglish:30"],
+    snippetEllipsisText: "…",
+    // Verse queries collapse to one hit per poem so a repeated line cannot bury other poems.
+    attributeForDistinct: "poemPath",
+    // A half-remembered misra still returns something instead of nothing.
+    removeWordsIfNoResults: "lastWords",
   },
 });
 
@@ -61,4 +76,12 @@ await client.replaceAllObjects({
   batchSize: 1000,
 });
 
-console.log(`Uploaded ${objects.length} records to Algolia index "${indexName}"`);
+const synonyms = JSON.parse(await readFile(synonymsPath, "utf8"));
+
+await client.saveSynonyms({
+  indexName,
+  synonymHit: synonyms,
+  replaceExistingSynonyms: true,
+});
+
+console.log(`Uploaded ${objects.length} records and ${synonyms.length} synonyms to Algolia index "${indexName}"`);

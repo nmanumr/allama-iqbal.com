@@ -92,6 +92,10 @@ function poemNames({ poem, bookMeta, sectionMeta, poemMeta }) {
   };
 }
 
+function wordCount(value) {
+  return value.trim().split(/\s+/).filter(Boolean).length;
+}
+
 function buildRecord({ poem, verse, para, bookMeta, sectionMeta, poemMeta }) {
   const text = textByLanguage(verse);
   const content = text.get("Original") ?? "";
@@ -101,7 +105,8 @@ function buildRecord({ poem, verse, para, bookMeta, sectionMeta, poemMeta }) {
   }
 
   const verseId = String(verse.id);
-  const id = `${poem.bookId}/${poem.sectionId}/${poem.id}/${verseId}`;
+  const poemPath = `${poem.bookId}/${poem.sectionId}/${poem.id}`;
+  const id = `${poemPath}/${verseId}`;
   const paraId = para.id == null ? "" : String(para.id);
   const names = poemNames({ poem, bookMeta, sectionMeta, poemMeta });
 
@@ -113,6 +118,8 @@ function buildRecord({ poem, verse, para, bookMeta, sectionMeta, poemMeta }) {
     bookId: poem.bookId,
     sectionId: poem.sectionId,
     poemId: poem.id,
+    // Groups every verse of a poem so `distinct` can collapse them into one hit.
+    poemPath,
     verseId,
     paraId,
     // Titles stay on poem records only so title queries surface poems, not every verse.
@@ -126,6 +133,8 @@ function buildRecord({ poem, verse, para, bookMeta, sectionMeta, poemMeta }) {
     poemNameRomanized: "",
     poemNameEnglish: "",
     poemLabel: names.poemName,
+    // Kept uniform across record types so the shared customRanking stays neutral for verses.
+    poemNameWords: 0,
     paraName: para.name ?? "",
     content,
     contentUrdu: text.get("Urdu") ?? "",
@@ -145,10 +154,13 @@ function buildPoemRecord({ poem, bookMeta, sectionMeta, poemMeta }) {
     bookId: poem.bookId,
     sectionId: poem.sectionId,
     poemId: poem.id,
+    poemPath: id,
     verseId: "",
     paraId: "",
     ...names,
     poemLabel: names.poemName,
+    // Shorter titles rank first, so an exact title beats a long title that merely contains the word.
+    poemNameWords: wordCount(names.poemName),
     paraName: "",
     // Title-only: empty content so poem hits don't compete with verse text matches.
     content: "",

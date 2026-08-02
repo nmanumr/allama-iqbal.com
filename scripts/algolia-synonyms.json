@@ -1,0 +1,67 @@
+[
+  {
+    "objectID": "book-armaghan-e-hijaz",
+    "type": "synonym",
+    "synonyms": ["ارمغانِ حجاز", "ارمغان حجاز", "ارمغان", "Armaghan-e-Hijaz", "Armaghan e Hijaz", "Armughan-e-Hijaz"]
+  },
+  {
+    "objectID": "book-asrar-e-khudi",
+    "type": "synonym",
+    "synonyms": ["اسرارِ خودی", "اسرار خودی", "Asrar-e-Khudi", "Asrar e Khudi", "Israr-e-Khudi"]
+  },
+  {
+    "objectID": "book-bal-e-jibreel",
+    "type": "synonym",
+    "synonyms": ["بالِ جبریل", "بال جبریل", "Bal-e-Jibreel", "Bal e Jibril", "Bal-e-Jibril"]
+  },
+  {
+    "objectID": "book-bang-e-dara",
+    "type": "synonym",
+    "synonyms": ["بانگِ درا", "بانگ درا", "Bang-e-Dara", "Bang e Dara", "Baang-e-Dara"]
+  },
+  {
+    "objectID": "book-javed-nama",
+    "type": "synonym",
+    "synonyms": ["جاوید نامہ", "جاویدنامہ", "Javed Nama", "Javid Nama", "Javed-Nama"]
+  },
+  {
+    "objectID": "book-pas-che-bayad-kard",
+    "type": "synonym",
+    "synonyms": ["پس چہ بائد کرد", "پس چہ باید کرد", "Pas Che Bayad Kard", "Pas Chih Bayad Kard"]
+  },
+  {
+    "objectID": "book-payam-e-mashriq",
+    "type": "synonym",
+    "synonyms": ["پیامِ مشرق", "پیام مشرق", "Payam-e-Mashriq", "Payam e Mashriq", "Paigham-e-Mashriq"]
+  },
+  {
+    "objectID": "book-ramooz-e-bekhudi",
+    "type": "synonym",
+    "synonyms": ["رموزِ بیخودی", "رموز بیخودی", "رموزِ بے خودی", "Ramooz-e-Bekhudi", "Rumooz-e-Bekhudi"]
+  },
+  {
+    "objectID": "book-zaboor-e-ajam",
+    "type": "synonym",
+    "synonyms": ["زبورِعجم", "زبورِ عجم", "زبور عجم", "Zaboor-e-Ajam", "Zabur-e-Ajam"]
+  },
+  {
+    "objectID": "book-zarb-e-kaleem",
+    "type": "synonym",
+    "synonyms": ["ضربِ کلیم", "ضرب کلیم", "Zarb-e-Kaleem", "Zarb e Kalim", "Zarb-e-Kalim"]
+  },
+  {
+    "objectID": "term-khudi",
+    "type": "synonym",
+    "synonyms": ["خودی", "khudi", "khudee", "self"]
+  },
+  {
+    "objectID": "term-shaheen",
+    "type": "synonym",
+    "synonyms": ["شاہین", "shaheen", "shahin", "falcon"]
+  },
+  {
+    "objectID": "term-mard-e-momin",
+    "type": "synonym",
+    "synonyms": ["مردِ مومن", "مرد مومن", "mard-e-momin", "mard e momin"]
+  }
+]
