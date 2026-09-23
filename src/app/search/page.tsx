@@ -1,8 +1,7 @@
 "use client";
 
 import { ReactNode } from "react";
-import { Configure, Index, useInfiniteHits, useInstantSearch, useStats } from "react-instantsearch";
-import { InstantSearchNext } from "react-instantsearch-nextjs";
+import { Configure, Index, InstantSearch, useInfiniteHits, useInstantSearch, useStats } from "react-instantsearch";
 
 import { liteClient as algoliasearch } from "algoliasearch/lite";
 import { type Hit as SearchHit } from "instantsearch.js";
@@ -366,7 +365,9 @@ export default function SearchPage() {
       className="mx-auto flex min-h-full flex-col px-4 py-10 font-nastaliq leading-[2] sm:px-6 md:max-w-2xl md:px-4 lg:max-w-4xl lg:px-12"
       dir="rtl"
     >
-      <InstantSearchNext
+      {/* Plain `InstantSearch`, not `InstantSearchNext`: on client-side navigation the latter re-adds every
+          widget on each render until the first results arrive, piling up thousands of duplicate widgets. */}
+      <InstantSearch
         future={{ preserveSharedStateOnUnmount: true }}
         insights
         searchClient={searchClient}
@@ -378,7 +379,7 @@ export default function SearchPage() {
         <ResultsBoundary>
           <SearchResults />
         </ResultsBoundary>
-      </InstantSearchNext>
+      </InstantSearch>
     </div>
   );
 }
