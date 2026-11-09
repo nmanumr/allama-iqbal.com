@@ -49,9 +49,6 @@ jobs:
       - name: Rebuild Algolia payload
         run: pnpm build:algolia-index
 
-      - name: Verify committed payload is current
-        run: git diff --exit-code -- src/assets/algolia/verses.json
-
       - name: Detect changed payload
         id: changed
         shell: bash
